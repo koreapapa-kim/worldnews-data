@@ -97,11 +97,75 @@
       "vocab": [
         {
           "lang": "en",
+          "word": "hundreds of thousands",
+          "pos": "phrase",
+          "ko": "수십만",
+          "example": "Hundreds of thousands of fans watched the game.",
+          "example_ko": "수십만 명의 팬이 경기를 봤어요.",
+          "note_ko": "hundreds(수백) × thousands(수천) = 수십만. thousands of = 수천의."
+        },
+        {
+          "lang": "en",
+          "word": "march",
+          "pos": "verb",
+          "ko": "행진하다",
+          "example": "Students marched to city hall.",
+          "example_ko": "학생들이 시청까지 행진했어요.",
+          "note_ko": "명사로는 '행진'. 달 이름 March(3월)는 대문자로 써요."
+        },
+        {
+          "lang": "en",
+          "word": "protest",
+          "pos": "noun",
+          "ko": "시위, 항의",
+          "example": "Thousands joined the protest.",
+          "example_ko": "수천 명이 시위에 참여했어요.",
+          "note_ko": "protest against ~ = ~에 항의하다. 시위하는 사람은 protester."
+        },
+        {
+          "lang": "en",
+          "word": "union",
+          "pos": "noun",
+          "ko": "노동조합",
+          "example": "The union asked for higher pay.",
+          "example_ko": "노조가 임금 인상을 요구했어요.",
+          "note_ko": "trade union(영국), labor union(미국)이라고도 해요."
+        },
+        {
+          "lang": "en",
+          "word": "claim",
+          "pos": "verb",
+          "ko": "주장하다",
+          "example": "He claims he saw a ghost.",
+          "example_ko": "그는 유령을 봤다고 주장해요.",
+          "note_ko": "확인되지 않은 말을 할 때 써요. 기사에서 숫자가 엇갈릴 때 자주 나와요."
+        },
+        {
+          "lang": "en",
+          "word": "be angry about",
+          "pos": "phrase",
+          "ko": "~에 화가 나다",
+          "example": "She is angry about the noise.",
+          "example_ko": "그녀는 소음 때문에 화가 났어요.",
+          "note_ko": "about 뒤에는 이유가 와요. 사람에게 화가 날 때는 angry with + 사람."
+        },
+        {
+          "lang": "en",
           "word": "cost of living",
           "pos": "phrase",
           "ko": "생활비, 물가",
           "example": "The cost of living keeps going up.",
-          "example_ko": "생활비가 계속 오르고 있어요."
+          "example_ko": "생활비가 계속 오르고 있어요.",
+          "note_ko": "먹고 사는 데 드는 돈 전체를 말해요. the cost of living is rising = 물가가 오르고 있다."
+        },
+        {
+          "lang": "en",
+          "word": "since",
+          "pos": "adverb",
+          "ko": "그 뒤로",
+          "example": "He moved to Seoul in 2020 and has since found a job.",
+          "example_ko": "그는 2020년 서울로 이사했고 그 뒤로 일자리를 구했어요.",
+          "note_ko": "have since + 과거분사 = 그 이후로 ~했다. 현재완료와 함께 써요."
         },
         {
           "lang": "en",
@@ -109,7 +173,26 @@
           "pos": "verb",
           "ko": "(경찰·군을) 배치하다",
           "example": "The city deployed more buses for the festival.",
-          "example_ko": "시는 축제를 위해 버스를 더 배치했어요."
+          "example_ko": "시는 축제를 위해 버스를 더 배치했어요.",
+          "note_ko": "사람이나 장비를 필요한 곳에 보내 둘 때 써요."
+        },
+        {
+          "lang": "en",
+          "word": "ban",
+          "pos": "verb",
+          "ko": "금지하다",
+          "example": "The city banned cars from the center.",
+          "example_ko": "시는 도심에 차량 진입을 금지했어요.",
+          "note_ko": "be banned = 금지되다. 명사로 a ban on ~ = ~에 대한 금지."
+        },
+        {
+          "lang": "en",
+          "word": "tear gas",
+          "pos": "noun",
+          "ko": "최루가스, 최루탄",
+          "example": "Police fired tear gas at the crowd.",
+          "example_ko": "경찰이 군중에게 최루탄을 쐈어요.",
+          "note_ko": "tear는 여기서 '눈물'[티어]예요. '찢다'[테어]와 발음이 달라요."
         },
         {
           "lang": "en",
@@ -117,15 +200,26 @@
           "pos": "verb",
           "ko": "체포하다",
           "example": "The police arrested two men.",
-          "example_ko": "경찰이 남자 두 명을 체포했어요."
+          "example_ko": "경찰이 남자 두 명을 체포했어요.",
+          "note_ko": "be arrested = 체포되다. 명사로 make an arrest = 체포하다."
+        },
+        {
+          "lang": "en",
+          "word": "nationwide",
+          "pos": "adverb",
+          "ko": "전국적으로",
+          "example": "The store has 200 branches nationwide.",
+          "example_ko": "그 가게는 전국에 지점이 200개 있어요.",
+          "note_ko": "형용사로도 써요: a nationwide strike = 전국 파업."
         },
         {
           "lang": "fr",
-          "word": "la vie chère",
+          "word": "des centaines de milliers",
           "pos": "expr.",
-          "ko": "높은 물가",
-          "example": "La vie chère inquiète les familles.",
-          "example_ko": "높은 물가가 가정들을 걱정시켜요."
+          "ko": "수십만",
+          "example": "Des centaines de milliers de touristes visitent Paris.",
+          "example_ko": "수십만 명의 관광객이 파리를 찾아요.",
+          "note_ko": "centaine(백쯤) × millier(천쯤) = 수십만. des milliers de = 수천의."
         },
         {
           "lang": "fr",
@@ -133,7 +227,107 @@
           "pos": "v.",
           "ko": "행진하다",
           "example": "Les élèves défilent dans la rue.",
-          "example_ko": "학생들이 거리를 행진해요."
+          "example_ko": "학생들이 거리를 행진해요.",
+          "note_ko": "줄지어 걷는다는 뜻. 패션쇼 défilé도 같은 뿌리예요."
+        },
+        {
+          "lang": "fr",
+          "word": "manifester",
+          "pos": "v.",
+          "ko": "시위하다",
+          "example": "Ils manifestent devant la mairie.",
+          "example_ko": "그들은 시청 앞에서 시위해요.",
+          "note_ko": "명사 manifestation(시위), 사람은 manifestant(시위자)."
+        },
+        {
+          "lang": "fr",
+          "word": "manifestant",
+          "pos": "n. m.",
+          "ko": "시위자, 시위대",
+          "example": "Les manifestants marchent vers la place.",
+          "example_ko": "시위대가 광장으로 행진해요.",
+          "note_ko": "여성형 manifestante. 복수 manifestants는 '시위대'로 옮기면 자연스러워요."
+        },
+        {
+          "lang": "fr",
+          "word": "tandis que",
+          "pos": "conj.",
+          "ko": "~인 반면",
+          "example": "Il travaille tandis que je dors.",
+          "example_ko": "내가 자는 동안 그는 일해요.",
+          "note_ko": "두 가지를 대조할 때 써요. 단순히 '~하는 동안'은 pendant que."
+        },
+        {
+          "lang": "fr",
+          "word": "revendiquer",
+          "pos": "v.",
+          "ko": "주장하다, 요구하다",
+          "example": "Les syndicats revendiquent une hausse des salaires.",
+          "example_ko": "노조는 임금 인상을 요구해요.",
+          "note_ko": "권리나 숫자를 '자기 것이라고 주장하다'. 노조 집계를 말할 때 자주 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "dénoncer",
+          "pos": "v.",
+          "ko": "규탄하다",
+          "example": "Ils dénoncent la hausse des prix.",
+          "example_ko": "그들은 물가 상승을 규탄해요.",
+          "note_ko": "'고발하다'라는 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "hausse",
+          "pos": "n. f.",
+          "ko": "상승, 인상",
+          "example": "La hausse des prix inquiète tout le monde.",
+          "example_ko": "물가 상승이 모두를 걱정시켜요.",
+          "note_ko": "반대말은 la baisse(하락). en hausse = 오르는 중."
+        },
+        {
+          "lang": "fr",
+          "word": "la vie chère",
+          "pos": "expr.",
+          "ko": "높은 물가",
+          "example": "La vie chère inquiète les familles.",
+          "example_ko": "높은 물가가 가정들을 걱정시켜요.",
+          "note_ko": "cher(비싼) + vie(삶). 프랑스 시위 구호에 자주 나와요."
+        },
+        {
+          "lang": "fr",
+          "word": "lycéen",
+          "pos": "n. m.",
+          "ko": "고등학생",
+          "example": "Les lycéens passent le bac en juin.",
+          "example_ko": "고등학생들은 6월에 바칼로레아를 봐요.",
+          "note_ko": "lycée = 고등학교, collège = 중학교, école = 초등학교."
+        },
+        {
+          "lang": "fr",
+          "word": "interdire",
+          "pos": "v.",
+          "ko": "금지하다",
+          "example": "Il est interdit de fumer ici.",
+          "example_ko": "여기서는 담배를 피우면 안 돼요.",
+          "note_ko": "과거분사 interdit(e). 표지판의 Interdit = 금지."
+        },
+        {
+          "lang": "fr",
+          "word": "ailleurs",
+          "pos": "adv.",
+          "ko": "다른 곳에서",
+          "example": "Allons manger ailleurs.",
+          "example_ko": "다른 데 가서 먹어요.",
+          "note_ko": "d'ailleurs = 게다가, 그런데 (말을 이을 때)."
+        },
+        {
+          "lang": "fr",
+          "word": "selon",
+          "pos": "prép.",
+          "ko": "~에 따르면",
+          "example": "Selon la météo, il va pleuvoir.",
+          "example_ko": "일기예보에 따르면 비가 온대요.",
+          "note_ko": "뉴스에서 출처를 밝힐 때 가장 많이 쓰는 말이에요."
         },
         {
           "lang": "fr",
@@ -141,7 +335,17 @@
           "pos": "v.",
           "ko": "(경찰이) 연행하다",
           "example": "La police a interpellé trois suspects.",
-          "example_ko": "경찰이 용의자 세 명을 연행했어요."
+          "example_ko": "경찰이 용의자 세 명을 연행했어요.",
+          "note_ko": "원래는 '말을 걸다, 따지다'라는 뜻. 경찰 기사에서는 '연행하다'."
+        },
+        {
+          "lang": "fr",
+          "word": "appeler à",
+          "pos": "v.",
+          "ko": "~을 촉구하다",
+          "example": "Le maire appelle au calme.",
+          "example_ko": "시장은 진정할 것을 촉구해요.",
+          "note_ko": "appeler = 부르다, 전화하다. appeler à + 명사 = ~하자고 호소하다."
         }
       ],
       "quiz": [
@@ -283,11 +487,39 @@
       "vocab": [
         {
           "lang": "en",
+          "word": "in support of",
+          "pos": "phrase",
+          "ko": "~을 지지하여",
+          "example": "Fans wore red in support of the team.",
+          "example_ko": "팬들은 팀을 응원하며 빨간 옷을 입었어요.",
+          "note_ko": "in support of + 명사. 반대는 in protest against."
+        },
+        {
+          "lang": "en",
           "word": "pension",
           "pos": "noun",
           "ko": "연금",
           "example": "My grandfather lives on his pension.",
-          "example_ko": "할아버지는 연금으로 생활하세요."
+          "example_ko": "할아버지는 연금으로 생활하세요.",
+          "note_ko": "pensioner = 연금 수령자. state pension = 국가 연금."
+        },
+        {
+          "lang": "en",
+          "word": "best-known",
+          "pos": "adjective",
+          "ko": "가장 잘 알려진",
+          "example": "It is the city's best-known restaurant.",
+          "example_ko": "그곳은 그 도시에서 가장 유명한 식당이에요.",
+          "note_ko": "well-known(잘 알려진)의 최상급이에요."
+        },
+        {
+          "lang": "en",
+          "word": "keep",
+          "pos": "verb",
+          "ko": "계속 ~하다 (keep + -ing)",
+          "example": "Prices keep rising.",
+          "example_ko": "물가가 계속 오르고 있어요.",
+          "note_ko": "keep + 동사ing = 계속 ~하다. keep A + 형용사 = A를 ~한 상태로 두다."
         },
         {
           "lang": "en",
@@ -295,7 +527,71 @@
           "pos": "noun",
           "ko": "물가 상승, 인플레이션",
           "example": "Inflation makes food more expensive.",
-          "example_ko": "물가 상승으로 음식이 더 비싸져요."
+          "example_ko": "물가 상승으로 음식이 더 비싸져요.",
+          "note_ko": "inflation-linked = 물가에 연동된."
+        },
+        {
+          "lang": "en",
+          "word": "gap",
+          "pos": "noun",
+          "ko": "격차, 틈",
+          "example": "The gap between rich and poor is growing.",
+          "example_ko": "빈부 격차가 커지고 있어요.",
+          "note_ko": "gender gap = 성별 격차. Mind the gap = (지하철) 틈을 조심하세요."
+        },
+        {
+          "lang": "en",
+          "word": "fear",
+          "pos": "verb",
+          "ko": "두려워하다, 걱정하다",
+          "example": "Many people fear losing their jobs.",
+          "example_ko": "많은 사람이 일자리를 잃을까 걱정해요.",
+          "note_ko": "fear that ~ = ~일까 봐 걱정하다. 명사로도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "depending on",
+          "pos": "phrase",
+          "ko": "~에 따라",
+          "example": "Prices change depending on the season.",
+          "example_ko": "가격은 계절에 따라 달라요.",
+          "note_ko": "It depends. = 상황에 따라 달라요."
+        },
+        {
+          "lang": "en",
+          "word": "general election",
+          "pos": "noun",
+          "ko": "총선",
+          "example": "The general election is held every four years.",
+          "example_ko": "총선은 4년마다 열려요.",
+          "note_ko": "대통령 선거는 presidential election."
+        },
+        {
+          "lang": "en",
+          "word": "accuse",
+          "pos": "verb",
+          "ko": "비난하다, 고발하다",
+          "example": "She accused him of lying.",
+          "example_ko": "그녀는 그가 거짓말한다고 비난했어요.",
+          "note_ko": "accuse A of B = A를 B라고 비난하다. of 뒤에는 명사나 -ing."
+        },
+        {
+          "lang": "en",
+          "word": "conservative",
+          "pos": "adjective",
+          "ko": "보수적인",
+          "example": "He has conservative views.",
+          "example_ko": "그는 보수적인 견해를 갖고 있어요.",
+          "note_ko": "반대말은 liberal, progressive(진보적인)."
+        },
+        {
+          "lang": "en",
+          "word": "under pressure",
+          "pos": "phrase",
+          "ko": "압박을 받는",
+          "example": "The team is under pressure to win.",
+          "example_ko": "팀은 이겨야 한다는 압박을 받고 있어요.",
+          "note_ko": "put pressure on ~ = ~에 압박을 가하다."
         },
         {
           "lang": "en",
@@ -303,7 +599,35 @@
           "pos": "phrase",
           "ko": "고령화 인구",
           "example": "Japan has an ageing population.",
-          "example_ko": "일본은 인구가 고령화되고 있어요."
+          "example_ko": "일본은 인구가 고령화되고 있어요.",
+          "note_ko": "ageing은 영국식, 미국식은 aging."
+        },
+        {
+          "lang": "en",
+          "word": "bill",
+          "pos": "noun",
+          "ko": "청구서, 비용",
+          "example": "Our electricity bill went up.",
+          "example_ko": "전기 요금이 올랐어요.",
+          "note_ko": "식당 계산서, 국회 법안이라는 뜻도 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "billion",
+          "pos": "noun",
+          "ko": "10억",
+          "example": "The project cost two billion dollars.",
+          "example_ko": "그 사업은 20억 달러가 들었어요.",
+          "note_ko": "million = 백만, billion = 10억, trillion = 1조."
+        },
+        {
+          "lang": "fr",
+          "word": "défendre",
+          "pos": "v.",
+          "ko": "지키다, 옹호하다",
+          "example": "Il défend ses idées.",
+          "example_ko": "그는 자기 생각을 옹호해요.",
+          "note_ko": "'방어하다'도 같은 말. '금지하다'라는 뜻도 있어요: Défense de fumer."
         },
         {
           "lang": "fr",
@@ -311,15 +635,35 @@
           "pos": "n. f.",
           "ko": "은퇴, 연금",
           "example": "Ma mère prend sa retraite cette année.",
-          "example_ko": "어머니는 올해 은퇴하세요."
+          "example_ko": "어머니는 올해 은퇴하세요.",
+          "note_ko": "prendre sa retraite = 은퇴하다. retraité = 은퇴자."
         },
         {
           "lang": "fr",
-          "word": "vieillissement",
+          "word": "cortège",
           "pos": "n. m.",
-          "ko": "고령화, 노화",
-          "example": "Le vieillissement de la population est rapide.",
-          "example_ko": "인구 고령화가 빠르게 진행되고 있어요."
+          "ko": "행렬",
+          "example": "Le cortège traverse la ville.",
+          "example_ko": "행렬이 도시를 가로질러요.",
+          "note_ko": "시위 행렬, 결혼식 행렬에 모두 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "réclamer",
+          "pos": "v.",
+          "ko": "요구하다",
+          "example": "Les clients réclament un remboursement.",
+          "example_ko": "손님들이 환불을 요구해요.",
+          "note_ko": "réclamation = 불만 접수, 클레임."
+        },
+        {
+          "lang": "fr",
+          "word": "écart",
+          "pos": "n. m.",
+          "ko": "격차, 차이",
+          "example": "L'écart entre les deux équipes est grand.",
+          "example_ko": "두 팀의 격차가 커요.",
+          "note_ko": "à l'écart = 떨어져서, 따로."
         },
         {
           "lang": "fr",
@@ -327,7 +671,89 @@
           "pos": "v.",
           "ko": "걱정하다, 두려워하다",
           "example": "Je crains la pluie demain.",
-          "example_ko": "내일 비가 올까 걱정돼요."
+          "example_ko": "내일 비가 올까 걱정돼요.",
+          "note_ko": "je crains, il craint, ils craignent. avoir peur de와 비슷해요."
+        },
+        {
+          "lang": "fr",
+          "word": "élections législatives",
+          "pos": "n. f. pl.",
+          "ko": "총선",
+          "example": "Les élections législatives ont lieu en juin.",
+          "example_ko": "총선은 6월에 치러져요.",
+          "note_ko": "대통령 선거는 l'élection présidentielle."
+        },
+        {
+          "lang": "fr",
+          "word": "freiner",
+          "pos": "v.",
+          "ko": "억제하다, 브레이크를 밟다",
+          "example": "Le gouvernement veut freiner la hausse des prix.",
+          "example_ko": "정부는 물가 상승을 억제하려 해요.",
+          "note_ko": "le frein = 브레이크."
+        },
+        {
+          "lang": "fr",
+          "word": "démentir",
+          "pos": "v.",
+          "ko": "부인하다",
+          "example": "Le ministre dément la rumeur.",
+          "example_ko": "장관은 소문을 부인해요.",
+          "note_ko": "il dément. 명사는 un démenti(부인 발표)."
+        },
+        {
+          "lang": "fr",
+          "word": "sous pression",
+          "pos": "expr.",
+          "ko": "압박을 받는",
+          "example": "Les joueurs sont sous pression.",
+          "example_ko": "선수들이 압박을 받고 있어요.",
+          "note_ko": "mettre la pression = 압박을 주다."
+        },
+        {
+          "lang": "fr",
+          "word": "vieillissement",
+          "pos": "n. m.",
+          "ko": "고령화, 노화",
+          "example": "Le vieillissement de la population est rapide.",
+          "example_ko": "인구 고령화가 빠르게 진행되고 있어요.",
+          "note_ko": "vieux(늙은) → vieillir(늙다) → vieillissement."
+        },
+        {
+          "lang": "fr",
+          "word": "natalité",
+          "pos": "n. f.",
+          "ko": "출생률",
+          "example": "La natalité baisse en Corée.",
+          "example_ko": "한국의 출생률이 떨어지고 있어요.",
+          "note_ko": "taux de natalité라고도 해요."
+        },
+        {
+          "lang": "fr",
+          "word": "actif",
+          "pos": "n. m.",
+          "ko": "일하는 사람, 경제활동 인구",
+          "example": "Il y a moins d'actifs que de retraités.",
+          "example_ko": "은퇴자보다 일하는 사람이 적어요.",
+          "note_ko": "형용사로는 '활동적인'. population active = 경제활동 인구."
+        },
+        {
+          "lang": "fr",
+          "word": "milliard",
+          "pos": "n. m.",
+          "ko": "10억",
+          "example": "La ville a dépensé un milliard d'euros.",
+          "example_ko": "시는 10억 유로를 썼어요.",
+          "note_ko": "million = 백만, milliard = 10억. 영어 billion과 같아요."
+        },
+        {
+          "lang": "fr",
+          "word": "près de",
+          "pos": "expr.",
+          "ko": "거의, 약",
+          "example": "Il est près de minuit.",
+          "example_ko": "거의 자정이에요.",
+          "note_ko": "'~근처에'라는 뜻도 있어요: près de la gare = 역 근처."
         }
       ],
       "quiz": [
@@ -464,11 +890,48 @@
       "vocab": [
         {
           "lang": "en",
+          "word": "largely",
+          "pos": "adverb",
+          "ko": "대부분, 주로",
+          "example": "The work is largely finished.",
+          "example_ko": "일은 대부분 끝났어요.",
+          "note_ko": "large(큰)와 뜻이 달라요. largely = mostly."
+        },
+        {
+          "lang": "en",
+          "word": "destroy",
+          "pos": "verb",
+          "ko": "파괴하다",
+          "example": "The storm destroyed many houses.",
+          "example_ko": "폭풍이 많은 집을 부쉈어요.",
+          "note_ko": "명사는 destruction. 조금 부서졌으면 damage."
+        },
+        {
+          "lang": "en",
+          "word": "former",
+          "pos": "adjective",
+          "ko": "이전의, 옛",
+          "example": "He is a former teacher.",
+          "example_ko": "그는 전직 교사예요.",
+          "note_ko": "former president = 전 대통령. 반대는 current(현재의)."
+        },
+        {
+          "lang": "en",
           "word": "retreat",
           "pos": "noun",
           "ko": "휴양지, 은신처",
           "example": "They have a small retreat in the mountains.",
-          "example_ko": "그들은 산속에 작은 휴양지가 있어요."
+          "example_ko": "그들은 산속에 작은 휴양지가 있어요.",
+          "note_ko": "'후퇴'라는 뜻도 있어요. 여기서는 조용히 쉬는 곳."
+        },
+        {
+          "lang": "en",
+          "word": "firefighter",
+          "pos": "noun",
+          "ko": "소방관",
+          "example": "The firefighters saved the cat.",
+          "example_ko": "소방관들이 고양이를 구했어요.",
+          "note_ko": "fireman보다 요즘은 firefighter를 써요. fight a fire = 불을 끄다."
         },
         {
           "lang": "en",
@@ -476,7 +939,71 @@
           "pos": "noun",
           "ko": "큰불",
           "example": "The blaze lasted all night.",
-          "example_ko": "큰불이 밤새 이어졌어요."
+          "example_ko": "큰불이 밤새 이어졌어요.",
+          "note_ko": "기사 제목에서 fire 대신 자주 써요."
+        },
+        {
+          "lang": "en",
+          "word": "injured",
+          "pos": "adjective",
+          "ko": "다친",
+          "example": "Two players were injured in the game.",
+          "example_ko": "경기에서 선수 두 명이 다쳤어요.",
+          "note_ko": "be injured = 다치다. 명사 injury = 부상."
+        },
+        {
+          "lang": "en",
+          "word": "scene",
+          "pos": "noun",
+          "ko": "현장",
+          "example": "The police arrived at the scene.",
+          "example_ko": "경찰이 현장에 도착했어요.",
+          "note_ko": "영화·연극의 '장면'이라는 뜻도 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "prosecutor",
+          "pos": "noun",
+          "ko": "검사",
+          "example": "The prosecutor asked for a long sentence.",
+          "example_ko": "검사는 긴 형량을 구형했어요.",
+          "note_ko": "변호사는 lawyer, 판사는 judge."
+        },
+        {
+          "lang": "en",
+          "word": "mental illness",
+          "pos": "noun",
+          "ko": "정신 질환",
+          "example": "Mental illness is more common than people think.",
+          "example_ko": "정신 질환은 생각보다 흔해요.",
+          "note_ko": "mental health = 정신 건강."
+        },
+        {
+          "lang": "en",
+          "word": "investigator",
+          "pos": "noun",
+          "ko": "수사관, 조사관",
+          "example": "Investigators are checking the cameras.",
+          "example_ko": "수사관들이 카메라를 확인하고 있어요.",
+          "note_ko": "investigate = 수사하다, investigation = 수사."
+        },
+        {
+          "lang": "en",
+          "word": "motive",
+          "pos": "noun",
+          "ko": "동기",
+          "example": "Police are looking for a motive.",
+          "example_ko": "경찰은 동기를 찾고 있어요.",
+          "note_ko": "motivation(의욕, 동기 부여)과 구분해요."
+        },
+        {
+          "lang": "en",
+          "word": "exhibition",
+          "pos": "noun",
+          "ko": "전시",
+          "example": "We saw an art exhibition.",
+          "example_ko": "우리는 미술 전시를 봤어요.",
+          "note_ko": "exhibit = 전시하다, 전시품."
         },
         {
           "lang": "en",
@@ -484,7 +1011,17 @@
           "pos": "noun",
           "ko": "폐허",
           "example": "The old castle is now a ruin.",
-          "example_ko": "그 오래된 성은 이제 폐허예요."
+          "example_ko": "그 오래된 성은 이제 폐허예요.",
+          "note_ko": "be in ruins = 폐허가 되다. 동사로는 '망치다'."
+        },
+        {
+          "lang": "en",
+          "word": "badly",
+          "pos": "adverb",
+          "ko": "심하게",
+          "example": "He was badly hurt.",
+          "example_ko": "그는 심하게 다쳤어요.",
+          "note_ko": "'나쁘게'뿐 아니라 '심하게'라는 뜻으로 자주 써요."
         },
         {
           "lang": "fr",
@@ -492,7 +1029,35 @@
           "pos": "n. m.",
           "ko": "화재",
           "example": "L'incendie a commencé dans la cuisine.",
-          "example_ko": "불은 부엌에서 시작됐어요."
+          "example_ko": "불은 부엌에서 시작됐어요.",
+          "note_ko": "큰 화재. 작은 불이나 불꽃은 le feu."
+        },
+        {
+          "lang": "fr",
+          "word": "en grande partie",
+          "pos": "expr.",
+          "ko": "대부분",
+          "example": "Le travail est en grande partie terminé.",
+          "example_ko": "일은 대부분 끝났어요.",
+          "note_ko": "en partie = 부분적으로."
+        },
+        {
+          "lang": "fr",
+          "word": "détruire",
+          "pos": "v.",
+          "ko": "파괴하다",
+          "example": "La tempête a détruit le toit.",
+          "example_ko": "폭풍이 지붕을 부쉈어요.",
+          "note_ko": "과거분사 détruit. 조금 부서졌으면 endommager."
+        },
+        {
+          "lang": "fr",
+          "word": "ancien",
+          "pos": "adj.",
+          "ko": "옛, 이전의",
+          "example": "C'est mon ancien professeur.",
+          "example_ko": "제 옛 선생님이에요.",
+          "note_ko": "명사 앞: 이전의(ancien maire), 명사 뒤: 오래된(maison ancienne)."
         },
         {
           "lang": "fr",
@@ -500,7 +1065,80 @@
           "pos": "n. m. pl.",
           "ko": "소방관",
           "example": "Les pompiers sont arrivés très vite.",
-          "example_ko": "소방관들이 아주 빨리 도착했어요."
+          "example_ko": "소방관들이 아주 빨리 도착했어요.",
+          "note_ko": "프랑스 소방서 번호는 18이에요."
+        },
+        {
+          "lang": "fr",
+          "word": "gêner",
+          "pos": "v.",
+          "ko": "방해하다, 불편하게 하다",
+          "example": "Le bruit me gêne.",
+          "example_ko": "소음이 신경 쓰여요.",
+          "note_ko": "Ça vous gêne ? = 불편하세요?"
+        },
+        {
+          "lang": "fr",
+          "word": "personne ne",
+          "pos": "expr.",
+          "ko": "아무도 ~않다",
+          "example": "Personne n'est venu.",
+          "example_ko": "아무도 오지 않았어요.",
+          "note_ko": "personne가 주어일 때 동사 앞에 ne만 써요 (pas 없음)."
+        },
+        {
+          "lang": "fr",
+          "word": "blessé",
+          "pos": "adj.",
+          "ko": "다친",
+          "example": "Il est blessé au bras.",
+          "example_ko": "그는 팔을 다쳤어요.",
+          "note_ko": "une blessure = 상처. 명사로 un blessé = 부상자."
+        },
+        {
+          "lang": "fr",
+          "word": "lieux",
+          "pos": "n. m. pl.",
+          "ko": "현장, 장소",
+          "example": "La police est arrivée sur les lieux.",
+          "example_ko": "경찰이 현장에 도착했어요.",
+          "note_ko": "sur les lieux = 현장에. 단수 lieu = 장소."
+        },
+        {
+          "lang": "fr",
+          "word": "parquet",
+          "pos": "n. m.",
+          "ko": "검찰",
+          "example": "Le parquet a ouvert une enquête.",
+          "example_ko": "검찰이 수사를 시작했어요.",
+          "note_ko": "원래 뜻은 '마루 바닥'. 법원 기사에서는 '검찰'."
+        },
+        {
+          "lang": "fr",
+          "word": "enquêteur",
+          "pos": "n. m.",
+          "ko": "수사관",
+          "example": "L'enquêteur pose des questions.",
+          "example_ko": "수사관이 질문을 해요.",
+          "note_ko": "enquête = 수사, 조사. sondage = 여론조사."
+        },
+        {
+          "lang": "fr",
+          "word": "mobile",
+          "pos": "n. m.",
+          "ko": "(범행) 동기",
+          "example": "Quel est le mobile du crime ?",
+          "example_ko": "범행 동기는 무엇일까요?",
+          "note_ko": "형용사로는 '움직이는'. 휴대전화는 portable이라고 해요."
+        },
+        {
+          "lang": "fr",
+          "word": "abriter",
+          "pos": "v.",
+          "ko": "(건물이) ~을 두다, 보호하다",
+          "example": "Ce musée abrite des tableaux célèbres.",
+          "example_ko": "이 박물관에는 유명한 그림들이 있어요.",
+          "note_ko": "un abri = 피난처, 쉼터."
         },
         {
           "lang": "fr",
@@ -508,7 +1146,26 @@
           "pos": "expr.",
           "ko": "과거를 기억하고 알리는 일",
           "example": "L'école fait un travail de mémoire sur la guerre.",
-          "example_ko": "학교는 전쟁을 기억하는 교육을 해요."
+          "example_ko": "학교는 전쟁을 기억하는 교육을 해요.",
+          "note_ko": "과거의 비극을 잊지 않도록 기억하고 가르치는 일을 말해요."
+        },
+        {
+          "lang": "fr",
+          "word": "gravement",
+          "pos": "adv.",
+          "ko": "심하게",
+          "example": "Il est gravement malade.",
+          "example_ko": "그는 심하게 아파요.",
+          "note_ko": "grave = 심각한."
+        },
+        {
+          "lang": "fr",
+          "word": "endommager",
+          "pos": "v.",
+          "ko": "손상시키다",
+          "example": "La pluie a endommagé la route.",
+          "example_ko": "비로 도로가 망가졌어요.",
+          "note_ko": "dommage = 피해. C'est dommage ! = 아쉽네요!"
         }
       ],
       "quiz": [
@@ -649,7 +1306,8 @@
           "pos": "phrase",
           "ko": "출생률",
           "example": "The birth rate in Korea is very low.",
-          "example_ko": "한국의 출생률은 매우 낮아요."
+          "example_ko": "한국의 출생률은 매우 낮아요.",
+          "note_ko": "fertility rate(출산율)와 비슷하게 쓰여요."
         },
         {
           "lang": "en",
@@ -657,23 +1315,125 @@
           "pos": "phrase",
           "ko": "사상 최저",
           "example": "The price hit a record low last week.",
-          "example_ko": "지난주 가격이 사상 최저를 기록했어요."
+          "example_ko": "지난주 가격이 사상 최저를 기록했어요.",
+          "note_ko": "반대는 record high(사상 최고). hit a record = 기록을 세우다."
+        },
+        {
+          "lang": "en",
+          "word": "according to",
+          "pos": "phrase",
+          "ko": "~에 따르면",
+          "example": "According to the news, it will snow.",
+          "example_ko": "뉴스에 따르면 눈이 온대요.",
+          "note_ko": "뉴스에서 출처를 밝힐 때 가장 많이 쓰는 표현이에요."
+        },
+        {
+          "lang": "en",
+          "word": "report",
+          "pos": "noun",
+          "ko": "보고서",
+          "example": "The report was published today.",
+          "example_ko": "보고서가 오늘 발표됐어요.",
+          "note_ko": "동사로는 '보도하다, 알리다'."
+        },
+        {
+          "lang": "en",
+          "word": "drop",
+          "pos": "verb",
+          "ko": "떨어지다, 줄다",
+          "example": "Temperatures dropped at night.",
+          "example_ko": "밤에 기온이 떨어졌어요.",
+          "note_ko": "명사로 a 6% drop = 6% 감소."
+        },
+        {
+          "lang": "en",
+          "word": "trend",
+          "pos": "noun",
+          "ko": "경향, 추세",
+          "example": "Online shopping is a growing trend.",
+          "example_ko": "온라인 쇼핑은 늘어나는 추세예요.",
+          "note_ko": "trendy = 유행하는."
+        },
+        {
+          "lang": "en",
+          "word": "decade",
+          "pos": "noun",
+          "ko": "10년",
+          "example": "I have lived here for a decade.",
+          "example_ko": "저는 여기서 10년을 살았어요.",
+          "note_ko": "two decades = 20년. century = 100년."
+        },
+        {
+          "lang": "en",
+          "word": "aged",
+          "pos": "adjective",
+          "ko": "~세의",
+          "example": "The class is for children aged 6 to 12.",
+          "example_ko": "그 수업은 6~12세 어린이를 위한 거예요.",
+          "note_ko": "aged + 숫자 = ~세의. '나이 든'이라는 뜻도 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "at the same time",
+          "pos": "phrase",
+          "ko": "동시에, 한편",
+          "example": "It's cheap, but at the same time it's good.",
+          "example_ko": "싸지만 한편으로는 품질도 좋아요.",
+          "note_ko": "두 가지 사실을 나란히 말할 때 써요."
+        },
+        {
+          "lang": "en",
+          "word": "career",
+          "pos": "noun",
+          "ko": "경력, 직업",
+          "example": "She wants a career in medicine.",
+          "example_ko": "그녀는 의료 분야에서 일하고 싶어 해요.",
+          "note_ko": "발음은 [커리어]. build a career = 경력을 쌓다."
+        },
+        {
+          "lang": "en",
+          "word": "likely",
+          "pos": "adjective",
+          "ko": "~할 것 같은",
+          "example": "It is likely to rain.",
+          "example_ko": "비가 올 것 같아요.",
+          "note_ko": "be likely to + 동사. less likely = 가능성이 더 낮은."
+        },
+        {
+          "lang": "en",
+          "word": "priority",
+          "pos": "noun",
+          "ko": "우선순위",
+          "example": "Safety is our top priority.",
+          "example_ko": "안전이 최우선이에요.",
+          "note_ko": "복수형 priorities. prioritize = 우선시하다."
+        },
+        {
+          "lang": "en",
+          "word": "childcare",
+          "pos": "noun",
+          "ko": "육아, 보육",
+          "example": "Childcare is expensive in big cities.",
+          "example_ko": "대도시에서는 보육비가 비싸요.",
+          "note_ko": "daycare = 어린이집."
+        },
+        {
+          "lang": "en",
+          "word": "health insurance",
+          "pos": "noun",
+          "ko": "건강보험",
+          "example": "Do you have health insurance?",
+          "example_ko": "건강보험 있으세요?",
+          "note_ko": "car insurance = 자동차 보험."
         },
         {
           "lang": "en",
           "word": "affordable",
-          "pos": "adj",
+          "pos": "adjective",
           "ko": "(가격이) 감당할 수 있는",
           "example": "We need more affordable homes.",
-          "example_ko": "감당할 수 있는 가격의 집이 더 필요해요."
-        },
-        {
-          "lang": "fr",
-          "word": "taux de natalité",
-          "pos": "n. m.",
-          "ko": "출생률",
-          "example": "Le taux de natalité baisse en Europe.",
-          "example_ko": "유럽의 출생률이 떨어지고 있어요."
+          "example_ko": "감당할 수 있는 가격의 집이 더 필요해요.",
+          "note_ko": "afford(~할 여유가 있다) + able. I can't afford it. = 그럴 형편이 안 돼요."
         },
         {
           "lang": "fr",
@@ -681,7 +1441,134 @@
           "pos": "v.",
           "ko": "태어나다",
           "example": "Mon fils est né en mai.",
-          "example_ko": "제 아들은 5월에 태어났어요."
+          "example_ko": "제 아들은 5월에 태어났어요.",
+          "note_ko": "과거형은 être와 함께: je suis né(e). Il naît = 태어난다."
+        },
+        {
+          "lang": "fr",
+          "word": "taux de natalité",
+          "pos": "n. m.",
+          "ko": "출생률",
+          "example": "Le taux de natalité baisse en Europe.",
+          "example_ko": "유럽의 출생률이 떨어지고 있어요.",
+          "note_ko": "taux = 비율. taux de chômage = 실업률."
+        },
+        {
+          "lang": "fr",
+          "word": "tomber",
+          "pos": "v.",
+          "ko": "떨어지다, 넘어지다",
+          "example": "Il est tombé dans la rue.",
+          "example_ko": "그는 길에서 넘어졌어요.",
+          "note_ko": "수치가 '떨어지다'에도 써요. être와 함께 과거형을 만들어요."
+        },
+        {
+          "lang": "fr",
+          "word": "taux de fécondité",
+          "pos": "n. m.",
+          "ko": "출산율",
+          "example": "Le taux de fécondité est faible en Corée.",
+          "example_ko": "한국은 출산율이 낮아요.",
+          "note_ko": "여성 1명이 낳는 아이 수를 나타내는 통계예요."
+        },
+        {
+          "lang": "fr",
+          "word": "reculer",
+          "pos": "v.",
+          "ko": "줄다, 뒤로 물러나다",
+          "example": "Le chômage recule.",
+          "example_ko": "실업률이 줄고 있어요.",
+          "note_ko": "반대는 avancer(앞으로 가다)."
+        },
+        {
+          "lang": "fr",
+          "word": "tendance",
+          "pos": "n. f.",
+          "ko": "경향, 유행",
+          "example": "C'est la tendance de l'année.",
+          "example_ko": "올해의 유행이에요.",
+          "note_ko": "avoir tendance à ~ = ~하는 경향이 있다."
+        },
+        {
+          "lang": "fr",
+          "word": "vingtaine",
+          "pos": "n. f.",
+          "ko": "약 스물",
+          "example": "Une vingtaine de personnes sont venues.",
+          "example_ko": "스무 명쯤 왔어요.",
+          "note_ko": "dizaine(열쯤), centaine(백쯤). 나이에도 써요: la vingtaine = 20대."
+        },
+        {
+          "lang": "fr",
+          "word": "chuter",
+          "pos": "v.",
+          "ko": "급락하다",
+          "example": "Les ventes ont chuté.",
+          "example_ko": "판매가 급감했어요.",
+          "note_ko": "une chute = 추락, 급락."
+        },
+        {
+          "lang": "fr",
+          "word": "dans le même temps",
+          "pos": "expr.",
+          "ko": "동시에, 한편",
+          "example": "Il travaille et, dans le même temps, il étudie.",
+          "example_ko": "그는 일하면서 동시에 공부해요.",
+          "note_ko": "en même temps와 비슷해요."
+        },
+        {
+          "lang": "fr",
+          "word": "carrière",
+          "pos": "n. f.",
+          "ko": "경력",
+          "example": "Elle a fait carrière dans la mode.",
+          "example_ko": "그녀는 패션계에서 경력을 쌓았어요.",
+          "note_ko": "faire carrière = 경력을 쌓다, 출세하다."
+        },
+        {
+          "lang": "fr",
+          "word": "devenir",
+          "pos": "v.",
+          "ko": "~이 되다",
+          "example": "Il veut devenir médecin.",
+          "example_ko": "그는 의사가 되고 싶어 해요.",
+          "note_ko": "직업 앞에는 관사를 쓰지 않아요: devenir mère = 엄마가 되다."
+        },
+        {
+          "lang": "fr",
+          "word": "étude",
+          "pos": "n. f.",
+          "ko": "연구",
+          "example": "Une étude montre que le sport est bon pour le cerveau.",
+          "example_ko": "한 연구에 따르면 운동은 뇌에 좋아요.",
+          "note_ko": "복수 les études = 학업. faire des études = 공부하다."
+        },
+        {
+          "lang": "fr",
+          "word": "notamment",
+          "pos": "adv.",
+          "ko": "특히",
+          "example": "J'aime les fruits, notamment les fraises.",
+          "example_ko": "저는 과일, 특히 딸기를 좋아해요.",
+          "note_ko": "예를 들 때 써요. surtout와 비슷해요."
+        },
+        {
+          "lang": "fr",
+          "word": "logement",
+          "pos": "n. m.",
+          "ko": "주거, 집",
+          "example": "Le logement coûte cher à Paris.",
+          "example_ko": "파리는 집값이 비싸요.",
+          "note_ko": "loger = 묵다, 재우다."
+        },
+        {
+          "lang": "fr",
+          "word": "garde d'enfants",
+          "pos": "n. f.",
+          "ko": "아이 돌봄, 보육",
+          "example": "La garde d'enfants coûte cher.",
+          "example_ko": "아이 돌봄 비용이 비싸요.",
+          "note_ko": "garder = 지키다, 돌보다. crèche = 어린이집."
         },
         {
           "lang": "fr",
@@ -689,7 +1576,8 @@
           "pos": "adj.",
           "ko": "(가격이) 적당한",
           "example": "Ce restaurant est très abordable.",
-          "example_ko": "이 식당은 가격이 아주 적당해요."
+          "example_ko": "이 식당은 가격이 아주 적당해요.",
+          "note_ko": "aborder(접근하다)에서 나온 말. prix abordable = 적당한 가격."
         }
       ],
       "quiz": [
@@ -825,19 +1713,75 @@
       "vocab": [
         {
           "lang": "en",
+          "word": "mid-September",
+          "pos": "noun",
+          "ko": "9월 중순",
+          "example": "We will meet in mid-September.",
+          "example_ko": "9월 중순에 만나요.",
+          "note_ko": "early(초), mid(중순), late(말) + 달 이름."
+        },
+        {
+          "lang": "en",
+          "word": "female",
+          "pos": "adjective",
+          "ko": "암컷의, 여성의",
+          "example": "The female bird sits on the eggs.",
+          "example_ko": "암컷 새가 알을 품어요.",
+          "note_ko": "반대는 male(수컷의, 남성의)."
+        },
+        {
+          "lang": "en",
+          "word": "narrow",
+          "pos": "adjective",
+          "ko": "좁은",
+          "example": "The street is very narrow.",
+          "example_ko": "길이 아주 좁아요.",
+          "note_ko": "반대는 wide(넓은)."
+        },
+        {
+          "lang": "en",
           "word": "canal",
           "pos": "noun",
           "ko": "운하, 수로",
           "example": "Boats move slowly along the canal.",
-          "example_ko": "배들이 운하를 따라 천천히 움직여요."
+          "example_ko": "배들이 운하를 따라 천천히 움직여요.",
+          "note_ko": "사람이 만든 물길. 자연 하천은 river, stream."
         },
         {
           "lang": "en",
-          "word": "rescue",
+          "word": "name after",
+          "pos": "phrase",
+          "ko": "~의 이름을 따서 짓다",
+          "example": "They named their son after his grandfather.",
+          "example_ko": "그들은 할아버지 이름을 따서 아들 이름을 지었어요.",
+          "note_ko": "name A after B = B의 이름을 따서 A라고 부르다."
+        },
+        {
+          "lang": "en",
+          "word": "harbour",
           "pos": "noun",
-          "ko": "구조",
-          "example": "The rescue took three hours.",
-          "example_ko": "구조는 세 시간이 걸렸어요."
+          "ko": "항구",
+          "example": "Boats are waiting in the harbour.",
+          "example_ko": "배들이 항구에서 기다려요.",
+          "note_ko": "미국식 철자는 harbor."
+        },
+        {
+          "lang": "en",
+          "word": "livestream",
+          "pos": "verb",
+          "ko": "생중계하다",
+          "example": "They livestreamed the concert.",
+          "example_ko": "그들은 콘서트를 생중계했어요.",
+          "note_ko": "명사로도 써요: watch a livestream."
+        },
+        {
+          "lang": "en",
+          "word": "official",
+          "pos": "adjective",
+          "ko": "공식적인",
+          "example": "This is the official website.",
+          "example_ko": "이곳이 공식 웹사이트예요.",
+          "note_ko": "명사로는 '공무원, 관계자'."
         },
         {
           "lang": "en",
@@ -845,7 +1789,89 @@
           "pos": "noun",
           "ko": "마스코트",
           "example": "The team's mascot is a tiger.",
-          "example_ko": "그 팀의 마스코트는 호랑이예요."
+          "example_ko": "그 팀의 마스코트는 호랑이예요.",
+          "note_ko": "official mascot = 공식 마스코트."
+        },
+        {
+          "lang": "en",
+          "word": "shallow",
+          "pos": "adjective",
+          "ko": "얕은",
+          "example": "The water is shallow here.",
+          "example_ko": "여기는 물이 얕아요.",
+          "note_ko": "반대는 deep(깊은)."
+        },
+        {
+          "lang": "en",
+          "word": "snout",
+          "pos": "noun",
+          "ko": "(동물의) 주둥이",
+          "example": "The dog put its snout in the bowl.",
+          "example_ko": "개가 그릇에 주둥이를 넣었어요.",
+          "note_ko": "돼지·상어처럼 앞으로 튀어나온 코와 입 부분이에요."
+        },
+        {
+          "lang": "en",
+          "word": "attempt",
+          "pos": "noun",
+          "ko": "시도",
+          "example": "It was his first attempt.",
+          "example_ko": "그의 첫 시도였어요.",
+          "note_ko": "동사로 attempt to ~ = ~하려고 시도하다."
+        },
+        {
+          "lang": "en",
+          "word": "rescue",
+          "pos": "noun",
+          "ko": "구조",
+          "example": "The rescue took three hours.",
+          "example_ko": "구조는 세 시간이 걸렸어요.",
+          "note_ko": "동사로도 써요: rescue a cat = 고양이를 구하다."
+        },
+        {
+          "lang": "en",
+          "word": "stuck",
+          "pos": "adjective",
+          "ko": "갇힌, 꼼짝 못 하는",
+          "example": "I got stuck in traffic.",
+          "example_ko": "차가 막혀서 꼼짝 못 했어요.",
+          "note_ko": "get stuck = 갇히다, 막히다. stick(붙이다)의 과거분사예요."
+        },
+        {
+          "lang": "en",
+          "word": "open sea",
+          "pos": "noun",
+          "ko": "먼바다",
+          "example": "The ship sailed into the open sea.",
+          "example_ko": "배가 먼바다로 나갔어요.",
+          "note_ko": "육지에서 멀리 떨어진 넓은 바다를 말해요."
+        },
+        {
+          "lang": "en",
+          "word": "sign",
+          "pos": "noun",
+          "ko": "신호, 징조",
+          "example": "Rain is a good sign for farmers.",
+          "example_ko": "비는 농부들에게 좋은 신호예요.",
+          "note_ko": "'표지판'이라는 뜻도 있어요: a road sign."
+        },
+        {
+          "lang": "fr",
+          "word": "mi-septembre",
+          "pos": "n. f.",
+          "ko": "9월 중순",
+          "example": "Les cours commencent à la mi-septembre.",
+          "example_ko": "수업은 9월 중순에 시작해요.",
+          "note_ko": "à la mi-+ 달 이름. début(초), fin(말)."
+        },
+        {
+          "lang": "fr",
+          "word": "femelle",
+          "pos": "n. f.",
+          "ko": "암컷",
+          "example": "La femelle protège ses petits.",
+          "example_ko": "암컷이 새끼를 지켜요.",
+          "note_ko": "수컷은 le mâle. 동물에만 써요."
         },
         {
           "lang": "fr",
@@ -853,15 +1879,89 @@
           "pos": "n. m.",
           "ko": "상어",
           "example": "Le requin nage près de la plage.",
-          "example_ko": "상어가 해변 가까이에서 헤엄쳐요."
+          "example_ko": "상어가 해변 가까이에서 헤엄쳐요.",
+          "note_ko": "requin-baleine = 고래상어."
         },
         {
           "lang": "fr",
-          "word": "coincé",
+          "word": "étroit",
           "pos": "adj.",
-          "ko": "갇힌, 꼼짝 못 하는",
-          "example": "Je suis coincé dans les bouchons.",
-          "example_ko": "교통 체증에 갇혀 있어요."
+          "ko": "좁은",
+          "example": "Cette rue est très étroite.",
+          "example_ko": "이 길은 아주 좁아요.",
+          "note_ko": "반대는 large(넓은). 영어 large(큰)와 뜻이 달라요."
+        },
+        {
+          "lang": "fr",
+          "word": "baptiser",
+          "pos": "v.",
+          "ko": "이름을 붙이다",
+          "example": "Ils ont baptisé leur chien Max.",
+          "example_ko": "그들은 개 이름을 맥스라고 지었어요.",
+          "note_ko": "원래 뜻은 '세례를 주다'. 배·동물에 이름 붙일 때도 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "d'après",
+          "pos": "prép.",
+          "ko": "~을 따서, ~에 따르면",
+          "example": "Le film est tiré d'après un roman.",
+          "example_ko": "그 영화는 소설을 바탕으로 했어요.",
+          "note_ko": "d'après moi = 내 생각에는. selon과 비슷해요."
+        },
+        {
+          "lang": "fr",
+          "word": "curieux",
+          "pos": "n. m.",
+          "ko": "구경꾼",
+          "example": "Des curieux regardent l'accident.",
+          "example_ko": "구경꾼들이 사고를 지켜봐요.",
+          "note_ko": "형용사로는 '호기심 많은, 이상한'."
+        },
+        {
+          "lang": "fr",
+          "word": "en direct",
+          "pos": "expr.",
+          "ko": "생중계로",
+          "example": "Le match est diffusé en direct.",
+          "example_ko": "경기가 생중계돼요.",
+          "note_ko": "녹화 방송은 en différé."
+        },
+        {
+          "lang": "fr",
+          "word": "mascotte",
+          "pos": "n. f.",
+          "ko": "마스코트",
+          "example": "La mascotte des Jeux est très populaire.",
+          "example_ko": "올림픽 마스코트는 인기가 아주 많아요.",
+          "note_ko": "영어 mascot과 같은 말이에요."
+        },
+        {
+          "lang": "fr",
+          "word": "peu profond",
+          "pos": "adj.",
+          "ko": "얕은",
+          "example": "L'eau est peu profonde ici.",
+          "example_ko": "여기는 물이 얕아요.",
+          "note_ko": "profond = 깊은. peu = 거의 ~않은."
+        },
+        {
+          "lang": "fr",
+          "word": "museau",
+          "pos": "n. m.",
+          "ko": "주둥이",
+          "example": "Le chien a le museau mouillé.",
+          "example_ko": "개의 주둥이가 젖어 있어요.",
+          "note_ko": "복수형은 museaux."
+        },
+        {
+          "lang": "fr",
+          "word": "tentative",
+          "pos": "n. f.",
+          "ko": "시도",
+          "example": "C'est ma première tentative.",
+          "example_ko": "제 첫 시도예요.",
+          "note_ko": "tenter = 시도하다, 유혹하다."
         },
         {
           "lang": "fr",
@@ -869,7 +1969,44 @@
           "pos": "n. m.",
           "ko": "구조",
           "example": "Le sauvetage a duré toute la nuit.",
-          "example_ko": "구조 작업은 밤새 이어졌어요."
+          "example_ko": "구조 작업은 밤새 이어졌어요.",
+          "note_ko": "gilet de sauvetage = 구명조끼."
+        },
+        {
+          "lang": "fr",
+          "word": "sans cesse",
+          "pos": "expr.",
+          "ko": "끊임없이",
+          "example": "Il parle sans cesse.",
+          "example_ko": "그는 쉴 새 없이 말해요.",
+          "note_ko": "cesser = 멈추다."
+        },
+        {
+          "lang": "fr",
+          "word": "réchauffement",
+          "pos": "n. m.",
+          "ko": "온난화",
+          "example": "Le réchauffement climatique est un problème mondial.",
+          "example_ko": "기후 온난화는 세계적인 문제예요.",
+          "note_ko": "chaud(따뜻한) → réchauffer(데우다) → réchauffement."
+        },
+        {
+          "lang": "fr",
+          "word": "coincé",
+          "pos": "adj.",
+          "ko": "갇힌, 꼼짝 못 하는",
+          "example": "Je suis coincé dans les bouchons.",
+          "example_ko": "교통 체증에 갇혀 있어요.",
+          "note_ko": "être coincé dans un ascenseur = 엘리베이터에 갇히다."
+        },
+        {
+          "lang": "fr",
+          "word": "aperçu",
+          "pos": "p. p.",
+          "ko": "목격된 (apercevoir)",
+          "example": "On l'a aperçu hier.",
+          "example_ko": "어제 그가 목격됐어요.",
+          "note_ko": "apercevoir = 언뜻 보다. un aperçu = 미리 보기, 개요."
         }
       ],
       "quiz": [
