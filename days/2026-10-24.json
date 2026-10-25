@@ -1,0 +1,910 @@
+{
+  "schema": 1,
+  "date": "2026-10-24",
+  "stories": [
+    {
+      "id": "2026-10-24-01",
+      "category": "politics",
+      "region": {
+        "country": "FR",
+        "city": "Paris",
+        "lat": 48.86,
+        "lng": 2.35
+      },
+      "headline": {
+        "en": "Hundreds of Thousands March Across France Over Cost of Living",
+        "fr": "Vie chère : des centaines de milliers de manifestants en France",
+        "ko": "프랑스 수십만 명 '물가 시위'… 1,300여 명 체포"
+      },
+      "hook": {
+        "en": "Why are 410,000 people marching in France?",
+        "fr": "Pourquoi 410 000 Français sont-ils dans la rue ?",
+        "ko": "프랑스에서 41만 명이 거리로 나온 이유는?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Hundreds of thousands of people marched across France on Saturday.",
+            "They are angry about prices and money for schools.",
+            "Police arrested more than 1,300 people."
+          ],
+          "easy_ko": [
+            "토요일 프랑스 전역에서 수십만 명이 행진했습니다.",
+            "그들은 물가와 학교 예산 문제에 화가 나 있습니다.",
+            "경찰은 1,300명 넘게 체포했습니다."
+          ],
+          "normal": [
+            "Hundreds of thousands of people marched across France on Saturday in a new day of protests against President Emmanuel Macron's government.",
+            "The Interior Ministry counted about 410,000 protesters, including 110,000 in Paris, while the CGT union claimed around 800,000.",
+            "Protesters are angry about the rising cost of living, fuel prices and conditions in schools.",
+            "The movement began in September with high school students in Paris, and the Yellow vests have since joined the marches.",
+            "About 70,000 police officers were deployed, and protests were banned in some cities.",
+            "Police used tear gas and water cannons in Paris and other cities, and the interior minister said 1,314 people were arrested nationwide.",
+            "The Yellow vests plan another day of protests on October 31."
+          ],
+          "normal_ko": [
+            "토요일 프랑스 전역에서 수십만 명이 에마뉘엘 마크롱 대통령 정부에 항의하는 새로운 시위에 나섰습니다.",
+            "내무부는 시위 참가자를 약 41만 명(파리 11만 명)으로 집계했고, 노동총동맹(CGT)은 약 80만 명이라고 주장했습니다.",
+            "시위대는 오르는 생활비와 연료 가격, 학교 여건에 분노하고 있습니다.",
+            "이 운동은 9월 파리 고등학생들에게서 시작됐고, 이후 '노란 조끼'도 행진에 합류했습니다.",
+            "경찰 약 7만 명이 배치됐고, 일부 도시에서는 시위가 금지됐습니다.",
+            "경찰은 파리와 다른 도시들에서 최루탄과 물대포를 사용했으며, 내무장관은 전국에서 1,314명이 체포됐다고 밝혔습니다.",
+            "'노란 조끼'는 10월 31일에 다시 시위를 열 계획입니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            3
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Des centaines de milliers de personnes ont manifesté samedi en France.",
+            "Elles protestent contre la vie chère et pour l'école.",
+            "La police a interpellé plus de 1 300 personnes."
+          ],
+          "easy_ko": [
+            "토요일 프랑스에서 수십만 명이 시위를 벌였습니다.",
+            "그들은 높은 물가에 항의하고 학교를 지키자고 외칩니다.",
+            "경찰은 1,300명 넘게 연행했습니다."
+          ],
+          "normal": [
+            "Des centaines de milliers de personnes ont défilé samedi dans toute la France, lors d'une nouvelle journée de mobilisation contre le gouvernement d'Emmanuel Macron.",
+            "Le ministère de l'Intérieur a compté environ 410 000 manifestants, dont 110 000 à Paris, tandis que la CGT en revendique près de 800 000.",
+            "Les manifestants dénoncent la hausse du coût de la vie, le prix des carburants et la situation dans les écoles.",
+            "Le mouvement est né en septembre parmi des lycéens parisiens, avant d'être rejoint par les gilets jaunes.",
+            "Environ 70 000 policiers et gendarmes ont été mobilisés, et des manifestations ont été interdites dans plusieurs villes.",
+            "Gaz lacrymogène et canons à eau ont été utilisés à Paris et ailleurs, et selon le ministre de l'Intérieur, 1 314 personnes ont été interpellées.",
+            "Les gilets jaunes appellent à une nouvelle journée de mobilisation le 31 octobre."
+          ],
+          "normal_ko": [
+            "토요일 프랑스 전역에서 수십만 명이 에마뉘엘 마크롱 정부에 맞선 새로운 시위 행진에 나섰습니다.",
+            "내무부는 시위 참가자를 약 41만 명(파리 11만 명)으로 집계했고, CGT는 약 80만 명이라고 주장합니다.",
+            "시위대는 생활비 상승, 연료 가격, 학교 상황을 규탄합니다.",
+            "이 운동은 9월 파리 고등학생들 사이에서 시작됐고, 이후 '노란 조끼'가 합류했습니다.",
+            "경찰과 헌병 약 7만 명이 동원됐고, 여러 도시에서 시위가 금지됐습니다.",
+            "파리 등지에서 최루탄과 물대포가 사용됐고, 내무장관에 따르면 1,314명이 연행됐습니다.",
+            "'노란 조끼'는 10월 31일 새로운 시위를 예고했습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            3
+          ]
+        }
+      },
+      "ko_note": "이번 시위는 9월 파리 고등학생들에게서 시작해 전국으로 번졌고, 물가와 교육 여건에 대한 불만이 중심입니다. '노란 조끼(gilets jaunes)'는 2018년 유류세 인상에 반대하며 시작된 시민 운동으로, 이번에도 행진에 합류했어요. 프랑스에서는 정부(내무부)와 노동조합의 참가자 집계가 크게 다른 경우가 많아, 뉴스에서 두 숫자를 함께 소개하는 것이 일반적입니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "cost of living",
+          "pos": "phrase",
+          "ko": "생활비, 물가",
+          "example": "The cost of living keeps going up.",
+          "example_ko": "생활비가 계속 오르고 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "deploy",
+          "pos": "verb",
+          "ko": "(경찰·군을) 배치하다",
+          "example": "The city deployed more buses for the festival.",
+          "example_ko": "시는 축제를 위해 버스를 더 배치했어요."
+        },
+        {
+          "lang": "en",
+          "word": "arrest",
+          "pos": "verb",
+          "ko": "체포하다",
+          "example": "The police arrested two men.",
+          "example_ko": "경찰이 남자 두 명을 체포했어요."
+        },
+        {
+          "lang": "fr",
+          "word": "la vie chère",
+          "pos": "expr.",
+          "ko": "높은 물가",
+          "example": "La vie chère inquiète les familles.",
+          "example_ko": "높은 물가가 가정들을 걱정시켜요."
+        },
+        {
+          "lang": "fr",
+          "word": "défiler",
+          "pos": "v.",
+          "ko": "행진하다",
+          "example": "Les élèves défilent dans la rue.",
+          "example_ko": "학생들이 거리를 행진해요."
+        },
+        {
+          "lang": "fr",
+          "word": "interpeller",
+          "pos": "v.",
+          "ko": "(경찰이) 연행하다",
+          "example": "La police a interpellé trois suspects.",
+          "example_ko": "경찰이 용의자 세 명을 연행했어요."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "What does \"cost of living\" mean?",
+          "choices": [
+            "How much money you need for daily life",
+            "The price of a house only",
+            "A kind of tax"
+          ],
+          "answer": 0,
+          "explain_ko": "cost of living = 생활비, 물가. 먹고 사는 데 드는 돈이에요."
+        },
+        {
+          "lang": "fr",
+          "q": "« La vie chère », c'est…",
+          "choices": [
+            "une vie heureuse",
+            "des prix trop élevés",
+            "une longue vie"
+          ],
+          "answer": 1,
+          "explain_ko": "la vie chère = 높은 물가. cher는 '비싼'이라는 뜻이에요."
+        }
+      ],
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence",
+          "accessed": "2026-10-25"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/paris-france-new-protests-riots-museums-shops/",
+          "accessed": "2026-10-25"
+        },
+        {
+          "name": "Wikipedia Current events (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_24",
+          "accessed": "2026-10-25"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-25T11:49:35.608Z"
+    },
+    {
+      "id": "2026-10-24-02",
+      "category": "economy",
+      "region": {
+        "country": "ES",
+        "city": "Madrid",
+        "lat": 40.42,
+        "lng": -3.7
+      },
+      "headline": {
+        "en": "25,000 March in Madrid to Protect State Pensions",
+        "fr": "Madrid : 25 000 manifestants pour défendre les retraites",
+        "ko": "마드리드 2만 5천 명 '연금 지키자' 행진"
+      },
+      "hook": {
+        "en": "Would you march to protect your pension?",
+        "fr": "Descendriez-vous dans la rue pour votre retraite ?",
+        "ko": "내 연금을 지키려고 거리로 나간다면?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "About 25,000 people marched in Madrid, Spain, on Saturday.",
+            "They want to protect the state pension.",
+            "Many fear it could change after next month's election."
+          ],
+          "easy_ko": [
+            "토요일 스페인 마드리드에서 약 2만 5천 명이 행진했습니다.",
+            "그들은 국가 연금을 지키고 싶어 합니다.",
+            "많은 사람이 다음 달 선거 뒤에 연금이 바뀔까 걱정합니다."
+          ],
+          "normal": [
+            "About 25,000 people marched through central Madrid on Saturday in support of Spain's state pension system.",
+            "The march went from Atocha station to Gran Vía, one of the city's best-known streets.",
+            "Protesters want pensions to keep rising with inflation and the gap between men's and women's pensions to close.",
+            "Many fear the system could be weakened depending on who wins the general election next month.",
+            "Prime Minister Pedro Sánchez has accused the conservative Popular Party of planning to cut inflation-linked increases, but its leader, Alberto Núñez Feijóo, says he would keep them.",
+            "The system is under pressure from an ageing population, a low birth rate and fewer workers for each pensioner.",
+            "Spain's monthly pension bill reached a record of almost 14.5 billion euros this year."
+          ],
+          "normal_ko": [
+            "토요일 마드리드 도심에서 약 2만 5천 명이 스페인 공적 연금 제도를 지지하며 행진했습니다.",
+            "행진은 아토차역에서 시작해 마드리드의 대표 거리인 그란 비아까지 이어졌습니다.",
+            "시위대는 연금이 계속 물가에 맞춰 오르고, 남녀 간 연금 격차가 줄어들기를 원합니다.",
+            "많은 사람이 다음 달 총선 결과에 따라 연금 제도가 약해질 수 있다고 걱정합니다.",
+            "페드로 산체스 총리는 보수 정당인 국민당(PP)이 물가 연동 인상을 줄이려 한다고 비판했지만, 국민당 대표 알베르토 누녜스 페이호는 인상을 유지하겠다고 말했습니다.",
+            "연금 제도는 고령화, 낮은 출생률, 연금 수령자 1명당 일하는 사람 수 감소로 압박을 받고 있습니다.",
+            "스페인의 월간 연금 지출은 올해 약 145억 유로로 사상 최고치를 기록했습니다."
+          ],
+          "normal_paras": [
+            2,
+            3,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Environ 25 000 personnes ont défilé samedi à Madrid.",
+            "Elles veulent protéger les retraites publiques.",
+            "Elles craignent des changements après les élections du mois prochain."
+          ],
+          "easy_ko": [
+            "토요일 마드리드에서 약 2만 5천 명이 행진했습니다.",
+            "그들은 공적 연금을 지키고 싶어 합니다.",
+            "다음 달 선거 뒤에 연금이 바뀔까 걱정합니다."
+          ],
+          "normal": [
+            "Environ 25 000 personnes ont défilé samedi dans le centre de Madrid pour défendre le système public de retraites espagnol.",
+            "Le cortège est parti de la gare d'Atocha pour rejoindre la Gran Vía, l'une des artères les plus célèbres de la ville.",
+            "Les manifestants réclament que les pensions restent indexées sur l'inflation et que l'écart entre les retraites des hommes et des femmes soit comblé.",
+            "Beaucoup craignent un affaiblissement du système selon le résultat des élections législatives du mois prochain.",
+            "Le Premier ministre Pedro Sánchez accuse le Parti populaire, de droite, de vouloir freiner la revalorisation des pensions, ce que son chef, Alberto Núñez Feijóo, dément.",
+            "Le système est mis sous pression par le vieillissement de la population, une faible natalité et la baisse du nombre d'actifs par retraité.",
+            "Les dépenses mensuelles de retraite ont atteint cette année un record de près de 14,5 milliards d'euros."
+          ],
+          "normal_ko": [
+            "토요일 마드리드 도심에서 약 2만 5천 명이 스페인 공적 연금 제도를 지키기 위해 행진했습니다.",
+            "행렬은 아토차역에서 출발해 마드리드에서 가장 유명한 거리 중 하나인 그란 비아까지 갔습니다.",
+            "시위대는 연금이 계속 물가에 연동되고, 남녀 연금 격차가 해소되기를 요구합니다.",
+            "많은 사람이 다음 달 총선 결과에 따라 제도가 약해질까 걱정합니다.",
+            "페드로 산체스 총리는 우파 국민당이 연금 인상을 억제하려 한다고 비판하지만, 국민당 대표 알베르토 누녜스 페이호는 이를 부인합니다.",
+            "연금 제도는 고령화, 낮은 출생률, 연금 수령자 1명당 일하는 사람 수 감소로 압박을 받고 있습니다.",
+            "월간 연금 지출은 올해 약 145억 유로로 사상 최고치를 기록했습니다."
+          ],
+          "normal_paras": [
+            2,
+            3,
+            2
+          ]
+        }
+      },
+      "ko_note": "스페인은 다음 달 총선을 앞두고 있고, 연금을 물가에 맞춰 올리는 제도를 유지할지가 선거 쟁점입니다. 집권 사회노동당의 산체스 총리와 보수 국민당(PP)이 맞서고 있어요. 고령화와 저출산으로 연금 부담이 커지는 것은 한국과 같은 고민입니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "pension",
+          "pos": "noun",
+          "ko": "연금",
+          "example": "My grandfather lives on his pension.",
+          "example_ko": "할아버지는 연금으로 생활하세요."
+        },
+        {
+          "lang": "en",
+          "word": "inflation",
+          "pos": "noun",
+          "ko": "물가 상승, 인플레이션",
+          "example": "Inflation makes food more expensive.",
+          "example_ko": "물가 상승으로 음식이 더 비싸져요."
+        },
+        {
+          "lang": "en",
+          "word": "ageing population",
+          "pos": "phrase",
+          "ko": "고령화 인구",
+          "example": "Japan has an ageing population.",
+          "example_ko": "일본은 인구가 고령화되고 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "retraite",
+          "pos": "n. f.",
+          "ko": "은퇴, 연금",
+          "example": "Ma mère prend sa retraite cette année.",
+          "example_ko": "어머니는 올해 은퇴하세요."
+        },
+        {
+          "lang": "fr",
+          "word": "vieillissement",
+          "pos": "n. m.",
+          "ko": "고령화, 노화",
+          "example": "Le vieillissement de la population est rapide.",
+          "example_ko": "인구 고령화가 빠르게 진행되고 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "craindre",
+          "pos": "v.",
+          "ko": "걱정하다, 두려워하다",
+          "example": "Je crains la pluie demain.",
+          "example_ko": "내일 비가 올까 걱정돼요."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "What does \"inflation\" mean?",
+          "choices": [
+            "Prices going up over time",
+            "A type of bank",
+            "More jobs"
+          ],
+          "answer": 0,
+          "explain_ko": "inflation = 물가 상승. 시간이 지나며 물건값이 오르는 것이에요."
+        },
+        {
+          "lang": "fr",
+          "q": "« Le vieillissement de la population » veut dire…",
+          "choices": [
+            "la population devient plus jeune",
+            "la population devient plus âgée",
+            "la population part à l'étranger"
+          ],
+          "answer": 1,
+          "explain_ko": "vieillissement = 고령화. vieux(늙은)에서 나온 말이에요."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme",
+          "accessed": "2026-10-25"
+        },
+        {
+          "name": "Wikipedia Current events (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_24",
+          "accessed": "2026-10-25"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-25T11:49:35.608Z"
+    },
+    {
+      "id": "2026-10-24-03",
+      "category": "culture",
+      "region": {
+        "country": "DE",
+        "city": "Berchtesgaden",
+        "lat": 47.63,
+        "lng": 13
+      },
+      "headline": {
+        "en": "Fire Largely Destroys Hitler's 'Eagle's Nest' in Germany",
+        "fr": "Allemagne : le « Nid d'aigle » d'Hitler ravagé par un incendie",
+        "ko": "히틀러의 '독수리 둥지', 화재로 대부분 불타"
+      },
+      "hook": {
+        "en": "What happened to Hitler's Eagle's Nest?",
+        "fr": "Que s'est-il passé au Nid d'aigle d'Hitler ?",
+        "ko": "히틀러의 '독수리 둥지'에 무슨 일이?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "A fire badly damaged Hitler's old mountain house in Germany.",
+            "The building is called the Eagle's Nest.",
+            "Police arrested a 33-year-old man."
+          ],
+          "easy_ko": [
+            "독일에 있는 히틀러의 옛 산장이 화재로 크게 부서졌습니다.",
+            "이 건물은 '독수리 둥지'라고 불립니다.",
+            "경찰은 33세 남성을 체포했습니다."
+          ],
+          "normal": [
+            "A fire on Friday night largely destroyed the Eagle's Nest, Adolf Hitler's former mountain retreat in Bavaria, southern Germany.",
+            "About 200 firefighters fought the blaze, but strong wind, rain and snow at 1,834 metres made their work difficult.",
+            "Nobody was injured.",
+            "Police arrested a 33-year-old German man near the scene, and prosecutors say he may have a mental illness.",
+            "Investigators are also looking at a possible political motive.",
+            "The Nazis built the Eagle's Nest in the late 1930s, and since 1952 it has housed a history exhibition and a restaurant for tourists.",
+            "Bavaria's interior minister said the building would not be left as a ruin, because remembering the Nazi past is important."
+          ],
+          "normal_ko": [
+            "금요일 밤 화재로 아돌프 히틀러가 쓰던 독일 남부 바이에른주의 산장 '독수리 둥지'가 대부분 불탔습니다.",
+            "소방관 약 200명이 불을 껐지만, 해발 1,834m의 강한 바람과 비, 눈 때문에 작업이 어려웠습니다.",
+            "다친 사람은 없었습니다.",
+            "경찰은 현장 근처에서 33세 독일 남성을 체포했고, 검찰은 그가 정신 질환을 앓고 있을 수 있다고 밝혔습니다.",
+            "수사관들은 정치적 동기가 있었는지도 살펴보고 있습니다.",
+            "나치는 1930년대 말 독수리 둥지를 지었고, 1952년부터 이곳에는 역사 전시관과 관광객을 위한 식당이 있었습니다.",
+            "바이에른주 내무장관은 나치의 과거를 기억하는 일이 중요하다며, 건물을 폐허로 남겨 두지 않겠다고 말했습니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Un incendie a gravement endommagé l'ancienne maison de montagne d'Hitler, en Allemagne.",
+            "Le bâtiment s'appelle le « Nid d'aigle ».",
+            "La police a arrêté un homme de 33 ans."
+          ],
+          "easy_ko": [
+            "독일에 있는 히틀러의 옛 산장이 화재로 크게 부서졌습니다.",
+            "이 건물은 '독수리 둥지'라고 불립니다.",
+            "경찰은 33세 남성을 체포했습니다."
+          ],
+          "normal": [
+            "Vendredi soir, un incendie a en grande partie détruit le « Nid d'aigle », l'ancien refuge de montagne d'Adolf Hitler en Bavière, dans le sud de l'Allemagne.",
+            "Environ 200 pompiers sont intervenus, gênés par le vent, la pluie et la neige à 1 834 mètres d'altitude.",
+            "Personne n'a été blessé.",
+            "La police a interpellé près des lieux un Allemand de 33 ans qui, selon le parquet, pourrait souffrir de troubles psychiques.",
+            "Les enquêteurs n'excluent pas non plus un mobile politique.",
+            "Construit par les nazis à la fin des années 1930, le bâtiment abritait depuis 1952 une exposition historique et un restaurant très fréquenté par les touristes.",
+            "Le ministre de l'Intérieur bavarois a promis qu'il ne resterait pas en ruine, au nom du travail de mémoire."
+          ],
+          "normal_ko": [
+            "금요일 밤 화재로 독일 남부 바이에른주에 있는 아돌프 히틀러의 옛 산장 '독수리 둥지'가 대부분 불탔습니다.",
+            "소방관 약 200명이 출동했지만, 해발 1,834m의 바람과 비, 눈이 진화를 방해했습니다.",
+            "다친 사람은 없었습니다.",
+            "경찰은 현장 근처에서 33세 독일 남성을 연행했으며, 검찰은 그가 정신 질환을 앓고 있을 수 있다고 밝혔습니다.",
+            "수사관들은 정치적 동기의 가능성도 배제하지 않고 있습니다.",
+            "1930년대 말 나치가 지은 이 건물에는 1952년부터 역사 전시관과 관광객이 많이 찾는 식당이 있었습니다.",
+            "바이에른주 내무장관은 과거를 기억하는 일을 위해 건물을 폐허로 두지 않겠다고 약속했습니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "'독수리 둥지(켈슈타인하우스)'는 나치가 1930년대 말 해발 약 1,800m 산꼭대기에 지은 건물로, 전쟁 뒤에도 부서지지 않고 남아 역사 전시관과 식당이 있는 관광지가 되었습니다. 독일과 오스트리아에서는 히틀러와 관련된 건물을 보존할지 허물지를 두고 오랫동안 논쟁이 이어지고 있어요. 올해도 베를린의 히틀러 벙커 철거 계획과, 오스트리아의 히틀러 생가를 경찰서로 바꾼 일이 화제가 됐습니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "retreat",
+          "pos": "noun",
+          "ko": "휴양지, 은신처",
+          "example": "They have a small retreat in the mountains.",
+          "example_ko": "그들은 산속에 작은 휴양지가 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "blaze",
+          "pos": "noun",
+          "ko": "큰불",
+          "example": "The blaze lasted all night.",
+          "example_ko": "큰불이 밤새 이어졌어요."
+        },
+        {
+          "lang": "en",
+          "word": "ruin",
+          "pos": "noun",
+          "ko": "폐허",
+          "example": "The old castle is now a ruin.",
+          "example_ko": "그 오래된 성은 이제 폐허예요."
+        },
+        {
+          "lang": "fr",
+          "word": "incendie",
+          "pos": "n. m.",
+          "ko": "화재",
+          "example": "L'incendie a commencé dans la cuisine.",
+          "example_ko": "불은 부엌에서 시작됐어요."
+        },
+        {
+          "lang": "fr",
+          "word": "pompiers",
+          "pos": "n. m. pl.",
+          "ko": "소방관",
+          "example": "Les pompiers sont arrivés très vite.",
+          "example_ko": "소방관들이 아주 빨리 도착했어요."
+        },
+        {
+          "lang": "fr",
+          "word": "travail de mémoire",
+          "pos": "expr.",
+          "ko": "과거를 기억하고 알리는 일",
+          "example": "L'école fait un travail de mémoire sur la guerre.",
+          "example_ko": "학교는 전쟁을 기억하는 교육을 해요."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "What is a \"blaze\"?",
+          "choices": [
+            "A big fire",
+            "A cold wind",
+            "A tall building"
+          ],
+          "answer": 0,
+          "explain_ko": "blaze = 큰불. 보통 fire보다 크고 센 불을 말해요."
+        },
+        {
+          "lang": "fr",
+          "q": "« Les pompiers », ce sont…",
+          "choices": [
+            "des policiers",
+            "des personnes qui éteignent le feu",
+            "des touristes"
+          ],
+          "answer": 1,
+          "explain_ko": "pompier = 소방관. pompe(펌프)에서 나온 말이에요."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
+          "accessed": "2026-10-25"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
+          "accessed": "2026-10-25"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-25T11:49:35.608Z"
+    },
+    {
+      "id": "2026-10-24-04",
+      "category": "health",
+      "region": {
+        "country": "US",
+        "city": "United States",
+        "lat": 39.8,
+        "lng": -98.6
+      },
+      "headline": {
+        "en": "US Birth Rate Falls to Record Low",
+        "fr": "États-Unis : la natalité au plus bas",
+        "ko": "미국 출생률 사상 최저… 30대 이상 출산은 늘어"
+      },
+      "hook": {
+        "en": "Why are Americans having fewer babies?",
+        "fr": "Pourquoi les Américains font-ils moins d'enfants ?",
+        "ko": "미국도 아기가 줄고 있다?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Fewer babies are being born in the United States.",
+            "The birth rate is now the lowest ever.",
+            "But more women over 30 are having babies."
+          ],
+          "easy_ko": [
+            "미국에서 태어나는 아기가 줄고 있습니다.",
+            "출생률은 이제 사상 최저입니다.",
+            "하지만 30세 이상 여성의 출산은 늘고 있습니다."
+          ],
+          "normal": [
+            "The US birth rate fell to its lowest level ever recorded in 2025, according to a new report from the Centers for Disease Control and Prevention (CDC).",
+            "The general fertility rate dropped by 1%, continuing a trend that has lasted about two decades.",
+            "The biggest fall was among younger women: the birth rate for women aged 20 to 24 dropped by 6%.",
+            "At the same time, slightly more women aged 30 to 45 are having babies, as many build careers before becoming mothers.",
+            "A recent study found that young women today are much less likely to want children, pointing to rising costs and changing priorities.",
+            "The number of Americans under 18 fell by more than a million between 2010 and 2020.",
+            "Some experts say people might have more children if housing, childcare and health insurance were more affordable."
+          ],
+          "normal_ko": [
+            "미국 질병통제예방센터(CDC)의 새 보고서에 따르면, 2025년 미국 출생률이 기록상 가장 낮은 수준으로 떨어졌습니다.",
+            "일반 출산율은 1% 줄었고, 약 20년 동안 이어진 하락 흐름이 계속됐습니다.",
+            "가장 크게 줄어든 것은 젊은 여성으로, 20~24세 여성의 출생률은 6% 떨어졌습니다.",
+            "한편 많은 여성이 경력을 쌓은 뒤 엄마가 되면서, 30~45세 여성의 출산은 조금 늘었습니다.",
+            "최근 한 연구는 오늘날 젊은 여성들이 아이를 원하는 경우가 훨씬 적다며, 늘어나는 비용과 달라진 삶의 우선순위를 이유로 들었습니다.",
+            "18세 미만 미국인은 2010년부터 2020년 사이 100만 명 넘게 줄었습니다.",
+            "일부 전문가들은 집값, 육아, 건강보험 비용이 더 감당할 만하다면 사람들이 아이를 더 낳을 수 있다고 말합니다."
+          ],
+          "normal_paras": [
+            2,
+            3,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Il naît de moins en moins de bébés aux États-Unis.",
+            "Le taux de natalité est le plus bas jamais enregistré.",
+            "Mais plus de femmes de plus de 30 ans ont des enfants."
+          ],
+          "easy_ko": [
+            "미국에서 태어나는 아기가 점점 줄고 있습니다.",
+            "출생률은 기록상 가장 낮습니다.",
+            "하지만 30세 이상 여성의 출산은 늘고 있습니다."
+          ],
+          "normal": [
+            "Le taux de natalité américain est tombé en 2025 à son plus bas niveau historique, selon un nouveau rapport des Centres de contrôle et de prévention des maladies (CDC).",
+            "Le taux de fécondité général a reculé de 1 %, prolongeant une tendance qui dure depuis une vingtaine d'années.",
+            "La baisse la plus forte concerne les jeunes femmes : chez les 20-24 ans, la natalité a chuté de 6 %.",
+            "Dans le même temps, un peu plus de femmes de 30 à 45 ans ont des enfants, beaucoup choisissant de construire leur carrière avant de devenir mères.",
+            "Selon une étude récente, les jeunes femmes d'aujourd'hui veulent nettement moins d'enfants, notamment à cause de la hausse des coûts et de nouvelles priorités.",
+            "Le nombre d'Américains de moins de 18 ans a diminué de plus d'un million entre 2010 et 2020.",
+            "Certains experts estiment que les familles auraient davantage d'enfants si le logement, la garde d'enfants et l'assurance santé étaient plus abordables."
+          ],
+          "normal_ko": [
+            "미국 질병통제예방센터(CDC)의 새 보고서에 따르면, 2025년 미국 출생률이 역대 최저로 떨어졌습니다.",
+            "일반 출산율은 1% 줄어, 약 20년째 이어진 하락 흐름이 계속됐습니다.",
+            "가장 크게 줄어든 것은 젊은 여성으로, 20~24세의 출생률은 6% 급감했습니다.",
+            "한편 많은 여성이 경력을 먼저 쌓은 뒤 엄마가 되기로 하면서, 30~45세 여성의 출산은 조금 늘었습니다.",
+            "최근 한 연구에 따르면 요즘 젊은 여성들은 비용 상승과 달라진 우선순위 때문에 아이를 훨씬 덜 원합니다.",
+            "18세 미만 미국인은 2010년부터 2020년 사이 100만 명 넘게 줄었습니다.",
+            "일부 전문가들은 주거, 육아, 건강보험 비용이 더 적당하다면 가정들이 아이를 더 낳을 것이라고 봅니다."
+          ],
+          "normal_paras": [
+            2,
+            3,
+            2
+          ]
+        }
+      },
+      "ko_note": "미국의 출생률 하락은 한국보다 훨씬 완만하지만, 20대 출산이 줄고 30~40대 출산이 늘어나는 흐름은 한국과 비슷합니다. 미국 질병통제예방센터(CDC)는 매년 출생 통계를 발표하는 정부 기관이에요. 미국의 중위 연령도 2025년 39.4세로 빠르게 높아지고 있습니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "birth rate",
+          "pos": "phrase",
+          "ko": "출생률",
+          "example": "The birth rate in Korea is very low.",
+          "example_ko": "한국의 출생률은 매우 낮아요."
+        },
+        {
+          "lang": "en",
+          "word": "record low",
+          "pos": "phrase",
+          "ko": "사상 최저",
+          "example": "The price hit a record low last week.",
+          "example_ko": "지난주 가격이 사상 최저를 기록했어요."
+        },
+        {
+          "lang": "en",
+          "word": "affordable",
+          "pos": "adj",
+          "ko": "(가격이) 감당할 수 있는",
+          "example": "We need more affordable homes.",
+          "example_ko": "감당할 수 있는 가격의 집이 더 필요해요."
+        },
+        {
+          "lang": "fr",
+          "word": "taux de natalité",
+          "pos": "n. m.",
+          "ko": "출생률",
+          "example": "Le taux de natalité baisse en Europe.",
+          "example_ko": "유럽의 출생률이 떨어지고 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "naître",
+          "pos": "v.",
+          "ko": "태어나다",
+          "example": "Mon fils est né en mai.",
+          "example_ko": "제 아들은 5월에 태어났어요."
+        },
+        {
+          "lang": "fr",
+          "word": "abordable",
+          "pos": "adj.",
+          "ko": "(가격이) 적당한",
+          "example": "Ce restaurant est très abordable.",
+          "example_ko": "이 식당은 가격이 아주 적당해요."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "What does \"record low\" mean?",
+          "choices": [
+            "The lowest ever",
+            "A new song",
+            "Very high"
+          ],
+          "answer": 0,
+          "explain_ko": "record low = 사상 최저. 반대말은 record high(사상 최고)예요."
+        },
+        {
+          "lang": "fr",
+          "q": "« Abordable » veut dire…",
+          "choices": [
+            "très cher",
+            "pas trop cher",
+            "gratuit"
+          ],
+          "answer": 1,
+          "explain_ko": "abordable = (가격이) 적당한, 감당할 수 있는."
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
+          "accessed": "2026-10-25"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-25T11:49:35.608Z"
+    },
+    {
+      "id": "2026-10-24-05",
+      "category": "environment",
+      "region": {
+        "country": "KR",
+        "city": "Busan",
+        "lat": 35.1,
+        "lng": 129.04
+      },
+      "headline": {
+        "en": "Busan's Celebrity Shark Finally Heads Back to Sea",
+        "fr": "Corée du Sud : le requin star de Busan regagne enfin la mer",
+        "ko": "부산 '부캉이' 상어, 드디어 바다로"
+      },
+      "hook": {
+        "en": "Why did 1.6 million people visit a shark?",
+        "fr": "Pourquoi 1,6 million de personnes sont venues voir un requin ?",
+        "ko": "부산 상어 '부캉이', BBC도 주목했다?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "A big shark got stuck in a canal in Busan, South Korea.",
+            "More than 1.6 million people came to see her.",
+            "Now she seems to be back in the sea."
+          ],
+          "easy_ko": [
+            "커다란 상어가 한국 부산의 수로에 갇혔습니다.",
+            "160만 명이 넘는 사람들이 상어를 보러 왔습니다.",
+            "이제 상어는 바다로 돌아간 것 같습니다."
+          ],
+          "normal": [
+            "In mid-September, a large female dusky shark swam into a narrow canal in Busan, South Korea's busy port city.",
+            "Fans named her Bukangi, after the nearby harbour, and more than 1.6 million people came to see her.",
+            "The city even livestreamed the shark and made her its official mascot.",
+            "But experts were worried, because the shallow concrete canal was no place for a wild animal, and she was hurting her snout on the walls.",
+            "Several rescue attempts failed, as Bukangi kept swimming back into the canal.",
+            "The oceans ministry says warmer seas may explain why more large sharks are appearing near South Korea.",
+            "This week, about 40 rescuers, including divers, used nets to guide her toward the open sea.",
+            "She has not been seen for several days, which experts say is a good sign."
+          ],
+          "normal_ko": [
+            "9월 중순, 커다란 암컷 흑기흉상어 한 마리가 한국의 항구 도시 부산의 좁은 수로로 들어왔습니다.",
+            "팬들은 근처 항구(북항)의 이름을 따 '부캉이'라는 이름을 붙였고, 160만 명이 넘는 사람이 상어를 보러 왔습니다.",
+            "부산시는 상어를 생중계하고 공식 마스코트로 삼기까지 했습니다.",
+            "하지만 전문가들은 얕은 콘크리트 수로가 야생 동물이 살 곳이 아니고, 상어가 벽에 주둥이를 다치고 있다며 걱정했습니다.",
+            "부캉이가 계속 수로로 돌아오면서 여러 차례의 구조 시도가 실패했습니다.",
+            "해양수산부는 바닷물이 따뜻해진 것이 한국 근처에 큰 상어가 늘어난 이유일 수 있다고 봅니다.",
+            "이번 주 잠수부를 포함한 구조대 약 40명이 그물로 상어를 넓은 바다 쪽으로 이끌었습니다.",
+            "며칠째 상어가 보이지 않는데, 전문가들은 좋은 신호라고 말합니다."
+          ],
+          "normal_paras": [
+            3,
+            3,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Une femelle requin s'est retrouvée coincée dans un canal à Busan, en Corée du Sud.",
+            "Plus de 1,6 million de personnes sont venues la voir.",
+            "Elle semble enfin être retournée en mer."
+          ],
+          "easy_ko": [
+            "암컷 상어 한 마리가 한국 부산의 수로에 갇혔습니다.",
+            "160만 명이 넘는 사람들이 상어를 보러 왔습니다.",
+            "이제 상어는 마침내 바다로 돌아간 것 같습니다."
+          ],
+          "normal": [
+            "À la mi-septembre, une grande femelle requin sombre s'est aventurée dans un étroit canal de Busan, grande ville portuaire de Corée du Sud.",
+            "Ses admirateurs l'ont baptisée Bukangi, d'après le port voisin, et plus de 1,6 million de curieux sont venus l'observer.",
+            "La ville l'a même filmée en direct et en a fait sa mascotte officielle.",
+            "Mais les experts s'inquiétaient : ce canal en béton peu profond n'était pas un lieu pour un animal sauvage, et elle se blessait le museau contre les parois.",
+            "Plusieurs tentatives de sauvetage ont échoué, Bukangi revenant sans cesse dans le canal.",
+            "Selon le ministère des Océans, le réchauffement de la mer pourrait expliquer la présence accrue de grands requins près des côtes coréennes.",
+            "Cette semaine, une quarantaine de secouristes, dont des plongeurs, l'ont guidée vers le large à l'aide de filets.",
+            "Elle n'a plus été aperçue depuis plusieurs jours, ce que les experts jugent plutôt bon signe."
+          ],
+          "normal_ko": [
+            "9월 중순, 커다란 암컷 흑기흉상어가 한국의 큰 항구 도시 부산의 좁은 수로로 들어왔습니다.",
+            "팬들은 근처 항구의 이름을 따 '부캉이'라고 불렀고, 160만 명이 넘는 구경꾼이 상어를 보러 왔습니다.",
+            "부산시는 상어를 생중계하고 공식 마스코트로 삼기까지 했습니다.",
+            "하지만 전문가들은 얕은 콘크리트 수로가 야생 동물이 있을 곳이 아니며, 상어가 벽에 주둥이를 다치고 있다고 걱정했습니다.",
+            "부캉이가 계속 수로로 돌아오면서 여러 번의 구조 시도가 실패했습니다.",
+            "해양수산부는 바닷물 온도 상승이 한국 해안 근처에 큰 상어가 늘어난 이유일 수 있다고 봅니다.",
+            "이번 주 잠수부를 포함한 구조대 약 40명이 그물로 상어를 먼바다 쪽으로 이끌었습니다.",
+            "며칠째 상어가 목격되지 않고 있는데, 전문가들은 오히려 좋은 신호로 봅니다."
+          ],
+          "normal_paras": [
+            3,
+            3,
+            2
+          ]
+        }
+      },
+      "ko_note": "부산 북항 근처 수로에 나타난 '부캉이'는 9월부터 한 달 넘게 화제가 된 흑기흉상어(dusky shark)입니다. 이 이야기를 BBC가 세계 뉴스로 자세히 소개했어요. 이미 잘 아는 이야기를 영어와 프랑스어로 읽어 보면 훨씬 쉽게 이해됩니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "canal",
+          "pos": "noun",
+          "ko": "운하, 수로",
+          "example": "Boats move slowly along the canal.",
+          "example_ko": "배들이 운하를 따라 천천히 움직여요."
+        },
+        {
+          "lang": "en",
+          "word": "rescue",
+          "pos": "noun",
+          "ko": "구조",
+          "example": "The rescue took three hours.",
+          "example_ko": "구조는 세 시간이 걸렸어요."
+        },
+        {
+          "lang": "en",
+          "word": "mascot",
+          "pos": "noun",
+          "ko": "마스코트",
+          "example": "The team's mascot is a tiger.",
+          "example_ko": "그 팀의 마스코트는 호랑이예요."
+        },
+        {
+          "lang": "fr",
+          "word": "requin",
+          "pos": "n. m.",
+          "ko": "상어",
+          "example": "Le requin nage près de la plage.",
+          "example_ko": "상어가 해변 가까이에서 헤엄쳐요."
+        },
+        {
+          "lang": "fr",
+          "word": "coincé",
+          "pos": "adj.",
+          "ko": "갇힌, 꼼짝 못 하는",
+          "example": "Je suis coincé dans les bouchons.",
+          "example_ko": "교통 체증에 갇혀 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "sauvetage",
+          "pos": "n. m.",
+          "ko": "구조",
+          "example": "Le sauvetage a duré toute la nuit.",
+          "example_ko": "구조 작업은 밤새 이어졌어요."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "What does \"rescue\" mean?",
+          "choices": [
+            "Saving someone from danger",
+            "Selling something",
+            "Building a house"
+          ],
+          "answer": 0,
+          "explain_ko": "rescue = 구조(하다). 위험에서 구해 내는 것이에요."
+        },
+        {
+          "lang": "fr",
+          "q": "« Coincé » veut dire…",
+          "choices": [
+            "libre",
+            "bloqué, qui ne peut pas sortir",
+            "heureux"
+          ],
+          "answer": 1,
+          "explain_ko": "coincé = 갇힌, 꼼짝 못 하는. 교통 체증에도 자주 써요."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo",
+          "accessed": "2026-10-25"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-25T11:49:35.608Z"
+    }
+  ]
+}

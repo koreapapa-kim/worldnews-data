@@ -1,0 +1,53 @@
+{
+  "schema": 1,
+  "days": [
+    {
+      "date": "2026-10-24",
+      "count": 5,
+      "headlines": [
+        {
+          "id": "2026-10-24-01",
+          "ko": "프랑스 수십만 명 '물가 시위'… 1,300여 명 체포",
+          "en": "Hundreds of Thousands March Across France Over Cost of Living",
+          "fr": "Vie chère : des centaines de milliers de manifestants en France",
+          "category": "politics",
+          "country": "FR"
+        },
+        {
+          "id": "2026-10-24-02",
+          "ko": "마드리드 2만 5천 명 '연금 지키자' 행진",
+          "en": "25,000 March in Madrid to Protect State Pensions",
+          "fr": "Madrid : 25 000 manifestants pour défendre les retraites",
+          "category": "economy",
+          "country": "ES"
+        },
+        {
+          "id": "2026-10-24-03",
+          "ko": "히틀러의 '독수리 둥지', 화재로 대부분 불타",
+          "en": "Fire Largely Destroys Hitler's 'Eagle's Nest' in Germany",
+          "fr": "Allemagne : le « Nid d'aigle » d'Hitler ravagé par un incendie",
+          "category": "culture",
+          "country": "DE"
+        },
+        {
+          "id": "2026-10-24-04",
+          "ko": "미국 출생률 사상 최저… 30대 이상 출산은 늘어",
+          "en": "US Birth Rate Falls to Record Low",
+          "fr": "États-Unis : la natalité au plus bas",
+          "category": "health",
+          "country": "US"
+        },
+        {
+          "id": "2026-10-24-05",
+          "ko": "부산 '부캉이' 상어, 드디어 바다로",
+          "en": "Busan's Celebrity Shark Finally Heads Back to Sea",
+          "fr": "Corée du Sud : le requin star de Busan regagne enfin la mer",
+          "category": "environment",
+          "country": "KR"
+        }
+      ]
+    }
+  ],
+  "latest": "2026-10-24",
+  "updated_at": "2026-10-25T11:54:36.946Z"
+}
