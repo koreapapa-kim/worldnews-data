@@ -2,6 +2,52 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-10-25",
+      "count": 5,
+      "headlines": [
+        {
+          "id": "2026-10-25-01",
+          "ko": "세르비아 12년 집권 부치치, 학생 운동에 선거 패배",
+          "en": "Students Defeat Serbia's Long-Time Leader Vučić at the Ballot Box",
+          "fr": "Serbie : Aleksandar Vučić battu dans les urnes par le mouvement étudiant",
+          "category": "politics",
+          "country": "RS"
+        },
+        {
+          "id": "2026-10-25-02",
+          "ko": "프랑스 대선 1위 르펜, 시위 정국 속 첫 유세",
+          "en": "Le Pen Kicks Off Her Presidential Campaign as France Faces Unrest",
+          "fr": "Présidentielle : Marine Le Pen lance sa campagne à Orléans",
+          "category": "politics",
+          "country": "FR"
+        },
+        {
+          "id": "2026-10-25-03",
+          "ko": "폭풍 '보엘로' 영국 강타… 2명 숨지고 대규모 정전",
+          "en": "Storm Boelo Batters the UK, Leaving Two Dead and Homes Without Power",
+          "fr": "Royaume-Uni : la tempête Boelo fait deux morts et prive des centaines de milliers de foyers d'électricité",
+          "category": "disaster",
+          "country": "GB"
+        },
+        {
+          "id": "2026-10-25-04",
+          "ko": "40년 기다린 시드니 제2공항, 드디어 문 열었다",
+          "en": "After 40 Years of Waiting, Sydney Opens Its Second Airport",
+          "fr": "Australie : après 40 ans d'attente, Sydney inaugure son deuxième aéroport",
+          "category": "economy",
+          "country": "AU"
+        },
+        {
+          "id": "2026-10-25-05",
+          "ko": "책 대신 캠핑 장비를 빌려준다? 미국 첫 '자연 도서관'",
+          "en": "At This Colorado Library, You Can Check Out Nature",
+          "fr": "États-Unis : dans cette bibliothèque du Colorado, on emprunte la nature",
+          "category": "culture",
+          "country": "US"
+        }
+      ]
+    },
+    {
       "date": "2026-10-24",
       "count": 5,
       "headlines": [
@@ -48,6 +94,6 @@
       ]
     }
   ],
-  "latest": "2026-10-24",
-  "updated_at": "2026-10-25T13:25:09.296Z"
+  "latest": "2026-10-25",
+  "updated_at": "2026-10-26T07:21:27.632Z"
 }

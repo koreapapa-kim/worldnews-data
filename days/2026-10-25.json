@@ -1,0 +1,2063 @@
+{
+  "schema": 1,
+  "date": "2026-10-25",
+  "stories": [
+    {
+      "id": "2026-10-25-01",
+      "category": "politics",
+      "region": {
+        "country": "RS",
+        "city": "Belgrade",
+        "lat": 44.79,
+        "lng": 20.45
+      },
+      "headline": {
+        "en": "Students Defeat Serbia's Long-Time Leader Vučić at the Ballot Box",
+        "fr": "Serbie : Aleksandar Vučić battu dans les urnes par le mouvement étudiant",
+        "ko": "세르비아 12년 집권 부치치, 학생 운동에 선거 패배"
+      },
+      "hook": {
+        "en": "Who won Serbia's big election?",
+        "fr": "Qui a gagné les élections en Serbie ?",
+        "ko": "세르비아 선거, 누가 이겼을까?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Serbia's leader, Aleksandar Vučić, lost an election on Sunday.",
+            "A group started by students won the most seats.",
+            "People celebrated in the streets of Belgrade."
+          ],
+          "easy_ko": [
+            "세르비아의 지도자 알렉산다르 부치치가 일요일 선거에서 졌습니다.",
+            "학생들이 만든 단체가 가장 많은 의석을 얻었습니다.",
+            "사람들은 베오그라드 거리에서 기뻐했습니다."
+          ],
+          "normal": [
+            "Serbia's long-time leader, Aleksandar Vučić, conceded defeat on Sunday after a snap parliamentary election.",
+            "Early results suggest a list of candidates backed by a student protest movement will win about 138 of the 250 seats, while his party is set to get around 104.",
+            "Turnout was close to 70%, the highest since the breakup of Yugoslavia in 1992.",
+            "The protests began in November 2024, when a concrete canopy collapsed at a railway station in Novi Sad and killed 16 people.",
+            "Students blamed corruption for the disaster, and their marches grew into the country's biggest movement in a generation.",
+            "Within minutes of Vučić's speech, cars honked and crowds shouted \"victory\" in the streets of Belgrade.",
+            "It is still unclear who will become prime minister, and the new government will have to balance ties with the EU, Russia and China."
+          ],
+          "normal_ko": [
+            "세르비아를 오랫동안 이끈 알렉산다르 부치치가 일요일 조기 총선 뒤 패배를 인정했습니다.",
+            "초기 결과에 따르면 학생 시위 운동이 지지하는 후보 명단이 250석 가운데 약 138석을 얻고, 그의 정당은 약 104석에 그칠 것으로 보입니다.",
+            "투표율은 70%에 가까워, 1992년 유고슬라비아가 해체된 뒤 가장 높았습니다.",
+            "시위는 2024년 11월 노비사드의 기차역에서 콘크리트 지붕이 무너져 16명이 숨지면서 시작됐습니다.",
+            "학생들은 참사의 원인으로 부패를 지목했고, 이들의 행진은 한 세대 만에 가장 큰 운동으로 커졌습니다.",
+            "부치치의 연설이 끝나자마자 베오그라드 거리에서는 자동차들이 경적을 울리고 사람들이 \"승리\"를 외쳤습니다.",
+            "누가 총리가 될지는 아직 분명하지 않고, 새 정부는 EU·러시아·중국과의 관계 사이에서 균형을 잡아야 합니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Le dirigeant serbe Aleksandar Vučić a perdu les élections dimanche.",
+            "Une liste créée par des étudiants a obtenu le plus de sièges.",
+            "Les habitants ont fait la fête dans les rues de Belgrade."
+          ],
+          "easy_ko": [
+            "세르비아 지도자 알렉산다르 부치치가 일요일 선거에서 졌습니다.",
+            "학생들이 만든 후보 명단이 가장 많은 의석을 얻었습니다.",
+            "주민들은 베오그라드 거리에서 축제를 벌였습니다."
+          ],
+          "normal": [
+            "Le dirigeant serbe Aleksandar Vučić a reconnu sa défaite dimanche, à l'issue d'élections législatives anticipées.",
+            "Selon les premiers résultats, la liste soutenue par le mouvement étudiant obtiendrait environ 138 des 250 sièges, contre près de 104 pour son parti.",
+            "Le taux de participation a frôlé les 70 %, du jamais vu depuis l'éclatement de la Yougoslavie en 1992.",
+            "La contestation est née en novembre 2024, quand l'auvent en béton d'une gare de Novi Sad s'est effondré, faisant 16 morts.",
+            "Les étudiants ont dénoncé la corruption, et leurs marches sont devenues le plus grand mouvement du pays depuis une génération.",
+            "Quelques minutes après le discours de Vučić, les rues de Belgrade ont résonné de klaxons et de cris de « victoire ».",
+            "On ne sait pas encore qui sera Premier ministre, et le nouveau gouvernement devra ménager ses relations avec l'UE, la Russie et la Chine."
+          ],
+          "normal_ko": [
+            "세르비아 지도자 알렉산다르 부치치가 일요일 조기 총선이 끝난 뒤 패배를 인정했습니다.",
+            "초기 결과에 따르면 학생 운동이 지지하는 명단이 250석 가운데 약 138석을 얻고, 그의 정당은 약 104석을 얻을 것으로 보입니다.",
+            "투표율은 70%에 육박해, 1992년 유고슬라비아 해체 이후 처음 보는 수준이었습니다.",
+            "시위는 2024년 11월 노비사드의 한 기차역에서 콘크리트 차양이 무너져 16명이 숨지면서 시작됐습니다.",
+            "학생들은 부패를 고발했고, 이들의 행진은 한 세대 만에 이 나라에서 가장 큰 운동이 됐습니다.",
+            "부치치의 연설 몇 분 뒤, 베오그라드 거리에는 경적 소리와 \"승리\"를 외치는 소리가 울려 퍼졌습니다.",
+            "누가 총리가 될지는 아직 알 수 없고, 새 정부는 EU·러시아·중국과의 관계를 잘 조율해야 합니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "세르비아는 EU 가입을 신청한 발칸반도의 나라로, 부치치는 2014년부터 총리나 대통령으로 나라를 이끌어 왔습니다. 2024년 노비사드역 지붕 붕괴 참사 뒤 학생들은 부실 공사와 부패가 참사를 불렀다며 2년 가까이 시위를 이어 갔고, 결국 직접 후보 250명을 내세워 선거에서 이겼어요. 교수·배우·농부 등 정치 경험이 거의 없는 사람들이라 앞으로 어떻게 나라를 이끌지는 지켜봐야 합니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "long-time",
+          "pos": "adjective",
+          "ko": "오랜, 오랫동안의",
+          "example": "She is my long-time friend.",
+          "example_ko": "그녀는 제 오랜 친구예요.",
+          "note_ko": "명사 앞에 써요. long-time leader = 오래 집권한 지도자."
+        },
+        {
+          "lang": "en",
+          "word": "concede defeat",
+          "pos": "phrase",
+          "ko": "패배를 인정하다",
+          "example": "The team conceded defeat after the second goal.",
+          "example_ko": "그 팀은 두 번째 골을 내준 뒤 패배를 인정했어요.",
+          "note_ko": "선거 기사의 단골 표현. concede만 써도 '패배를 인정하다'라는 뜻이 돼요."
+        },
+        {
+          "lang": "en",
+          "word": "snap election",
+          "pos": "noun",
+          "ko": "조기 선거",
+          "example": "The prime minister called a snap election.",
+          "example_ko": "총리가 조기 선거를 실시하기로 했어요.",
+          "note_ko": "snap = 갑작스러운. call an election = 선거를 실시하기로 하다."
+        },
+        {
+          "lang": "en",
+          "word": "lose",
+          "pos": "verb",
+          "ko": "지다, 잃다",
+          "example": "We lost the game by one point.",
+          "example_ko": "우리는 1점 차로 경기에서 졌어요.",
+          "note_ko": "과거형 lost. 반대는 win(이기다), 과거형 won."
+        },
+        {
+          "lang": "en",
+          "word": "seat",
+          "pos": "noun",
+          "ko": "의석, 자리",
+          "example": "The party won 20 seats.",
+          "example_ko": "그 정당은 20석을 얻었어요.",
+          "note_ko": "의회에서는 '의석'. win seats = 의석을 얻다."
+        },
+        {
+          "lang": "en",
+          "word": "turnout",
+          "pos": "noun",
+          "ko": "투표율, 참가자 수",
+          "example": "Turnout was low because of the rain.",
+          "example_ko": "비 때문에 투표율이 낮았어요.",
+          "note_ko": "turn out(나오다, 모이다)에서 온 명사. 행사 참가자 수에도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "breakup",
+          "pos": "noun",
+          "ko": "해체, 결별",
+          "example": "Their breakup was very sad.",
+          "example_ko": "그들의 이별은 정말 슬펐어요.",
+          "note_ko": "나라의 해체에도, 연인의 이별에도 써요. 동사는 break up."
+        },
+        {
+          "lang": "en",
+          "word": "collapse",
+          "pos": "verb",
+          "ko": "무너지다, 붕괴하다",
+          "example": "The old bridge collapsed in the storm.",
+          "example_ko": "오래된 다리가 폭풍에 무너졌어요.",
+          "note_ko": "명사로도 같은 모양: the collapse of the roof(지붕 붕괴)."
+        },
+        {
+          "lang": "en",
+          "word": "blame",
+          "pos": "verb",
+          "ko": "~의 탓으로 돌리다",
+          "example": "Don't blame me for your mistake.",
+          "example_ko": "네 실수를 내 탓으로 돌리지 마.",
+          "note_ko": "blame A for B = B를 A 탓으로 돌리다. 기사에서는 blame B on A도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "corruption",
+          "pos": "noun",
+          "ko": "부패",
+          "example": "People are angry about corruption.",
+          "example_ko": "사람들은 부패에 화가 나 있어요.",
+          "note_ko": "형용사는 corrupt(부패한)."
+        },
+        {
+          "lang": "en",
+          "word": "in a generation",
+          "pos": "phrase",
+          "ko": "한 세대 만에, 수십 년 만에",
+          "example": "It was the worst storm in a generation.",
+          "example_ko": "수십 년 만에 가장 심한 폭풍이었어요.",
+          "note_ko": "the biggest ... in a generation = 한 세대 만에 가장 큰 ..."
+        },
+        {
+          "lang": "en",
+          "word": "within minutes of",
+          "pos": "phrase",
+          "ko": "~하고 몇 분 만에",
+          "example": "Within minutes of the news, the shop was full.",
+          "example_ko": "그 소식이 나오고 몇 분 만에 가게가 꽉 찼어요.",
+          "note_ko": "within = ~안에. within hours of(몇 시간 만에)도 자주 써요."
+        },
+        {
+          "lang": "en",
+          "word": "celebrate",
+          "pos": "verb",
+          "ko": "축하하다, 기념하다",
+          "example": "We celebrated her birthday at home.",
+          "example_ko": "우리는 집에서 그녀의 생일을 축하했어요.",
+          "note_ko": "명사는 celebration(축하 행사)."
+        },
+        {
+          "lang": "en",
+          "word": "prime minister",
+          "pos": "noun",
+          "ko": "총리",
+          "example": "The prime minister met the king.",
+          "example_ko": "총리가 국왕을 만났어요.",
+          "note_ko": "약자 PM. 대통령은 president."
+        },
+        {
+          "lang": "en",
+          "word": "balance",
+          "pos": "verb",
+          "ko": "균형을 잡다",
+          "example": "It is hard to balance work and family.",
+          "example_ko": "일과 가정의 균형을 잡기는 어려워요.",
+          "note_ko": "balance ties with A and B = A, B와의 관계 사이에서 균형을 잡다."
+        },
+        {
+          "lang": "fr",
+          "word": "dirigeant",
+          "pos": "nom m.",
+          "ko": "지도자",
+          "example": "Les dirigeants européens se réunissent à Bruxelles.",
+          "example_ko": "유럽 지도자들이 브뤼셀에 모여요.",
+          "note_ko": "여성형 dirigeante. 동사 diriger(이끌다)에서 왔어요."
+        },
+        {
+          "lang": "fr",
+          "word": "perdre",
+          "pos": "verbe",
+          "ko": "지다, 잃다",
+          "example": "J'ai perdu mes clés.",
+          "example_ko": "열쇠를 잃어버렸어요.",
+          "note_ko": "과거분사 perdu. 반대는 gagner(이기다)."
+        },
+        {
+          "lang": "fr",
+          "word": "reconnaître sa défaite",
+          "pos": "expr.",
+          "ko": "패배를 인정하다",
+          "example": "Le candidat a reconnu sa défaite à minuit.",
+          "example_ko": "그 후보는 자정에 패배를 인정했어요.",
+          "note_ko": "reconnaître = 인정하다, 알아보다. 영어 concede defeat."
+        },
+        {
+          "lang": "fr",
+          "word": "législatives anticipées",
+          "pos": "nom f. pl.",
+          "ko": "조기 총선",
+          "example": "Le président a annoncé des législatives anticipées.",
+          "example_ko": "대통령이 조기 총선을 발표했어요.",
+          "note_ko": "législatives = 국회의원 선거(élections législatives). anticipé = 앞당긴."
+        },
+        {
+          "lang": "fr",
+          "word": "siège",
+          "pos": "nom m.",
+          "ko": "의석, 좌석",
+          "example": "Ce parti a gagné dix sièges.",
+          "example_ko": "이 정당은 10석을 얻었어요.",
+          "note_ko": "기차 좌석도 siège. 회사 본사는 siège social."
+        },
+        {
+          "lang": "fr",
+          "word": "faire la fête",
+          "pos": "expr.",
+          "ko": "축제를 벌이다, 신나게 놀다",
+          "example": "On a fait la fête toute la nuit.",
+          "example_ko": "우리는 밤새 신나게 놀았어요.",
+          "note_ko": "la fête = 축제, 파티. faire la fête는 일상 회화에서 아주 자주 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "à l'issue de",
+          "pos": "expr.",
+          "ko": "~이 끝난 뒤",
+          "example": "À l'issue de la réunion, il est parti.",
+          "example_ko": "회의가 끝난 뒤 그는 떠났어요.",
+          "note_ko": "기사 표현. 일상에서는 après."
+        },
+        {
+          "lang": "fr",
+          "word": "taux de participation",
+          "pos": "nom m.",
+          "ko": "투표율",
+          "example": "Le taux de participation était très élevé.",
+          "example_ko": "투표율이 아주 높았어요.",
+          "note_ko": "반대말은 taux d'abstention(기권율)."
+        },
+        {
+          "lang": "fr",
+          "word": "frôler",
+          "pos": "verbe",
+          "ko": "~에 육박하다, 스치다",
+          "example": "La température a frôlé les 40 degrés.",
+          "example_ko": "기온이 40도에 육박했어요.",
+          "note_ko": "원래 뜻은 '살짝 스치다'. 숫자 앞에서는 '거의 ~에 이르다'."
+        },
+        {
+          "lang": "fr",
+          "word": "éclatement",
+          "pos": "nom m.",
+          "ko": "해체, 분열",
+          "example": "L'éclatement de l'URSS date de 1991.",
+          "example_ko": "소련 해체는 1991년이에요.",
+          "note_ko": "동사 éclater = 터지다, 갈라지다."
+        },
+        {
+          "lang": "fr",
+          "word": "s'effondrer",
+          "pos": "verbe",
+          "ko": "무너지다",
+          "example": "Le toit s'est effondré pendant la nuit.",
+          "example_ko": "밤사이 지붕이 무너졌어요.",
+          "note_ko": "명사 effondrement(붕괴). 가격 폭락에도 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "faire ... morts",
+          "pos": "expr.",
+          "ko": "(사고가) ~명의 사망자를 내다",
+          "example": "L'accident a fait trois morts.",
+          "example_ko": "그 사고로 3명이 숨졌어요.",
+          "note_ko": "faire 16 morts = 16명이 숨지다. faire des blessés = 부상자를 내다."
+        },
+        {
+          "lang": "fr",
+          "word": "dénoncer",
+          "pos": "verbe",
+          "ko": "고발하다, 규탄하다",
+          "example": "Les habitants dénoncent le bruit.",
+          "example_ko": "주민들이 소음을 규탄해요.",
+          "note_ko": "영어 denounce. 시위 기사에 자주 나와요."
+        },
+        {
+          "lang": "fr",
+          "word": "klaxon",
+          "pos": "nom m.",
+          "ko": "경적",
+          "example": "On entendait des klaxons partout.",
+          "example_ko": "곳곳에서 경적 소리가 들렸어요.",
+          "note_ko": "동사는 klaxonner(경적을 울리다)."
+        },
+        {
+          "lang": "fr",
+          "word": "Premier ministre",
+          "pos": "nom m.",
+          "ko": "총리",
+          "example": "Le Premier ministre parle ce soir.",
+          "example_ko": "총리가 오늘 저녁 연설해요.",
+          "note_ko": "Premier는 대문자로 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "ménager",
+          "pos": "verbe",
+          "ko": "(관계를) 조심스럽게 다루다, 배려하다",
+          "example": "Il faut ménager tes forces.",
+          "example_ko": "힘을 아껴야 해요.",
+          "note_ko": "ménager ses relations avec ~ = ~와의 관계를 신중히 유지하다."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "What does \"turnout\" mean in an election?",
+          "choices": [
+            "The number of people who vote",
+            "The winner's speech",
+            "The number of seats"
+          ],
+          "answer": 0,
+          "explain_ko": "turnout = 투표하러 나온 사람의 비율, 투표율이에요."
+        },
+        {
+          "lang": "fr",
+          "q": "« Faire la fête » veut dire…",
+          "choices": [
+            "travailler beaucoup",
+            "célébrer, s'amuser",
+            "voter"
+          ],
+          "answer": 1,
+          "explain_ko": "faire la fête = 축제를 벌이다, 신나게 놀다."
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+          "accessed": "2026-10-26"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20261025-serbia-s-vucic-concedes-defeat-in-historic-snap-election-with-record-turnout",
+          "accessed": "2026-10-26"
+        },
+        {
+          "name": "CBC News",
+          "url": "https://www.cbc.ca/news/world/serbia-vucic-election-concession-9.7395557",
+          "accessed": "2026-10-26"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-26T07:21:26.973Z"
+    },
+    {
+      "id": "2026-10-25-02",
+      "category": "politics",
+      "region": {
+        "country": "FR",
+        "city": "Orléans",
+        "lat": 47.9,
+        "lng": 1.91
+      },
+      "headline": {
+        "en": "Le Pen Kicks Off Her Presidential Campaign as France Faces Unrest",
+        "fr": "Présidentielle : Marine Le Pen lance sa campagne à Orléans",
+        "ko": "프랑스 대선 1위 르펜, 시위 정국 속 첫 유세"
+      },
+      "hook": {
+        "en": "What did Le Pen promise France?",
+        "fr": "Qu'a promis Marine Le Pen aux Français ?",
+        "ko": "르펜이 첫 유세에서 한 약속은?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Marine Le Pen started her campaign to become France's president.",
+            "She spoke to about 10,000 supporters in the city of Orléans.",
+            "She promised to restore order after weeks of protests."
+          ],
+          "easy_ko": [
+            "마린 르펜이 프랑스 대통령이 되기 위한 선거 운동을 시작했습니다.",
+            "그녀는 오를레앙에서 지지자 약 1만 명 앞에서 연설했습니다.",
+            "그녀는 몇 주째 이어진 시위 뒤에 질서를 되찾겠다고 약속했습니다."
+          ],
+          "normal": [
+            "Marine Le Pen, leader of France's far-right National Rally, kicked off her presidential campaign on Sunday with a speech to about 10,000 supporters in Orléans.",
+            "The rally came a day after more than 400,000 people marched against the rising cost of living, and police made over 1,300 arrests.",
+            "Le Pen vowed to \"restore the rule of law\" and accused President Emmanuel Macron's government of being soft on violent protesters.",
+            "She is the frontrunner for the election next April and May, with one recent poll putting her at 32 to 34 percent in the first round.",
+            "She has promised to cap household energy bills, cut taxes and reduce France's payments to the European Union.",
+            "On Saturday, thousands of counter-protesters marched through Orléans, and the city was guarded by several thousand police officers.",
+            "Unions and Yellow Vest activists say more protests and strikes will follow in the coming weeks."
+          ],
+          "normal_ko": [
+            "프랑스 극우 정당 국민연합(RN)의 대표 마린 르펜이 일요일 오를레앙에서 지지자 약 1만 명 앞에서 연설하며 대선 운동을 시작했습니다.",
+            "이 집회는 40만 명이 넘는 사람이 치솟는 생활비에 항의하며 행진하고, 경찰이 1,300명 넘게 체포한 바로 다음 날 열렸습니다.",
+            "르펜은 \"법치를 회복하겠다\"고 약속하며, 에마뉘엘 마크롱 대통령 정부가 폭력 시위대에 너무 무르다고 비판했습니다.",
+            "그녀는 내년 4~5월 대선의 선두 주자로, 최근 한 여론조사에서는 1차 투표 지지율이 32~34%로 나왔습니다.",
+            "그녀는 가정용 에너지 요금에 상한을 두고, 세금을 낮추고, 프랑스가 유럽연합에 내는 돈을 줄이겠다고 약속했습니다.",
+            "토요일에는 수천 명의 반대 시위대가 오를레앙을 행진했고, 도시는 경찰 수천 명이 지켰습니다.",
+            "노조와 '노란 조끼' 활동가들은 앞으로 몇 주 동안 시위와 파업이 더 이어질 것이라고 말합니다."
+          ],
+          "normal_paras": [
+            2,
+            3,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Marine Le Pen a lancé sa campagne pour l'élection présidentielle.",
+            "Elle a parlé devant environ 10 000 militants à Orléans.",
+            "Elle a promis de rétablir l'ordre après des semaines de manifestations."
+          ],
+          "easy_ko": [
+            "마린 르펜이 대통령 선거 운동을 시작했습니다.",
+            "그녀는 오를레앙에서 당원 약 1만 명 앞에서 연설했습니다.",
+            "그녀는 몇 주째 이어진 시위 뒤에 질서를 되찾겠다고 약속했습니다."
+          ],
+          "normal": [
+            "Marine Le Pen, figure de proue du Rassemblement national, a lancé dimanche sa campagne présidentielle devant quelque 10 000 militants réunis à Orléans.",
+            "Ce meeting intervenait au lendemain de manifestations contre la vie chère qui ont rassemblé plus de 400 000 personnes et donné lieu à plus de 1 300 interpellations.",
+            "La candidate a promis de « rétablir l'État de droit » et reproche au gouvernement d'Emmanuel Macron son laxisme face aux casseurs.",
+            "Favorite du scrutin d'avril et mai prochains, elle est créditée de 32 à 34 % des voix au premier tour selon un récent sondage Ipsos.",
+            "Elle promet notamment de plafonner les factures d'énergie des ménages, de baisser les impôts et de réduire la contribution française au budget européen.",
+            "Samedi, des milliers de contre-manifestants avaient défilé dans les rues d'Orléans, placée sous la surveillance de plusieurs milliers de membres des forces de l'ordre.",
+            "Syndicats et gilets jaunes annoncent de nouvelles manifestations et des grèves dans les semaines à venir."
+          ],
+          "normal_ko": [
+            "국민연합의 간판 인물 마린 르펜이 일요일 오를레앙에 모인 당원 약 1만 명 앞에서 대선 운동을 시작했습니다.",
+            "이 유세는 40만 명이 넘게 모이고 1,300명 넘게 체포된 물가 항의 시위 바로 다음 날 열렸습니다.",
+            "르펜은 \"법치를 회복하겠다\"고 약속하며, 마크롱 정부가 폭력 시위대에 너무 무르다고 비판합니다.",
+            "내년 4~5월 선거의 유력 후보인 그녀는 최근 입소스 여론조사에서 1차 투표 득표율 32~34%로 예상됐습니다.",
+            "그녀는 특히 가정의 에너지 요금에 상한을 두고, 세금을 낮추고, 프랑스의 EU 예산 분담금을 줄이겠다고 약속합니다.",
+            "토요일에는 반대 시위대 수천 명이 오를레앙 거리를 행진했고, 도시는 경찰 병력 수천 명이 지켰습니다.",
+            "노조와 '노란 조끼'는 앞으로 몇 주 동안 새로운 시위와 파업을 예고했습니다."
+          ],
+          "normal_paras": [
+            2,
+            3,
+            2
+          ]
+        }
+      },
+      "ko_note": "프랑스 대통령 선거는 두 번 치릅니다. 1차 투표에서 과반을 얻은 후보가 없으면 상위 두 명이 2주 뒤 결선 투표를 해요. 르펜은 이번이 네 번째 대선 도전이고, 마크롱 대통령은 연임 제한으로 다시 나올 수 없습니다. 기사에서 'far-right(극우)'는 언론들이 국민연합을 부를 때 쓰는 표현이에요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "far-right",
+          "pos": "adjective",
+          "ko": "극우의",
+          "example": "The far-right party won more votes this year.",
+          "example_ko": "그 극우 정당은 올해 더 많은 표를 얻었어요.",
+          "note_ko": "반대는 far-left(극좌의). centre-right(중도우파)도 알아 두세요."
+        },
+        {
+          "lang": "en",
+          "word": "kick off",
+          "pos": "phrasal verb",
+          "ko": "시작하다",
+          "example": "The festival kicks off on Friday.",
+          "example_ko": "축제는 금요일에 시작해요.",
+          "note_ko": "축구 킥오프에서 온 말. 행사·캠페인 시작에 자주 써요."
+        },
+        {
+          "lang": "en",
+          "word": "campaign",
+          "pos": "noun",
+          "ko": "선거 운동, 캠페인",
+          "example": "Her campaign starts next week.",
+          "example_ko": "그녀의 선거 운동은 다음 주에 시작해요.",
+          "note_ko": "presidential campaign = 대선 운동."
+        },
+        {
+          "lang": "en",
+          "word": "supporter",
+          "pos": "noun",
+          "ko": "지지자, 팬",
+          "example": "Thousands of supporters waited outside.",
+          "example_ko": "수천 명의 지지자가 밖에서 기다렸어요.",
+          "note_ko": "스포츠 팬에게도 써요. 동사는 support."
+        },
+        {
+          "lang": "en",
+          "word": "rising cost of living",
+          "pos": "phrase",
+          "ko": "치솟는 생활비",
+          "example": "The rising cost of living worries many families.",
+          "example_ko": "치솟는 생활비가 많은 가정을 걱정하게 해요.",
+          "note_ko": "cost of living = 생활비. 어제 프랑스 시위 기사에도 나왔어요."
+        },
+        {
+          "lang": "en",
+          "word": "vow",
+          "pos": "verb",
+          "ko": "맹세하다, 굳게 약속하다",
+          "example": "He vowed to work harder.",
+          "example_ko": "그는 더 열심히 일하겠다고 다짐했어요.",
+          "note_ko": "vow to + 동사원형. promise보다 강한 말."
+        },
+        {
+          "lang": "en",
+          "word": "restore",
+          "pos": "verb",
+          "ko": "회복하다, 되찾다",
+          "example": "They restored the old church.",
+          "example_ko": "그들은 오래된 교회를 복원했어요.",
+          "note_ko": "restore order = 질서를 되찾다. restore power = 전기를 다시 공급하다."
+        },
+        {
+          "lang": "en",
+          "word": "rule of law",
+          "pos": "noun",
+          "ko": "법치",
+          "example": "Democracy needs the rule of law.",
+          "example_ko": "민주주의에는 법치가 필요해요.",
+          "note_ko": "the를 붙여 the rule of law로 써요."
+        },
+        {
+          "lang": "en",
+          "word": "soft on",
+          "pos": "phrase",
+          "ko": "~에 무른, 관대한",
+          "example": "Some say the school is soft on bullies.",
+          "example_ko": "어떤 사람들은 학교가 괴롭히는 학생들에게 너무 관대하다고 말해요.",
+          "note_ko": "반대는 tough on(~에 엄격한)."
+        },
+        {
+          "lang": "en",
+          "word": "frontrunner",
+          "pos": "noun",
+          "ko": "선두 주자",
+          "example": "She is the frontrunner in the race.",
+          "example_ko": "그녀가 그 경쟁에서 선두 주자예요.",
+          "note_ko": "선거·경쟁에서 앞서가는 사람."
+        },
+        {
+          "lang": "en",
+          "word": "poll",
+          "pos": "noun",
+          "ko": "여론조사",
+          "example": "A new poll shows he is losing.",
+          "example_ko": "새 여론조사에 따르면 그가 지고 있어요.",
+          "note_ko": "the polls는 '투표'라는 뜻도 돼요."
+        },
+        {
+          "lang": "en",
+          "word": "cap",
+          "pos": "verb",
+          "ko": "상한을 두다",
+          "example": "The city capped taxi fares.",
+          "example_ko": "시는 택시 요금에 상한을 뒀어요.",
+          "note_ko": "명사 cap = 모자, 상한. price cap = 가격 상한제."
+        },
+        {
+          "lang": "en",
+          "word": "energy bill",
+          "pos": "noun",
+          "ko": "에너지 요금(전기·가스 요금)",
+          "example": "Our energy bill doubled this winter.",
+          "example_ko": "이번 겨울 우리 집 에너지 요금이 두 배가 됐어요.",
+          "note_ko": "bill = 청구서. phone bill(휴대폰 요금)."
+        },
+        {
+          "lang": "en",
+          "word": "counter-protester",
+          "pos": "noun",
+          "ko": "맞불 시위대, 반대 시위자",
+          "example": "Police kept the counter-protesters apart.",
+          "example_ko": "경찰이 반대 시위대를 떼어 놓았어요.",
+          "note_ko": "counter- = 반대의. counterattack(반격)."
+        },
+        {
+          "lang": "en",
+          "word": "strike",
+          "pos": "noun",
+          "ko": "파업",
+          "example": "The train drivers are on strike.",
+          "example_ko": "기관사들이 파업 중이에요.",
+          "note_ko": "go on strike = 파업하다. 동사로는 '치다, 때리다'."
+        },
+        {
+          "lang": "fr",
+          "word": "lancer sa campagne",
+          "pos": "expr.",
+          "ko": "선거 운동을 시작하다",
+          "example": "Le maire lance sa campagne demain.",
+          "example_ko": "시장은 내일 선거 운동을 시작해요.",
+          "note_ko": "lancer = 던지다, 시작하다. lancer un produit(제품을 출시하다)."
+        },
+        {
+          "lang": "fr",
+          "word": "militant",
+          "pos": "nom m.",
+          "ko": "당원, 활동가",
+          "example": "Les militants distribuent des tracts.",
+          "example_ko": "활동가들이 전단을 나눠 줘요.",
+          "note_ko": "한국어 '극렬 분자' 같은 부정적인 뜻이 아니라 '열성 당원·활동가'예요."
+        },
+        {
+          "lang": "fr",
+          "word": "promettre",
+          "pos": "verbe",
+          "ko": "약속하다",
+          "example": "Je te promets de venir.",
+          "example_ko": "꼭 갈게, 약속해.",
+          "note_ko": "promettre de + 동사원형. 과거분사 promis."
+        },
+        {
+          "lang": "fr",
+          "word": "rétablir l'ordre",
+          "pos": "expr.",
+          "ko": "질서를 되찾다",
+          "example": "La police a rétabli l'ordre dans le quartier.",
+          "example_ko": "경찰이 그 동네의 질서를 되찾았어요.",
+          "note_ko": "rétablir = 되살리다. rétablir le courant(전기를 다시 들어오게 하다)."
+        },
+        {
+          "lang": "fr",
+          "word": "figure de proue",
+          "pos": "nom f.",
+          "ko": "간판 인물, 상징적 인물",
+          "example": "Elle est la figure de proue du mouvement.",
+          "example_ko": "그녀는 그 운동의 간판 인물이에요.",
+          "note_ko": "원래 뜻은 뱃머리 장식. 기사에서 자주 쓰는 비유."
+        },
+        {
+          "lang": "fr",
+          "word": "meeting",
+          "pos": "nom m.",
+          "ko": "(정치) 유세 집회",
+          "example": "Le meeting a duré deux heures.",
+          "example_ko": "유세는 두 시간 동안 이어졌어요.",
+          "note_ko": "프랑스어에서 meeting은 주로 정치 집회. 회의는 réunion."
+        },
+        {
+          "lang": "fr",
+          "word": "au lendemain de",
+          "pos": "expr.",
+          "ko": "~의 다음 날, ~직후",
+          "example": "Au lendemain de la fête, tout était calme.",
+          "example_ko": "축제 다음 날 모든 것이 조용했어요.",
+          "note_ko": "le lendemain = 다음 날. la veille = 전날."
+        },
+        {
+          "lang": "fr",
+          "word": "État de droit",
+          "pos": "nom m.",
+          "ko": "법치 국가, 법치",
+          "example": "Dans un État de droit, la loi est la même pour tous.",
+          "example_ko": "법치 국가에서는 법이 모두에게 같아요.",
+          "note_ko": "État는 대문자(국가). 영어 the rule of law."
+        },
+        {
+          "lang": "fr",
+          "word": "laxisme",
+          "pos": "nom m.",
+          "ko": "지나친 관대함, 무름",
+          "example": "On lui reproche son laxisme.",
+          "example_ko": "사람들은 그의 무른 태도를 비판해요.",
+          "note_ko": "형용사 laxiste. 정치 기사에서 자주 비판의 말로 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "casseur",
+          "pos": "nom m.",
+          "ko": "(시위 중) 기물 파손자, 폭도",
+          "example": "Des casseurs ont brisé des vitrines.",
+          "example_ko": "폭도들이 진열창을 깨뜨렸어요.",
+          "note_ko": "casser(부수다)에서 왔어요."
+        },
+        {
+          "lang": "fr",
+          "word": "favori",
+          "pos": "nom m.",
+          "ko": "유력 후보, 우승 후보",
+          "example": "Cette équipe est la grande favorite.",
+          "example_ko": "이 팀이 가장 유력한 우승 후보예요.",
+          "note_ko": "여성형 favorite. 기사에서 르펜을 la favorite라고 불러요."
+        },
+        {
+          "lang": "fr",
+          "word": "sondage",
+          "pos": "nom m.",
+          "ko": "여론조사",
+          "example": "Selon un sondage, il est en tête.",
+          "example_ko": "한 여론조사에 따르면 그가 선두예요.",
+          "note_ko": "être en tête des sondages = 여론조사 1위다."
+        },
+        {
+          "lang": "fr",
+          "word": "plafonner",
+          "pos": "verbe",
+          "ko": "상한을 두다",
+          "example": "Le gouvernement veut plafonner les loyers.",
+          "example_ko": "정부는 월세에 상한을 두려고 해요.",
+          "note_ko": "le plafond = 천장, 상한."
+        },
+        {
+          "lang": "fr",
+          "word": "facture",
+          "pos": "nom f.",
+          "ko": "청구서, 요금",
+          "example": "La facture d'électricité est arrivée.",
+          "example_ko": "전기 요금 청구서가 왔어요.",
+          "note_ko": "facture d'énergie = 에너지 요금. 식당 계산서는 l'addition."
+        },
+        {
+          "lang": "fr",
+          "word": "contre-manifestant",
+          "pos": "nom m.",
+          "ko": "반대 시위자",
+          "example": "Les contre-manifestants étaient nombreux.",
+          "example_ko": "반대 시위자가 많았어요.",
+          "note_ko": "manifestant(시위자) + contre(반대)."
+        },
+        {
+          "lang": "fr",
+          "word": "grève",
+          "pos": "nom f.",
+          "ko": "파업",
+          "example": "Les trains ne roulent pas à cause de la grève.",
+          "example_ko": "파업 때문에 기차가 다니지 않아요.",
+          "note_ko": "faire grève = 파업하다. être en grève = 파업 중이다."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "A \"frontrunner\" in an election is…",
+          "choices": [
+            "the person in the lead",
+            "the first person to vote",
+            "a police officer"
+          ],
+          "answer": 0,
+          "explain_ko": "frontrunner = 선두 주자. 앞에서(front) 달리는(run) 사람이에요."
+        },
+        {
+          "lang": "fr",
+          "q": "En France, un « meeting » politique, c'est…",
+          "choices": [
+            "un rendez-vous d'affaires",
+            "un grand rassemblement de campagne",
+            "un vote"
+          ],
+          "answer": 1,
+          "explain_ko": "프랑스어의 meeting은 주로 정치 유세 집회예요. 회의는 réunion."
+        }
+      ],
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/france/20261025-french-far-right-leader-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
+          "accessed": "2026-10-26"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/le-pen-leads-polls-with-up-to-38-six-months-before-election",
+          "accessed": "2026-10-26"
+        },
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/10/25/presidentielle-2027-a-orleans-marine-le-pen-lance-sa-campagne-entre-radicalite-et-optimisme-dans-une-ville-en-etat-de-siege_6800113_823448.html",
+          "accessed": "2026-10-26"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-26T07:21:26.973Z"
+    },
+    {
+      "id": "2026-10-25-03",
+      "category": "disaster",
+      "region": {
+        "country": "GB",
+        "city": "Scotland",
+        "lat": 56.5,
+        "lng": -4.2
+      },
+      "headline": {
+        "en": "Storm Boelo Batters the UK, Leaving Two Dead and Homes Without Power",
+        "fr": "Royaume-Uni : la tempête Boelo fait deux morts et prive des centaines de milliers de foyers d'électricité",
+        "ko": "폭풍 '보엘로' 영국 강타… 2명 숨지고 대규모 정전"
+      },
+      "hook": {
+        "en": "Why did 800,000 UK homes lose power?",
+        "fr": "Pourquoi 800 000 foyers britanniques ont-ils perdu le courant ?",
+        "ko": "영국 80만 가구가 한꺼번에 정전된 이유는?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "A strong storm called Boelo hit the UK this weekend.",
+            "Two men died when trees fell on them.",
+            "Hundreds of thousands of homes lost power."
+          ],
+          "easy_ko": [
+            "'보엘로'라는 강한 폭풍이 이번 주말 영국을 덮쳤습니다.",
+            "나무가 쓰러져 남성 두 명이 숨졌습니다.",
+            "수십만 가구에 전기가 끊겼습니다."
+          ],
+          "normal": [
+            "Storm Boelo battered the UK on Sunday, just a day after Storm Austen brought strong winds to south-west England.",
+            "Two men were killed by falling trees: a 60-year-old on a country road in south-west Scotland, and a man in his 20s whose car was hit in north London.",
+            "Gusts of more than 80 miles per hour, about 130 kilometres per hour, were recorded on the west coast of Scotland.",
+            "Across Britain, power cuts hit more than 800,000 homes during the two storms, and about 90,000 were still without electricity on Sunday evening.",
+            "Fallen trees and floods blocked railway lines, Edinburgh Castle closed for the day, and a Diwali festival in London was cancelled.",
+            "In the town of Ayr, a charity caring for 50 dogs had to look after its animals in the dark.",
+            "Officials have warned that more severe weather could return early this week."
+          ],
+          "normal_ko": [
+            "폭풍 '보엘로'가 일요일 영국을 강타했습니다. 폭풍 '오스틴'이 잉글랜드 남서부에 강풍을 몰고 온 지 불과 하루 만입니다.",
+            "쓰러진 나무에 남성 두 명이 숨졌습니다. 스코틀랜드 남서부 시골길에서 60세 남성이, 런던 북부에서는 차가 나무에 깔린 20대 남성이 목숨을 잃었습니다.",
+            "스코틀랜드 서해안에서는 시속 80마일(약 130km)이 넘는 돌풍이 기록됐습니다.",
+            "두 폭풍이 지나가는 동안 영국 전역에서 80만 가구가 넘게 정전됐고, 일요일 저녁에도 약 9만 가구는 여전히 전기가 들어오지 않았습니다.",
+            "쓰러진 나무와 홍수로 철도가 막혔고, 에든버러성은 하루 동안 문을 닫았으며, 런던의 디왈리 축제는 취소됐습니다.",
+            "에어라는 도시에서는 개 50마리를 돌보는 단체가 어둠 속에서 동물들을 보살펴야 했습니다.",
+            "당국은 이번 주 초에 더 심한 날씨가 다시 올 수 있다고 경고했습니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Une forte tempête appelée Boelo a frappé le Royaume-Uni ce week-end.",
+            "Deux hommes sont morts à cause de chutes d'arbres.",
+            "Des centaines de milliers de foyers ont eu une coupure de courant."
+          ],
+          "easy_ko": [
+            "'보엘로'라는 강한 폭풍이 이번 주말 영국을 덮쳤습니다.",
+            "나무가 쓰러져 남성 두 명이 숨졌습니다.",
+            "수십만 가구에 정전이 일어났습니다."
+          ],
+          "normal": [
+            "La tempête Boelo s'est abattue dimanche sur le Royaume-Uni, au lendemain du passage de la tempête Austen dans le sud-ouest de l'Angleterre.",
+            "Deux hommes ont été tués par des chutes d'arbres : un sexagénaire sur une petite route du sud-ouest de l'Écosse et un homme d'une vingtaine d'années dont la voiture a été écrasée dans le nord de Londres.",
+            "Des rafales de plus de 130 km/h ont été enregistrées sur la côte ouest de l'Écosse.",
+            "Au total, plus de 800 000 foyers britanniques ont subi une coupure de courant pendant les deux tempêtes, et environ 90 000 en étaient encore privés dimanche soir.",
+            "Des arbres tombés et des inondations ont bloqué des voies ferrées, le château d'Édimbourg a fermé ses portes et une fête de Diwali a été annulée à Londres.",
+            "À Ayr, une association qui accueille 50 chiens a dû s'occuper de ses animaux dans le noir.",
+            "Les autorités préviennent que le mauvais temps pourrait revenir en début de semaine."
+          ],
+          "normal_ko": [
+            "폭풍 '보엘로'가 일요일 영국을 덮쳤습니다. 폭풍 '오스틴'이 잉글랜드 남서부를 지나간 바로 다음 날입니다.",
+            "쓰러진 나무에 남성 두 명이 숨졌습니다. 스코틀랜드 남서부 작은 길에서 60대 남성이, 런던 북부에서 차가 나무에 깔린 20대 남성이 목숨을 잃었습니다.",
+            "스코틀랜드 서해안에서는 시속 130km가 넘는 돌풍이 기록됐습니다.",
+            "두 폭풍 동안 영국에서 모두 80만 가구가 넘게 정전을 겪었고, 일요일 저녁에도 약 9만 가구는 여전히 전기가 없었습니다.",
+            "쓰러진 나무와 홍수로 철로가 막혔고, 에든버러성은 문을 닫았으며, 런던의 디왈리 축제는 취소됐습니다.",
+            "에어에서는 개 50마리를 보살피는 단체가 어둠 속에서 동물들을 돌봐야 했습니다.",
+            "당국은 이번 주 초에 궂은 날씨가 다시 올 수 있다고 경고합니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "영국과 아일랜드는 큰 피해가 예상되는 폭풍에 사람 이름을 붙여 알파벳 순서로 부릅니다. 'amber warning(황색 경보)'은 빨강 다음 단계 경보로, 생명에 위험할 수 있으니 대비하라는 뜻이에요. 영국은 속도를 마일(mph)로 쓰니, 1마일 ≈ 1.6km로 바꿔 생각하면 됩니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "storm",
+          "pos": "noun",
+          "ko": "폭풍",
+          "example": "The storm closed the beach.",
+          "example_ko": "폭풍 때문에 해변이 문을 닫았어요.",
+          "note_ko": "thunderstorm(뇌우), snowstorm(눈보라)."
+        },
+        {
+          "lang": "en",
+          "word": "batter",
+          "pos": "verb",
+          "ko": "강타하다, 두들기다",
+          "example": "Big waves battered the boat.",
+          "example_ko": "큰 파도가 배를 강타했어요.",
+          "note_ko": "폭풍 기사의 단골 동사. 요리에서 batter는 '반죽'."
+        },
+        {
+          "lang": "en",
+          "word": "fall",
+          "pos": "verb",
+          "ko": "쓰러지다, 떨어지다",
+          "example": "An apple fell from the tree.",
+          "example_ko": "나무에서 사과가 떨어졌어요.",
+          "note_ko": "fall - fell - fallen. falling tree = 쓰러지는 나무, fallen tree = 쓰러진 나무."
+        },
+        {
+          "lang": "en",
+          "word": "in his 20s",
+          "pos": "phrase",
+          "ko": "20대인",
+          "example": "My sister is in her 30s.",
+          "example_ko": "언니는 30대예요.",
+          "note_ko": "in one's twenties로도 써요. in the 1990s = 1990년대에."
+        },
+        {
+          "lang": "en",
+          "word": "gust",
+          "pos": "noun",
+          "ko": "돌풍",
+          "example": "A gust of wind took my hat.",
+          "example_ko": "돌풍에 모자가 날아갔어요.",
+          "note_ko": "a gust of wind = 한 차례 세찬 바람."
+        },
+        {
+          "lang": "en",
+          "word": "miles per hour",
+          "pos": "phrase",
+          "ko": "시속 ~마일",
+          "example": "The speed limit is 30 miles per hour.",
+          "example_ko": "제한 속도는 시속 30마일이에요.",
+          "note_ko": "줄여서 mph. 1마일은 약 1.6km."
+        },
+        {
+          "lang": "en",
+          "word": "lose power",
+          "pos": "phrase",
+          "ko": "정전되다, 전기가 끊기다",
+          "example": "We lost power for two hours.",
+          "example_ko": "우리 집은 두 시간 동안 정전됐어요.",
+          "note_ko": "power = 전기. without power = 전기가 없는."
+        },
+        {
+          "lang": "en",
+          "word": "power cut",
+          "pos": "noun",
+          "ko": "정전",
+          "example": "There was a power cut last night.",
+          "example_ko": "어젯밤에 정전이 있었어요.",
+          "note_ko": "미국에서는 power outage를 더 많이 써요."
+        },
+        {
+          "lang": "en",
+          "word": "flood",
+          "pos": "noun",
+          "ko": "홍수",
+          "example": "The flood damaged many houses.",
+          "example_ko": "홍수로 많은 집이 피해를 입었어요.",
+          "note_ko": "동사로도 써요: The river flooded the town(강이 범람해 마을이 물에 잠겼다)."
+        },
+        {
+          "lang": "en",
+          "word": "block",
+          "pos": "verb",
+          "ko": "막다",
+          "example": "A truck is blocking the road.",
+          "example_ko": "트럭이 길을 막고 있어요.",
+          "note_ko": "명사 block은 '구역, 블록'."
+        },
+        {
+          "lang": "en",
+          "word": "cancel",
+          "pos": "verb",
+          "ko": "취소하다",
+          "example": "Our flight was cancelled.",
+          "example_ko": "우리 항공편이 취소됐어요.",
+          "note_ko": "영국은 cancelled, 미국은 canceled로 써요."
+        },
+        {
+          "lang": "en",
+          "word": "charity",
+          "pos": "noun",
+          "ko": "자선 단체",
+          "example": "She gives money to a children's charity.",
+          "example_ko": "그녀는 어린이 자선 단체에 기부해요.",
+          "note_ko": "for charity = 자선을 위해."
+        },
+        {
+          "lang": "en",
+          "word": "look after",
+          "pos": "phrasal verb",
+          "ko": "돌보다",
+          "example": "Can you look after my cat this weekend?",
+          "example_ko": "이번 주말에 우리 고양이 좀 돌봐 줄래요?",
+          "note_ko": "take care of와 같은 뜻. 영국에서 특히 자주 써요."
+        },
+        {
+          "lang": "en",
+          "word": "severe weather",
+          "pos": "noun",
+          "ko": "악천후, 극심한 날씨",
+          "example": "Schools closed because of severe weather.",
+          "example_ko": "악천후 때문에 학교들이 문을 닫았어요.",
+          "note_ko": "severe = 심각한. severe pain(심한 통증)."
+        },
+        {
+          "lang": "fr",
+          "word": "tempête",
+          "pos": "nom f.",
+          "ko": "폭풍",
+          "example": "La tempête a arraché des arbres.",
+          "example_ko": "폭풍이 나무들을 뽑아 버렸어요.",
+          "note_ko": "tempête de neige = 눈보라."
+        },
+        {
+          "lang": "fr",
+          "word": "frapper",
+          "pos": "verbe",
+          "ko": "때리다, 강타하다",
+          "example": "Le séisme a frappé le pays.",
+          "example_ko": "지진이 그 나라를 강타했어요.",
+          "note_ko": "문을 두드리다도 frapper à la porte."
+        },
+        {
+          "lang": "fr",
+          "word": "chute d'arbre",
+          "pos": "nom f.",
+          "ko": "나무 쓰러짐",
+          "example": "La route est fermée après une chute d'arbre.",
+          "example_ko": "나무가 쓰러져 길이 막혔어요.",
+          "note_ko": "chute = 떨어짐. chute de neige = 강설."
+        },
+        {
+          "lang": "fr",
+          "word": "foyer",
+          "pos": "nom m.",
+          "ko": "가구, 가정",
+          "example": "Chaque foyer a reçu une lettre.",
+          "example_ko": "가구마다 편지를 받았어요.",
+          "note_ko": "통계에서 '가구'. 원래는 '난로, 집'."
+        },
+        {
+          "lang": "fr",
+          "word": "coupure de courant",
+          "pos": "nom f.",
+          "ko": "정전",
+          "example": "Il y a eu une coupure de courant hier soir.",
+          "example_ko": "어젯밤에 정전이 있었어요.",
+          "note_ko": "courant = 전류, 전기. le courant est revenu = 전기가 다시 들어왔다."
+        },
+        {
+          "lang": "fr",
+          "word": "s'abattre sur",
+          "pos": "verbe",
+          "ko": "~을 덮치다",
+          "example": "La pluie s'est abattue sur la ville.",
+          "example_ko": "비가 도시를 덮쳤어요.",
+          "note_ko": "폭풍·비·재앙이 '들이닥치다'라는 기사 표현."
+        },
+        {
+          "lang": "fr",
+          "word": "sexagénaire",
+          "pos": "nom m./f.",
+          "ko": "60대(인 사람)",
+          "example": "Un sexagénaire a été blessé.",
+          "example_ko": "60대 남성이 다쳤어요.",
+          "note_ko": "quadragénaire(40대), quinquagénaire(50대). 기사에서 나이를 이렇게 말해요."
+        },
+        {
+          "lang": "fr",
+          "word": "une vingtaine",
+          "pos": "nom f.",
+          "ko": "약 스물, 20대",
+          "example": "Il a une vingtaine d'années.",
+          "example_ko": "그는 스무 살쯤이에요.",
+          "note_ko": "une dizaine(약 10), une centaine(약 100)."
+        },
+        {
+          "lang": "fr",
+          "word": "rafale",
+          "pos": "nom f.",
+          "ko": "돌풍",
+          "example": "Des rafales à 100 km/h sont prévues.",
+          "example_ko": "시속 100km 돌풍이 예보돼 있어요.",
+          "note_ko": "rafale de vent. 총의 '연사'라는 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "être privé de",
+          "pos": "expr.",
+          "ko": "~을 빼앗기다, ~이 없다",
+          "example": "Le village est privé d'eau.",
+          "example_ko": "그 마을은 물이 끊겼어요.",
+          "note_ko": "privé d'électricité = 전기가 끊긴."
+        },
+        {
+          "lang": "fr",
+          "word": "inondation",
+          "pos": "nom f.",
+          "ko": "홍수, 침수",
+          "example": "Les inondations ont fermé l'école.",
+          "example_ko": "홍수로 학교가 문을 닫았어요.",
+          "note_ko": "동사 inonder = 물에 잠기게 하다."
+        },
+        {
+          "lang": "fr",
+          "word": "voie ferrée",
+          "pos": "nom f.",
+          "ko": "철로",
+          "example": "Un arbre est tombé sur la voie ferrée.",
+          "example_ko": "나무가 철로 위로 쓰러졌어요.",
+          "note_ko": "fer = 쇠. chemin de fer = 철도."
+        },
+        {
+          "lang": "fr",
+          "word": "annuler",
+          "pos": "verbe",
+          "ko": "취소하다",
+          "example": "Le concert est annulé.",
+          "example_ko": "콘서트가 취소됐어요.",
+          "note_ko": "명사 annulation(취소)."
+        },
+        {
+          "lang": "fr",
+          "word": "association",
+          "pos": "nom f.",
+          "ko": "협회, 비영리 단체",
+          "example": "Elle travaille dans une association d'aide aux animaux.",
+          "example_ko": "그녀는 동물 보호 단체에서 일해요.",
+          "note_ko": "프랑스에서 자선·봉사 단체를 흔히 association이라고 해요."
+        },
+        {
+          "lang": "fr",
+          "word": "s'occuper de",
+          "pos": "verbe",
+          "ko": "~을 돌보다, 맡다",
+          "example": "Je m'occupe des enfants ce soir.",
+          "example_ko": "오늘 저녁엔 내가 아이들을 돌봐요.",
+          "note_ko": "영어 look after / take care of."
+        },
+        {
+          "lang": "fr",
+          "word": "mauvais temps",
+          "pos": "nom m.",
+          "ko": "궂은 날씨",
+          "example": "Le match est reporté à cause du mauvais temps.",
+          "example_ko": "궂은 날씨 때문에 경기가 연기됐어요.",
+          "note_ko": "temps = 날씨, 시간. Il fait mauvais = 날씨가 나빠요."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "If you \"lose power\" at home, you have no…",
+          "choices": [
+            "money",
+            "electricity",
+            "water"
+          ],
+          "answer": 1,
+          "explain_ko": "power = 전기. lose power = 정전되다."
+        },
+        {
+          "lang": "fr",
+          "q": "« Une coupure de courant », c'est…",
+          "choices": [
+            "une panne d'électricité",
+            "une rivière",
+            "un vent fort"
+          ],
+          "answer": 0,
+          "explain_ko": "coupure de courant = 정전. panne d'électricité라고도 해요."
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
+          "accessed": "2026-10-26"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo",
+          "accessed": "2026-10-26"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-26T07:21:26.973Z"
+    },
+    {
+      "id": "2026-10-25-04",
+      "category": "economy",
+      "region": {
+        "country": "AU",
+        "city": "Sydney",
+        "lat": -33.88,
+        "lng": 150.72
+      },
+      "headline": {
+        "en": "After 40 Years of Waiting, Sydney Opens Its Second Airport",
+        "fr": "Australie : après 40 ans d'attente, Sydney inaugure son deuxième aéroport",
+        "ko": "40년 기다린 시드니 제2공항, 드디어 문 열었다"
+      },
+      "hook": {
+        "en": "What's special about Sydney's new airport?",
+        "fr": "Qu'a de spécial le nouvel aéroport de Sydney ?",
+        "ko": "시드니 새 공항, 뭐가 특별할까?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Sydney, Australia, opened its second airport on Sunday.",
+            "The new airport can stay open 24 hours a day.",
+            "The first flight went to the Gold Coast."
+          ],
+          "easy_ko": [
+            "호주 시드니가 일요일 두 번째 공항을 열었습니다.",
+            "새 공항은 하루 24시간 문을 열 수 있습니다.",
+            "첫 비행기는 골드코스트로 갔습니다."
+          ],
+          "normal": [
+            "Western Sydney International Airport opened to passengers on Sunday, giving Australia's biggest city a second airport.",
+            "The project was about 40 years in the making: the government started buying farmland for it in 1986, and construction finally began in 2018.",
+            "The federal government says it spent 5.3 billion Australian dollars on the airport.",
+            "Unlike Sydney's main airport, which closes to most flights between 11pm and 6am, the new one is allowed to operate 24 hours a day.",
+            "The first passenger flight, run by Jetstar, left for the Gold Coast on Sunday morning, and international flights to Auckland and Singapore will follow soon.",
+            "However, the airport is more than 60 kilometres from the city centre, and its metro line will not be ready until at least next December.",
+            "Until then, passengers can take a free shuttle bus that runs every 30 minutes to St Marys train station."
+          ],
+          "normal_ko": [
+            "웨스턴 시드니 국제공항이 일요일 승객을 맞기 시작하면서, 호주 최대 도시에 두 번째 공항이 생겼습니다.",
+            "이 사업은 약 40년이 걸렸습니다. 정부는 1986년부터 공항 부지로 농지를 사들였고, 2018년에야 공사가 시작됐습니다.",
+            "연방 정부는 공항 건설에 53억 호주달러를 썼다고 밝혔습니다.",
+            "밤 11시부터 새벽 6시까지 대부분의 비행이 금지되는 시드니의 기존 공항과 달리, 새 공항은 하루 24시간 운영할 수 있습니다.",
+            "젯스타가 운항한 첫 여객기는 일요일 오전 골드코스트로 떠났고, 오클랜드와 싱가포르로 가는 국제선도 곧 뒤따를 예정입니다.",
+            "하지만 공항은 도심에서 60km 넘게 떨어져 있고, 지하철 노선은 빨라야 내년 12월에 완공됩니다.",
+            "그때까지 승객들은 세인트메리스 기차역까지 30분마다 다니는 무료 셔틀버스를 이용할 수 있습니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Sydney, en Australie, a ouvert son deuxième aéroport dimanche.",
+            "Le nouvel aéroport peut rester ouvert 24 heures sur 24.",
+            "Le premier vol est parti pour la Gold Coast."
+          ],
+          "easy_ko": [
+            "호주 시드니가 일요일 두 번째 공항을 열었습니다.",
+            "새 공항은 하루 24시간 내내 문을 열 수 있습니다.",
+            "첫 비행기는 골드코스트로 떠났습니다."
+          ],
+          "normal": [
+            "L'aéroport international de Western Sydney a accueilli ses premiers passagers dimanche, offrant enfin un deuxième aéroport à la plus grande ville d'Australie.",
+            "Le projet aura mis une quarantaine d'années à voir le jour : l'État a commencé à acheter des terres agricoles en 1986, et les travaux n'ont débuté qu'en 2018.",
+            "Selon le gouvernement fédéral, sa construction a coûté 5,3 milliards de dollars australiens.",
+            "Contrairement à l'aéroport principal de Sydney, soumis à un couvre-feu de 23 h à 6 h, le nouveau peut fonctionner 24 heures sur 24.",
+            "Le premier vol commercial, assuré par Jetstar, s'est envolé dimanche matin pour la Gold Coast, et des liaisons internationales vers Auckland et Singapour suivront bientôt.",
+            "Mais l'aéroport se trouve à plus de 60 kilomètres du centre-ville, et sa ligne de métro ne sera pas achevée avant décembre prochain au plus tôt.",
+            "En attendant, une navette gratuite relie toutes les 30 minutes l'aéroport à la gare de St Marys."
+          ],
+          "normal_ko": [
+            "웨스턴 시드니 국제공항이 일요일 첫 승객을 맞으며, 호주 최대 도시에 마침내 두 번째 공항이 생겼습니다.",
+            "이 사업이 실현되기까지 40년 가까이 걸렸습니다. 정부는 1986년 농지를 사들이기 시작했지만 공사는 2018년에야 시작됐습니다.",
+            "연방 정부에 따르면 건설 비용은 53억 호주달러였습니다.",
+            "밤 11시부터 새벽 6시까지 운항이 제한되는 시드니의 기존 공항과 달리, 새 공항은 24시간 내내 운영할 수 있습니다.",
+            "젯스타가 운항한 첫 상업 비행편은 일요일 아침 골드코스트로 날아올랐고, 오클랜드와 싱가포르행 국제선도 곧 생깁니다.",
+            "하지만 공항은 도심에서 60km 넘게 떨어져 있고, 지하철 노선은 빨라야 내년 12월에 완공됩니다.",
+            "그동안은 무료 셔틀버스가 30분마다 공항과 세인트메리스 기차역을 오갑니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "시드니의 기존 공항(킹스퍼드 스미스)은 소음 때문에 밤 11시부터 새벽 6시까지 대부분의 이착륙이 금지돼 있고, 시간당 운항 횟수도 제한됩니다. 새 공항은 시드니 서쪽 배저리스크릭에 있으며, 정부는 시드니 인구의 절반이 사는 서부 지역의 관문이 될 것으로 기대합니다. 기사에 나온 국제선(뉴질랜드·싱가포르·베트남·카타르·피지) 가운데 한국행 직항은 없어요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "open to passengers",
+          "pos": "phrase",
+          "ko": "승객을 받기 시작하다",
+          "example": "The new station opens to passengers next month.",
+          "example_ko": "새 역은 다음 달부터 승객을 받아요.",
+          "note_ko": "open to the public = 일반에 공개되다."
+        },
+        {
+          "lang": "en",
+          "word": "second airport",
+          "pos": "noun",
+          "ko": "제2공항",
+          "example": "Many big cities have a second airport.",
+          "example_ko": "많은 대도시에는 제2공항이 있어요.",
+          "note_ko": "second = 두 번째. main airport(주 공항)와 짝으로 기억하세요."
+        },
+        {
+          "lang": "en",
+          "word": "24 hours a day",
+          "pos": "phrase",
+          "ko": "하루 24시간",
+          "example": "This shop is open 24 hours a day.",
+          "example_ko": "이 가게는 24시간 문을 열어요.",
+          "note_ko": "around the clock도 같은 뜻. 24/7(twenty-four seven)도 자주 써요."
+        },
+        {
+          "lang": "en",
+          "word": "flight",
+          "pos": "noun",
+          "ko": "항공편, 비행",
+          "example": "My flight leaves at 9am.",
+          "example_ko": "제 비행기는 오전 9시에 출발해요.",
+          "note_ko": "direct flight = 직항편. catch a flight = 비행기를 타다."
+        },
+        {
+          "lang": "en",
+          "word": "in the making",
+          "pos": "phrase",
+          "ko": "만드는 데 ~이 걸린, 준비 중인",
+          "example": "This film was ten years in the making.",
+          "example_ko": "이 영화는 만드는 데 10년이 걸렸어요.",
+          "note_ko": "숫자 + years in the making = ~년이 걸린 작품·사업."
+        },
+        {
+          "lang": "en",
+          "word": "farmland",
+          "pos": "noun",
+          "ko": "농지",
+          "example": "The town is surrounded by farmland.",
+          "example_ko": "그 마을은 농지로 둘러싸여 있어요.",
+          "note_ko": "farm(농장) + land(땅)."
+        },
+        {
+          "lang": "en",
+          "word": "construction",
+          "pos": "noun",
+          "ko": "공사, 건설",
+          "example": "Construction will start next year.",
+          "example_ko": "공사는 내년에 시작해요.",
+          "note_ko": "under construction = 공사 중. 동사 construct."
+        },
+        {
+          "lang": "en",
+          "word": "spend",
+          "pos": "verb",
+          "ko": "(돈·시간을) 쓰다",
+          "example": "I spent 20 dollars on lunch.",
+          "example_ko": "점심에 20달러를 썼어요.",
+          "note_ko": "spend - spent - spent. spend money on ~ = ~에 돈을 쓰다."
+        },
+        {
+          "lang": "en",
+          "word": "unlike",
+          "pos": "preposition",
+          "ko": "~와 달리",
+          "example": "Unlike my brother, I love vegetables.",
+          "example_ko": "형과 달리 저는 채소를 좋아해요.",
+          "note_ko": "like(~처럼)의 반대. 문장 맨 앞에 자주 와요."
+        },
+        {
+          "lang": "en",
+          "word": "operate",
+          "pos": "verb",
+          "ko": "운영하다, 운항하다",
+          "example": "The bus operates every day.",
+          "example_ko": "그 버스는 매일 운행해요.",
+          "note_ko": "병원에서는 '수술하다'라는 뜻도 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "leave for",
+          "pos": "phrasal verb",
+          "ko": "~로 떠나다",
+          "example": "We leave for Paris tomorrow.",
+          "example_ko": "우리는 내일 파리로 떠나요.",
+          "note_ko": "leave Paris(파리를 떠나다)와 헷갈리지 마세요."
+        },
+        {
+          "lang": "en",
+          "word": "international",
+          "pos": "adjective",
+          "ko": "국제의",
+          "example": "It is an international school.",
+          "example_ko": "그곳은 국제 학교예요.",
+          "note_ko": "international flight = 국제선, domestic flight = 국내선."
+        },
+        {
+          "lang": "en",
+          "word": "city centre",
+          "pos": "noun",
+          "ko": "도심",
+          "example": "The hotel is in the city centre.",
+          "example_ko": "호텔은 도심에 있어요.",
+          "note_ko": "미국은 downtown, 호주는 CBD(중심 업무 지구)라고도 해요."
+        },
+        {
+          "lang": "en",
+          "word": "shuttle bus",
+          "pos": "noun",
+          "ko": "셔틀버스",
+          "example": "A shuttle bus goes to the hotel.",
+          "example_ko": "셔틀버스가 호텔까지 가요.",
+          "note_ko": "free shuttle = 무료 셔틀."
+        },
+        {
+          "lang": "en",
+          "word": "every 30 minutes",
+          "pos": "phrase",
+          "ko": "30분마다",
+          "example": "The train comes every 10 minutes.",
+          "example_ko": "기차는 10분마다 와요.",
+          "note_ko": "every + 숫자 + 시간 = ~마다. every other day = 이틀에 한 번."
+        },
+        {
+          "lang": "fr",
+          "word": "deuxième aéroport",
+          "pos": "nom m.",
+          "ko": "제2공항",
+          "example": "La ville construit un deuxième aéroport.",
+          "example_ko": "그 도시는 제2공항을 짓고 있어요.",
+          "note_ko": "deuxième = 두 번째. second(e)도 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "24 heures sur 24",
+          "pos": "expr.",
+          "ko": "하루 24시간 내내",
+          "example": "Ce magasin est ouvert 24 heures sur 24.",
+          "example_ko": "이 가게는 24시간 문을 열어요.",
+          "note_ko": "24 h/24, 7 j/7(일주일 내내)로 줄여 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "vol",
+          "pos": "nom m.",
+          "ko": "항공편, 비행",
+          "example": "Mon vol a deux heures de retard.",
+          "example_ko": "제 비행기가 두 시간 늦어요.",
+          "note_ko": "같은 철자 vol이 '도둑질'이라는 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "accueillir",
+          "pos": "verbe",
+          "ko": "맞이하다, 받아들이다",
+          "example": "L'hôtel accueille 200 clients.",
+          "example_ko": "그 호텔은 손님 200명을 받아요.",
+          "note_ko": "명사 accueil = 안내 데스크, 환영."
+        },
+        {
+          "lang": "fr",
+          "word": "voir le jour",
+          "pos": "expr.",
+          "ko": "탄생하다, 실현되다",
+          "example": "Ce projet a vu le jour en 2020.",
+          "example_ko": "이 프로젝트는 2020년에 탄생했어요.",
+          "note_ko": "직역하면 '햇빛을 보다'. 사업·작품이 생겨날 때 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "terres agricoles",
+          "pos": "nom f. pl.",
+          "ko": "농지",
+          "example": "Les terres agricoles disparaissent.",
+          "example_ko": "농지가 사라지고 있어요.",
+          "note_ko": "agricole = 농업의. agriculteur = 농부."
+        },
+        {
+          "lang": "fr",
+          "word": "travaux",
+          "pos": "nom m. pl.",
+          "ko": "공사",
+          "example": "La rue est fermée pour travaux.",
+          "example_ko": "그 길은 공사 때문에 막혔어요.",
+          "note_ko": "항상 복수형. 단수 travail은 '일'."
+        },
+        {
+          "lang": "fr",
+          "word": "coûter",
+          "pos": "verbe",
+          "ko": "(값이) 들다",
+          "example": "Ce billet coûte 50 euros.",
+          "example_ko": "이 표는 50유로예요.",
+          "note_ko": "Combien ça coûte ? = 얼마예요?"
+        },
+        {
+          "lang": "fr",
+          "word": "contrairement à",
+          "pos": "expr.",
+          "ko": "~와 달리",
+          "example": "Contrairement à moi, il adore courir.",
+          "example_ko": "나와 달리 그는 달리기를 정말 좋아해요.",
+          "note_ko": "영어 unlike. 문장 맨 앞에 자주 와요."
+        },
+        {
+          "lang": "fr",
+          "word": "couvre-feu",
+          "pos": "nom m.",
+          "ko": "통행금지, (공항) 야간 운항 금지",
+          "example": "Il y a un couvre-feu à minuit.",
+          "example_ko": "자정에 통행금지가 있어요.",
+          "note_ko": "couvrir(덮다) + feu(불). 영어 curfew도 이 말에서 왔어요."
+        },
+        {
+          "lang": "fr",
+          "word": "s'envoler",
+          "pos": "verbe",
+          "ko": "날아오르다, 이륙하다",
+          "example": "L'avion s'est envolé à l'heure.",
+          "example_ko": "비행기는 제시간에 이륙했어요.",
+          "note_ko": "décoller(이륙하다)도 같은 뜻. 반대는 atterrir(착륙하다)."
+        },
+        {
+          "lang": "fr",
+          "word": "liaison",
+          "pos": "nom f.",
+          "ko": "노선, 연결",
+          "example": "Il existe une liaison directe Paris-Séoul.",
+          "example_ko": "파리-서울 직항 노선이 있어요.",
+          "note_ko": "교통 노선을 말할 때 자주 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "centre-ville",
+          "pos": "nom m.",
+          "ko": "도심",
+          "example": "J'habite près du centre-ville.",
+          "example_ko": "저는 도심 근처에 살아요.",
+          "note_ko": "aller en ville = 시내에 가다."
+        },
+        {
+          "lang": "fr",
+          "word": "au plus tôt",
+          "pos": "expr.",
+          "ko": "빨라야, 일러도",
+          "example": "Il arrivera lundi au plus tôt.",
+          "example_ko": "그는 빨라야 월요일에 도착해요.",
+          "note_ko": "반대는 au plus tard(늦어도)."
+        },
+        {
+          "lang": "fr",
+          "word": "navette",
+          "pos": "nom f.",
+          "ko": "셔틀(버스)",
+          "example": "Une navette relie l'hôtel à la plage.",
+          "example_ko": "셔틀이 호텔과 해변을 오가요.",
+          "note_ko": "faire la navette = 두 곳을 오가다(출퇴근 등)."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "\"Unlike Sydney's main airport\" means…",
+          "choices": [
+            "the same as the main airport",
+            "different from the main airport",
+            "near the main airport"
+          ],
+          "answer": 1,
+          "explain_ko": "unlike = ~와 달리. like(~처럼)의 반대예요."
+        },
+        {
+          "lang": "fr",
+          "q": "« 24 heures sur 24 » veut dire…",
+          "choices": [
+            "seulement la nuit",
+            "tout le temps, jour et nuit",
+            "deux fois par jour"
+          ],
+          "answer": 1,
+          "explain_ko": "24 heures sur 24 = 하루 24시간 내내."
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/25/western-sydney-international-airport-wsi-open-airlines-flights-cost-transport-history",
+          "accessed": "2026-10-26"
+        },
+        {
+          "name": "Prime Minister of Australia (media release)",
+          "url": "https://www.pm.gov.au/media/its-official-western-sydney-open-passengers-25-october-and-freight-26-july-2026",
+          "accessed": "2026-10-26"
+        },
+        {
+          "name": "Wikipedia Current events (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_25",
+          "accessed": "2026-10-26"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-26T07:21:26.973Z"
+    },
+    {
+      "id": "2026-10-25-05",
+      "category": "culture",
+      "region": {
+        "country": "US",
+        "city": "Thornton",
+        "lat": 39.87,
+        "lng": -104.97
+      },
+      "headline": {
+        "en": "At This Colorado Library, You Can Check Out Nature",
+        "fr": "États-Unis : dans cette bibliothèque du Colorado, on emprunte la nature",
+        "ko": "책 대신 캠핑 장비를 빌려준다? 미국 첫 '자연 도서관'"
+      },
+      "hook": {
+        "en": "Can you borrow snowshoes from a library?",
+        "fr": "Peut-on emprunter des raquettes à la bibliothèque ?",
+        "ko": "도서관에서 캠핑 장비와 설피를 빌린다고?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "A new library in Colorado lends more than books.",
+            "People can borrow camping gear, snowshoes and bird-watching kits for free.",
+            "Children can even play in a mud pit outside."
+          ],
+          "easy_ko": [
+            "콜로라도의 새 도서관은 책 말고도 여러 가지를 빌려줍니다.",
+            "사람들은 캠핑 장비, 설피, 새 관찰 도구를 무료로 빌릴 수 있습니다.",
+            "아이들은 밖에서 진흙 놀이터에서 놀 수도 있습니다."
+          ],
+          "normal": [
+            "In Thornton, a suburb of Denver, the Anythink Nature Library calls itself the first public nature library in the United States.",
+            "With a library card, visitors can borrow about 1,500 items for free, from camping gear and snowshoes to hiking poles and bird-watching kits.",
+            "The library, which opened in August, sits on a large site with gardens and a trail that connects to a much bigger network of walking paths.",
+            "Outside, children can climb on boulders and splash in a mud pit, and in one workshop they record the sounds of nature to make their own music.",
+            "The designers also worked with Indigenous leaders, and one round room smells like a campfire and has tiny lights that look like stars.",
+            "The library's director, Mark Fink, says the goal is to remove the barriers that keep people from enjoying the outdoors.",
+            "Other libraries and museums have already visited to learn from the idea."
+          ],
+          "normal_ko": [
+            "덴버 근교 손턴에 있는 '애니싱크 자연 도서관'은 스스로를 미국 최초의 공공 자연 도서관이라고 부릅니다.",
+            "도서관 카드만 있으면 캠핑 장비와 설피부터 등산 스틱, 새 관찰 도구까지 약 1,500가지 물건을 무료로 빌릴 수 있습니다.",
+            "8월에 문을 연 이 도서관은 정원과 산책로가 있는 넓은 부지에 자리 잡고 있으며, 산책로는 훨씬 더 큰 길과 이어집니다.",
+            "밖에서는 아이들이 바위에 오르고 진흙 웅덩이에서 첨벙거릴 수 있고, 한 워크숍에서는 자연의 소리를 녹음해 자기만의 음악을 만듭니다.",
+            "설계자들은 원주민 지도자들과도 함께 작업했는데, 한 둥근 방에서는 모닥불 냄새가 나고 천장의 작은 불빛이 별처럼 보입니다.",
+            "도서관 책임자 마크 핑크는 사람들이 자연을 즐기지 못하게 막는 장벽을 없애는 것이 목표라고 말합니다.",
+            "다른 도서관과 박물관들도 이미 이 아이디어를 배우러 다녀갔습니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Une nouvelle bibliothèque du Colorado ne prête pas seulement des livres.",
+            "On peut emprunter gratuitement du matériel de camping, des raquettes et des kits pour observer les oiseaux.",
+            "Dehors, les enfants peuvent même jouer dans la boue."
+          ],
+          "easy_ko": [
+            "콜로라도의 새 도서관은 책만 빌려주는 게 아닙니다.",
+            "캠핑 장비, 설피, 새 관찰 도구를 무료로 빌릴 수 있습니다.",
+            "밖에서는 아이들이 진흙에서 놀 수도 있습니다."
+          ],
+          "normal": [
+            "À Thornton, dans la banlieue de Denver, l'Anythink Nature Library se présente comme la première bibliothèque publique de la nature aux États-Unis.",
+            "Avec une carte de bibliothèque, on peut emprunter gratuitement quelque 1 500 objets, du matériel de camping aux raquettes, en passant par les bâtons de marche et les kits d'observation des oiseaux.",
+            "Ouverte en août, la bibliothèque s'étend sur un vaste terrain avec des jardins et un sentier relié à un réseau de chemins de randonnée bien plus grand.",
+            "Dehors, les enfants peuvent escalader des rochers et patauger dans la boue, et lors d'un atelier, ils enregistrent les bruits de la nature pour créer leur propre musique.",
+            "Les concepteurs ont aussi travaillé avec des représentants autochtones, et une salle ronde sent le feu de camp, avec de petites lumières qui imitent les étoiles.",
+            "Selon son directeur, Mark Fink, l'objectif est de lever les obstacles qui empêchent les gens de profiter du plein air.",
+            "D'autres bibliothèques et musées sont déjà venus s'en inspirer."
+          ],
+          "normal_ko": [
+            "덴버 근교 손턴의 '애니싱크 자연 도서관'은 자신을 미국 최초의 공공 자연 도서관이라고 소개합니다.",
+            "도서관 카드가 있으면 캠핑 장비부터 설피, 등산 스틱, 새 관찰 도구까지 약 1,500가지 물건을 무료로 빌릴 수 있습니다.",
+            "8월에 문을 연 이 도서관은 정원과 산책로가 있는 넓은 땅에 자리하며, 산책로는 훨씬 큰 등산로 네트워크와 이어집니다.",
+            "밖에서는 아이들이 바위를 타고 진흙에서 첨벙거릴 수 있고, 워크숍에서는 자연의 소리를 녹음해 자기만의 음악을 만듭니다.",
+            "설계자들은 원주민 대표들과도 함께 일했고, 한 둥근 방에서는 모닥불 냄새가 나며 작은 불빛이 별을 흉내 냅니다.",
+            "책임자 마크 핑크는 사람들이 야외 활동을 즐기지 못하게 막는 장애물을 없애는 것이 목표라고 말합니다.",
+            "다른 도서관과 박물관들도 이미 이곳을 보고 배우러 왔습니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "미국 공공 도서관은 책뿐 아니라 악기, 공구, 노트북, 박물관 입장권까지 빌려주는 곳이 많습니다. 이 도서관은 그 생각을 자연 체험으로 넓혔어요. 영어로 도서관에서 '빌리다'는 check out이라고도 하는데, 그래서 제목이 'check out nature(자연을 빌리다/자연을 구경하다)'라는 말장난입니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "suburb",
+          "pos": "noun",
+          "ko": "교외, 근교",
+          "example": "They live in a quiet suburb.",
+          "example_ko": "그들은 조용한 교외에 살아요.",
+          "note_ko": "형용사 suburban(교외의)."
+        },
+        {
+          "lang": "en",
+          "word": "lend",
+          "pos": "verb",
+          "ko": "빌려주다",
+          "example": "Can you lend me a pen?",
+          "example_ko": "펜 좀 빌려줄래요?",
+          "note_ko": "lend - lent - lent. 내가 받는 쪽이면 borrow."
+        },
+        {
+          "lang": "en",
+          "word": "library card",
+          "pos": "noun",
+          "ko": "도서관 카드",
+          "example": "I need a library card to borrow books.",
+          "example_ko": "책을 빌리려면 도서관 카드가 필요해요.",
+          "note_ko": "membership card = 회원 카드."
+        },
+        {
+          "lang": "en",
+          "word": "borrow",
+          "pos": "verb",
+          "ko": "빌리다",
+          "example": "I borrowed a book from Mina.",
+          "example_ko": "미나에게 책을 빌렸어요.",
+          "note_ko": "borrow A from B = B에게서 A를 빌리다. lend와 반대 방향."
+        },
+        {
+          "lang": "en",
+          "word": "for free",
+          "pos": "phrase",
+          "ko": "무료로",
+          "example": "Kids can enter for free.",
+          "example_ko": "아이들은 무료로 들어갈 수 있어요.",
+          "note_ko": "free만 써도 '무료의'. free of charge는 더 격식 있는 표현."
+        },
+        {
+          "lang": "en",
+          "word": "camping gear",
+          "pos": "noun",
+          "ko": "캠핑 장비",
+          "example": "We rented camping gear for the trip.",
+          "example_ko": "여행을 위해 캠핑 장비를 빌렸어요.",
+          "note_ko": "gear = 장비. 셀 수 없는 명사라 gears로 쓰지 않아요."
+        },
+        {
+          "lang": "en",
+          "word": "snowshoes",
+          "pos": "noun",
+          "ko": "설피(눈길용 신발)",
+          "example": "We walked in the snow with snowshoes.",
+          "example_ko": "우리는 설피를 신고 눈 위를 걸었어요.",
+          "note_ko": "보통 한 켤레라 복수형 snowshoes로 써요."
+        },
+        {
+          "lang": "en",
+          "word": "bird-watching",
+          "pos": "noun",
+          "ko": "새 관찰, 탐조",
+          "example": "My father loves bird-watching.",
+          "example_ko": "아버지는 새 관찰을 정말 좋아하세요.",
+          "note_ko": "bird-watcher = 새를 관찰하는 사람."
+        },
+        {
+          "lang": "en",
+          "word": "trail",
+          "pos": "noun",
+          "ko": "산책로, 오솔길",
+          "example": "This trail goes to the lake.",
+          "example_ko": "이 산책로는 호수까지 이어져요.",
+          "note_ko": "hiking trail = 등산로."
+        },
+        {
+          "lang": "en",
+          "word": "mud",
+          "pos": "noun",
+          "ko": "진흙",
+          "example": "My shoes are covered in mud.",
+          "example_ko": "제 신발이 진흙투성이예요.",
+          "note_ko": "형용사 muddy(진흙투성이의). mud pit = 진흙 웅덩이."
+        },
+        {
+          "lang": "en",
+          "word": "splash",
+          "pos": "verb",
+          "ko": "첨벙거리다, 튀기다",
+          "example": "The kids splashed in the pool.",
+          "example_ko": "아이들이 수영장에서 첨벙거렸어요.",
+          "note_ko": "소리를 흉내 낸 말. make a splash = 화제가 되다."
+        },
+        {
+          "lang": "en",
+          "word": "workshop",
+          "pos": "noun",
+          "ko": "워크숍, 체험 수업",
+          "example": "I joined a cooking workshop.",
+          "example_ko": "요리 워크숍에 참여했어요.",
+          "note_ko": "원래 뜻은 '작업장'."
+        },
+        {
+          "lang": "en",
+          "word": "Indigenous",
+          "pos": "adjective",
+          "ko": "원주민의, 토착의",
+          "example": "The museum shows Indigenous art.",
+          "example_ko": "그 박물관은 원주민 예술을 전시해요.",
+          "note_ko": "사람·민족을 말할 때는 보통 대문자 I로 써요."
+        },
+        {
+          "lang": "en",
+          "word": "barrier",
+          "pos": "noun",
+          "ko": "장벽, 장애물",
+          "example": "Money should not be a barrier to learning.",
+          "example_ko": "돈이 배움의 장벽이 돼서는 안 돼요.",
+          "note_ko": "language barrier = 언어 장벽."
+        },
+        {
+          "lang": "en",
+          "word": "the outdoors",
+          "pos": "noun",
+          "ko": "야외, 자연",
+          "example": "She loves the outdoors.",
+          "example_ko": "그녀는 야외 활동을 정말 좋아해요.",
+          "note_ko": "the를 붙여요. 형용사 outdoor(야외의), 부사 outdoors(야외에서)."
+        },
+        {
+          "lang": "fr",
+          "word": "prêter",
+          "pos": "verbe",
+          "ko": "빌려주다",
+          "example": "Tu peux me prêter ton vélo ?",
+          "example_ko": "네 자전거 좀 빌려줄래?",
+          "note_ko": "prêter à quelqu'un. 반대 방향은 emprunter."
+        },
+        {
+          "lang": "fr",
+          "word": "emprunter",
+          "pos": "verbe",
+          "ko": "빌리다",
+          "example": "J'ai emprunté trois livres.",
+          "example_ko": "책을 세 권 빌렸어요.",
+          "note_ko": "emprunter à quelqu'un = ~에게서 빌리다. 길을 '지나가다'라는 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "gratuitement",
+          "pos": "adv.",
+          "ko": "무료로",
+          "example": "Les enfants entrent gratuitement.",
+          "example_ko": "아이들은 무료로 들어가요.",
+          "note_ko": "형용사 gratuit(e)(무료의). C'est gratuit ! = 공짜예요!"
+        },
+        {
+          "lang": "fr",
+          "word": "raquettes",
+          "pos": "nom f. pl.",
+          "ko": "설피",
+          "example": "On a fait une balade en raquettes.",
+          "example_ko": "우리는 설피를 신고 산책했어요.",
+          "note_ko": "테니스 라켓도 raquette. 문맥으로 구분해요."
+        },
+        {
+          "lang": "fr",
+          "word": "observer les oiseaux",
+          "pos": "expr.",
+          "ko": "새를 관찰하다",
+          "example": "Il aime observer les oiseaux le matin.",
+          "example_ko": "그는 아침에 새를 관찰하는 걸 좋아해요.",
+          "note_ko": "명사로는 l'observation des oiseaux."
+        },
+        {
+          "lang": "fr",
+          "word": "dehors",
+          "pos": "adv.",
+          "ko": "밖에서",
+          "example": "Les enfants jouent dehors.",
+          "example_ko": "아이들이 밖에서 놀아요.",
+          "note_ko": "반대는 dedans(안에서)."
+        },
+        {
+          "lang": "fr",
+          "word": "boue",
+          "pos": "nom f.",
+          "ko": "진흙",
+          "example": "Mes chaussures sont pleines de boue.",
+          "example_ko": "제 신발이 진흙투성이예요.",
+          "note_ko": "형용사 boueux(진흙투성이의)."
+        },
+        {
+          "lang": "fr",
+          "word": "banlieue",
+          "pos": "nom f.",
+          "ko": "교외, 근교",
+          "example": "Il habite en banlieue parisienne.",
+          "example_ko": "그는 파리 근교에 살아요.",
+          "note_ko": "en banlieue = 교외에. 프랑스에서는 사회 문제와 함께 나오기도 해요."
+        },
+        {
+          "lang": "fr",
+          "word": "carte de bibliothèque",
+          "pos": "nom f.",
+          "ko": "도서관 카드",
+          "example": "J'ai oublié ma carte de bibliothèque.",
+          "example_ko": "도서관 카드를 깜빡했어요.",
+          "note_ko": "librairie는 '서점'. bibliothèque와 헷갈리기 쉬워요!"
+        },
+        {
+          "lang": "fr",
+          "word": "matériel de camping",
+          "pos": "nom m.",
+          "ko": "캠핑 장비",
+          "example": "Le matériel de camping coûte cher.",
+          "example_ko": "캠핑 장비는 비싸요.",
+          "note_ko": "matériel = 장비(셀 수 없음)."
+        },
+        {
+          "lang": "fr",
+          "word": "sentier",
+          "pos": "nom m.",
+          "ko": "오솔길, 산책로",
+          "example": "Ce sentier mène à la rivière.",
+          "example_ko": "이 오솔길은 강으로 이어져요.",
+          "note_ko": "sentier de randonnée = 등산로."
+        },
+        {
+          "lang": "fr",
+          "word": "patauger",
+          "pos": "verbe",
+          "ko": "(물·진흙 속을) 첨벙거리며 걷다",
+          "example": "Les enfants pataugent dans les flaques.",
+          "example_ko": "아이들이 물웅덩이에서 첨벙거려요.",
+          "note_ko": "flaque = 물웅덩이."
+        },
+        {
+          "lang": "fr",
+          "word": "atelier",
+          "pos": "nom m.",
+          "ko": "워크숍, 작업실",
+          "example": "Il y a un atelier de peinture samedi.",
+          "example_ko": "토요일에 그림 워크숍이 있어요.",
+          "note_ko": "화가의 작업실도 atelier."
+        },
+        {
+          "lang": "fr",
+          "word": "autochtone",
+          "pos": "adj./nom",
+          "ko": "원주민(의), 토착의",
+          "example": "Les peuples autochtones ont leur propre langue.",
+          "example_ko": "원주민들은 고유한 언어가 있어요.",
+          "note_ko": "영어 Indigenous. 캐나다 프랑스어에서도 자주 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "plein air",
+          "pos": "nom m.",
+          "ko": "야외",
+          "example": "On fait du sport en plein air.",
+          "example_ko": "우리는 야외에서 운동해요.",
+          "note_ko": "en plein air = 야외에서. 영어 the outdoors."
+        },
+        {
+          "lang": "fr",
+          "word": "s'inspirer de",
+          "pos": "verbe",
+          "ko": "~에서 영감을 얻다, 본받다",
+          "example": "Elle s'inspire de la nature pour peindre.",
+          "example_ko": "그녀는 자연에서 영감을 얻어 그림을 그려요.",
+          "note_ko": "명사 inspiration."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "You ___ a book FROM the library. The library ___ it TO you.",
+          "choices": [
+            "lend / borrows",
+            "borrow / lends",
+            "buy / sells"
+          ],
+          "answer": 1,
+          "explain_ko": "borrow = 빌리다(받는 쪽), lend = 빌려주다(주는 쪽)."
+        },
+        {
+          "lang": "fr",
+          "q": "À la bibliothèque, on ___ des livres.",
+          "choices": [
+            "prête",
+            "emprunte",
+            "vend"
+          ],
+          "answer": 1,
+          "explain_ko": "이용자는 emprunter(빌리다), 도서관은 prêter(빌려주다)."
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/10/25/nx-s1-6008157/new-colorado-library-helps-people-check-out-nature-not-just-books",
+          "accessed": "2026-10-26"
+        },
+        {
+          "name": "Axios Denver",
+          "url": "https://www.axios.com/local/denver/2026/08/07/nature-library-thornton-colorado",
+          "accessed": "2026-10-26"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-26T07:21:26.973Z"
+    }
+  ]
+}
