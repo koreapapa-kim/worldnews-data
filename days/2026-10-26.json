@@ -1,0 +1,2512 @@
+{
+  "schema": 1,
+  "date": "2026-10-26",
+  "stories": [
+    {
+      "id": "2026-10-26-01",
+      "category": "politics",
+      "region": {
+        "country": "BR",
+        "city": "São Paulo",
+        "lat": -23.55,
+        "lng": -46.63
+      },
+      "headline": {
+        "en": "Lula Wins Record Fourth Term in Dramatic Brazil Comeback",
+        "fr": "Brésil : Lula réélu pour un quatrième mandat après une remontée spectaculaire",
+        "ko": "브라질 룰라, 1차 패배 뒤집고 사상 첫 4선"
+      },
+      "hook": {
+        "en": "Who won Brazil's election?",
+        "fr": "Qui a gagné l'élection au Brésil ?",
+        "ko": "브라질 대선, 누가 이겼을까?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Lula won Brazil's presidential election on Sunday.",
+            "He will be president for the fourth time.",
+            "His opponent, Flávio Bolsonaro, does not accept the result."
+          ],
+          "easy_ko": [
+            "룰라가 일요일 브라질 대통령 선거에서 이겼습니다.",
+            "그는 네 번째로 대통령이 됩니다.",
+            "상대 후보 플라비우 보우소나루는 결과를 받아들이지 않고 있습니다."
+          ],
+          "normal": [
+            "Luiz Inácio Lula da Silva won Brazil's presidential runoff on Sunday and secured a record fourth term.",
+            "With all votes counted, the left-wing leader took 51.8% and finished about 4.4 million votes ahead of right-wing senator Flávio Bolsonaro.",
+            "It was a dramatic comeback, because Bolsonaro had won the first round on October 4 with 47% against Lula's 45%.",
+            "Lula's campaign worked hard to bring out the 33 million people who had not voted in the first round, and young supporters filled the streets and social media.",
+            "In his victory speech, Lula said Brazil \"will not accept being anyone's backyard,\" a pointed message to US President Donald Trump.",
+            "Bolsonaro, the son of former president Jair Bolsonaro, who is serving a 27-year sentence for a coup attempt, refused to admit defeat and asked for the result to be annulled.",
+            "Lula, who turns 81 on Tuesday, will start his new term on January 5 and will face a divided country and a hostile Congress."
+          ],
+          "normal_ko": [
+            "루이스 이나시우 룰라 다시우바가 일요일 브라질 대통령 결선 투표에서 이겨 사상 처음으로 네 번째 임기를 얻었습니다.",
+            "개표가 모두 끝난 결과, 이 좌파 지도자는 51.8%를 얻어 우파 상원의원 플라비우 보우소나루를 약 440만 표 차로 앞섰습니다.",
+            "보우소나루가 10월 4일 1차 투표에서 47% 대 45%로 룰라를 이겼기 때문에, 극적인 역전이었습니다.",
+            "룰라 캠프는 1차 투표 때 투표하지 않은 3,300만 명을 투표장으로 이끌기 위해 애썼고, 젊은 지지자들이 거리와 소셜 미디어를 가득 메웠습니다.",
+            "룰라는 승리 연설에서 브라질은 \"누구의 뒷마당도 되지 않겠다\"고 말했는데, 이는 도널드 트럼프 미국 대통령을 겨냥한 메시지였습니다.",
+            "쿠데타 시도로 27년형을 살고 있는 자이르 보우소나루 전 대통령의 아들인 보우소나루는 패배를 인정하지 않고 선거 결과를 무효로 해 달라고 요구했습니다.",
+            "화요일에 81세가 되는 룰라는 1월 5일 새 임기를 시작하며, 둘로 갈라진 나라와 적대적인 의회를 상대해야 합니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Lula a gagné l'élection présidentielle au Brésil dimanche.",
+            "Il sera président pour la quatrième fois.",
+            "Son adversaire, Flávio Bolsonaro, refuse le résultat."
+          ],
+          "easy_ko": [
+            "룰라가 일요일 브라질 대통령 선거에서 이겼습니다.",
+            "그는 네 번째로 대통령이 됩니다.",
+            "상대 후보 플라비우 보우소나루는 결과를 거부하고 있습니다."
+          ],
+          "normal": [
+            "Luiz Inácio Lula da Silva a remporté dimanche le second tour de la présidentielle au Brésil, décrochant un quatrième mandat, du jamais vu.",
+            "Une fois tous les bulletins dépouillés, le dirigeant de gauche a obtenu 51,8 % des voix, soit environ 4,4 millions de voix d'avance sur le sénateur de droite Flávio Bolsonaro.",
+            "C'est un retournement spectaculaire, car Bolsonaro était arrivé en tête du premier tour, le 4 octobre, avec 47 % contre 45 % pour Lula.",
+            "Le camp de Lula s'est battu pour faire voter les 33 millions de Brésiliens qui s'étaient abstenus au premier tour, et de jeunes partisans ont envahi les rues et les réseaux sociaux.",
+            "Dans son discours de victoire, Lula a affirmé que le Brésil « n'acceptera d'être l'arrière-cour de personne », un message adressé à Donald Trump.",
+            "Fils de l'ancien président Jair Bolsonaro, qui purge une peine de 27 ans pour tentative de coup d'État, Flávio Bolsonaro refuse de reconnaître sa défaite et demande l'annulation du scrutin.",
+            "Lula, qui fêtera ses 81 ans mardi, entamera son nouveau mandat le 5 janvier, face à un pays divisé et à un Congrès hostile."
+          ],
+          "normal_ko": [
+            "루이스 이나시우 룰라 다시우바가 일요일 브라질 대선 결선 투표에서 이겨, 전례 없는 네 번째 임기를 따냈습니다.",
+            "개표가 모두 끝난 결과 이 좌파 지도자는 51.8%를 얻어, 우파 상원의원 플라비우 보우소나루보다 약 440만 표를 더 얻었습니다.",
+            "보우소나루가 10월 4일 1차 투표에서 47% 대 45%로 1위를 했기 때문에, 극적인 역전입니다.",
+            "룰라 캠프는 1차 투표에서 기권한 브라질 국민 3,300만 명이 투표하도록 힘을 쏟았고, 젊은 지지자들이 거리와 소셜 미디어를 가득 메웠습니다.",
+            "룰라는 승리 연설에서 브라질은 \"누구의 뒷마당도 되지 않을 것\"이라고 말했는데, 도널드 트럼프를 향한 메시지였습니다.",
+            "쿠데타 시도로 27년형을 살고 있는 자이르 보우소나루 전 대통령의 아들 플라비우 보우소나루는 패배를 인정하지 않고 선거 무효를 요구하고 있습니다.",
+            "화요일에 81세 생일을 맞는 룰라는 1월 5일 새 임기를 시작하며, 분열된 나라와 적대적인 의회를 마주하게 됩니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "브라질은 국내총생산(GDP)이 2조 6천억 달러에 이르는 남미 최대 경제국입니다. 룰라는 금속노동자 노조 지도자 출신으로 2003~2010년 두 번 대통령을 지냈고, 부패 혐의로 580일 동안 수감됐다가 판결이 무효가 된 뒤 2022년 자이르 보우소나루를 꺾고 돌아왔어요. 1985년 군사 독재가 끝난 뒤 1차 투표에서 진 후보가 결선에서 이긴 것은 이번이 처음입니다. 결과가 나오자 상파울루 증시가 크게 떨어지는 등, 의회와 시장을 설득하는 것이 새 임기의 숙제로 꼽힙니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "presidential election",
+          "pos": "noun",
+          "ko": "대통령 선거",
+          "example": "The presidential election is in May.",
+          "example_ko": "대통령 선거는 5월에 있어요.",
+          "note_ko": "president(대통령)의 형용사가 presidential. 의회 선거는 parliamentary election."
+        },
+        {
+          "lang": "en",
+          "word": "opponent",
+          "pos": "noun",
+          "ko": "상대, 상대 후보",
+          "example": "She beat her opponent easily.",
+          "example_ko": "그녀는 상대를 쉽게 이겼어요.",
+          "note_ko": "선거·경기의 '맞수'. 반대 뜻은 supporter(지지자)나 ally(같은 편)."
+        },
+        {
+          "lang": "en",
+          "word": "runoff",
+          "pos": "noun",
+          "ko": "결선 투표",
+          "example": "The top two candidates will meet in a runoff.",
+          "example_ko": "상위 두 후보가 결선 투표에서 맞붙어요.",
+          "note_ko": "1차 투표(first round)에서 과반이 없을 때 1·2위만 다시 겨루는 투표."
+        },
+        {
+          "lang": "en",
+          "word": "secure",
+          "pos": "verb",
+          "ko": "얻어 내다, 확보하다",
+          "example": "He secured a place in the final.",
+          "example_ko": "그는 결승 진출 자리를 따냈어요.",
+          "note_ko": "형용사 secure(안전한)와 모양이 같아요. 기사에서는 '노력해서 얻다'라는 동사로 자주 써요."
+        },
+        {
+          "lang": "en",
+          "word": "term",
+          "pos": "noun",
+          "ko": "임기",
+          "example": "The mayor's term is four years.",
+          "example_ko": "시장의 임기는 4년이에요.",
+          "note_ko": "학교에서는 '학기', 계약서에서는 '조건(terms)'. a fourth term = 네 번째 임기."
+        },
+        {
+          "lang": "en",
+          "word": "count",
+          "pos": "verb",
+          "ko": "세다, 개표하다",
+          "example": "They are still counting the votes.",
+          "example_ko": "그들은 아직 표를 세고 있어요.",
+          "note_ko": "with all votes counted = 개표가 모두 끝난 상태에서. 명사 count는 '집계'."
+        },
+        {
+          "lang": "en",
+          "word": "left-wing",
+          "pos": "adjective",
+          "ko": "좌파의",
+          "example": "He reads a left-wing newspaper.",
+          "example_ko": "그는 좌파 신문을 읽어요.",
+          "note_ko": "반대는 right-wing(우파의). far-right = 극우."
+        },
+        {
+          "lang": "en",
+          "word": "ahead of",
+          "pos": "phrase",
+          "ko": "~보다 앞서",
+          "example": "Our team is two points ahead of them.",
+          "example_ko": "우리 팀이 그들보다 2점 앞서 있어요.",
+          "note_ko": "시간에도 써요: ahead of the meeting = 회의 전에. 반대는 behind."
+        },
+        {
+          "lang": "en",
+          "word": "comeback",
+          "pos": "noun",
+          "ko": "역전, 재기",
+          "example": "The team made an amazing comeback.",
+          "example_ko": "그 팀은 놀라운 역전승을 거뒀어요.",
+          "note_ko": "동사로는 come back(돌아오다). make a comeback = 다시 일어서다, 역전하다."
+        },
+        {
+          "lang": "en",
+          "word": "first round",
+          "pos": "noun",
+          "ko": "1차 투표, 1라운드",
+          "example": "No one won more than half in the first round.",
+          "example_ko": "1차 투표에서 아무도 과반을 얻지 못했어요.",
+          "note_ko": "선거에서는 1차 투표, 대회에서는 1회전. 다음은 second round."
+        },
+        {
+          "lang": "en",
+          "word": "supporter",
+          "pos": "noun",
+          "ko": "지지자",
+          "example": "Thousands of supporters waited outside.",
+          "example_ko": "수천 명의 지지자가 밖에서 기다렸어요.",
+          "note_ko": "동사 support(지지하다). 축구에서는 '팬'이라는 뜻으로도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "backyard",
+          "pos": "noun",
+          "ko": "뒷마당, 세력권",
+          "example": "The kids are playing in the backyard.",
+          "example_ko": "아이들이 뒷마당에서 놀고 있어요.",
+          "note_ko": "정치 기사에서 someone's backyard = 강대국이 마음대로 하는 '뒷마당' 같은 지역."
+        },
+        {
+          "lang": "en",
+          "word": "admit defeat",
+          "pos": "phrase",
+          "ko": "패배를 인정하다",
+          "example": "He finally admitted defeat.",
+          "example_ko": "그는 결국 패배를 인정했어요.",
+          "note_ko": "concede defeat와 같은 뜻. admit = (잘못·사실을) 인정하다."
+        },
+        {
+          "lang": "en",
+          "word": "annul",
+          "pos": "verb",
+          "ko": "무효로 하다",
+          "example": "The court annulled the contract.",
+          "example_ko": "법원이 그 계약을 무효로 했어요.",
+          "note_ko": "선거·결혼·판결을 '처음부터 없던 일로' 할 때 써요. 명사는 annulment."
+        },
+        {
+          "lang": "en",
+          "word": "turn",
+          "pos": "verb",
+          "ko": "(나이가) ~이 되다",
+          "example": "My son turns ten next week.",
+          "example_ko": "우리 아들은 다음 주에 열 살이 돼요.",
+          "note_ko": "turn + 나이 = 생일을 맞아 그 나이가 되다. become보다 자연스러워요."
+        },
+        {
+          "lang": "en",
+          "word": "divided",
+          "pos": "adjective",
+          "ko": "분열된, 나뉜",
+          "example": "The family is divided about the plan.",
+          "example_ko": "그 계획을 두고 가족의 생각이 갈려 있어요.",
+          "note_ko": "동사 divide(나누다). a divided country = 둘로 갈라진 나라."
+        },
+        {
+          "lang": "en",
+          "word": "hostile",
+          "pos": "adjective",
+          "ko": "적대적인",
+          "example": "The crowd was hostile to the speaker.",
+          "example_ko": "청중은 연사에게 적대적이었어요.",
+          "note_ko": "be hostile to ~ = ~에게 적대적이다. 반대는 friendly."
+        },
+        {
+          "lang": "fr",
+          "word": "élection présidentielle",
+          "pos": "nom f.",
+          "ko": "대통령 선거",
+          "example": "L'élection présidentielle a lieu au printemps.",
+          "example_ko": "대통령 선거는 봄에 열려요.",
+          "note_ko": "줄여서 la présidentielle라고도 해요. 의회 선거는 les législatives."
+        },
+        {
+          "lang": "fr",
+          "word": "adversaire",
+          "pos": "nom m./f.",
+          "ko": "상대, 적수",
+          "example": "Il a serré la main de son adversaire.",
+          "example_ko": "그는 상대와 악수했어요.",
+          "note_ko": "남녀 모양이 같아요: un/une adversaire. 반대는 un allié(같은 편)."
+        },
+        {
+          "lang": "fr",
+          "word": "remporter",
+          "pos": "verbe",
+          "ko": "(승리를) 거두다, 따내다",
+          "example": "Elle a remporté la course.",
+          "example_ko": "그녀가 경주에서 이겼어요.",
+          "note_ko": "gagner보다 기사에서 자주 쓰는 말. remporter une victoire / un prix."
+        },
+        {
+          "lang": "fr",
+          "word": "second tour",
+          "pos": "nom m.",
+          "ko": "결선 투표, 2차 투표",
+          "example": "Les deux candidats s'affrontent au second tour.",
+          "example_ko": "두 후보가 결선 투표에서 맞붙어요.",
+          "note_ko": "1차 투표는 le premier tour. 프랑스 대선도 이 방식이에요."
+        },
+        {
+          "lang": "fr",
+          "word": "mandat",
+          "pos": "nom m.",
+          "ko": "임기",
+          "example": "Son mandat dure cinq ans.",
+          "example_ko": "그의 임기는 5년이에요.",
+          "note_ko": "un quatrième mandat = 네 번째 임기. '위임장'이라는 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "dépouiller",
+          "pos": "verbe",
+          "ko": "개표하다",
+          "example": "On dépouille les bulletins ce soir.",
+          "example_ko": "오늘 밤 투표용지를 개표해요.",
+          "note_ko": "le bulletin = 투표용지. 명사 le dépouillement = 개표."
+        },
+        {
+          "lang": "fr",
+          "word": "voix",
+          "pos": "nom f.",
+          "ko": "표, 목소리",
+          "example": "Il a gagné avec 100 voix d'avance.",
+          "example_ko": "그는 100표 차로 이겼어요.",
+          "note_ko": "선거에서는 '표'. 단수와 복수 모양이 같아요: une voix, des voix."
+        },
+        {
+          "lang": "fr",
+          "word": "d'avance",
+          "pos": "expr.",
+          "ko": "앞선, 차이로",
+          "example": "L'équipe a deux buts d'avance.",
+          "example_ko": "그 팀은 두 골 앞서 있어요.",
+          "note_ko": "숫자 + d'avance = 그만큼 앞선. 미리(à l'avance)와 헷갈리지 마세요."
+        },
+        {
+          "lang": "fr",
+          "word": "retournement",
+          "pos": "nom m.",
+          "ko": "뒤집기, 반전",
+          "example": "Quel retournement de situation !",
+          "example_ko": "정말 엄청난 반전이네요!",
+          "note_ko": "un retournement de situation = 상황 반전. 동사 retourner(뒤집다)."
+        },
+        {
+          "lang": "fr",
+          "word": "en tête",
+          "pos": "expr.",
+          "ko": "1위로, 맨 앞에",
+          "example": "Elle est arrivée en tête de la course.",
+          "example_ko": "그녀가 경주에서 1위로 들어왔어요.",
+          "note_ko": "arriver en tête = 1위를 하다. la tête = 머리, 맨 앞. 선거·여론조사 기사에서 자주 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "abstenu",
+          "pos": "p.p.",
+          "ko": "기권한",
+          "example": "Beaucoup de jeunes se sont abstenus.",
+          "example_ko": "많은 젊은이가 투표하지 않았어요.",
+          "note_ko": "s'abstenir(기권하다, 삼가다)의 과거분사. 명사 l'abstention = 기권, 투표 불참."
+        },
+        {
+          "lang": "fr",
+          "word": "partisan",
+          "pos": "nom m.",
+          "ko": "지지자",
+          "example": "Ses partisans chantaient dans la rue.",
+          "example_ko": "그의 지지자들이 거리에서 노래했어요.",
+          "note_ko": "여성형 partisane. 영어 supporter와 같은 뜻이에요."
+        },
+        {
+          "lang": "fr",
+          "word": "arrière-cour",
+          "pos": "nom f.",
+          "ko": "뒷마당, 세력권",
+          "example": "Les enfants jouent dans l'arrière-cour.",
+          "example_ko": "아이들이 뒷마당에서 놀아요.",
+          "note_ko": "정치 기사에서는 강대국이 마음대로 하는 '뒷마당' 같은 지역을 뜻해요."
+        },
+        {
+          "lang": "fr",
+          "word": "reconnaître sa défaite",
+          "pos": "expr.",
+          "ko": "패배를 인정하다",
+          "example": "Le candidat a reconnu sa défaite.",
+          "example_ko": "그 후보는 패배를 인정했어요.",
+          "note_ko": "reconnaître = 알아보다, 인정하다. 반대는 crier victoire(승리를 외치다)."
+        },
+        {
+          "lang": "fr",
+          "word": "annulation",
+          "pos": "nom f.",
+          "ko": "취소, 무효",
+          "example": "On a appris l'annulation du concert.",
+          "example_ko": "콘서트가 취소됐다는 걸 알게 됐어요.",
+          "note_ko": "동사 annuler(취소하다, 무효로 하다). 비행기·예약 취소에도 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "fêter",
+          "pos": "verbe",
+          "ko": "축하하다, 기념하다",
+          "example": "On fête ses 30 ans samedi.",
+          "example_ko": "토요일에 그의 30번째 생일을 축하해요.",
+          "note_ko": "fêter ses 81 ans = 81세 생일을 맞다. faire la fête(신나게 놀다)와 짝."
+        },
+        {
+          "lang": "fr",
+          "word": "divisé",
+          "pos": "adj.",
+          "ko": "분열된, 나뉜",
+          "example": "Le pays est très divisé.",
+          "example_ko": "그 나라는 크게 분열돼 있어요.",
+          "note_ko": "동사 diviser(나누다). 여성형 divisée."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "What is a \"runoff\" in an election?",
+          "choices": [
+            "A second vote between the top two candidates",
+            "A speech by the winner",
+            "A count of the votes"
+          ],
+          "answer": 0,
+          "explain_ko": "runoff = 1차 투표에서 승자가 없을 때 1·2위가 다시 겨루는 결선 투표예요."
+        },
+        {
+          "lang": "fr",
+          "q": "« Arriver en tête » veut dire…",
+          "choices": [
+            "finir premier",
+            "arriver en retard",
+            "perdre la tête"
+          ],
+          "answer": 0,
+          "explain_ko": "arriver en tête = 맨 앞으로 들어오다, 1위를 하다."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo",
+          "accessed": "2026-10-27"
+        },
+        {
+          "name": "CBC News",
+          "url": "https://www.cbc.ca/news/world/lula-brazil-re-election-9.7395695",
+          "accessed": "2026-10-27"
+        },
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
+          "accessed": "2026-10-27"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261026-br%C3%A9sil-apr%C3%A8s-la-victoire-de-lula-la-bourse-de-sao-paulo-d%C3%A9visse",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-27T01:29:20.896Z",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-10-26/906f808e0a28382a.mp3",
+            "2026-10-26/09ffe383501790d8.mp3",
+            "2026-10-26/29403242905db5be.mp3"
+          ],
+          "normal": [
+            "2026-10-26/f0c0b9d8099447c9.mp3",
+            "2026-10-26/f5c207cd063717b9.mp3",
+            "2026-10-26/2e7ae5429fe09870.mp3",
+            "2026-10-26/0f7ff8f2632512b6.mp3",
+            "2026-10-26/ad7c3efb86d967cb.mp3",
+            "2026-10-26/bbfd3e7dbfd03a55.mp3",
+            "2026-10-26/85140c110a84cfd1.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-10-26/2917432eaf07f032.mp3",
+            "2026-10-26/a248c9d3909997b9.mp3",
+            "2026-10-26/eba667b0a7d11d1b.mp3"
+          ],
+          "normal": [
+            "2026-10-26/65a79ab7e9cdb74d.mp3",
+            "2026-10-26/8efac4e2696a3134.mp3",
+            "2026-10-26/740893971dfac316.mp3",
+            "2026-10-26/ef71520c2d8cf914.mp3",
+            "2026-10-26/875e6d061536ae3b.mp3",
+            "2026-10-26/edb697c923a0e86a.mp3",
+            "2026-10-26/f6e02da2e8ab6ac8.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-10-26/49d7790f35e98dee.mp3",
+          "2026-10-26/3342603dfc69c441.mp3",
+          "2026-10-26/44c749ab83422b30.mp3",
+          "2026-10-26/220dfb7dfeda993c.mp3",
+          "2026-10-26/39fbd956cce56641.mp3",
+          "2026-10-26/7af11133106c5dec.mp3",
+          "2026-10-26/88109af71256e733.mp3",
+          "2026-10-26/87caf4b609689279.mp3",
+          "2026-10-26/23703d9f80475547.mp3",
+          "2026-10-26/fc4fc226e759b449.mp3",
+          "2026-10-26/a17f6314d0e0b3b8.mp3",
+          "2026-10-26/0d21f1741920b3e8.mp3",
+          "2026-10-26/58ca3d21b6628173.mp3",
+          "2026-10-26/324b8d62b2985891.mp3",
+          "2026-10-26/4033c1263d3c2c0c.mp3",
+          "2026-10-26/c262aaf5d89c27c3.mp3",
+          "2026-10-26/32d32cc5fa824a3d.mp3",
+          "2026-10-26/a7f92f67e4de75de.mp3",
+          "2026-10-26/314b8f3d5e0b78bd.mp3",
+          "2026-10-26/94d93915c746e08d.mp3",
+          "2026-10-26/6b397dcce0613605.mp3",
+          "2026-10-26/f70e31526e6800c6.mp3",
+          "2026-10-26/d68db583cef99c60.mp3",
+          "2026-10-26/607452c2fb4208c4.mp3",
+          "2026-10-26/5aa8450d4350ac04.mp3",
+          "2026-10-26/b144d3c3593ad89f.mp3",
+          "2026-10-26/233546d2e2920d47.mp3",
+          "2026-10-26/1b3fbade57bb475a.mp3",
+          "2026-10-26/2b1380b13dd53575.mp3",
+          "2026-10-26/2db3a569e48463f4.mp3",
+          "2026-10-26/979b0733fc2799e6.mp3",
+          "2026-10-26/61e30144e42d49c4.mp3",
+          "2026-10-26/156ad43a00682c8d.mp3",
+          "2026-10-26/a2c55f33ea0f4b77.mp3"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-26-02",
+      "category": "health",
+      "region": {
+        "country": "FR",
+        "city": "Paris",
+        "lat": 48.86,
+        "lng": 2.35
+      },
+      "headline": {
+        "en": "France Promises School Repairs and an End to Parcoursup After Student Protests",
+        "fr": "Lycées : le gouvernement promet des travaux et la fin de Parcoursup",
+        "ko": "프랑스 고교생 시위 한 달… 정부 \"학교 고치고 대입 시스템 바꾼다\""
+      },
+      "hook": {
+        "en": "What did France promise its students?",
+        "fr": "Qu'a promis le gouvernement aux lycéens ?",
+        "ko": "프랑스 정부, 학생들에게 무엇을 약속했을까?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "High school students in France have protested for weeks.",
+            "On Monday, the government promised to repair old schools.",
+            "But the students say they will keep protesting."
+          ],
+          "easy_ko": [
+            "프랑스 고등학생들이 몇 주째 시위를 하고 있습니다.",
+            "월요일, 정부는 낡은 학교를 고치겠다고 약속했습니다.",
+            "하지만 학생들은 시위를 계속하겠다고 말합니다."
+          ],
+          "normal": [
+            "France's government announced a package of education measures on Monday after more than five weeks of protests by high school students.",
+            "Prime Minister Sébastien Lecornu met student representatives, who have blocked their schools since September over teacher shortages and crumbling buildings.",
+            "Some schools have collapsing ceilings, mould, broken toilets and windows that do not close.",
+            "The government will lend regional authorities €4 billion to start repairs, and some first-year high school classes will be limited to 28 students.",
+            "It also plans to replace Parcoursup, the university application platform that many students call unfair, with a new system in 2028.",
+            "Student leaders welcomed the progress but said they wanted \"measures, not half measures,\" and called for a new protest on Saturday, October 31.",
+            "President Emmanuel Macron said it was \"not normal\" for France to be in such turmoil six months before a presidential election."
+          ],
+          "normal_ko": [
+            "프랑스 정부가 고등학생들의 시위가 5주 넘게 이어지자 월요일 교육 대책을 한꺼번에 발표했습니다.",
+            "세바스티앵 르코르뉘 총리는 교사 부족과 무너져 가는 건물 문제로 9월부터 학교를 봉쇄해 온 학생 대표들을 만났습니다.",
+            "어떤 학교는 천장이 무너지고, 곰팡이가 피고, 화장실이 고장 났으며, 창문이 닫히지 않습니다.",
+            "정부는 수리를 시작할 수 있도록 지방 정부에 40억 유로를 빌려주고, 고등학교 1학년 일부 학급의 인원을 28명으로 제한합니다.",
+            "또 많은 학생이 불공정하다고 말하는 대학 지원 플랫폼 Parcoursup을 2028년에 새 제도로 바꿀 계획입니다.",
+            "학생 대표들은 진전을 반겼지만 \"반쪽짜리 대책이 아닌 제대로 된 대책\"을 원한다며, 10월 31일 토요일에 다시 시위를 열자고 호소했습니다.",
+            "에마뉘엘 마크롱 대통령은 대선을 6개월 앞두고 프랑스가 이렇게 혼란스러운 것은 \"정상이 아니다\"라고 말했습니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "En France, les lycéens manifestent depuis des semaines.",
+            "Lundi, le gouvernement a promis de rénover les vieux lycées.",
+            "Mais les élèves veulent continuer la mobilisation."
+          ],
+          "easy_ko": [
+            "프랑스에서 고등학생들이 몇 주째 시위를 하고 있습니다.",
+            "월요일, 정부는 낡은 고등학교를 고치겠다고 약속했습니다.",
+            "하지만 학생들은 시위를 계속하고 싶어 합니다."
+          ],
+          "normal": [
+            "Le gouvernement a annoncé lundi une série de mesures pour l'éducation, après plus de cinq semaines de mobilisation des lycéens.",
+            "Le Premier ministre Sébastien Lecornu a reçu à Matignon des représentants des élèves, qui bloquent leurs lycées depuis septembre pour dénoncer le manque de professeurs et des bâtiments délabrés.",
+            "Dans certains établissements, les plafonds s'effondrent, les murs sont couverts de moisissures et les fenêtres ne ferment plus.",
+            "L'État va prêter 4 milliards d'euros aux régions pour lancer les travaux, et certaines classes de seconde seront limitées à 28 élèves.",
+            "Il prévoit aussi de remplacer Parcoursup, la plateforme d'accès à l'université jugée injuste par beaucoup d'élèves, par un nouveau système en 2028.",
+            "Les représentants lycéens ont salué des avancées, mais ils réclament « des mesures, pas des demi-mesures » et appellent à manifester de nouveau samedi 31 octobre.",
+            "Emmanuel Macron a jugé « pas normal » que le pays soit dans un tel état d'agitation à six mois de l'élection présidentielle."
+          ],
+          "normal_ko": [
+            "정부는 고등학생들의 시위가 5주 넘게 이어지자 월요일 교육 대책을 잇달아 발표했습니다.",
+            "세바스티앵 르코르뉘 총리는 총리 관저 마티뇽에서 학생 대표들을 만났는데, 이들은 교사 부족과 낡은 건물을 고발하며 9월부터 학교를 봉쇄해 왔습니다.",
+            "일부 학교에서는 천장이 무너지고, 벽이 곰팡이로 덮였으며, 창문이 더는 닫히지 않습니다.",
+            "정부는 공사를 시작할 수 있도록 지방(레지옹)에 40억 유로를 빌려주고, 고등학교 1학년 일부 학급은 28명으로 제한합니다.",
+            "또 많은 학생이 불공정하다고 여기는 대학 진학 플랫폼 Parcoursup을 2028년에 새 제도로 바꿀 계획입니다.",
+            "학생 대표들은 진전을 반겼지만 \"반쪽짜리가 아닌 제대로 된 대책\"을 요구하며 10월 31일 토요일에 다시 시위하자고 호소했습니다.",
+            "에마뉘엘 마크롱은 대선을 6개월 앞둔 나라가 이렇게 어수선한 것은 \"정상이 아니다\"라고 말했습니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "프랑스의 리세(lycée)는 한국의 고등학교에 해당하고, 1학년을 '세콩드(seconde)'라고 부릅니다. Parcoursup은 고교생이 대학 지원서를 내는 온라인 플랫폼인데, 어떤 기준으로 합격이 정해지는지 알 수 없다는 비판을 오래 받아 왔어요. 고등학교 건물은 지방 정부(레지옹)가 관리하기 때문에 수리비를 지방에 빌려주는 방식입니다. 프랑스는 내년 봄 대선을 앞두고 물가 시위까지 겹쳐 몇 주째 매주 토요일 대규모 시위가 열리고 있어요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "high school",
+          "pos": "noun",
+          "ko": "고등학교",
+          "example": "My sister is in high school.",
+          "example_ko": "제 여동생은 고등학생이에요.",
+          "note_ko": "high school student = 고등학생. 영국에서는 secondary school이라고도 해요."
+        },
+        {
+          "lang": "en",
+          "word": "protest",
+          "pos": "verb",
+          "ko": "시위하다, 항의하다",
+          "example": "Workers protested outside the factory.",
+          "example_ko": "노동자들이 공장 밖에서 시위했어요.",
+          "note_ko": "명사도 같은 모양: a protest(시위). protest against ~ = ~에 반대해 시위하다."
+        },
+        {
+          "lang": "en",
+          "word": "package",
+          "pos": "noun",
+          "ko": "(정책) 묶음, 소포",
+          "example": "The government announced an aid package.",
+          "example_ko": "정부는 지원 대책을 발표했어요.",
+          "note_ko": "여러 대책을 한데 묶은 것. 우편으로 오는 '소포'라는 뜻도 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "representative",
+          "pos": "noun",
+          "ko": "대표, 대리인",
+          "example": "Each class chose a representative.",
+          "example_ko": "각 반이 대표를 한 명씩 뽑았어요.",
+          "note_ko": "동사 represent(대표하다). 미국 하원의원도 Representative라고 불러요."
+        },
+        {
+          "lang": "en",
+          "word": "block",
+          "pos": "verb",
+          "ko": "막다, 봉쇄하다",
+          "example": "A tree is blocking the road.",
+          "example_ko": "나무 한 그루가 길을 막고 있어요.",
+          "note_ko": "명사 a block = 덩어리, 구역. 프랑스 학생 시위의 '학교 봉쇄'는 blockade라고도 해요."
+        },
+        {
+          "lang": "en",
+          "word": "shortage",
+          "pos": "noun",
+          "ko": "부족",
+          "example": "There is a shortage of nurses.",
+          "example_ko": "간호사가 부족해요.",
+          "note_ko": "a shortage of ~ = ~의 부족. short(짧은, 모자라는)에서 왔어요."
+        },
+        {
+          "lang": "en",
+          "word": "crumbling",
+          "pos": "adjective",
+          "ko": "무너져 가는, 허물어지는",
+          "example": "They live in a crumbling old house.",
+          "example_ko": "그들은 허물어져 가는 낡은 집에 살아요.",
+          "note_ko": "동사 crumble(부서지다). 과자 부스러기는 crumbs."
+        },
+        {
+          "lang": "en",
+          "word": "ceiling",
+          "pos": "noun",
+          "ko": "천장",
+          "example": "There is a crack in the ceiling.",
+          "example_ko": "천장에 금이 가 있어요.",
+          "note_ko": "반대는 floor(바닥). 가격의 '상한선'이라는 뜻도 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "lend",
+          "pos": "verb",
+          "ko": "빌려주다",
+          "example": "Can you lend me your pen?",
+          "example_ko": "펜 좀 빌려줄래요?",
+          "note_ko": "lend = 빌려주다, borrow = 빌리다. 과거형 lent."
+        },
+        {
+          "lang": "en",
+          "word": "repair",
+          "pos": "noun",
+          "ko": "수리",
+          "example": "The car needs some repairs.",
+          "example_ko": "그 차는 수리가 좀 필요해요.",
+          "note_ko": "동사로도 써요: repair a roof = 지붕을 고치다. fix보다 조금 격식 있는 말."
+        },
+        {
+          "lang": "en",
+          "word": "limit",
+          "pos": "verb",
+          "ko": "제한하다",
+          "example": "We limit screen time to one hour.",
+          "example_ko": "우리는 화면 보는 시간을 한 시간으로 제한해요.",
+          "note_ko": "limit A to B = A를 B로 제한하다. 명사 a limit = 한계, 제한."
+        },
+        {
+          "lang": "en",
+          "word": "replace",
+          "pos": "verb",
+          "ko": "바꾸다, 대신하다",
+          "example": "We replaced the old windows.",
+          "example_ko": "우리는 낡은 창문을 새것으로 바꿨어요.",
+          "note_ko": "replace A with B = A를 B로 바꾸다. 명사 replacement."
+        },
+        {
+          "lang": "en",
+          "word": "unfair",
+          "pos": "adjective",
+          "ko": "불공평한",
+          "example": "The rules are unfair to young players.",
+          "example_ko": "그 규칙은 어린 선수들에게 불공평해요.",
+          "note_ko": "fair(공평한)의 반대. un-이 붙으면 반대 뜻이 돼요."
+        },
+        {
+          "lang": "en",
+          "word": "welcome",
+          "pos": "verb",
+          "ko": "반기다, 환영하다",
+          "example": "Parents welcomed the new rule.",
+          "example_ko": "부모들은 새 규칙을 반겼어요.",
+          "note_ko": "사람뿐 아니라 소식·결정을 '반기다'에도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "half measure",
+          "pos": "noun",
+          "ko": "미봉책, 어중간한 조치",
+          "example": "This problem needs more than half measures.",
+          "example_ko": "이 문제는 어중간한 조치로는 안 돼요.",
+          "note_ko": "보통 복수 half measures로 써요. no half measures = 대충은 안 된다."
+        },
+        {
+          "lang": "en",
+          "word": "turmoil",
+          "pos": "noun",
+          "ko": "혼란, 소란",
+          "example": "The country is in political turmoil.",
+          "example_ko": "그 나라는 정치적 혼란에 빠져 있어요.",
+          "note_ko": "be in turmoil = 혼란에 빠지다. chaos와 비슷한 말."
+        },
+        {
+          "lang": "fr",
+          "word": "lycéen",
+          "pos": "nom m.",
+          "ko": "고등학생",
+          "example": "Les lycéens passent le bac en juin.",
+          "example_ko": "고등학생들은 6월에 바칼로레아를 봐요.",
+          "note_ko": "여성형 lycéenne. 고등학교는 le lycée, 중학교는 le collège."
+        },
+        {
+          "lang": "fr",
+          "word": "manifester",
+          "pos": "verbe",
+          "ko": "시위하다",
+          "example": "Ils manifestent contre la réforme.",
+          "example_ko": "그들은 개혁에 반대해 시위해요.",
+          "note_ko": "명사 la manifestation(시위), 줄여서 la manif."
+        },
+        {
+          "lang": "fr",
+          "word": "rénover",
+          "pos": "verbe",
+          "ko": "보수하다, 새롭게 고치다",
+          "example": "La mairie va rénover l'école.",
+          "example_ko": "시청이 그 학교를 보수할 거예요.",
+          "note_ko": "명사 la rénovation. 낡은 건물을 고쳐 새것처럼 만들 때 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "mobilisation",
+          "pos": "nom f.",
+          "ko": "(시위·운동) 참여, 동원",
+          "example": "La mobilisation continue ce week-end.",
+          "example_ko": "이번 주말에도 시위가 이어져요.",
+          "note_ko": "프랑스 기사에서 '시위 운동'을 이렇게 불러요. 동사 se mobiliser."
+        },
+        {
+          "lang": "fr",
+          "word": "mesure",
+          "pos": "nom f.",
+          "ko": "조치, 대책",
+          "example": "Le gouvernement prend des mesures.",
+          "example_ko": "정부가 대책을 세워요.",
+          "note_ko": "prendre des mesures = 조치를 취하다. '치수'라는 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "reçu (recevoir)",
+          "pos": "verbe",
+          "ko": "받다, 맞이하다",
+          "example": "Le maire reçoit les habitants le lundi.",
+          "example_ko": "시장은 월요일마다 주민들을 맞이해요.",
+          "note_ko": "편지를 '받다'도, 손님을 '맞이하다'도 recevoir. 과거분사 reçu."
+        },
+        {
+          "lang": "fr",
+          "word": "bloquer",
+          "pos": "verbe",
+          "ko": "막다, 봉쇄하다",
+          "example": "Des élèves bloquent l'entrée du lycée.",
+          "example_ko": "학생들이 고등학교 입구를 막고 있어요.",
+          "note_ko": "명사 le blocage. 학생 시위에서 학교 정문을 막는 것을 un blocus라고 해요."
+        },
+        {
+          "lang": "fr",
+          "word": "manque de",
+          "pos": "expr.",
+          "ko": "~의 부족",
+          "example": "Il y a un manque de médecins.",
+          "example_ko": "의사가 부족해요.",
+          "note_ko": "동사 manquer(모자라다). Tu me manques = 네가 보고 싶어."
+        },
+        {
+          "lang": "fr",
+          "word": "délabré",
+          "pos": "adj.",
+          "ko": "낡아 허물어진",
+          "example": "Ce vieux bâtiment est délabré.",
+          "example_ko": "이 오래된 건물은 다 허물어져 가요.",
+          "note_ko": "여성형 délabrée. 오래 관리하지 않아 망가진 상태를 말해요."
+        },
+        {
+          "lang": "fr",
+          "word": "plafond",
+          "pos": "nom m.",
+          "ko": "천장",
+          "example": "Le plafond de la classe est fissuré.",
+          "example_ko": "교실 천장에 금이 갔어요.",
+          "note_ko": "바닥은 le sol, 벽은 le mur. '상한선'이라는 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "s'effondrer",
+          "pos": "verbe",
+          "ko": "무너지다",
+          "example": "Le pont s'est effondré.",
+          "example_ko": "다리가 무너졌어요.",
+          "note_ko": "명사 l'effondrement(붕괴). 가격이 '폭락하다'에도 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "prêter",
+          "pos": "verbe",
+          "ko": "빌려주다",
+          "example": "Tu peux me prêter ton vélo ?",
+          "example_ko": "자전거 좀 빌려줄래?",
+          "note_ko": "prêter = 빌려주다, emprunter = 빌리다. 명사 le prêt(대출)."
+        },
+        {
+          "lang": "fr",
+          "word": "travaux",
+          "pos": "nom m. pl.",
+          "ko": "공사",
+          "example": "La rue est fermée pour travaux.",
+          "example_ko": "공사 때문에 거리가 막혔어요.",
+          "note_ko": "le travail(일)의 복수형이지만, 복수로 쓰면 보통 '공사'라는 뜻이에요."
+        },
+        {
+          "lang": "fr",
+          "word": "injuste",
+          "pos": "adj.",
+          "ko": "불공평한, 부당한",
+          "example": "Cette décision est injuste.",
+          "example_ko": "이 결정은 부당해요.",
+          "note_ko": "juste(공정한)의 반대. 명사 l'injustice."
+        },
+        {
+          "lang": "fr",
+          "word": "saluer",
+          "pos": "verbe",
+          "ko": "반기다, 인사하다",
+          "example": "Les parents saluent cette décision.",
+          "example_ko": "부모들은 이 결정을 반겨요.",
+          "note_ko": "사람에게 '인사하다'도 되고, 기사에서는 결정·소식을 '환영하다'로 자주 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "réclamer",
+          "pos": "verbe",
+          "ko": "요구하다",
+          "example": "Les salariés réclament une hausse de salaire.",
+          "example_ko": "직원들이 임금 인상을 요구해요.",
+          "note_ko": "demander보다 강한 말. 명사 la réclamation(항의, 민원)."
+        },
+        {
+          "lang": "fr",
+          "word": "demi-mesure",
+          "pos": "nom f.",
+          "ko": "미봉책, 어중간한 조치",
+          "example": "Il ne veut pas de demi-mesures.",
+          "example_ko": "그는 어중간한 조치는 원하지 않아요.",
+          "note_ko": "demi = 절반. 영어 half measure와 똑같은 표현이에요."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "In the story, \"teacher shortages\" means…",
+          "choices": [
+            "there are not enough teachers",
+            "the teachers are short",
+            "teachers work short days"
+          ],
+          "answer": 0,
+          "explain_ko": "shortage = 부족. teacher shortages = 교사가 모자라는 것."
+        },
+        {
+          "lang": "fr",
+          "q": "« Prêter de l'argent » veut dire…",
+          "choices": [
+            "donner de l'argent pour toujours",
+            "donner de l'argent pour un temps",
+            "gagner de l'argent"
+          ],
+          "answer": 1,
+          "explain_ko": "prêter = 빌려주다. 돌려받는다는 뜻이 들어 있어요."
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/26/protest-leaders-urge-french-students-to-keep-barricading-their-schools",
+          "accessed": "2026-10-27"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/french-pm-meets-student-representatives-after-weeks-of-protests",
+          "accessed": "2026-10-27"
+        },
+        {
+          "name": "France 24 (FR)",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261026-les-lyc%C3%A9ens-saluent-l-annonce-de-la-suppression-de-parcoursup-%C3%A0-leur-sortie-de-matignon",
+          "accessed": "2026-10-27"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20261026-french-student-union-leaders-call-for-continued-mobilisation-after-meeting-pm",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-27T01:29:20.896Z",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-10-26/d26bf1dd26cc7233.mp3",
+            "2026-10-26/b694aa2553aa17dc.mp3",
+            "2026-10-26/0836807b2bfc2adf.mp3"
+          ],
+          "normal": [
+            "2026-10-26/61dbecdaff27d595.mp3",
+            "2026-10-26/f23d19775bfeb67d.mp3",
+            "2026-10-26/9caab1564b171164.mp3",
+            "2026-10-26/b1773d60e5baef24.mp3",
+            "2026-10-26/03222180189f7a9e.mp3",
+            "2026-10-26/999eca0853a52014.mp3",
+            "2026-10-26/d17d479ffd55dcb1.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-10-26/1f146a46bd2f36ff.mp3",
+            "2026-10-26/505c5ab1590d708f.mp3",
+            "2026-10-26/850b046daa0d94a1.mp3"
+          ],
+          "normal": [
+            "2026-10-26/7a30014c95f3b1e7.mp3",
+            "2026-10-26/7bc2390bb102629c.mp3",
+            "2026-10-26/bbaf593aa537efa6.mp3",
+            "2026-10-26/7744f6c7769353bc.mp3",
+            "2026-10-26/2c85e9c804d38656.mp3",
+            "2026-10-26/576afc9bcd0ab018.mp3",
+            "2026-10-26/04f6610f93eb3708.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-10-26/bd164da15d6019ce.mp3",
+          "2026-10-26/cf6e2b7e8b37262e.mp3",
+          "2026-10-26/c815d823c9762f53.mp3",
+          "2026-10-26/94d5c1993e954d41.mp3",
+          "2026-10-26/a5868a794d631cd1.mp3",
+          "2026-10-26/cb156bec0c554c6f.mp3",
+          "2026-10-26/81849c500e75a66e.mp3",
+          "2026-10-26/d50ca3586d8045b1.mp3",
+          "2026-10-26/db9fb889ee082edc.mp3",
+          "2026-10-26/3fd4e9191d06e49f.mp3",
+          "2026-10-26/cf3d1cc89600158a.mp3",
+          "2026-10-26/20e2a814fec9cd89.mp3",
+          "2026-10-26/c1165d5b18f9b7bd.mp3",
+          "2026-10-26/3bafae936703ccec.mp3",
+          "2026-10-26/2687fc4b18be9532.mp3",
+          "2026-10-26/80410eb54db53feb.mp3",
+          "2026-10-26/8da8a410e7548c57.mp3",
+          "2026-10-26/87e2da74c3647b78.mp3",
+          "2026-10-26/fa8c750b713fe8d7.mp3",
+          "2026-10-26/2e5b7e3dcf6e3173.mp3",
+          "2026-10-26/acdbf5581489a0ae.mp3",
+          "2026-10-26/9cb4596b4a14685d.mp3",
+          "2026-10-26/ab5ed7dc39988f86.mp3",
+          "2026-10-26/5c040d30da5ec09b.mp3",
+          "2026-10-26/9306cad8830118e8.mp3",
+          "2026-10-26/290bbd6fe147f331.mp3",
+          "2026-10-26/4d9f2bd779bf442f.mp3",
+          "2026-10-26/03ff8f42c6b62048.mp3",
+          "2026-10-26/55c54302e2ef10f9.mp3",
+          "2026-10-26/2c6b36dbc1d7cf03.mp3",
+          "2026-10-26/0380adb62ba30a01.mp3",
+          "2026-10-26/5229605ea94d538c.mp3",
+          "2026-10-26/f0c956487099ddbc.mp3"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-26-03",
+      "category": "sports",
+      "region": {
+        "country": "GB",
+        "city": "London",
+        "lat": 51.51,
+        "lng": -0.13
+      },
+      "headline": {
+        "en": "Harry Kane Wins Ballon d'Or, England's First in 25 Years",
+        "fr": "Harry Kane remporte le Ballon d'Or, une première anglaise depuis 25 ans",
+        "ko": "해리 케인, 잉글랜드 25년 만의 발롱도르"
+      },
+      "hook": {
+        "en": "Who won football's biggest prize?",
+        "fr": "Qui a gagné le Ballon d'Or ?",
+        "ko": "올해 세계 최고의 축구 선수는?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Harry Kane won the Ballon d'Or on Monday.",
+            "It is the top prize for the world's best football player.",
+            "He is the first English winner in 25 years."
+          ],
+          "easy_ko": [
+            "해리 케인이 월요일 발롱도르를 받았습니다.",
+            "발롱도르는 세계 최고의 축구 선수에게 주는 가장 큰 상입니다.",
+            "그는 25년 만에 나온 잉글랜드 출신 수상자입니다."
+          ],
+          "normal": [
+            "England captain Harry Kane won the Ballon d'Or, football's most famous individual award, at a ceremony in London on Monday.",
+            "He is the first Englishman to win it since Michael Owen in 2001.",
+            "The 33-year-old Bayern Munich striker scored 73 goals for club and country last season, a total beaten only by Lionel Messi's 82 in 2010-11.",
+            "He helped Bayern win the German league and cup, and scored six goals at the World Cup, where England finished third.",
+            "In the women's award, Spain's Alexia Putellas won for the third time, after earlier wins in 2021 and 2022.",
+            "The 32-year-old midfielder recovered from a serious knee injury and led Barcelona to the Women's Champions League before moving to London City Lionesses.",
+            "It was the first time the ceremony was held in London, 70 years after England's Stanley Matthews won the very first Ballon d'Or."
+          ],
+          "normal_ko": [
+            "잉글랜드 대표팀 주장 해리 케인이 월요일 런던에서 열린 시상식에서 축구에서 가장 유명한 개인상인 발롱도르를 받았습니다.",
+            "잉글랜드 선수가 이 상을 받은 것은 2001년 마이클 오언 이후 처음입니다.",
+            "33세의 바이에른 뮌헨 공격수인 그는 지난 시즌 소속팀과 대표팀에서 73골을 넣었는데, 이보다 많은 기록은 2010-11시즌 리오넬 메시의 82골뿐입니다.",
+            "그는 바이에른이 독일 리그와 컵 대회에서 우승하도록 이끌었고, 잉글랜드가 3위를 한 월드컵에서 6골을 넣었습니다.",
+            "여자 부문에서는 스페인의 알렉시아 푸테야스가 2021년과 2022년에 이어 세 번째로 상을 받았습니다.",
+            "32세의 미드필더인 그녀는 심각한 무릎 부상을 딛고 일어나 FC 바르셀로나를 여자 챔피언스리그 우승으로 이끈 뒤 런던 시티 라이어니스로 옮겼습니다.",
+            "시상식이 런던에서 열린 것은 처음으로, 잉글랜드의 스탠리 매슈스가 첫 발롱도르를 받은 지 70년 만입니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            3
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Harry Kane a gagné le Ballon d'Or lundi.",
+            "C'est le grand prix du meilleur joueur de football du monde.",
+            "C'est le premier Anglais à le gagner depuis 25 ans."
+          ],
+          "easy_ko": [
+            "해리 케인이 월요일 발롱도르를 받았습니다.",
+            "발롱도르는 세계 최고의 축구 선수에게 주는 큰 상입니다.",
+            "그는 25년 만에 이 상을 받은 잉글랜드 선수입니다."
+          ],
+          "normal": [
+            "Le capitaine de l'Angleterre, Harry Kane, a remporté lundi à Londres le Ballon d'Or, la plus prestigieuse récompense individuelle du football.",
+            "Il est le premier Anglais sacré depuis Michael Owen en 2001.",
+            "L'attaquant du Bayern Munich, âgé de 33 ans, a marqué 73 buts en club et en sélection la saison dernière, un total seulement dépassé par les 82 buts de Lionel Messi en 2010-2011.",
+            "Il a aidé le Bayern à remporter le championnat et la Coupe d'Allemagne, et il a marqué six buts au Mondial, où l'Angleterre a pris la troisième place.",
+            "Chez les femmes, l'Espagnole Alexia Putellas a gagné son troisième Ballon d'Or, après ceux de 2021 et 2022.",
+            "La milieu de terrain de 32 ans est revenue d'une grave blessure au genou et a mené le FC Barcelone au titre en Ligue des champions, avant de rejoindre les London City Lionesses.",
+            "La cérémonie se tenait pour la première fois à Londres, 70 ans après le tout premier Ballon d'Or, remporté par l'Anglais Stanley Matthews."
+          ],
+          "normal_ko": [
+            "잉글랜드 대표팀 주장 해리 케인이 월요일 런던에서 축구에서 가장 권위 있는 개인상인 발롱도르를 받았습니다.",
+            "그는 2001년 마이클 오언 이후 처음으로 이 상을 받은 잉글랜드 선수입니다.",
+            "33세의 바이에른 뮌헨 공격수인 그는 지난 시즌 소속팀과 대표팀에서 73골을 넣었는데, 이를 넘어선 기록은 2010-2011시즌 리오넬 메시의 82골뿐입니다.",
+            "그는 바이에른의 독일 리그와 컵 대회 우승을 도왔고, 잉글랜드가 3위를 차지한 월드컵에서 6골을 넣었습니다.",
+            "여자 부문에서는 스페인의 알렉시아 푸테야스가 2021년, 2022년에 이어 세 번째 발롱도르를 받았습니다.",
+            "32세의 미드필더인 그녀는 심각한 무릎 부상에서 돌아와 FC 바르셀로나를 챔피언스리그 우승으로 이끈 뒤 런던 시티 라이어니스에 입단했습니다.",
+            "시상식은 처음으로 런던에서 열렸는데, 잉글랜드의 스탠리 매슈스가 첫 발롱도르를 받은 지 70년 만입니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            3
+          ]
+        }
+      },
+      "ko_note": "발롱도르(Ballon d'Or)는 프랑스어로 '황금 공'이라는 뜻으로, 프랑스 축구 잡지 '프랑스 풋볼'이 1956년부터 주는 상입니다. 해리 케인은 토트넘에서 손흥민과 오랫동안 호흡을 맞췄고, 2023년 바이에른 뮌헨으로 옮긴 뒤 처음으로 큰 우승컵을 들었어요. 그전까지 잉글랜드 선수로는 스탠리 매슈스, 보비 찰턴, 조지 베스트, 케빈 키건, 마이클 오언만 이 상을 받았습니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "prize",
+          "pos": "noun",
+          "ko": "상",
+          "example": "She won first prize in the contest.",
+          "example_ko": "그녀는 대회에서 1등 상을 받았어요.",
+          "note_ko": "award와 비슷해요. price(가격)와 철자가 헷갈리기 쉬워요."
+        },
+        {
+          "lang": "en",
+          "word": "player",
+          "pos": "noun",
+          "ko": "선수",
+          "example": "He is a great tennis player.",
+          "example_ko": "그는 훌륭한 테니스 선수예요.",
+          "note_ko": "동사 play(경기하다)에 -er. 음악 연주자, 게임하는 사람에도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "winner",
+          "pos": "noun",
+          "ko": "우승자, 수상자",
+          "example": "The winner gets a gold medal.",
+          "example_ko": "우승자는 금메달을 받아요.",
+          "note_ko": "반대는 loser. the first English winner = 첫 잉글랜드 출신 수상자."
+        },
+        {
+          "lang": "en",
+          "word": "captain",
+          "pos": "noun",
+          "ko": "주장, 선장",
+          "example": "She is the captain of our team.",
+          "example_ko": "그녀가 우리 팀 주장이에요.",
+          "note_ko": "팀에서는 '주장', 배·비행기에서는 '선장·기장'."
+        },
+        {
+          "lang": "en",
+          "word": "individual",
+          "pos": "adjective",
+          "ko": "개인의",
+          "example": "Each student has an individual locker.",
+          "example_ko": "학생마다 개인 사물함이 있어요.",
+          "note_ko": "반대는 team(팀의). 명사로 쓰면 '개인'이라는 뜻."
+        },
+        {
+          "lang": "en",
+          "word": "award",
+          "pos": "noun",
+          "ko": "상",
+          "example": "The film won three awards.",
+          "example_ko": "그 영화는 상을 세 개 받았어요.",
+          "note_ko": "동사로도 써요: award a prize(상을 주다). 시상식은 an awards ceremony."
+        },
+        {
+          "lang": "en",
+          "word": "ceremony",
+          "pos": "noun",
+          "ko": "식, 의식",
+          "example": "The wedding ceremony starts at noon.",
+          "example_ko": "결혼식은 정오에 시작해요.",
+          "note_ko": "opening ceremony = 개막식, award ceremony = 시상식."
+        },
+        {
+          "lang": "en",
+          "word": "since",
+          "pos": "preposition",
+          "ko": "~ 이후로",
+          "example": "I have lived here since 2020.",
+          "example_ko": "저는 2020년부터 여기 살았어요.",
+          "note_ko": "the first since ~ = ~ 이후 처음. 보통 현재완료(have lived)와 함께 써요."
+        },
+        {
+          "lang": "en",
+          "word": "striker",
+          "pos": "noun",
+          "ko": "공격수, 스트라이커",
+          "example": "The striker scored two goals.",
+          "example_ko": "그 공격수가 두 골을 넣었어요.",
+          "note_ko": "strike(치다)에서 온 말. 수비수는 defender, 골키퍼는 goalkeeper."
+        },
+        {
+          "lang": "en",
+          "word": "score",
+          "pos": "verb",
+          "ko": "(골·점수를) 얻다, 넣다",
+          "example": "He scored in the last minute.",
+          "example_ko": "그는 마지막 1분에 골을 넣었어요.",
+          "note_ko": "score a goal = 골을 넣다. 명사 score는 '점수'."
+        },
+        {
+          "lang": "en",
+          "word": "club and country",
+          "pos": "phrase",
+          "ko": "소속팀과 대표팀",
+          "example": "He plays well for club and country.",
+          "example_ko": "그는 소속팀과 대표팀 모두에서 잘해요.",
+          "note_ko": "축구 기사의 단골 표현. country = 국가대표팀."
+        },
+        {
+          "lang": "en",
+          "word": "beat",
+          "pos": "verb",
+          "ko": "이기다, 넘어서다",
+          "example": "She beat her own record.",
+          "example_ko": "그녀는 자기 기록을 넘어섰어요.",
+          "note_ko": "과거형도 beat, 과거분사 beaten. beat a record = 기록을 깨다."
+        },
+        {
+          "lang": "en",
+          "word": "finish",
+          "pos": "verb",
+          "ko": "(순위로) 끝내다, ~위를 하다",
+          "example": "Our team finished second.",
+          "example_ko": "우리 팀은 2위를 했어요.",
+          "note_ko": "finish + 순위 = 그 순위로 마치다. finish third = 3위를 하다."
+        },
+        {
+          "lang": "en",
+          "word": "midfielder",
+          "pos": "noun",
+          "ko": "미드필더",
+          "example": "The midfielder passed the ball forward.",
+          "example_ko": "미드필더가 공을 앞으로 패스했어요.",
+          "note_ko": "midfield(경기장 가운데)에서 뛰는 선수."
+        },
+        {
+          "lang": "en",
+          "word": "injury",
+          "pos": "noun",
+          "ko": "부상",
+          "example": "He missed the game because of an injury.",
+          "example_ko": "그는 부상 때문에 경기에 못 나왔어요.",
+          "note_ko": "동사 injure(다치게 하다), 형용사 injured(다친)."
+        },
+        {
+          "lang": "en",
+          "word": "recover",
+          "pos": "verb",
+          "ko": "회복하다",
+          "example": "He recovered quickly after the operation.",
+          "example_ko": "그는 수술 뒤 빨리 회복했어요.",
+          "note_ko": "recover from ~ = ~에서 회복하다. 명사 recovery."
+        },
+        {
+          "lang": "fr",
+          "word": "meilleur",
+          "pos": "adj.",
+          "ko": "가장 좋은, 최고의",
+          "example": "C'est mon meilleur ami.",
+          "example_ko": "그는 제 가장 친한 친구예요.",
+          "note_ko": "bon(좋은)의 비교급·최상급. le meilleur joueur = 최고의 선수. 여성형 meilleure."
+        },
+        {
+          "lang": "fr",
+          "word": "joueur",
+          "pos": "nom m.",
+          "ko": "선수",
+          "example": "Ce joueur court très vite.",
+          "example_ko": "이 선수는 아주 빨리 달려요.",
+          "note_ko": "여성형 joueuse. 동사 jouer(경기하다, 놀다)."
+        },
+        {
+          "lang": "fr",
+          "word": "capitaine",
+          "pos": "nom m./f.",
+          "ko": "주장, 선장",
+          "example": "La capitaine lève la coupe.",
+          "example_ko": "주장이 우승컵을 들어 올려요.",
+          "note_ko": "남녀 모양이 같아요: le/la capitaine."
+        },
+        {
+          "lang": "fr",
+          "word": "récompense",
+          "pos": "nom f.",
+          "ko": "상, 보상",
+          "example": "Il a reçu une récompense pour son travail.",
+          "example_ko": "그는 노력에 대한 상을 받았어요.",
+          "note_ko": "동사 récompenser(상을 주다). un prix와 비슷한 말."
+        },
+        {
+          "lang": "fr",
+          "word": "sacré",
+          "pos": "adj.",
+          "ko": "(우승자로) 등극한, 신성한",
+          "example": "Elle a été sacrée championne du monde.",
+          "example_ko": "그녀는 세계 챔피언에 올랐어요.",
+          "note_ko": "스포츠 기사에서 être sacré = 우승하다, 왕관을 쓰다. 원래 뜻은 '신성한'."
+        },
+        {
+          "lang": "fr",
+          "word": "attaquant",
+          "pos": "nom m.",
+          "ko": "공격수",
+          "example": "L'attaquant a tiré au but.",
+          "example_ko": "공격수가 골문을 향해 슛을 했어요.",
+          "note_ko": "동사 attaquer(공격하다). 수비수는 le défenseur."
+        },
+        {
+          "lang": "fr",
+          "word": "marquer",
+          "pos": "verbe",
+          "ko": "(골을) 넣다, 표시하다",
+          "example": "Il a marqué un but de la tête.",
+          "example_ko": "그는 헤딩으로 골을 넣었어요.",
+          "note_ko": "marquer un but = 골을 넣다. le but = 골, 목표."
+        },
+        {
+          "lang": "fr",
+          "word": "sélection",
+          "pos": "nom f.",
+          "ko": "국가대표팀, 선발",
+          "example": "Il joue en sélection depuis dix ans.",
+          "example_ko": "그는 10년째 국가대표로 뛰어요.",
+          "note_ko": "축구에서 la sélection = 국가대표팀. en club et en sélection = 소속팀과 대표팀에서."
+        },
+        {
+          "lang": "fr",
+          "word": "dépasser",
+          "pos": "verbe",
+          "ko": "넘어서다, 추월하다",
+          "example": "La voiture a dépassé le camion.",
+          "example_ko": "자동차가 트럭을 추월했어요.",
+          "note_ko": "기록·숫자를 '넘다'에도 써요. dépasser les 100 buts = 100골을 넘기다."
+        },
+        {
+          "lang": "fr",
+          "word": "championnat",
+          "pos": "nom m.",
+          "ko": "리그, 선수권 대회",
+          "example": "Le championnat reprend en août.",
+          "example_ko": "리그는 8월에 다시 시작해요.",
+          "note_ko": "le champion(챔피언)에서 온 말. la Coupe는 토너먼트식 컵 대회."
+        },
+        {
+          "lang": "fr",
+          "word": "place",
+          "pos": "nom f.",
+          "ko": "순위, 자리, 광장",
+          "example": "Notre équipe a fini à la deuxième place.",
+          "example_ko": "우리 팀은 2위로 마쳤어요.",
+          "note_ko": "prendre la troisième place = 3위를 하다. 영어 place와 거의 같아요."
+        },
+        {
+          "lang": "fr",
+          "word": "milieu de terrain",
+          "pos": "nom m./f.",
+          "ko": "미드필더",
+          "example": "Le milieu de terrain fait une passe.",
+          "example_ko": "미드필더가 패스를 해요.",
+          "note_ko": "le milieu = 가운데, le terrain = 경기장. 여자 선수는 la milieu de terrain."
+        },
+        {
+          "lang": "fr",
+          "word": "blessure",
+          "pos": "nom f.",
+          "ko": "부상, 상처",
+          "example": "Sa blessure au genou est grave.",
+          "example_ko": "그의 무릎 부상은 심각해요.",
+          "note_ko": "형용사 blessé(다친). une blessure au genou = 무릎 부상."
+        },
+        {
+          "lang": "fr",
+          "word": "genou",
+          "pos": "nom m.",
+          "ko": "무릎",
+          "example": "J'ai mal au genou.",
+          "example_ko": "무릎이 아파요.",
+          "note_ko": "복수형은 -x: les genoux. avoir mal à ~ = ~이 아프다."
+        },
+        {
+          "lang": "fr",
+          "word": "rejoindre",
+          "pos": "verbe",
+          "ko": "합류하다, 입단하다",
+          "example": "Je te rejoins au café.",
+          "example_ko": "카페에서 만나자(내가 그리로 갈게).",
+          "note_ko": "사람을 '만나러 가다'도 되고, 팀에 '합류하다'도 돼요."
+        },
+        {
+          "lang": "fr",
+          "word": "tenir",
+          "pos": "verbe",
+          "ko": "(se tenir) 열리다; 잡다",
+          "example": "Le festival se tient chaque été.",
+          "example_ko": "그 축제는 매년 여름에 열려요.",
+          "note_ko": "se tenir = (행사가) 열리다, avoir lieu와 같은 뜻. 원래 tenir는 '잡다, 쥐다'."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "What does a \"striker\" do in football?",
+          "choices": [
+            "Scores goals",
+            "Guards the goal",
+            "Leads the fans"
+          ],
+          "answer": 0,
+          "explain_ko": "striker = 골을 넣는 공격수. 골문을 지키는 건 goalkeeper예요."
+        },
+        {
+          "lang": "fr",
+          "q": "« Marquer un but » veut dire…",
+          "choices": [
+            "perdre un match",
+            "mettre le ballon dans le filet",
+            "arrêter de jouer"
+          ],
+          "answer": 1,
+          "explain_ko": "marquer un but = 골을 넣다. le filet = 골망."
+        }
+      ],
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/sport/20261026-harry-kane-ballon-dor-2026-alexia-putellas",
+          "accessed": "2026-10-27"
+        },
+        {
+          "name": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-10-27/harry-kane-wins-ballon-d-or/107312914",
+          "accessed": "2026-10-27"
+        },
+        {
+          "name": "France 24 (FR)",
+          "url": "https://www.france24.com/fr/sports/20261026-l-anglais-harry-kane-remporte-le-ballon-d-or-2026",
+          "accessed": "2026-10-27"
+        },
+        {
+          "name": "France 24 (FR)",
+          "url": "https://www.france24.com/fr/sports/20261026-l-espagnole-alexia-putellas-remporte-son-troisi%C3%A8me-ballon-d-or-f%C3%A9minin",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-27T01:29:20.896Z",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-10-26/632e6946738335f3.mp3",
+            "2026-10-26/558bacf8b5c6b6f0.mp3",
+            "2026-10-26/7065f72855327101.mp3"
+          ],
+          "normal": [
+            "2026-10-26/b570863326bfadc9.mp3",
+            "2026-10-26/091f3c4c86d6b116.mp3",
+            "2026-10-26/34b27557f211a2c1.mp3",
+            "2026-10-26/d5b4c754bf52c20d.mp3",
+            "2026-10-26/81b3fa59b39c366a.mp3",
+            "2026-10-26/662a9cde612fd102.mp3",
+            "2026-10-26/cb4d764d9b0541e0.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-10-26/927bc3db5087a143.mp3",
+            "2026-10-26/1f68e9185768e006.mp3",
+            "2026-10-26/4670c0921066940f.mp3"
+          ],
+          "normal": [
+            "2026-10-26/54b762d4402e6913.mp3",
+            "2026-10-26/49f294c11374ff22.mp3",
+            "2026-10-26/22707d95168cf75b.mp3",
+            "2026-10-26/8a8e22256b67c43a.mp3",
+            "2026-10-26/b886d2e5ad706379.mp3",
+            "2026-10-26/05b2bf84eb0ef44b.mp3",
+            "2026-10-26/4c37daf23f2734eb.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-10-26/ddc4347346668546.mp3",
+          "2026-10-26/7b335308dd3ba701.mp3",
+          "2026-10-26/7722e5c812d92f70.mp3",
+          "2026-10-26/631d94bb1654976b.mp3",
+          "2026-10-26/2d318a86b363ef9b.mp3",
+          "2026-10-26/e944900178d353a0.mp3",
+          "2026-10-26/dbd487d90131925c.mp3",
+          "2026-10-26/0a70808b1f3c96cd.mp3",
+          "2026-10-26/d2a89de6b3aff57f.mp3",
+          "2026-10-26/f3621e19fb2b636c.mp3",
+          "2026-10-26/858dc39c0ed27799.mp3",
+          "2026-10-26/41a80dcfe1bd08a9.mp3",
+          "2026-10-26/4718c07fdd8bb519.mp3",
+          "2026-10-26/5e88cd250b75875d.mp3",
+          "2026-10-26/0867584a921d883c.mp3",
+          "2026-10-26/cf4f1400fd05ba65.mp3",
+          "2026-10-26/7a394c29b66e2e34.mp3",
+          "2026-10-26/66e2162790861a34.mp3",
+          "2026-10-26/16e5dd65b2d356cd.mp3",
+          "2026-10-26/4899622774b2520d.mp3",
+          "2026-10-26/24e78fccc1133c8b.mp3",
+          "2026-10-26/6c26cae7f0d398d3.mp3",
+          "2026-10-26/d41a56903af5d49c.mp3",
+          "2026-10-26/835e70013fe140dd.mp3",
+          "2026-10-26/1bf08cd9905a1f59.mp3",
+          "2026-10-26/011906155f3f5db7.mp3",
+          "2026-10-26/8c54aafc29f7cad3.mp3",
+          "2026-10-26/dc21016b0f6451d0.mp3",
+          "2026-10-26/3b582c4ce342de16.mp3",
+          "2026-10-26/1c766a041d200e2c.mp3",
+          "2026-10-26/558357099a51d804.mp3",
+          "2026-10-26/b85532a489d0ce55.mp3"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-26-04",
+      "category": "economy",
+      "region": {
+        "country": "EU",
+        "city": "Brussels",
+        "lat": 50.85,
+        "lng": 4.35
+      },
+      "headline": {
+        "en": "EU Adds €2 Fee on Every Item Bought Online From Abroad",
+        "fr": "Colis venus hors de l'UE : de nouveaux frais de 2 euros par article",
+        "ko": "유럽 해외 직구, 물건 하나에 2유로 더 낸다"
+      },
+      "hook": {
+        "en": "Why will online shopping cost more in Europe?",
+        "fr": "Pourquoi acheter en ligne va coûter plus cher ?",
+        "ko": "유럽에서 해외 직구가 비싸지는 이유는?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Shopping online from outside the EU will soon cost more.",
+            "From Sunday, there will be a new €2 fee for each item.",
+            "Most of these small packages come from China."
+          ],
+          "easy_ko": [
+            "EU 밖에서 온라인으로 물건을 사면 곧 돈이 더 듭니다.",
+            "일요일부터 물건 하나마다 2유로의 새 수수료가 붙습니다.",
+            "이런 작은 소포는 대부분 중국에서 옵니다."
+          ],
+          "normal": [
+            "From Sunday, the European Union will charge a new €2 handling fee on goods bought online from outside the bloc and sent directly to shoppers.",
+            "The fee applies to each different item in a parcel, whatever its value, so a package with a pen, a notebook and a key ring will cost €6 more.",
+            "It comes on top of a €3 customs duty on small parcels worth under €150, which started in July.",
+            "Nearly six billion small packages entered the EU last year, and about 93% of the cheap ones came from China through platforms such as Temu and AliExpress.",
+            "The EU says the flood of parcels is putting pressure on customs officers, and the new fee will help pay for their work.",
+            "Sellers pay the fee, but they can pass on the cost to customers, as long as the full price is shown upfront.",
+            "Since the €3 duty was introduced, these imports have fallen by about 64%, although officials say it is too early to draw a conclusion."
+          ],
+          "normal_ko": [
+            "일요일부터 유럽연합(EU)은 EU 밖에서 온라인으로 사서 소비자에게 바로 보내는 물건에 2유로의 처리 수수료를 새로 물립니다.",
+            "수수료는 값과 상관없이 소포 안의 서로 다른 물건마다 붙기 때문에, 펜·공책·열쇠고리가 든 소포는 6유로가 더 듭니다.",
+            "이 수수료는 7월부터 150유로 미만의 작은 소포에 매기고 있는 3유로의 관세에 더해집니다.",
+            "지난해 EU에 들어온 작은 소포는 60억 개 가까이 되며, 값싼 소포의 약 93%가 테무·알리익스프레스 같은 플랫폼을 통해 중국에서 왔습니다.",
+            "EU는 밀려드는 소포 때문에 세관 직원들이 부담을 느끼고 있고, 새 수수료가 그 업무 비용을 대는 데 쓰일 것이라고 말합니다.",
+            "수수료는 판매자가 내지만 소비자에게 떠넘길 수도 있는데, 그럴 때는 처음부터 전체 가격을 보여 줘야 합니다.",
+            "3유로 관세가 생긴 뒤 이런 수입이 약 64% 줄었지만, 당국은 확실한 결론을 내리기에는 이르다고 말합니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Acheter en ligne hors de l'Union européenne va coûter plus cher.",
+            "Dès dimanche, il y aura de nouveaux frais de 2 euros par article.",
+            "La plupart de ces petits colis viennent de Chine."
+          ],
+          "easy_ko": [
+            "유럽연합 밖에서 온라인으로 물건을 사면 돈이 더 들게 됩니다.",
+            "일요일부터 물건 하나당 2유로의 새 수수료가 붙습니다.",
+            "이런 작은 소포는 대부분 중국에서 옵니다."
+          ],
+          "normal": [
+            "À partir de dimanche, l'Union européenne appliquera des frais de traitement de 2 euros sur les produits achetés en ligne hors de l'UE et livrés directement aux particuliers.",
+            "Ces frais s'appliquent à chaque article différent d'un colis, quelle que soit sa valeur : un colis contenant un stylo, un carnet et un porte-clés coûtera ainsi 6 euros de plus.",
+            "Ils s'ajoutent au droit de douane de 3 euros sur les petits colis de moins de 150 euros, en vigueur depuis juillet.",
+            "Près de six milliards de petits colis sont entrés dans l'UE l'an dernier, et environ 93 % des envois bon marché venaient de Chine, via des plateformes comme Temu ou AliExpress.",
+            "Selon l'UE, cet afflux met les douaniers sous pression, et les nouveaux frais serviront à financer leur travail.",
+            "Ce sont les vendeurs qui paient, mais ils peuvent répercuter le coût sur les clients, à condition d'afficher le prix total dès le départ.",
+            "Depuis l'entrée en vigueur du droit de 3 euros, ces importations ont chuté d'environ 64 %, même si les autorités jugent qu'il est trop tôt pour conclure."
+          ],
+          "normal_ko": [
+            "일요일부터 유럽연합은 EU 밖에서 온라인으로 사서 개인에게 바로 배송되는 물건에 2유로의 처리 수수료를 매깁니다.",
+            "수수료는 값과 상관없이 소포 안의 서로 다른 물건마다 붙어서, 펜·수첩·열쇠고리가 든 소포는 6유로가 더 듭니다.",
+            "이 수수료는 7월부터 시행 중인, 150유로 미만 작은 소포에 매기는 3유로의 관세에 더해집니다.",
+            "지난해 EU에 들어온 작은 소포는 60억 개 가까이 되고, 값싼 배송품의 약 93%가 테무·알리익스프레스 같은 플랫폼을 통해 중국에서 왔습니다.",
+            "EU에 따르면 이렇게 밀려드는 소포가 세관 직원들에게 부담을 주고 있고, 새 수수료는 그 업무 비용에 쓰입니다.",
+            "수수료는 판매자가 내지만 비용을 소비자에게 넘길 수 있는데, 이때는 처음부터 전체 가격을 보여 줘야 합니다.",
+            "3유로 관세가 시행된 뒤 이런 수입은 약 64% 줄었지만, 당국은 결론을 내리기에는 아직 이르다고 봅니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "유럽연합(EU)은 27개 나라가 하나의 시장처럼 움직이는 공동체로, 관세도 함께 정합니다. 예전에는 150유로 미만 소포에 관세를 매기지 않아 중국 직구가 폭발적으로 늘었고, 그래서 올해 7월 3유로 관세를 먼저 도입했어요. 같은 물건 여러 개는 한 품목으로 쳐서, 똑같은 펜 두 자루는 2유로만 붙습니다. 블랙프라이데이와 크리스마스 쇼핑 철을 몇 주 앞두고 시작돼 유럽 소비자들의 관심이 커요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "online",
+          "pos": "adverb",
+          "ko": "온라인으로",
+          "example": "I bought these shoes online.",
+          "example_ko": "이 신발은 온라인으로 샀어요.",
+          "note_ko": "shop online = 인터넷 쇼핑을 하다. 반대는 in store(매장에서)."
+        },
+        {
+          "lang": "en",
+          "word": "fee",
+          "pos": "noun",
+          "ko": "수수료, 요금",
+          "example": "There is a small fee for delivery.",
+          "example_ko": "배송에는 약간의 요금이 붙어요.",
+          "note_ko": "서비스에 내는 돈. 학비는 school fees. price(물건값)와 구별해요."
+        },
+        {
+          "lang": "en",
+          "word": "item",
+          "pos": "noun",
+          "ko": "물품, 항목",
+          "example": "I have five items in my cart.",
+          "example_ko": "장바구니에 물건이 다섯 개 있어요.",
+          "note_ko": "셀 수 있는 '물건 하나'. 목록의 '항목'이라는 뜻도 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "charge",
+          "pos": "verb",
+          "ko": "(요금을) 청구하다",
+          "example": "The hotel charges €10 for parking.",
+          "example_ko": "그 호텔은 주차비로 10유로를 받아요.",
+          "note_ko": "명사로는 '요금'. 휴대폰을 '충전하다'라는 뜻도 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "bloc",
+          "pos": "noun",
+          "ko": "(국가) 연합, 블록",
+          "example": "The bloc has 27 members.",
+          "example_ko": "그 연합에는 27개 회원국이 있어요.",
+          "note_ko": "기사에서 EU를 다시 부를 때 the bloc이라고 해요. block(덩어리)과 철자가 달라요."
+        },
+        {
+          "lang": "en",
+          "word": "parcel",
+          "pos": "noun",
+          "ko": "소포",
+          "example": "A parcel arrived for you today.",
+          "example_ko": "오늘 당신 앞으로 소포가 왔어요.",
+          "note_ko": "영국식. 미국에서는 package를 더 많이 써요."
+        },
+        {
+          "lang": "en",
+          "word": "whatever",
+          "pos": "determiner",
+          "ko": "무엇이든, ~와 상관없이",
+          "example": "You can choose whatever color you like.",
+          "example_ko": "원하는 색은 무엇이든 고를 수 있어요.",
+          "note_ko": "whatever its value = 그 값이 얼마든 상관없이."
+        },
+        {
+          "lang": "en",
+          "word": "on top of",
+          "pos": "phrase",
+          "ko": "~에 더해, ~ 위에",
+          "example": "On top of the rent, we pay for water.",
+          "example_ko": "월세에 더해 수도 요금도 내요.",
+          "note_ko": "추가되는 것을 말할 때 써요. 물건의 '위에'라는 뜻도 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "customs",
+          "pos": "noun",
+          "ko": "세관, 관세",
+          "example": "We waited at customs for an hour.",
+          "example_ko": "세관에서 한 시간 기다렸어요.",
+          "note_ko": "항상 -s를 붙여요. customs duty = 관세. custom(관습)과는 다른 뜻."
+        },
+        {
+          "lang": "en",
+          "word": "worth",
+          "pos": "adjective",
+          "ko": "~의 가치가 있는",
+          "example": "This ring is worth €500.",
+          "example_ko": "이 반지는 500유로짜리예요.",
+          "note_ko": "worth + 금액 = 그만한 값어치. It's worth it = 그럴 만한 가치가 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "flood",
+          "pos": "noun",
+          "ko": "홍수, 쇄도",
+          "example": "We got a flood of emails.",
+          "example_ko": "이메일이 쏟아져 들어왔어요.",
+          "note_ko": "원래는 '홍수'. a flood of ~ = 엄청나게 밀려드는 ~."
+        },
+        {
+          "lang": "en",
+          "word": "pressure",
+          "pos": "noun",
+          "ko": "압박, 부담",
+          "example": "Students are under a lot of pressure.",
+          "example_ko": "학생들은 큰 부담을 안고 있어요.",
+          "note_ko": "put pressure on ~ = ~에 부담을 주다. 동사 press(누르다)."
+        },
+        {
+          "lang": "en",
+          "word": "pass on",
+          "pos": "phrasal verb",
+          "ko": "넘기다, 전가하다",
+          "example": "Shops pass on higher costs to customers.",
+          "example_ko": "가게들은 오른 비용을 손님에게 넘겨요.",
+          "note_ko": "pass A on to B = A를 B에게 넘기다. 소식을 '전하다'에도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "upfront",
+          "pos": "adverb",
+          "ko": "미리, 처음부터",
+          "example": "You have to pay upfront.",
+          "example_ko": "돈을 미리 내야 해요.",
+          "note_ko": "형용사로도 써요: upfront costs(초기 비용). '솔직한'이라는 뜻도 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "fall",
+          "pos": "verb",
+          "ko": "떨어지다, 줄다",
+          "example": "Prices fell by 10% last month.",
+          "example_ko": "지난달 가격이 10% 떨어졌어요.",
+          "note_ko": "fall by + 숫자 = 그만큼 줄다. 과거형 fell, 과거분사 fallen."
+        },
+        {
+          "lang": "en",
+          "word": "draw a conclusion",
+          "pos": "phrase",
+          "ko": "결론을 내리다",
+          "example": "It's too early to draw a conclusion.",
+          "example_ko": "결론을 내리기엔 너무 일러요.",
+          "note_ko": "draw = 끌어내다, 그리다. jump to conclusions = 성급하게 결론 내리다."
+        },
+        {
+          "lang": "fr",
+          "word": "en ligne",
+          "pos": "expr.",
+          "ko": "온라인으로",
+          "example": "J'achète mes livres en ligne.",
+          "example_ko": "저는 책을 온라인으로 사요.",
+          "note_ko": "la ligne = 줄, 선. 반대는 en magasin(매장에서)."
+        },
+        {
+          "lang": "fr",
+          "word": "hors de",
+          "pos": "prép.",
+          "ko": "~ 밖에서, ~ 바깥의",
+          "example": "Il habite hors de la ville.",
+          "example_ko": "그는 도시 밖에 살아요.",
+          "note_ko": "hors de prix = 엄청 비싼. 반대는 dans(~ 안에)."
+        },
+        {
+          "lang": "fr",
+          "word": "frais",
+          "pos": "nom m. pl.",
+          "ko": "비용, 수수료",
+          "example": "Les frais de livraison sont gratuits.",
+          "example_ko": "배송비는 무료예요.",
+          "note_ko": "항상 복수로 써요. 형용사 frais(시원한, 신선한)와 모양이 같아요."
+        },
+        {
+          "lang": "fr",
+          "word": "article",
+          "pos": "nom m.",
+          "ko": "물품, (신문) 기사",
+          "example": "J'ai trois articles dans mon panier.",
+          "example_ko": "장바구니에 물건이 세 개 있어요.",
+          "note_ko": "가게에서는 '물품', 신문에서는 '기사', 법에서는 '조항'."
+        },
+        {
+          "lang": "fr",
+          "word": "colis",
+          "pos": "nom m.",
+          "ko": "소포",
+          "example": "Le facteur a livré un colis.",
+          "example_ko": "우체부가 소포를 배달했어요.",
+          "note_ko": "단수와 복수 모양이 같아요: un colis, des colis."
+        },
+        {
+          "lang": "fr",
+          "word": "livrer",
+          "pos": "verbe",
+          "ko": "배달하다",
+          "example": "On vous livre demain matin.",
+          "example_ko": "내일 아침에 배달해 드려요.",
+          "note_ko": "명사 la livraison(배달). le livre(책)와 헷갈리지 마세요."
+        },
+        {
+          "lang": "fr",
+          "word": "quelle que soit",
+          "pos": "expr.",
+          "ko": "~가 무엇이든",
+          "example": "Quelle que soit la météo, on sort.",
+          "example_ko": "날씨가 어떻든 우리는 나가요.",
+          "note_ko": "뒤 명사가 여성이면 quelle, 남성이면 quel que soit."
+        },
+        {
+          "lang": "fr",
+          "word": "valeur",
+          "pos": "nom f.",
+          "ko": "가치, 값",
+          "example": "Ce tableau a une grande valeur.",
+          "example_ko": "이 그림은 가치가 커요.",
+          "note_ko": "물건의 '값'도, 사람의 '가치관(les valeurs)'도 돼요."
+        },
+        {
+          "lang": "fr",
+          "word": "s'ajouter",
+          "pos": "verbe",
+          "ko": "~에 더해지다",
+          "example": "La TVA s'ajoute au prix.",
+          "example_ko": "부가세가 가격에 더해져요.",
+          "note_ko": "ajouter = 더하다. s'ajouter à ~ = ~ 위에 추가되다."
+        },
+        {
+          "lang": "fr",
+          "word": "droit de douane",
+          "pos": "nom m.",
+          "ko": "관세",
+          "example": "Ce produit paie un droit de douane.",
+          "example_ko": "이 상품에는 관세가 붙어요.",
+          "note_ko": "la douane = 세관, le douanier = 세관원. le droit = 권리, 세금."
+        },
+        {
+          "lang": "fr",
+          "word": "en vigueur",
+          "pos": "expr.",
+          "ko": "시행 중인",
+          "example": "La loi est en vigueur depuis mai.",
+          "example_ko": "그 법은 5월부터 시행 중이에요.",
+          "note_ko": "entrer en vigueur = 시행되다. 법·규칙 기사의 단골 표현."
+        },
+        {
+          "lang": "fr",
+          "word": "bon marché",
+          "pos": "adj.",
+          "ko": "값싼",
+          "example": "Ces chaussures sont bon marché.",
+          "example_ko": "이 신발은 싸요.",
+          "note_ko": "모양이 변하지 않아요(복수에도 bon marché). 같은 뜻 pas cher."
+        },
+        {
+          "lang": "fr",
+          "word": "afflux",
+          "pos": "nom m.",
+          "ko": "쇄도, 밀려듦",
+          "example": "Il y a un afflux de touristes en été.",
+          "example_ko": "여름에는 관광객이 몰려들어요.",
+          "note_ko": "사람·물건이 한꺼번에 밀려들 때 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "sous pression",
+          "pos": "expr.",
+          "ko": "압박을 받는",
+          "example": "Les élèves sont sous pression avant le bac.",
+          "example_ko": "학생들은 바칼로레아를 앞두고 압박을 받아요.",
+          "note_ko": "mettre ~ sous pression = ~에 압박을 주다. la pression = 압력."
+        },
+        {
+          "lang": "fr",
+          "word": "répercuter",
+          "pos": "verbe",
+          "ko": "(비용을) 떠넘기다, 반영하다",
+          "example": "Le magasin répercute la hausse sur les prix.",
+          "example_ko": "가게가 비용 인상을 가격에 반영해요.",
+          "note_ko": "répercuter A sur B = A를 B에 떠넘기다. 경제 기사에서 자주 나와요."
+        },
+        {
+          "lang": "fr",
+          "word": "chuter",
+          "pos": "verbe",
+          "ko": "떨어지다, 급락하다",
+          "example": "Les ventes ont chuté de 20 %.",
+          "example_ko": "판매가 20% 급감했어요.",
+          "note_ko": "명사 la chute(추락, 하락). baisser보다 강한 말."
+        },
+        {
+          "lang": "fr",
+          "word": "trop tôt",
+          "pos": "expr.",
+          "ko": "너무 이른",
+          "example": "Il est trop tôt pour le dire.",
+          "example_ko": "그걸 말하기엔 너무 일러요.",
+          "note_ko": "반대는 trop tard(너무 늦은). trop tôt pour + 동사 = ~하기엔 이르다."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "If there is a €2 fee \"on top of\" a €3 duty, you pay…",
+          "choices": [
+            "€1",
+            "€5",
+            "€2"
+          ],
+          "answer": 1,
+          "explain_ko": "on top of = ~에 더해. 3유로에 2유로가 더해져 5유로예요."
+        },
+        {
+          "lang": "fr",
+          "q": "« Bon marché » veut dire…",
+          "choices": [
+            "cher",
+            "pas cher",
+            "au marché"
+          ],
+          "answer": 1,
+          "explain_ko": "bon marché = 값싼. 시장(le marché)과는 상관없는 뜻이에요."
+        }
+      ],
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/europe/article/3372219/new-levy-non-eu-parcels-kicks-sunday-bid-curb-influx-china",
+          "accessed": "2026-10-27"
+        },
+        {
+          "name": "Irish Revenue",
+          "url": "https://www.revenue.ie/en/corporate/press-office/press-releases/2026/pr-092926-handling-fee.aspx",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-27T01:29:20.896Z",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-10-26/649c06dc153360a5.mp3",
+            "2026-10-26/57ad52dfa87bb4a2.mp3",
+            "2026-10-26/e4c047a7f9e58c5f.mp3"
+          ],
+          "normal": [
+            "2026-10-26/75fb127c26e311a3.mp3",
+            "2026-10-26/cb09de35c14e4d26.mp3",
+            "2026-10-26/5a0d69585b700cce.mp3",
+            "2026-10-26/ffbeb6b272b7ff45.mp3",
+            "2026-10-26/1094c3ddf2647ad1.mp3",
+            "2026-10-26/c8e260ad084166e8.mp3",
+            "2026-10-26/31462712493e14a0.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-10-26/7b9e47572d946de7.mp3",
+            "2026-10-26/83cd2f91cd7c28a6.mp3",
+            "2026-10-26/d7b980dd75defd65.mp3"
+          ],
+          "normal": [
+            "2026-10-26/70172cccab8569bb.mp3",
+            "2026-10-26/d8d372cea0d4e7e5.mp3",
+            "2026-10-26/99df0f2eb66e450c.mp3",
+            "2026-10-26/fc5510e1ee9cf382.mp3",
+            "2026-10-26/e0956573256dbbf3.mp3",
+            "2026-10-26/ec4b341c7fdc8739.mp3",
+            "2026-10-26/b958965a10e72af5.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-10-26/22e39b67efaecfff.mp3",
+          "2026-10-26/4a9da7ecf8bb1a3a.mp3",
+          "2026-10-26/f5feb4a8e1d26edb.mp3",
+          "2026-10-26/7079f2a369620057.mp3",
+          "2026-10-26/ef177091584044be.mp3",
+          "2026-10-26/5919128b807c7199.mp3",
+          "2026-10-26/0b3dc0d9e2af9e5a.mp3",
+          "2026-10-26/5dbfc6bce26629c6.mp3",
+          "2026-10-26/07ae0122b6e1d753.mp3",
+          "2026-10-26/554b9228ccb50f99.mp3",
+          "2026-10-26/bb1cf350d719d799.mp3",
+          "2026-10-26/935cc973c6a3ed22.mp3",
+          "2026-10-26/271d7062a144055f.mp3",
+          "2026-10-26/51a1fdbcd1e60f70.mp3",
+          "2026-10-26/f52d15fc2be29cb4.mp3",
+          "2026-10-26/76be89b6ce54b375.mp3",
+          "2026-10-26/5ea37559dbd2f929.mp3",
+          "2026-10-26/65162db472c08869.mp3",
+          "2026-10-26/0211dbd76dc7ba4e.mp3",
+          "2026-10-26/14a0de4b4692c500.mp3",
+          "2026-10-26/f37c35191241c030.mp3",
+          "2026-10-26/18c72ae8645e485d.mp3",
+          "2026-10-26/ae75b79f2b228bc6.mp3",
+          "2026-10-26/d0af82148e61055f.mp3",
+          "2026-10-26/cddaff0ad7f32dfc.mp3",
+          "2026-10-26/87cac3a5bc51cab1.mp3",
+          "2026-10-26/d2b836b10976df6d.mp3",
+          "2026-10-26/4d7c657b49eb31c7.mp3",
+          "2026-10-26/a085fe82ef540a3d.mp3",
+          "2026-10-26/1f87e02ffd1e7af2.mp3",
+          "2026-10-26/a09d74b2ed2b413b.mp3",
+          "2026-10-26/45d092b29c439523.mp3",
+          "2026-10-26/0e236bcd31fad0d9.mp3"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-26-05",
+      "category": "culture",
+      "region": {
+        "country": "US",
+        "city": "United States",
+        "lat": 39.8,
+        "lng": -98.6
+      },
+      "headline": {
+        "en": "\"Maxxing\" Is Dictionary.com's Word of the Year",
+        "fr": "« Maxxing », élu mot de l'année par Dictionary.com",
+        "ko": "올해의 영어 단어는 '맥싱(maxxing)'"
+      },
+      "hook": {
+        "en": "What does \"maxxing\" mean?",
+        "fr": "Que veut dire « maxxing » ?",
+        "ko": "'maxxing'은 무슨 뜻일까?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Dictionary.com picked \"maxxing\" as its word of the year.",
+            "It means doing something as much as you can.",
+            "People add it to other words, like \"sleepmaxxing\"."
+          ],
+          "easy_ko": [
+            "Dictionary.com이 'maxxing'을 올해의 단어로 골랐습니다.",
+            "이 말은 무언가를 할 수 있는 만큼 최대로 한다는 뜻입니다.",
+            "사람들은 'sleepmaxxing'처럼 이 말을 다른 단어에 붙여 씁니다."
+          ],
+          "normal": [
+            "The US dictionary website Dictionary.com has picked \"maxxing\" as its 2026 word of the year.",
+            "Short for \"maximizing,\" it means doing something to the fullest or improving one part of your life as much as possible.",
+            "The word can stand alone, but it is often added to the end of other words, as in \"sleepmaxxing\" or \"proteinmaxxing.\"",
+            "Its roots go back to gaming slang, and it spread from online forums such as Reddit to social media, where young people post about their maxxing efforts.",
+            "Dictionary.com found that digital media used the word nearly 19 times more in August than the monthly average in 2025.",
+            "Not everyone takes it seriously, and some people call a quiet night of snacks and movies \"cozymaxxing\" as a joke.",
+            "Other words on the shortlist included \"affordability\" and \"data center,\" while last year's winner was \"67.\""
+          ],
+          "normal_ko": [
+            "미국 사전 웹사이트 Dictionary.com이 'maxxing'을 2026년 올해의 단어로 골랐습니다.",
+            "'maximizing(최대화하기)'을 줄인 이 말은 무언가를 끝까지 하거나 삶의 한 부분을 가능한 한 끌어올리는 것을 뜻합니다.",
+            "이 단어는 혼자 쓸 수도 있지만, 'sleepmaxxing(잠 최대화)'이나 'proteinmaxxing(단백질 최대화)'처럼 다른 단어 끝에 붙는 경우가 많습니다.",
+            "뿌리는 게임 속어로 거슬러 올라가며, 레딧 같은 온라인 게시판에서 소셜 미디어로 퍼졌고, 젊은이들은 그곳에 자신의 'maxxing' 노력을 올립니다.",
+            "Dictionary.com에 따르면 디지털 매체는 8월에 이 단어를 2025년 월평균보다 19배 가까이 많이 썼습니다.",
+            "모두가 진지하게 쓰는 것은 아니어서, 어떤 사람들은 과자와 영화로 보내는 조용한 밤을 농담으로 'cozymaxxing(아늑함 최대화)'이라고 부릅니다.",
+            "후보 목록에는 'affordability(감당할 수 있는 가격)'와 'data center(데이터 센터)'도 있었고, 지난해 올해의 단어는 '67'이었습니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Le site Dictionary.com a choisi « maxxing » comme mot de l'année.",
+            "Ce mot anglais veut dire faire quelque chose au maximum.",
+            "On l'ajoute à d'autres mots, comme « sleepmaxxing »."
+          ],
+          "easy_ko": [
+            "Dictionary.com 사이트가 'maxxing'을 올해의 단어로 골랐습니다.",
+            "이 영어 단어는 무언가를 최대한으로 한다는 뜻입니다.",
+            "사람들은 'sleepmaxxing'처럼 이 말을 다른 단어에 붙입니다."
+          ],
+          "normal": [
+            "Le dictionnaire en ligne américain Dictionary.com a choisi « maxxing » comme mot de l'année 2026.",
+            "Abréviation de « maximizing », ce terme désigne le fait de faire quelque chose à fond ou d'améliorer un aspect de sa vie autant que possible.",
+            "Il peut s'employer seul, mais on l'ajoute souvent à la fin d'autres mots, comme « sleepmaxxing » (optimiser son sommeil) ou « proteinmaxxing » (manger un maximum de protéines).",
+            "Né dans l'argot des jeux vidéo, il s'est répandu des forums comme Reddit vers les réseaux sociaux, où les jeunes partagent leurs efforts pour tout optimiser.",
+            "Selon Dictionary.com, les médias numériques ont utilisé ce mot près de 19 fois plus en août que la moyenne mensuelle de 2025.",
+            "Tout le monde ne le prend pas au sérieux : certains appellent « cozymaxxing » une simple soirée films et grignotage à la maison, pour rire.",
+            "Parmi les autres finalistes figuraient « affordability » (le fait d'avoir les moyens) et « data center », tandis que le mot de 2025 était « 67 »."
+          ],
+          "normal_ko": [
+            "미국의 온라인 사전 Dictionary.com이 'maxxing'을 2026년 올해의 단어로 골랐습니다.",
+            "'maximizing'을 줄인 이 말은 무언가를 끝까지 하거나 삶의 한 부분을 가능한 한 낫게 만드는 것을 가리킵니다.",
+            "혼자 쓸 수도 있지만 'sleepmaxxing(잠을 최적화하기)'이나 'proteinmaxxing(단백질을 최대한 먹기)'처럼 다른 단어 끝에 붙이는 경우가 많습니다.",
+            "비디오 게임 속어에서 생겨난 이 말은 레딧 같은 게시판에서 소셜 미디어로 퍼졌고, 젊은이들은 그곳에서 모든 것을 최적화하려는 노력을 나눕니다.",
+            "Dictionary.com에 따르면 디지털 매체는 8월에 이 단어를 2025년 월평균보다 19배 가까이 많이 썼습니다.",
+            "모두가 진지하게 쓰는 것은 아니어서, 어떤 사람들은 집에서 영화를 보며 군것질하는 평범한 저녁을 장난으로 'cozymaxxing'이라고 부릅니다.",
+            "다른 후보로는 'affordability(감당할 여유가 있음)'와 'data center'가 있었고, 2025년의 단어는 '67'이었습니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "Dictionary.com은 해마다 검색량과 뉴스·SNS에서 많이 쓰인 말을 분석해 '올해의 단어'를 뽑습니다. 지난해 단어 '67(식스세븐)'은 뜻 없이 외치는 10대들의 유행어였고, 2024년에는 '얌전한'이라는 뜻의 demure가 뽑혔어요. maxxing은 원래 외모를 극단적으로 가꾸는 'looksmaxxing'에서 널리 알려졌는데, 이제는 회사에서 AI를 최대한 쓰는 'tokenmaxxing'처럼 온갖 분야에 붙어 쓰입니다. 영어권 SNS를 보다가 '-maxxing'이 보이면 '~을 최대한 하기'로 이해하면 돼요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "pick",
+          "pos": "verb",
+          "ko": "고르다",
+          "example": "Pick a number from one to ten.",
+          "example_ko": "1부터 10까지 숫자 하나를 고르세요.",
+          "note_ko": "choose와 같은 뜻이지만 더 가볍게 써요. pick up = 집어 들다."
+        },
+        {
+          "lang": "en",
+          "word": "word of the year",
+          "pos": "noun",
+          "ko": "올해의 단어",
+          "example": "What is your word of the year?",
+          "example_ko": "당신의 올해의 단어는 뭐예요?",
+          "note_ko": "사전 회사들이 매년 그해를 대표하는 말을 뽑아 발표해요."
+        },
+        {
+          "lang": "en",
+          "word": "as much as",
+          "pos": "phrase",
+          "ko": "~만큼 많이",
+          "example": "Eat as much as you want.",
+          "example_ko": "먹고 싶은 만큼 드세요.",
+          "note_ko": "as much as you can / as much as possible = 할 수 있는 만큼, 최대한."
+        },
+        {
+          "lang": "en",
+          "word": "add",
+          "pos": "verb",
+          "ko": "더하다, 붙이다",
+          "example": "Add some salt to the soup.",
+          "example_ko": "수프에 소금을 조금 넣으세요.",
+          "note_ko": "add A to B = A를 B에 더하다. 명사 addition."
+        },
+        {
+          "lang": "en",
+          "word": "short for",
+          "pos": "phrase",
+          "ko": "~의 줄임말",
+          "example": "\"Info\" is short for \"information.\"",
+          "example_ko": "'info'는 'information'의 줄임말이에요.",
+          "note_ko": "A is short for B = A는 B를 줄인 말이다."
+        },
+        {
+          "lang": "en",
+          "word": "to the fullest",
+          "pos": "phrase",
+          "ko": "최대한, 마음껏",
+          "example": "She lives life to the fullest.",
+          "example_ko": "그녀는 인생을 마음껏 살아요.",
+          "note_ko": "live life to the fullest = 인생을 즐기며 최대한 살다."
+        },
+        {
+          "lang": "en",
+          "word": "stand alone",
+          "pos": "phrase",
+          "ko": "혼자 쓰이다, 홀로 서다",
+          "example": "This word can stand alone.",
+          "example_ko": "이 단어는 혼자서도 쓸 수 있어요.",
+          "note_ko": "형용사 stand-alone = 단독의, 독립된."
+        },
+        {
+          "lang": "en",
+          "word": "root",
+          "pos": "noun",
+          "ko": "뿌리, 기원",
+          "example": "The word has Latin roots.",
+          "example_ko": "그 단어는 라틴어에 뿌리를 두고 있어요.",
+          "note_ko": "보통 복수 roots. go back to ~ = ~로 거슬러 올라가다."
+        },
+        {
+          "lang": "en",
+          "word": "slang",
+          "pos": "noun",
+          "ko": "속어, 은어",
+          "example": "My kids use a lot of slang.",
+          "example_ko": "우리 애들은 속어를 많이 써요.",
+          "note_ko": "셀 수 없는 명사라 a slang이라고 하지 않아요. a slang word는 OK."
+        },
+        {
+          "lang": "en",
+          "word": "spread",
+          "pos": "verb",
+          "ko": "퍼지다, 퍼뜨리다",
+          "example": "The news spread quickly.",
+          "example_ko": "그 소식은 빠르게 퍼졌어요.",
+          "note_ko": "과거형·과거분사도 spread. spread from A to B = A에서 B로 퍼지다."
+        },
+        {
+          "lang": "en",
+          "word": "post",
+          "pos": "verb",
+          "ko": "(글·사진을) 올리다",
+          "example": "She posted a photo of her cat.",
+          "example_ko": "그녀는 고양이 사진을 올렸어요.",
+          "note_ko": "명사 a post = 게시물. 영국에서는 '우편'이라는 뜻도 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "effort",
+          "pos": "noun",
+          "ko": "노력",
+          "example": "Thank you for your effort.",
+          "example_ko": "애써 주셔서 고마워요.",
+          "note_ko": "make an effort = 노력하다. 발음은 [에퍼트]."
+        },
+        {
+          "lang": "en",
+          "word": "seriously",
+          "pos": "adverb",
+          "ko": "진지하게, 심각하게",
+          "example": "Please take this seriously.",
+          "example_ko": "이걸 진지하게 받아들여 주세요.",
+          "note_ko": "take A seriously = A를 진지하게 받아들이다. Seriously? = 정말이야?"
+        },
+        {
+          "lang": "en",
+          "word": "as a joke",
+          "pos": "phrase",
+          "ko": "농담으로, 장난으로",
+          "example": "I said it as a joke.",
+          "example_ko": "그건 농담으로 한 말이었어요.",
+          "note_ko": "just kidding(농담이야)과 함께 알아 두면 좋아요."
+        },
+        {
+          "lang": "en",
+          "word": "shortlist",
+          "pos": "noun",
+          "ko": "최종 후보 명단",
+          "example": "Her book is on the shortlist.",
+          "example_ko": "그녀의 책이 최종 후보에 올랐어요.",
+          "note_ko": "be shortlisted = 최종 후보에 오르다. 상·채용 기사에서 자주 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "choisir",
+          "pos": "verbe",
+          "ko": "고르다, 선택하다",
+          "example": "Choisis un dessert.",
+          "example_ko": "디저트 하나 골라.",
+          "note_ko": "과거분사 choisi. 명사 le choix(선택)."
+        },
+        {
+          "lang": "fr",
+          "word": "mot de l'année",
+          "pos": "nom m.",
+          "ko": "올해의 단어",
+          "example": "Quel est le mot de l'année ?",
+          "example_ko": "올해의 단어는 뭐예요?",
+          "note_ko": "le mot = 단어. 프랑스 사전 Le Robert도 매년 올해의 단어를 뽑아요."
+        },
+        {
+          "lang": "fr",
+          "word": "au maximum",
+          "pos": "expr.",
+          "ko": "최대한",
+          "example": "Profite au maximum de tes vacances.",
+          "example_ko": "휴가를 마음껏 즐겨.",
+          "note_ko": "반대는 au minimum(최소한). 줄여서 au max라고도 해요."
+        },
+        {
+          "lang": "fr",
+          "word": "ajouter",
+          "pos": "verbe",
+          "ko": "더하다, 붙이다",
+          "example": "Ajoute un peu de sucre.",
+          "example_ko": "설탕을 조금 넣어.",
+          "note_ko": "ajouter A à B = A를 B에 더하다. 명사 l'ajout."
+        },
+        {
+          "lang": "fr",
+          "word": "désigner",
+          "pos": "verbe",
+          "ko": "가리키다, 뜻하다",
+          "example": "Ce mot désigne un petit chien.",
+          "example_ko": "이 단어는 작은 개를 가리켜요.",
+          "note_ko": "사람을 '지명하다'라는 뜻도 있어요. 영어 design과는 뜻이 달라요."
+        },
+        {
+          "lang": "fr",
+          "word": "à fond",
+          "pos": "expr.",
+          "ko": "끝까지, 완전히",
+          "example": "Il vit sa passion à fond.",
+          "example_ko": "그는 자기 열정을 끝까지 불태워요.",
+          "note_ko": "le fond = 바닥. à fond = 바닥까지, 있는 힘껏. 구어에서 아주 많이 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "améliorer",
+          "pos": "verbe",
+          "ko": "개선하다, 낫게 하다",
+          "example": "Je veux améliorer mon français.",
+          "example_ko": "프랑스어 실력을 늘리고 싶어요.",
+          "note_ko": "meilleur(더 좋은)와 같은 뿌리. 명사 l'amélioration."
+        },
+        {
+          "lang": "fr",
+          "word": "autant que possible",
+          "pos": "expr.",
+          "ko": "가능한 한",
+          "example": "Marche autant que possible.",
+          "example_ko": "가능한 한 많이 걸어.",
+          "note_ko": "autant = 그만큼. 영어 as much as possible과 같아요."
+        },
+        {
+          "lang": "fr",
+          "word": "s'employer",
+          "pos": "verbe",
+          "ko": "(말이) 쓰이다",
+          "example": "Ce mot s'emploie surtout à l'oral.",
+          "example_ko": "이 단어는 주로 말할 때 쓰여요.",
+          "note_ko": "employer = 사용하다, 고용하다. 단어 설명에서 자주 나오는 표현."
+        },
+        {
+          "lang": "fr",
+          "word": "argot",
+          "pos": "nom m.",
+          "ko": "속어, 은어",
+          "example": "« Bouffer » est un mot d'argot.",
+          "example_ko": "'bouffer(처먹다)'는 속어예요.",
+          "note_ko": "끝의 t는 소리 내지 않아요 [아르고]. 젊은이 말투는 l'argot des jeunes."
+        },
+        {
+          "lang": "fr",
+          "word": "répandre",
+          "pos": "verbe",
+          "ko": "퍼지다",
+          "example": "La rumeur s'est vite répandue.",
+          "example_ko": "소문이 빠르게 퍼졌어요.",
+          "note_ko": "se répandre = 퍼지다. 소문·병·유행이 퍼질 때 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "réseaux sociaux",
+          "pos": "nom m. pl.",
+          "ko": "소셜 미디어, SNS",
+          "example": "Elle passe trop de temps sur les réseaux sociaux.",
+          "example_ko": "그녀는 SNS에 시간을 너무 많이 써요.",
+          "note_ko": "le réseau = 망, 네트워크. 복수형 -eaux. sur les réseaux sociaux = SNS에서."
+        },
+        {
+          "lang": "fr",
+          "word": "moyenne",
+          "pos": "nom f.",
+          "ko": "평균",
+          "example": "Ma moyenne en maths est de 15.",
+          "example_ko": "제 수학 평균은 15점이에요.",
+          "note_ko": "en moyenne = 평균적으로. 프랑스 학교 성적은 20점 만점의 moyenne로 말해요."
+        },
+        {
+          "lang": "fr",
+          "word": "au sérieux",
+          "pos": "expr.",
+          "ko": "진지하게 받아들이다",
+          "example": "Personne ne le prend au sérieux.",
+          "example_ko": "아무도 그를 진지하게 받아들이지 않아요.",
+          "note_ko": "prendre au sérieux = 진지하게 받아들이다. 반대는 pour rire(재미로)."
+        },
+        {
+          "lang": "fr",
+          "word": "grignotage",
+          "pos": "nom m.",
+          "ko": "군것질",
+          "example": "Le grignotage le soir n'est pas bon.",
+          "example_ko": "밤에 군것질하는 건 좋지 않아요.",
+          "note_ko": "동사 grignoter(조금씩 갉아 먹다, 군것질하다)."
+        },
+        {
+          "lang": "fr",
+          "word": "pour rire",
+          "pos": "expr.",
+          "ko": "재미로, 농담으로",
+          "example": "Je l'ai dit pour rire.",
+          "example_ko": "그냥 농담으로 한 말이에요.",
+          "note_ko": "rire = 웃다. 같은 뜻 pour plaisanter."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "\"Maxxing\" is short for \"maximizing\". Here, \"short for\" means…",
+          "choices": [
+            "a shorter way of saying",
+            "the opposite of",
+            "a kind of"
+          ],
+          "answer": 0,
+          "explain_ko": "A is short for B = A는 B를 줄인 말이에요."
+        },
+        {
+          "lang": "fr",
+          "q": "« À fond » veut dire…",
+          "choices": [
+            "au fond de la mer",
+            "complètement, au maximum",
+            "lentement"
+          ],
+          "answer": 1,
+          "explain_ko": "à fond = 끝까지, 있는 힘껏. 바다 밑(au fond de la mer)과는 다른 뜻이에요."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo",
+          "accessed": "2026-10-27"
+        },
+        {
+          "name": "Dictionary.com",
+          "url": "https://www.dictionary.com/articles/word-of-the-year-2026",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-27T01:29:20.896Z",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-10-26/92f538d8cdd04ec5.mp3",
+            "2026-10-26/826b6a5ce0f3a201.mp3",
+            "2026-10-26/8ab86bb3494e9370.mp3"
+          ],
+          "normal": [
+            "2026-10-26/41f1c6c9a951440c.mp3",
+            "2026-10-26/b2c37aed34df643f.mp3",
+            "2026-10-26/3f9af08c64535e56.mp3",
+            "2026-10-26/088a615495328516.mp3",
+            "2026-10-26/2064a2e1709e9cf9.mp3",
+            "2026-10-26/026f61b074168b59.mp3",
+            "2026-10-26/2863b906a6780f72.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-10-26/8fd69c8d8b8fc2d3.mp3",
+            "2026-10-26/7f0bc542c7fd5cd7.mp3",
+            "2026-10-26/001539e130773424.mp3"
+          ],
+          "normal": [
+            "2026-10-26/68e4df7402d3369b.mp3",
+            "2026-10-26/f0f4142d75d1c132.mp3",
+            "2026-10-26/ca21f94f57a1f0b3.mp3",
+            "2026-10-26/a84fb49fde50d486.mp3",
+            "2026-10-26/2f44c25259a6c15a.mp3",
+            "2026-10-26/f98c4a8b9efe6d6c.mp3",
+            "2026-10-26/28a2a8ae45b160c9.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-10-26/311766e11c64aab3.mp3",
+          "2026-10-26/ac1fa200926b1fef.mp3",
+          "2026-10-26/dc09e857c78cbe8c.mp3",
+          "2026-10-26/83c63f69b636c1cf.mp3",
+          "2026-10-26/3615fe32a50d548e.mp3",
+          "2026-10-26/af9da0215e9fba81.mp3",
+          "2026-10-26/a7cf8934fbf0ca90.mp3",
+          "2026-10-26/6c8d1d52f2b740a2.mp3",
+          "2026-10-26/376bd06470db6b9f.mp3",
+          "2026-10-26/8d85ca1889c31770.mp3",
+          "2026-10-26/67cdc7f78299d0bc.mp3",
+          "2026-10-26/a7935d28b1d30547.mp3",
+          "2026-10-26/9c60bc9ca1f59687.mp3",
+          "2026-10-26/965d80c592450a29.mp3",
+          "2026-10-26/17029ffaf643a618.mp3",
+          "2026-10-26/186198fef6a818c1.mp3",
+          "2026-10-26/029c634ccb552ee6.mp3",
+          "2026-10-26/101d8f2477e31265.mp3",
+          "2026-10-26/f67c194387ad4158.mp3",
+          "2026-10-26/334d28faf642255f.mp3",
+          "2026-10-26/52525a22bd12bbaa.mp3",
+          "2026-10-26/2bf21994f3cf467d.mp3",
+          "2026-10-26/8319f392b1900040.mp3",
+          "2026-10-26/03ebfd9950f834a5.mp3",
+          "2026-10-26/b8ab6f8e4aa00874.mp3",
+          "2026-10-26/90a4c4247eec4df0.mp3",
+          "2026-10-26/93e4465d9ae059c8.mp3",
+          "2026-10-26/30f8975d2ef4e98b.mp3",
+          "2026-10-26/a47073acf590d6c5.mp3",
+          "2026-10-26/19122ed1f6a57e9d.mp3",
+          "2026-10-26/c7c0596b05b76e88.mp3"
+        ]
+      }
+    }
+  ],
+  "audio_base": "https://koreapapa-kim.github.io/worldnews-audio"
+}

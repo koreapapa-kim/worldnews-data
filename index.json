@@ -2,6 +2,52 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-10-26",
+      "count": 5,
+      "headlines": [
+        {
+          "id": "2026-10-26-01",
+          "ko": "브라질 룰라, 1차 패배 뒤집고 사상 첫 4선",
+          "en": "Lula Wins Record Fourth Term in Dramatic Brazil Comeback",
+          "fr": "Brésil : Lula réélu pour un quatrième mandat après une remontée spectaculaire",
+          "category": "politics",
+          "country": "BR"
+        },
+        {
+          "id": "2026-10-26-02",
+          "ko": "프랑스 고교생 시위 한 달… 정부 \"학교 고치고 대입 시스템 바꾼다\"",
+          "en": "France Promises School Repairs and an End to Parcoursup After Student Protests",
+          "fr": "Lycées : le gouvernement promet des travaux et la fin de Parcoursup",
+          "category": "health",
+          "country": "FR"
+        },
+        {
+          "id": "2026-10-26-03",
+          "ko": "해리 케인, 잉글랜드 25년 만의 발롱도르",
+          "en": "Harry Kane Wins Ballon d'Or, England's First in 25 Years",
+          "fr": "Harry Kane remporte le Ballon d'Or, une première anglaise depuis 25 ans",
+          "category": "sports",
+          "country": "GB"
+        },
+        {
+          "id": "2026-10-26-04",
+          "ko": "유럽 해외 직구, 물건 하나에 2유로 더 낸다",
+          "en": "EU Adds €2 Fee on Every Item Bought Online From Abroad",
+          "fr": "Colis venus hors de l'UE : de nouveaux frais de 2 euros par article",
+          "category": "economy",
+          "country": "EU"
+        },
+        {
+          "id": "2026-10-26-05",
+          "ko": "올해의 영어 단어는 '맥싱(maxxing)'",
+          "en": "\"Maxxing\" Is Dictionary.com's Word of the Year",
+          "fr": "« Maxxing », élu mot de l'année par Dictionary.com",
+          "category": "culture",
+          "country": "US"
+        }
+      ]
+    },
+    {
       "date": "2026-10-25",
       "count": 5,
       "headlines": [
@@ -94,6 +140,6 @@
       ]
     }
   ],
-  "latest": "2026-10-25",
-  "updated_at": "2026-10-26T12:45:31.274Z"
+  "latest": "2026-10-26",
+  "updated_at": "2026-10-27T01:30:59.415Z"
 }
