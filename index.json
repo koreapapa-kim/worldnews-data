@@ -2,6 +2,52 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-10-27",
+      "count": 5,
+      "headlines": [
+        {
+          "id": "2026-10-27-01",
+          "ko": "이스라엘 총선, 뚜렷한 승자 없어",
+          "en": "Israel's Election Ends Without a Clear Winner",
+          "fr": "Élections en Israël : pas de vainqueur clair",
+          "category": "politics",
+          "country": "IL"
+        },
+        {
+          "id": "2026-10-27-02",
+          "ko": "굶주린 우크라이나 도시 올레시키에 휴전 시작",
+          "en": "Truce Begins in Starving Ukrainian City of Oleshky",
+          "fr": "Une trêve commence à Olechky, ville ukrainienne affamée",
+          "category": "conflict",
+          "country": "UA"
+        },
+        {
+          "id": "2026-10-27-03",
+          "ko": "음바페, 마오쩌둥 밈에 웃었다가 중국 반발… 결국 사과",
+          "en": "Mbappé Apologises After Mao Joke Angers China",
+          "fr": "Mbappé s'excuse après une blague sur Mao qui a fâché la Chine",
+          "category": "sports",
+          "country": "CN"
+        },
+        {
+          "id": "2026-10-27-04",
+          "ko": "희귀 공룡 나노티라누스 뼈, 4,730만 달러에 팔려",
+          "en": "Rare Nanotyrannus Skeleton Sells for $47.3 Million",
+          "fr": "Un rare squelette de Nanotyrannus vendu 47,3 millions de dollars",
+          "category": "science",
+          "country": "US"
+        },
+        {
+          "id": "2026-10-27-05",
+          "ko": "슬로베니아 트리글라우 빙하, 끝내 사라져",
+          "en": "Slovenia's Triglav Glacier Has Disappeared",
+          "fr": "Le glacier du Triglav, en Slovénie, a disparu",
+          "category": "environment",
+          "country": "SI"
+        }
+      ]
+    },
+    {
       "date": "2026-10-26",
       "count": 5,
       "headlines": [
@@ -140,6 +186,6 @@
       ]
     }
   ],
-  "latest": "2026-10-26",
-  "updated_at": "2026-10-27T01:30:59.415Z"
+  "latest": "2026-10-27",
+  "updated_at": "2026-10-28T00:34:27.871Z"
 }

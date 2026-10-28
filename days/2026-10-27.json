@@ -1,0 +1,2517 @@
+{
+  "schema": 1,
+  "date": "2026-10-27",
+  "stories": [
+    {
+      "id": "2026-10-27-01",
+      "category": "politics",
+      "region": {
+        "country": "IL",
+        "city": "Jerusalem",
+        "lat": 31.77,
+        "lng": 35.21
+      },
+      "headline": {
+        "en": "Israel's Election Ends Without a Clear Winner",
+        "fr": "Élections en Israël : pas de vainqueur clair",
+        "ko": "이스라엘 총선, 뚜렷한 승자 없어"
+      },
+      "hook": {
+        "en": "Who won Israel's election?",
+        "fr": "Qui a gagné les élections en Israël ?",
+        "ko": "이스라엘 총선, 누가 이겼을까?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Israelis voted for a new parliament on Tuesday.",
+            "Early results show no clear winner.",
+            "Prime Minister Netanyahu's side lost many seats."
+          ],
+          "easy_ko": [
+            "이스라엘 국민이 화요일 새 의회를 뽑는 투표를 했습니다.",
+            "초기 결과로는 뚜렷한 승자가 없습니다.",
+            "네타냐후 총리 쪽은 의석을 많이 잃었습니다."
+          ],
+          "normal": [
+            "Israel held its first general election since the Hamas attack of October 7, 2023, and turnout reached 77.7%, the highest in more than two decades.",
+            "Exit polls gave the opposition bloc led by Gadi Eisenkot, a former army chief, 52 of the Knesset's 120 seats, just ahead of Prime Minister Benjamin Netanyahu's camp with 50.",
+            "Netanyahu's coalition held 68 seats in the outgoing parliament, so the result would be a sharp blow to him, although his Likud party is expected to remain the largest.",
+            "Arab parties could win the other 18 seats after record turnout among Arab voters, which may make them kingmakers.",
+            "However, Eisenkot has ruled out forming a government with them, so neither side has a clear path to the 61 seats needed for a majority.",
+            "On election day, Netanyahu suggested that the left and Arab voters were trying to steal the election, but the election committee said it had seen no evidence of tampering.",
+            "Final results could take days, and weeks of coalition talks are likely, while Netanyahu could stay on as caretaker prime minister."
+          ],
+          "normal_ko": [
+            "이스라엘이 2023년 10월 7일 하마스의 공격 이후 처음으로 총선을 치렀고, 투표율은 20여 년 만에 가장 높은 77.7%를 기록했습니다.",
+            "출구조사에서 전 군 참모총장 가디 아이젠코트가 이끄는 야권 진영은 크네세트(의회) 120석 가운데 52석을 얻어, 50석인 베냐민 네타냐후 총리 진영을 근소하게 앞섰습니다.",
+            "네타냐후의 연립 정부는 임기가 끝나는 의회에서 68석을 갖고 있었기 때문에, 그의 리쿠드당이 제1당은 지킬 것으로 보이지만 이 결과는 그에게 큰 타격입니다.",
+            "아랍계 유권자들의 투표가 사상 최대를 기록하면서 아랍계 정당들이 나머지 18석을 차지할 수 있어, 이들이 정권의 향방을 결정할 수도 있습니다.",
+            "하지만 아이젠코트는 이들과 함께 정부를 꾸리는 것을 배제했기 때문에, 어느 쪽도 과반에 필요한 61석에 이를 뚜렷한 길이 없습니다.",
+            "선거 당일 네타냐후는 좌파와 아랍계 유권자들이 선거를 훔치려 한다고 주장했지만, 선거관리위원회는 부정의 증거를 보지 못했다고 밝혔습니다.",
+            "최종 결과가 나오기까지 며칠이 걸릴 수 있고 몇 주 동안 연립 협상이 이어질 것으로 보이며, 그동안 네타냐후는 임시 총리로 남을 수 있습니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Les Israéliens ont voté mardi pour élire leur Parlement.",
+            "Les premiers résultats ne montrent pas de vainqueur clair.",
+            "Le camp du Premier ministre Netanyahu a perdu beaucoup de sièges."
+          ],
+          "easy_ko": [
+            "이스라엘 국민이 화요일 의회를 뽑는 투표를 했습니다.",
+            "첫 결과로는 뚜렷한 승자가 보이지 않습니다.",
+            "네타냐후 총리 진영은 의석을 많이 잃었습니다."
+          ],
+          "normal": [
+            "Israël a organisé ses premières élections législatives depuis l'attaque du Hamas du 7 octobre 2023, avec une participation de 77,7 %, la plus forte depuis plus de vingt ans.",
+            "Selon les sondages de sortie des urnes, le bloc d'opposition mené par Gadi Eisenkot, ancien chef de l'armée, obtiendrait 52 des 120 sièges de la Knesset, juste devant le camp du Premier ministre Benjamin Netanyahu, avec 50 sièges.",
+            "La coalition de Netanyahu comptait 68 sièges dans le Parlement sortant : ce serait donc un sérieux revers pour lui, même si son parti, le Likoud, devrait rester le premier du pays.",
+            "Les partis arabes pourraient remporter les 18 autres sièges grâce à une participation record des électeurs arabes, et devenir ainsi les faiseurs de rois.",
+            "Mais Eisenkot a exclu de gouverner avec eux, si bien que ni l'un ni l'autre camp n'a de chemin clair vers les 61 sièges nécessaires à une majorité.",
+            "Le jour du vote, Netanyahu a laissé entendre que la gauche et les électeurs arabes cherchaient à voler l'élection, mais la commission électorale a dit n'avoir vu aucune preuve de fraude.",
+            "Les résultats définitifs pourraient prendre plusieurs jours, et des semaines de négociations sont probables, pendant lesquelles Netanyahu pourrait rester Premier ministre par intérim."
+          ],
+          "normal_ko": [
+            "이스라엘이 2023년 10월 7일 하마스의 공격 이후 처음으로 총선을 치렀고, 투표율은 20여 년 만에 가장 높은 77.7%였습니다.",
+            "출구조사에 따르면 전 군 참모총장 가디 아이젠코트가 이끄는 야권 진영이 크네세트 120석 중 52석을 얻어, 50석인 베냐민 네타냐후 총리 진영을 근소하게 앞설 것으로 보입니다.",
+            "네타냐후의 연립 정부는 임기가 끝나는 의회에서 68석을 갖고 있었으므로, 그의 리쿠드당이 제1당으로 남더라도 이는 그에게 큰 패배입니다.",
+            "아랍계 정당들은 아랍계 유권자들의 사상 최대 투표 덕분에 나머지 18석을 차지해, 정권을 좌우하는 세력이 될 수 있습니다.",
+            "하지만 아이젠코트는 이들과 함께 정부를 꾸리는 것을 배제해서, 어느 진영도 과반에 필요한 61석으로 가는 뚜렷한 길이 없습니다.",
+            "투표 당일 네타냐후는 좌파와 아랍계 유권자들이 선거를 훔치려 한다고 암시했지만, 선거관리위원회는 부정의 증거를 전혀 보지 못했다고 밝혔습니다.",
+            "최종 결과는 며칠이 걸릴 수 있고 몇 주간 협상이 이어질 것으로 보이며, 그동안 네타냐후는 임시 총리로 남을 수 있습니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "이스라엘은 국민이 정당에 투표하고 득표율대로 크네세트(의회) 120석을 나누는 방식이라, 한 정당이 혼자 과반(61석)을 차지한 적이 한 번도 없습니다. 그래서 여러 정당이 손잡는 연립 정부를 꾸려야 총리가 될 수 있어요. 네타냐후는 지난 30년 가운데 약 19년 동안 총리를 지냈고, 부패 혐의로 재판을 받고 있습니다(본인은 부인). 이스라엘 인구의 약 20%는 아랍계(팔레스타인계) 시민입니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "vote",
+          "pos": "verb",
+          "ko": "투표하다",
+          "example": "Did you vote in the last election?",
+          "example_ko": "지난 선거에서 투표했어요?",
+          "note_ko": "vote for ~ = ~에게(~을 뽑으려고) 투표하다. 명사로는 '표, 투표'."
+        },
+        {
+          "lang": "en",
+          "word": "parliament",
+          "pos": "noun",
+          "ko": "의회, 국회",
+          "example": "The new law passed in parliament.",
+          "example_ko": "새 법이 의회를 통과했어요.",
+          "note_ko": "이스라엘 의회의 이름은 Knesset, 미국은 Congress라고 불러요."
+        },
+        {
+          "lang": "en",
+          "word": "clear",
+          "pos": "adjective",
+          "ko": "분명한, 뚜렷한",
+          "example": "The answer is not clear yet.",
+          "example_ko": "답은 아직 분명하지 않아요.",
+          "note_ko": "a clear winner = 확실한 승자. '맑은'이라는 뜻도 있어요(a clear sky)."
+        },
+        {
+          "lang": "en",
+          "word": "winner",
+          "pos": "noun",
+          "ko": "승자, 우승자",
+          "example": "There can only be one winner.",
+          "example_ko": "승자는 한 명뿐이에요.",
+          "note_ko": "반대말은 loser. no clear winner = 뚜렷한 승자가 없음."
+        },
+        {
+          "lang": "en",
+          "word": "seat",
+          "pos": "noun",
+          "ko": "의석, 자리",
+          "example": "The party won ten seats.",
+          "example_ko": "그 정당은 10석을 얻었어요.",
+          "note_ko": "원래 '좌석'이지만 선거 뉴스에서는 '의석'. lose seats = 의석을 잃다."
+        },
+        {
+          "lang": "en",
+          "word": "turnout",
+          "pos": "noun",
+          "ko": "투표율, 참가자 수",
+          "example": "Turnout was low because of the rain.",
+          "example_ko": "비 때문에 투표율이 낮았어요.",
+          "note_ko": "turn out(모이다, 나오다)에서 온 명사. record turnout = 사상 최고 투표율."
+        },
+        {
+          "lang": "en",
+          "word": "exit poll",
+          "pos": "noun",
+          "ko": "출구조사",
+          "example": "The exit poll was close to the final result.",
+          "example_ko": "출구조사는 최종 결과와 비슷했어요.",
+          "note_ko": "투표소(exit = 출구)에서 나오는 사람에게 묻는 조사. 그냥 poll은 '여론조사'."
+        },
+        {
+          "lang": "en",
+          "word": "opposition",
+          "pos": "noun",
+          "ko": "야당, 반대",
+          "example": "The opposition criticised the plan.",
+          "example_ko": "야당은 그 계획을 비판했어요.",
+          "note_ko": "정치에서 the opposition = 야당(정부에 반대하는 쪽). 동사 oppose = 반대하다."
+        },
+        {
+          "lang": "en",
+          "word": "ahead of",
+          "pos": "phrase",
+          "ko": "~보다 앞서",
+          "example": "She finished just ahead of me.",
+          "example_ko": "그녀는 나보다 조금 앞서 들어왔어요.",
+          "note_ko": "시간에도 써요: ahead of the meeting = 회의를 앞두고. just ahead = 근소하게 앞선."
+        },
+        {
+          "lang": "en",
+          "word": "outgoing",
+          "pos": "adjective",
+          "ko": "물러나는, 임기가 끝나는",
+          "example": "The outgoing mayor gave a final speech.",
+          "example_ko": "물러나는 시장이 마지막 연설을 했어요.",
+          "note_ko": "사람 성격에 쓰면 '외향적인'이라는 뜻이 돼요. 반대는 incoming(새로 오는)."
+        },
+        {
+          "lang": "en",
+          "word": "blow",
+          "pos": "noun",
+          "ko": "타격, 충격",
+          "example": "Losing the game was a big blow to the team.",
+          "example_ko": "경기에 진 것은 팀에 큰 타격이었어요.",
+          "note_ko": "a blow to ~ = ~에게 타격. 동사 blow는 '(바람이) 불다'."
+        },
+        {
+          "lang": "en",
+          "word": "kingmaker",
+          "pos": "noun",
+          "ko": "킹메이커, 승패를 좌우하는 세력",
+          "example": "The small party became the kingmaker.",
+          "example_ko": "그 작은 정당이 킹메이커가 됐어요.",
+          "note_ko": "스스로 왕이 되진 않지만 누가 왕이 될지 정하는 사람·세력."
+        },
+        {
+          "lang": "en",
+          "word": "ruled out (rule out)",
+          "pos": "phrase",
+          "ko": "배제하다, 가능성을 없애다",
+          "example": "The police have ruled out an accident.",
+          "example_ko": "경찰은 사고 가능성을 배제했어요.",
+          "note_ko": "rule out + 명사/동명사(-ing). 기사에서 자주 나오는 표현이에요."
+        },
+        {
+          "lang": "en",
+          "word": "majority",
+          "pos": "noun",
+          "ko": "과반, 대다수",
+          "example": "The majority of students like the new rule.",
+          "example_ko": "학생 대다수가 새 규칙을 좋아해요.",
+          "note_ko": "반대는 minority(소수). a majority government = 과반 정부."
+        },
+        {
+          "lang": "en",
+          "word": "evidence",
+          "pos": "noun",
+          "ko": "증거",
+          "example": "There is no evidence that he lied.",
+          "example_ko": "그가 거짓말했다는 증거는 없어요.",
+          "note_ko": "셀 수 없는 명사라 an evidence(X), a piece of evidence(O)."
+        },
+        {
+          "lang": "en",
+          "word": "caretaker",
+          "pos": "adjective",
+          "ko": "임시의, 관리하는",
+          "example": "A caretaker government will run the country until the vote.",
+          "example_ko": "선거 때까지 임시 정부가 나라를 운영해요.",
+          "note_ko": "명사로는 '관리인, 돌보는 사람'. caretaker prime minister = 임시 총리."
+        },
+        {
+          "lang": "fr",
+          "word": "voter",
+          "pos": "verb",
+          "ko": "투표하다",
+          "example": "J'ai voté ce matin.",
+          "example_ko": "저는 오늘 아침에 투표했어요.",
+          "note_ko": "voter pour ~ = ~에게 투표하다. 명사 le vote = 투표, l'électeur = 유권자."
+        },
+        {
+          "lang": "fr",
+          "word": "Parlement",
+          "pos": "noun",
+          "ko": "의회",
+          "example": "Le Parlement a voté la loi.",
+          "example_ko": "의회가 그 법을 통과시켰어요.",
+          "note_ko": "남성 명사(le Parlement). 프랑스 의회는 Assemblée nationale과 Sénat로 이뤄져요."
+        },
+        {
+          "lang": "fr",
+          "word": "vainqueur",
+          "pos": "noun",
+          "ko": "승자",
+          "example": "Le vainqueur reçoit une médaille.",
+          "example_ko": "승자는 메달을 받아요.",
+          "note_ko": "여성에게도 보통 le vainqueur를 써요. 비슷한 말 le gagnant."
+        },
+        {
+          "lang": "fr",
+          "word": "perdre",
+          "pos": "verb",
+          "ko": "잃다, 지다",
+          "example": "J'ai perdu mes clés.",
+          "example_ko": "열쇠를 잃어버렸어요.",
+          "note_ko": "과거분사는 perdu. perdre un match = 경기에 지다. 반대는 gagner."
+        },
+        {
+          "lang": "fr",
+          "word": "siège",
+          "pos": "noun",
+          "ko": "의석, 좌석",
+          "example": "Ce parti a gagné dix sièges.",
+          "example_ko": "그 정당은 10석을 얻었어요.",
+          "note_ko": "'본사'라는 뜻도 있어요: le siège de l'entreprise = 회사 본사."
+        },
+        {
+          "lang": "fr",
+          "word": "participation",
+          "pos": "noun",
+          "ko": "투표율, 참여",
+          "example": "La participation était très forte.",
+          "example_ko": "투표율이 매우 높았어요.",
+          "note_ko": "선거 뉴스에서는 '투표율'. 반대 개념은 l'abstention(기권)."
+        },
+        {
+          "lang": "fr",
+          "word": "sortie des urnes",
+          "pos": "phrase",
+          "ko": "출구조사(투표소 출구)",
+          "example": "Les sondages de sortie des urnes sont publiés à 20 heures.",
+          "example_ko": "출구조사는 저녁 8시에 발표돼요.",
+          "note_ko": "l'urne = 투표함. sondage de sortie des urnes = 출구조사."
+        },
+        {
+          "lang": "fr",
+          "word": "juste devant",
+          "pos": "phrase",
+          "ko": "바로 앞에, 근소하게 앞선",
+          "example": "Il est arrivé juste devant moi.",
+          "example_ko": "그는 나보다 간발의 차로 먼저 도착했어요.",
+          "note_ko": "devant = 앞에. 반대는 juste derrière(바로 뒤에)."
+        },
+        {
+          "lang": "fr",
+          "word": "sortant",
+          "pos": "adjective",
+          "ko": "물러나는, 임기가 끝나는",
+          "example": "Le maire sortant ne se représente pas.",
+          "example_ko": "현 시장은 다시 출마하지 않아요.",
+          "note_ko": "sortir(나가다)에서 온 말. le président sortant = 현직(퇴임하는) 대통령."
+        },
+        {
+          "lang": "fr",
+          "word": "revers",
+          "pos": "noun",
+          "ko": "패배, 좌절",
+          "example": "Cette défaite est un revers pour l'équipe.",
+          "example_ko": "이 패배는 팀에 큰 좌절이에요.",
+          "note_ko": "원래 '뒷면'. 테니스의 '백핸드'도 revers예요."
+        },
+        {
+          "lang": "fr",
+          "word": "faiseurs de rois",
+          "pos": "phrase",
+          "ko": "킹메이커들",
+          "example": "Les petits partis sont souvent les faiseurs de rois.",
+          "example_ko": "작은 정당들이 종종 킹메이커가 돼요.",
+          "note_ko": "단수는 un faiseur de rois. faire(만들다) + roi(왕)."
+        },
+        {
+          "lang": "fr",
+          "word": "exclure",
+          "pos": "verb",
+          "ko": "배제하다, 제외하다",
+          "example": "Il exclut de partir cette année.",
+          "example_ko": "그는 올해 떠날 가능성을 배제해요.",
+          "note_ko": "과거분사는 exclu. exclure de + 동사원형 = ~하는 것을 배제하다."
+        },
+        {
+          "lang": "fr",
+          "word": "si bien que",
+          "pos": "phrase",
+          "ko": "그래서, 그 결과",
+          "example": "Il a plu, si bien que le match a été annulé.",
+          "example_ko": "비가 와서 경기가 취소됐어요.",
+          "note_ko": "결과를 나타내요. 비슷한 말 donc, de sorte que."
+        },
+        {
+          "lang": "fr",
+          "word": "majorité",
+          "pos": "noun",
+          "ko": "과반, 다수",
+          "example": "La majorité des élèves est d'accord.",
+          "example_ko": "학생 대부분이 동의해요.",
+          "note_ko": "반대는 la minorité. la majorité absolue = 절대 과반."
+        },
+        {
+          "lang": "fr",
+          "word": "preuve",
+          "pos": "noun",
+          "ko": "증거",
+          "example": "La police n'a aucune preuve.",
+          "example_ko": "경찰은 아무 증거도 없어요.",
+          "note_ko": "aucune preuve = 증거가 전혀 없음. prouver = 증명하다."
+        },
+        {
+          "lang": "fr",
+          "word": "définitif",
+          "pos": "adjective",
+          "ko": "최종의, 확정된",
+          "example": "La date n'est pas encore définitive.",
+          "example_ko": "날짜는 아직 확정되지 않았어요.",
+          "note_ko": "여성형 définitive. les résultats définitifs = 최종 결과."
+        },
+        {
+          "lang": "fr",
+          "word": "par intérim",
+          "pos": "phrase",
+          "ko": "임시로, 대행으로",
+          "example": "Elle dirige l'école par intérim.",
+          "example_ko": "그녀가 임시로 학교를 맡고 있어요.",
+          "note_ko": "l'intérim = 임시직, 대행. un directeur par intérim = 대행 책임자."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "If no group has a \"majority\", it means…",
+          "choices": [
+            "no group has more than half of the seats",
+            "the vote was cancelled",
+            "everyone agrees"
+          ],
+          "answer": 0,
+          "explain_ko": "majority = 과반(절반보다 많음). 120석 중 61석이 과반이에요."
+        },
+        {
+          "lang": "fr",
+          "q": "« La participation » à une élection, c'est…",
+          "choices": [
+            "la part des gens qui votent",
+            "le nom du gagnant",
+            "la date du vote"
+          ],
+          "answer": 0,
+          "explain_ko": "participation = 투표율. 이번 이스라엘 총선은 77.7%였어요."
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
+          "accessed": "2026-10-28"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20261027-israel-election-record-turnout-netanyahu-eisenkot-deadlock",
+          "accessed": "2026-10-28"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-28T00:33:07.471Z",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-10-27/64c19dbd5006bdcb.mp3",
+            "2026-10-27/6c8df2bee9c844ab.mp3",
+            "2026-10-27/fd8acf496b9e91b9.mp3"
+          ],
+          "normal": [
+            "2026-10-27/9a7af1e222a535bf.mp3",
+            "2026-10-27/a5598e5fa82dfef2.mp3",
+            "2026-10-27/9e189b277f76a0d0.mp3",
+            "2026-10-27/f30700bc26826392.mp3",
+            "2026-10-27/ae99d52084f0c507.mp3",
+            "2026-10-27/d54bdb28b0c4f4fc.mp3",
+            "2026-10-27/913df139b9212203.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-10-27/d4690875cec39805.mp3",
+            "2026-10-27/a5dc49ad92fd386c.mp3",
+            "2026-10-27/f10871a9dce62bdd.mp3"
+          ],
+          "normal": [
+            "2026-10-27/8a82b0e17bf6b7ac.mp3",
+            "2026-10-27/1d1b91e0af9be088.mp3",
+            "2026-10-27/a0dd089a2570e825.mp3",
+            "2026-10-27/6ba3313d7a5318e2.mp3",
+            "2026-10-27/a55e4299bd0ee677.mp3",
+            "2026-10-27/e03236f42fae033a.mp3",
+            "2026-10-27/5e02510d9be36c27.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-10-27/cc93d1f7d869e89a.mp3",
+          "2026-10-27/2c7193b64bdb8ccd.mp3",
+          "2026-10-27/86ec5da9cd08ea86.mp3",
+          "2026-10-27/ddd3e729b35a89e5.mp3",
+          "2026-10-27/22ff1eea58253438.mp3",
+          "2026-10-27/fb22b8ea9c16436f.mp3",
+          "2026-10-27/7ed2ddc09a6a8a70.mp3",
+          "2026-10-27/67b5b0352f4a20dd.mp3",
+          "2026-10-27/32ba5c320d425d98.mp3",
+          "2026-10-27/6354e107fd735814.mp3",
+          "2026-10-27/80f82b70f8bee3ec.mp3",
+          "2026-10-27/ee4ff25c9c169c4b.mp3",
+          "2026-10-27/a648b3ea7cc1d5a6.mp3",
+          "2026-10-27/ad622153fe4e0a26.mp3",
+          "2026-10-27/ee86e78e998db92a.mp3",
+          "2026-10-27/ae6abc840c74ed11.mp3",
+          "2026-10-27/c52aee6149ce3850.mp3",
+          "2026-10-27/56c063959613162f.mp3",
+          "2026-10-27/0c4eaef9737f94f2.mp3",
+          "2026-10-27/8757a3a29aaec8a2.mp3",
+          "2026-10-27/23223300da407314.mp3",
+          "2026-10-27/319ac35b465c7abf.mp3",
+          "2026-10-27/3882008caa9f0757.mp3",
+          "2026-10-27/f4498513edff3e39.mp3",
+          "2026-10-27/244857957db9c8fa.mp3",
+          "2026-10-27/71800cfe8f992016.mp3",
+          "2026-10-27/b4f76f88ac5668ff.mp3",
+          "2026-10-27/5e0421d4396096a1.mp3",
+          "2026-10-27/88fc457ba4e797dc.mp3",
+          "2026-10-27/a71f4ba9b10e0517.mp3",
+          "2026-10-27/f0987078ed1dfe39.mp3",
+          "2026-10-27/bbf613bf917318b1.mp3",
+          "2026-10-27/c5e3d3f4172bb150.mp3"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-27-02",
+      "category": "conflict",
+      "region": {
+        "country": "UA",
+        "city": "Oleshky",
+        "lat": 46.62,
+        "lng": 32.72
+      },
+      "headline": {
+        "en": "Truce Begins in Starving Ukrainian City of Oleshky",
+        "fr": "Une trêve commence à Olechky, ville ukrainienne affamée",
+        "ko": "굶주린 우크라이나 도시 올레시키에 휴전 시작"
+      },
+      "hook": {
+        "en": "Why did the fighting stop in this city?",
+        "fr": "Pourquoi les combats se sont-ils arrêtés dans cette ville ?",
+        "ko": "이 도시에서 왜 총성이 멈췄을까?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "A short truce began in the Ukrainian city of Oleshky on Tuesday.",
+            "Russia controls the city, and people there are very hungry.",
+            "The truce lets aid arrive and people leave safely."
+          ],
+          "easy_ko": [
+            "화요일 우크라이나 도시 올레시키에서 짧은 휴전이 시작됐습니다.",
+            "러시아가 이 도시를 점령하고 있고, 주민들은 몹시 굶주리고 있습니다.",
+            "휴전 덕분에 구호품이 들어오고 주민들이 안전하게 떠날 수 있습니다."
+          ],
+          "normal": [
+            "A local ceasefire began on Tuesday in Oleshky, a Russian-occupied city on the Dnipro River in southern Ukraine, and both sides said it was being respected.",
+            "The White House said the truce was secured by First Lady Melania Trump, and Ukrainian officials say it will last until the end of Sunday, November 1.",
+            "About 1,700 people still live in the city, which had 24,000 residents before the war, and Kyiv believes up to 6,000 remain in the wider area.",
+            "With no electricity, gas or water for three years, many residents have survived by cooking weeds from their gardens.",
+            "The pause is meant to allow aid deliveries and the clearing of mines before an evacuation planned for Friday, but some residents fear that Russian officials will check their phones for links to Ukraine.",
+            "Separately, the leaders of Finland and Norway held a rare 90-minute phone call with Vladimir Putin, which they called frank but which showed big differences.",
+            "Denmark and Sweden criticised the move because it had not been agreed with other European countries."
+          ],
+          "normal_ko": [
+            "화요일 우크라이나 남부 드니프로강 변에 있는 러시아 점령 도시 올레시키에서 국지적 휴전이 시작됐고, 양측 모두 휴전이 지켜지고 있다고 밝혔습니다.",
+            "백악관은 영부인 멜라니아 트럼프가 이 휴전을 이끌어 냈다고 밝혔고, 우크라이나 관리들은 휴전이 11월 1일 일요일 자정까지 이어진다고 말합니다.",
+            "전쟁 전 주민이 2만 4천 명이던 이 도시에는 지금도 약 1,700명이 살고 있으며, 우크라이나 정부는 주변 지역까지 합치면 최대 6천 명이 남아 있다고 봅니다.",
+            "3년 동안 전기·가스·물이 끊긴 채, 많은 주민이 텃밭의 잡초를 요리해 먹으며 버텨 왔습니다.",
+            "이번 휴전은 금요일로 예정된 대피에 앞서 구호품을 들여오고 지뢰를 치우기 위한 것이지만, 일부 주민은 러시아 관리들이 우크라이나와의 연결 고리를 찾으려고 휴대전화를 뒤질까 봐 두려워합니다.",
+            "이와 별도로 핀란드와 노르웨이 정상은 블라디미르 푸틴과 90분 동안 드문 전화 통화를 했는데, 두 정상은 솔직한 대화였다면서도 큰 견해차가 드러났다고 밝혔습니다.",
+            "덴마크와 스웨덴은 다른 유럽 나라들과 합의하지 않은 행동이라며 비판했습니다."
+          ],
+          "normal_paras": [
+            2,
+            3,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Une courte trêve a commencé mardi dans la ville ukrainienne d'Olechky.",
+            "La Russie contrôle la ville, et les habitants ont très faim.",
+            "La trêve permet d'apporter de l'aide et de partir en sécurité."
+          ],
+          "easy_ko": [
+            "화요일 우크라이나 도시 올레시키에서 짧은 휴전이 시작됐습니다.",
+            "러시아가 도시를 장악하고 있고, 주민들은 몹시 굶주리고 있습니다.",
+            "휴전으로 구호품을 들여오고 안전하게 떠날 수 있게 됩니다."
+          ],
+          "normal": [
+            "Un cessez-le-feu local a commencé mardi à Olechky, une ville du sud de l'Ukraine occupée par la Russie, au bord du Dniepr, et les deux camps disent qu'il est respecté.",
+            "Selon la Maison Blanche, la trêve a été obtenue par la Première dame Melania Trump, et elle doit durer jusqu'à la fin du dimanche 1er novembre, d'après des responsables ukrainiens.",
+            "Environ 1 700 personnes vivent encore dans la ville, qui comptait 24 000 habitants avant la guerre, et Kiev estime que jusqu'à 6 000 personnes restent dans les environs.",
+            "Privés d'électricité, de gaz et d'eau depuis trois ans, beaucoup d'habitants survivent en cuisinant des mauvaises herbes de leur jardin.",
+            "La pause doit permettre de livrer de l'aide et de déminer les routes avant une évacuation prévue vendredi, mais certains habitants ont peur que les Russes fouillent leurs téléphones pour trouver des liens avec l'Ukraine.",
+            "Par ailleurs, les dirigeants de la Finlande et de la Norvège ont eu un rare appel de 90 minutes avec Vladimir Poutine, qu'ils ont qualifié de franc, mais qui a montré de grandes divergences.",
+            "Le Danemark et la Suède ont critiqué cette initiative, car elle n'avait pas été décidée avec les autres pays européens."
+          ],
+          "normal_ko": [
+            "화요일 우크라이나 남부 드니프로강 변의 러시아 점령 도시 올레시키에서 국지적 휴전이 시작됐고, 양측은 휴전이 지켜지고 있다고 말합니다.",
+            "백악관에 따르면 이 휴전은 영부인 멜라니아 트럼프가 얻어 낸 것으로, 우크라이나 관리들은 11월 1일 일요일이 끝날 때까지 이어진다고 밝혔습니다.",
+            "전쟁 전 주민이 2만 4천 명이던 이 도시에는 지금도 약 1,700명이 살고 있고, 우크라이나 정부는 주변 지역에 최대 6천 명이 남아 있다고 추정합니다.",
+            "3년 동안 전기·가스·물 없이 지내 온 많은 주민이 텃밭의 잡초를 요리해 먹으며 살아남고 있습니다.",
+            "이번 휴전은 금요일 대피에 앞서 구호품을 전하고 도로의 지뢰를 치우기 위한 것이지만, 일부 주민은 러시아 측이 우크라이나와의 관계를 찾으려고 휴대전화를 뒤질까 봐 두려워합니다.",
+            "이와 별도로 핀란드와 노르웨이 정상은 블라디미르 푸틴과 90분 동안 드문 통화를 했는데, 솔직한 대화였지만 큰 견해차가 드러났다고 밝혔습니다.",
+            "덴마크와 스웨덴은 다른 유럽 나라들과 함께 정하지 않은 행동이라며 이를 비판했습니다."
+          ],
+          "normal_paras": [
+            2,
+            3,
+            2
+          ]
+        }
+      },
+      "ko_note": "올레시키는 드니프로강을 사이에 두고 헤르손과 마주 보는 도시입니다. 우크라이나는 2022년 가을 헤르손을 되찾았지만, 강 건너 올레시키는 지금도 러시아가 점령하고 있어요. 강이 전선이 되면서 주민들은 드론 공격과 지뢰 때문에 오도 가도 못하는 처지가 됐습니다. 이번 휴전은 다음 달 아부다비에서 열릴 예정인 미국·우크라이나·러시아 3자 회담을 앞두고 이뤄졌고, 다른 지역에서는 공격이 계속되고 있어요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "truce",
+          "pos": "noun",
+          "ko": "휴전",
+          "example": "The two sides agreed to a truce.",
+          "example_ko": "양측은 휴전에 합의했어요.",
+          "note_ko": "ceasefire와 거의 같은 뜻. 보통 짧거나 임시인 휴전을 말해요."
+        },
+        {
+          "lang": "en",
+          "word": "control",
+          "pos": "verb",
+          "ko": "장악하다, 통제하다",
+          "example": "The army controls the main road.",
+          "example_ko": "군대가 큰길을 장악하고 있어요.",
+          "note_ko": "명사로도 써요: under Russian control = 러시아 통제 아래."
+        },
+        {
+          "lang": "en",
+          "word": "hungry",
+          "pos": "adjective",
+          "ko": "배고픈, 굶주린",
+          "example": "I'm hungry. Let's eat.",
+          "example_ko": "배고파요. 먹으러 가요.",
+          "note_ko": "명사는 hunger(굶주림). 아주 심하면 starving."
+        },
+        {
+          "lang": "en",
+          "word": "aid",
+          "pos": "noun",
+          "ko": "구호품, 원조",
+          "example": "The aid arrived by truck.",
+          "example_ko": "구호품이 트럭으로 도착했어요.",
+          "note_ko": "humanitarian aid = 인도적 지원. first aid = 응급 처치."
+        },
+        {
+          "lang": "en",
+          "word": "safely",
+          "pos": "adverb",
+          "ko": "안전하게",
+          "example": "Please drive safely.",
+          "example_ko": "안전하게 운전하세요.",
+          "note_ko": "형용사 safe(안전한)에 -ly. 명사는 safety."
+        },
+        {
+          "lang": "en",
+          "word": "ceasefire",
+          "pos": "noun",
+          "ko": "휴전, 정전",
+          "example": "The ceasefire starts at midnight.",
+          "example_ko": "휴전은 자정에 시작돼요.",
+          "note_ko": "cease(멈추다) + fire(사격). a local ceasefire = 국지적 휴전."
+        },
+        {
+          "lang": "en",
+          "word": "occupied",
+          "pos": "adjective",
+          "ko": "점령된",
+          "example": "They lived in an occupied town.",
+          "example_ko": "그들은 점령된 마을에 살았어요.",
+          "note_ko": "화장실이 '사용 중'일 때도 Occupied라고 써요."
+        },
+        {
+          "lang": "en",
+          "word": "respect",
+          "pos": "verb",
+          "ko": "지키다, 존중하다",
+          "example": "Please respect the rules.",
+          "example_ko": "규칙을 지켜 주세요.",
+          "note_ko": "휴전·합의에 쓰면 '지키다'. respect a person = 사람을 존중하다."
+        },
+        {
+          "lang": "en",
+          "word": "secure",
+          "pos": "verb",
+          "ko": "얻어 내다, 확보하다",
+          "example": "She secured a job at the bank.",
+          "example_ko": "그녀는 은행에 일자리를 얻었어요.",
+          "note_ko": "노력해서 손에 넣는다는 느낌. 형용사로는 '안전한'."
+        },
+        {
+          "lang": "en",
+          "word": "last",
+          "pos": "verb",
+          "ko": "계속되다, 지속되다",
+          "example": "The film lasts two hours.",
+          "example_ko": "그 영화는 두 시간짜리예요.",
+          "note_ko": "형용사 last(마지막의)와 같은 철자. last until ~ = ~까지 계속되다."
+        },
+        {
+          "lang": "en",
+          "word": "resident",
+          "pos": "noun",
+          "ko": "주민",
+          "example": "Residents complained about the noise.",
+          "example_ko": "주민들이 소음에 대해 불평했어요.",
+          "note_ko": "live(살다)의 비슷한 말 reside에서 왔어요. local residents = 지역 주민."
+        },
+        {
+          "lang": "en",
+          "word": "survive",
+          "pos": "verb",
+          "ko": "살아남다, 버티다",
+          "example": "Few plants survive the winter.",
+          "example_ko": "겨울을 견디는 식물은 많지 않아요.",
+          "note_ko": "survive by -ing = ~해서 살아남다. 명사 survival, survivor(생존자)."
+        },
+        {
+          "lang": "en",
+          "word": "weed",
+          "pos": "noun",
+          "ko": "잡초",
+          "example": "The garden is full of weeds.",
+          "example_ko": "정원이 잡초로 가득해요.",
+          "note_ko": "동사로 쓰면 '잡초를 뽑다'. 속어로는 '대마초'라는 뜻도 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "mine",
+          "pos": "noun",
+          "ko": "지뢰, 광산",
+          "example": "The road was full of mines.",
+          "example_ko": "그 길에는 지뢰가 가득했어요.",
+          "note_ko": "a land mine = 지뢰, a coal mine = 탄광. 대명사 mine(내 것)과 철자가 같아요."
+        },
+        {
+          "lang": "en",
+          "word": "evacuation",
+          "pos": "noun",
+          "ko": "대피, 철수",
+          "example": "The evacuation began at dawn.",
+          "example_ko": "대피는 새벽에 시작됐어요.",
+          "note_ko": "동사는 evacuate(대피시키다, 대피하다)."
+        },
+        {
+          "lang": "en",
+          "word": "frank",
+          "pos": "adjective",
+          "ko": "솔직한",
+          "example": "To be frank, I don't like it.",
+          "example_ko": "솔직히 말하면, 마음에 안 들어요.",
+          "note_ko": "외교에서 a frank talk는 '의견 차가 컸지만 솔직했던 대화'를 돌려 말할 때가 많아요."
+        },
+        {
+          "lang": "fr",
+          "word": "trêve",
+          "pos": "noun",
+          "ko": "휴전, 잠시 멈춤",
+          "example": "Les deux camps ont accepté une trêve.",
+          "example_ko": "양측은 휴전을 받아들였어요.",
+          "note_ko": "여성 명사. la trêve de Noël = 크리스마스 휴전. 비슷한 말 cessez-le-feu."
+        },
+        {
+          "lang": "fr",
+          "word": "contrôler",
+          "pos": "verb",
+          "ko": "장악하다, 통제하다",
+          "example": "L'armée contrôle la route.",
+          "example_ko": "군대가 그 길을 장악하고 있어요.",
+          "note_ko": "'검사하다'라는 뜻도 있어요: contrôler les billets = 표를 검사하다."
+        },
+        {
+          "lang": "fr",
+          "word": "faim",
+          "pos": "noun",
+          "ko": "배고픔",
+          "example": "J'ai faim, on mange ?",
+          "example_ko": "배고파요, 먹을까요?",
+          "note_ko": "avoir faim = 배고프다(être가 아니라 avoir를 써요). 목마르다는 avoir soif."
+        },
+        {
+          "lang": "fr",
+          "word": "aide",
+          "pos": "noun",
+          "ko": "도움, 구호품",
+          "example": "Merci pour ton aide.",
+          "example_ko": "도와줘서 고마워.",
+          "note_ko": "l'aide humanitaire = 인도적 지원. 동사는 aider."
+        },
+        {
+          "lang": "fr",
+          "word": "en sécurité",
+          "pos": "phrase",
+          "ko": "안전하게",
+          "example": "Les enfants sont en sécurité ici.",
+          "example_ko": "아이들은 여기서 안전해요.",
+          "note_ko": "la sécurité = 안전. 비슷한 표현 sans danger."
+        },
+        {
+          "lang": "fr",
+          "word": "cessez-le-feu",
+          "pos": "noun",
+          "ko": "휴전, 정전",
+          "example": "Le cessez-le-feu a été respecté.",
+          "example_ko": "휴전은 지켜졌어요.",
+          "note_ko": "'사격을 멈춰라'라는 명령에서 온 말. 복수형도 같아요(des cessez-le-feu)."
+        },
+        {
+          "lang": "fr",
+          "word": "occupé",
+          "pos": "adjective",
+          "ko": "점령된, 바쁜",
+          "example": "Désolé, je suis très occupé.",
+          "example_ko": "미안해요, 아주 바빠요.",
+          "note_ko": "사람에게 쓰면 '바쁜', 땅에 쓰면 '점령된'. 여성형 occupée."
+        },
+        {
+          "lang": "fr",
+          "word": "respecter",
+          "pos": "verb",
+          "ko": "지키다, 존중하다",
+          "example": "Il faut respecter les règles.",
+          "example_ko": "규칙을 지켜야 해요.",
+          "note_ko": "respecter un accord = 합의를 지키다. 명사 le respect."
+        },
+        {
+          "lang": "fr",
+          "word": "obtenu (obtenir)",
+          "pos": "verb",
+          "ko": "얻어 내다",
+          "example": "Elle a obtenu son diplôme.",
+          "example_ko": "그녀는 학위를 땄어요.",
+          "note_ko": "obtenir의 과거분사. venir처럼 활용해요(j'obtiens, il obtient)."
+        },
+        {
+          "lang": "fr",
+          "word": "habitant",
+          "pos": "noun",
+          "ko": "주민",
+          "example": "Ce village compte 300 habitants.",
+          "example_ko": "이 마을의 주민은 300명이에요.",
+          "note_ko": "habiter(살다)에서 온 말. 여성형 habitante."
+        },
+        {
+          "lang": "fr",
+          "word": "survivre",
+          "pos": "verb",
+          "ko": "살아남다",
+          "example": "Ces plantes survivent sans eau.",
+          "example_ko": "이 식물들은 물 없이도 살아남아요.",
+          "note_ko": "vivre(살다)처럼 활용해요: ils survivent. 명사 la survie."
+        },
+        {
+          "lang": "fr",
+          "word": "mauvaises herbes",
+          "pos": "phrase",
+          "ko": "잡초",
+          "example": "Il arrache les mauvaises herbes du jardin.",
+          "example_ko": "그는 정원의 잡초를 뽑아요.",
+          "note_ko": "그대로 옮기면 '나쁜 풀'. 단수는 une mauvaise herbe."
+        },
+        {
+          "lang": "fr",
+          "word": "déminer",
+          "pos": "verb",
+          "ko": "지뢰를 제거하다",
+          "example": "Il faudra des années pour déminer la région.",
+          "example_ko": "그 지역의 지뢰를 없애는 데 몇 년이 걸릴 거예요.",
+          "note_ko": "une mine = 지뢰. dé-는 '없애다'의 뜻(démonter = 분해하다)."
+        },
+        {
+          "lang": "fr",
+          "word": "évacuation",
+          "pos": "noun",
+          "ko": "대피",
+          "example": "L'évacuation de l'école s'est bien passée.",
+          "example_ko": "학교 대피는 잘 이뤄졌어요.",
+          "note_ko": "동사는 évacuer(대피시키다)."
+        },
+        {
+          "lang": "fr",
+          "word": "par ailleurs",
+          "pos": "phrase",
+          "ko": "한편, 이와 별도로",
+          "example": "Par ailleurs, la réunion est reportée.",
+          "example_ko": "한편, 회의는 미뤄졌어요.",
+          "note_ko": "다른 이야기로 넘어갈 때 기사에서 자주 써요. 비슷한 말 d'autre part."
+        },
+        {
+          "lang": "fr",
+          "word": "divergence",
+          "pos": "noun",
+          "ko": "견해차, 차이",
+          "example": "Il y a des divergences entre eux.",
+          "example_ko": "그들 사이에는 견해차가 있어요.",
+          "note_ko": "보통 복수로 써요: de grandes divergences = 큰 견해차."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "A \"truce\" is…",
+          "choices": [
+            "a short stop in fighting",
+            "a kind of food",
+            "a large city"
+          ],
+          "answer": 0,
+          "explain_ko": "truce = 휴전. ceasefire와 비슷한 말이에요."
+        },
+        {
+          "lang": "fr",
+          "q": "« Avoir faim », c'est…",
+          "choices": [
+            "avoir envie de dormir",
+            "avoir besoin de manger",
+            "avoir peur"
+          ],
+          "answer": 1,
+          "explain_ko": "avoir faim = 배고프다. 졸리다는 avoir sommeil, 무섭다는 avoir peur."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo",
+          "accessed": "2026-10-28"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
+          "accessed": "2026-10-28"
+        },
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo",
+          "accessed": "2026-10-28"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-28T00:33:07.471Z",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-10-27/13ec59bf8a4cf0fa.mp3",
+            "2026-10-27/de2e6ba1c1821d37.mp3",
+            "2026-10-27/bd6ecca52375b497.mp3"
+          ],
+          "normal": [
+            "2026-10-27/a880483161bad1bc.mp3",
+            "2026-10-27/4a6fac19e8eaf799.mp3",
+            "2026-10-27/6f79296b1c8a6f6c.mp3",
+            "2026-10-27/63cc1e38ae12287c.mp3",
+            "2026-10-27/cb93039db191f0ad.mp3",
+            "2026-10-27/060cf8f1b368139e.mp3",
+            "2026-10-27/ae72685c7b8f35e0.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-10-27/62e04ef967699ea1.mp3",
+            "2026-10-27/0a971822d2eba6d4.mp3",
+            "2026-10-27/2d7c8958a152be7d.mp3"
+          ],
+          "normal": [
+            "2026-10-27/724add063b9bc64f.mp3",
+            "2026-10-27/e7ca2663c323a9c9.mp3",
+            "2026-10-27/804f5508be9dbc1e.mp3",
+            "2026-10-27/fa3c0c9b0f9627ac.mp3",
+            "2026-10-27/19b7dea3809a973d.mp3",
+            "2026-10-27/d250494cb0c62e20.mp3",
+            "2026-10-27/193edd94ee71275d.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-10-27/d95d0cf35390bae8.mp3",
+          "2026-10-27/888cfb9a9225a0dd.mp3",
+          "2026-10-27/89b5acca47abd64f.mp3",
+          "2026-10-27/6f8241cc81cda377.mp3",
+          "2026-10-27/090b50ae36e30d7c.mp3",
+          "2026-10-27/0b3110a3e754251b.mp3",
+          "2026-10-27/d5d304bc23a09418.mp3",
+          "2026-10-27/0d0b9f00a55d5432.mp3",
+          "2026-10-27/256da814f88c5398.mp3",
+          "2026-10-27/d8f75a91c9688600.mp3",
+          "2026-10-27/be9b294fb5b45a41.mp3",
+          "2026-10-27/ecad0806f24d0920.mp3",
+          "2026-10-27/d1115727143e54de.mp3",
+          "2026-10-27/3b086d0a56c137f4.mp3",
+          "2026-10-27/c2f77d4c8e9b9994.mp3",
+          "2026-10-27/1b0ac717769795ed.mp3",
+          "2026-10-27/1e8fa70e8514ad80.mp3",
+          "2026-10-27/38b54ab331f70bd3.mp3",
+          "2026-10-27/7e7ac51b34efeeb2.mp3",
+          "2026-10-27/d323ba5a9d9e1192.mp3",
+          "2026-10-27/7e3c0825512b72ed.mp3",
+          "2026-10-27/03a014779d72665a.mp3",
+          "2026-10-27/76257f28b883e323.mp3",
+          "2026-10-27/2bb02428932aff70.mp3",
+          "2026-10-27/08b2b3d4ae855a31.mp3",
+          "2026-10-27/f73ecdb0d002d150.mp3",
+          "2026-10-27/96987d355f0d5c11.mp3",
+          "2026-10-27/edbce44076c16be8.mp3",
+          "2026-10-27/36de0ebcb012ef14.mp3",
+          "2026-10-27/ff173cc54bc7badf.mp3",
+          "2026-10-27/2e3dbd202faab5b5.mp3",
+          "2026-10-27/f1a2e63a4b3fb618.mp3"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-27-03",
+      "category": "sports",
+      "region": {
+        "country": "CN",
+        "city": "Beijing",
+        "lat": 39.9,
+        "lng": 116.4
+      },
+      "headline": {
+        "en": "Mbappé Apologises After Mao Joke Angers China",
+        "fr": "Mbappé s'excuse après une blague sur Mao qui a fâché la Chine",
+        "ko": "음바페, 마오쩌둥 밈에 웃었다가 중국 반발… 결국 사과"
+      },
+      "hook": {
+        "en": "Why did Chinese brands drop Mbappé?",
+        "fr": "Pourquoi des marques chinoises ont-elles lâché Mbappé ?",
+        "ko": "중국 기업들은 왜 음바페와 계약을 끊었을까?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Football star Kylian Mbappé laughed about a picture of himself as China's old leader Mao.",
+            "Many Chinese people got angry, and some brands ended their deals with him.",
+            "Mbappé said sorry for his words."
+          ],
+          "easy_ko": [
+            "축구 스타 킬리안 음바페가 자신을 중국의 옛 지도자 마오쩌둥처럼 만든 그림을 보고 웃었습니다.",
+            "많은 중국인이 화가 났고, 일부 기업은 그와의 계약을 끝냈습니다.",
+            "음바페는 자신의 말에 대해 사과했습니다."
+          ],
+          "normal": [
+            "French football star Kylian Mbappé has apologised for comments about a meme that puts his face on a picture of Mao Zedong, the founder of Communist China.",
+            "In a video clip linked to the French online talk show The Bridge, he said his favourite meme of himself showed \"a Chinese dictator\", and laughed.",
+            "Fans often joke that Mbappé is a \"dictator\" because of his huge influence on his teams.",
+            "The clip spread quickly on Chinese social media this week, and the dairy giant Mengniu, the cheese maker Milkground and the drinks maker Dongpeng ended their partnerships with him.",
+            "State broadcaster CCTV will also stop showing Spain's La Liga, where Mbappé plays for Real Madrid, according to Chinese media.",
+            "Mbappé said his comment was \"ill-judged\" and that he now understood it had hurt many people in China.",
+            "Mao is still honoured by China's Communist Party, even though his rule left millions dead, and China is a huge market for sports stars' adverts."
+          ],
+          "normal_ko": [
+            "프랑스 축구 스타 킬리안 음바페가 공산 중국을 세운 마오쩌둥의 그림에 자기 얼굴을 합성한 밈에 대해 한 말을 사과했습니다.",
+            "프랑스 온라인 토크쇼 '더 브리지'와 관련된 영상에서 그는 자기를 다룬 밈 중 가장 좋아하는 것이 '중국 독재자'가 나오는 것이라며 웃었습니다.",
+            "팬들은 음바페가 팀에 미치는 영향력이 워낙 커서 그를 장난삼아 '독재자'라고 부르곤 합니다.",
+            "이번 주 이 영상이 중국 소셜미디어에 빠르게 퍼졌고, 유제품 대기업 멍뉴, 치즈 업체 밀크그라운드, 음료 업체 둥펑이 그와의 협력 관계를 끝냈습니다.",
+            "중국 언론에 따르면 국영방송 CCTV도 음바페가 레알 마드리드 소속으로 뛰는 스페인 라리가 중계를 중단할 예정입니다.",
+            "음바페는 자신의 말이 '경솔했다'며, 그 말이 중국의 많은 사람에게 상처를 줬다는 것을 이제 이해한다고 말했습니다.",
+            "마오쩌둥은 그의 통치로 수백만 명이 목숨을 잃었는데도 여전히 중국 공산당에서 떠받들어지고 있으며, 중국은 스포츠 스타들의 광고에 아주 큰 시장입니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "La star du football Kylian Mbappé a ri d'une image où il ressemble à Mao, l'ancien dirigeant chinois.",
+            "Beaucoup de Chinois se sont fâchés, et des marques ont arrêté de travailler avec lui.",
+            "Mbappé s'est excusé pour ses paroles."
+          ],
+          "easy_ko": [
+            "축구 스타 킬리안 음바페가 자신이 중국의 옛 지도자 마오쩌둥처럼 보이는 그림을 보고 웃었습니다.",
+            "많은 중국인이 화가 났고, 몇몇 기업은 그와 일하는 것을 그만뒀습니다.",
+            "음바페는 자신의 말에 대해 사과했습니다."
+          ],
+          "normal": [
+            "La star française du football Kylian Mbappé s'est excusé pour des propos sur un mème qui place son visage sur une image de Mao Zedong, le fondateur de la Chine communiste.",
+            "Dans une vidéo attribuée au talk-show français en ligne The Bridge, il a dit que son mème préféré le montrait en « dictateur chinois », en riant.",
+            "Les fans le surnomment souvent « dictateur » en plaisantant, à cause de son énorme influence sur ses équipes.",
+            "La vidéo s'est vite répandue sur les réseaux sociaux chinois cette semaine, et le géant laitier Mengniu, le fromager Milkground et la marque de boissons Dongpeng ont mis fin à leur partenariat avec lui.",
+            "Selon des médias chinois, la télévision d'État CCTV va aussi arrêter de diffuser la Liga espagnole, où Mbappé joue au Real Madrid.",
+            "Mbappé a reconnu une remarque maladroite et a dit comprendre maintenant qu'elle avait blessé beaucoup de personnes en Chine.",
+            "Mao reste honoré par le Parti communiste chinois, même si son règne a fait des millions de morts, et la Chine est un énorme marché pour la publicité des sportifs."
+          ],
+          "normal_ko": [
+            "프랑스 축구 스타 킬리안 음바페가 공산 중국을 세운 마오쩌둥의 그림에 자기 얼굴을 넣은 밈에 대해 한 말을 사과했습니다.",
+            "프랑스 온라인 토크쇼 '더 브리지'의 것으로 알려진 영상에서, 그는 가장 좋아하는 밈이 자신을 '중국 독재자'로 그린 것이라며 웃었습니다.",
+            "팬들은 그가 팀에 미치는 영향력이 엄청나서 장난삼아 그를 '독재자'라고 부르곤 합니다.",
+            "이번 주 이 영상이 중국 소셜미디어에 빠르게 퍼졌고, 유제품 대기업 멍뉴, 치즈 업체 밀크그라운드, 음료 브랜드 둥펑이 그와의 협력 관계를 끝냈습니다.",
+            "중국 언론에 따르면 국영방송 CCTV도 음바페가 레알 마드리드에서 뛰고 있는 스페인 라리가 중계를 멈출 예정입니다.",
+            "음바페는 경솔한 발언이었다고 인정하며, 그 말이 중국의 많은 사람에게 상처를 줬다는 것을 이제 이해한다고 말했습니다.",
+            "마오쩌둥의 통치로 수백만 명이 목숨을 잃었지만 그는 여전히 중국 공산당에서 존경받고 있으며, 중국은 스포츠 선수들의 광고에 아주 큰 시장입니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "마오쩌둥(1893~1976)은 1949년 중화인민공화국을 세운 지도자로, 지금도 톈안먼 광장에 초상화가 걸려 있을 만큼 중국 공산당이 떠받드는 인물입니다. 하지만 대약진운동이 부른 대기근과 문화대혁명으로 수많은 사람이 목숨을 잃었어요. 중국에서는 이런 주제가 매우 민감해서, 해외 스타의 말 한마디에 기업들이 바로 계약을 끊는 일이 종종 있습니다. 음바페는 프랑스 대표팀 주장이자 레알 마드리드의 공격수예요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "laugh",
+          "pos": "verb",
+          "ko": "웃다",
+          "example": "Everyone laughed at his joke.",
+          "example_ko": "모두가 그의 농담에 웃었어요.",
+          "note_ko": "laugh at ~ = ~을 보고 웃다(비웃다), laugh about ~ = ~에 대해 웃다. smile은 소리 없이 미소 짓기."
+        },
+        {
+          "lang": "en",
+          "word": "leader",
+          "pos": "noun",
+          "ko": "지도자",
+          "example": "She is a born leader.",
+          "example_ko": "그녀는 타고난 지도자예요.",
+          "note_ko": "동사 lead(이끌다)에 -er. world leaders = 세계 정상들."
+        },
+        {
+          "lang": "en",
+          "word": "angry",
+          "pos": "adjective",
+          "ko": "화난",
+          "example": "Why are you angry with me?",
+          "example_ko": "왜 나한테 화났어요?",
+          "note_ko": "get angry = 화가 나다. 사람에게는 angry with, 일에는 angry about."
+        },
+        {
+          "lang": "en",
+          "word": "brand",
+          "pos": "noun",
+          "ko": "브랜드, 상표",
+          "example": "This is my favourite brand of coffee.",
+          "example_ko": "이건 제가 제일 좋아하는 커피 브랜드예요.",
+          "note_ko": "기사에서는 '그 브랜드를 가진 기업'을 뜻하기도 해요."
+        },
+        {
+          "lang": "en",
+          "word": "deal",
+          "pos": "noun",
+          "ko": "계약, 거래",
+          "example": "They signed a two-year deal.",
+          "example_ko": "그들은 2년 계약을 맺었어요.",
+          "note_ko": "end a deal = 계약을 끝내다. It's a deal! = 그렇게 하자!"
+        },
+        {
+          "lang": "en",
+          "word": "said sorry (say sorry)",
+          "pos": "phrase",
+          "ko": "사과하다",
+          "example": "He said sorry to his sister.",
+          "example_ko": "그는 여동생에게 사과했어요.",
+          "note_ko": "apologise보다 쉬운 말. say sorry for ~ = ~에 대해 미안하다고 하다."
+        },
+        {
+          "lang": "en",
+          "word": "apologise",
+          "pos": "verb",
+          "ko": "사과하다",
+          "example": "I apologise for being late.",
+          "example_ko": "늦어서 죄송합니다.",
+          "note_ko": "apologise for ~ = ~에 대해 사과하다. 미국식 철자는 apologize, 명사는 apology."
+        },
+        {
+          "lang": "en",
+          "word": "founder",
+          "pos": "noun",
+          "ko": "창시자, 설립자",
+          "example": "He is the founder of the company.",
+          "example_ko": "그는 그 회사의 설립자예요.",
+          "note_ko": "동사 found(세우다)에 -er. find(찾다)의 과거 found와 헷갈리지 마세요."
+        },
+        {
+          "lang": "en",
+          "word": "influence",
+          "pos": "noun",
+          "ko": "영향력",
+          "example": "Teachers have a big influence on children.",
+          "example_ko": "선생님은 아이들에게 큰 영향을 줘요.",
+          "note_ko": "influence on ~ = ~에 대한 영향. SNS의 influencer도 여기서 온 말."
+        },
+        {
+          "lang": "en",
+          "word": "spread",
+          "pos": "verb",
+          "ko": "퍼지다",
+          "example": "The news spread fast.",
+          "example_ko": "그 소식은 빠르게 퍼졌어요.",
+          "note_ko": "과거형도 spread(불규칙 동사, 형태가 같아요)."
+        },
+        {
+          "lang": "en",
+          "word": "partnership",
+          "pos": "noun",
+          "ko": "협력 관계, 제휴",
+          "example": "The two firms formed a partnership.",
+          "example_ko": "두 회사는 제휴를 맺었어요.",
+          "note_ko": "partner(파트너) + -ship(관계·상태). friendship과 같은 짜임."
+        },
+        {
+          "lang": "en",
+          "word": "broadcaster",
+          "pos": "noun",
+          "ko": "방송사",
+          "example": "The broadcaster will show the match live.",
+          "example_ko": "그 방송사가 경기를 생중계해요.",
+          "note_ko": "broadcast = 방송하다. state broadcaster = 국영 방송."
+        },
+        {
+          "lang": "en",
+          "word": "according to",
+          "pos": "phrase",
+          "ko": "~에 따르면",
+          "example": "According to the report, prices will rise.",
+          "example_ko": "보고서에 따르면 물가가 오를 거예요.",
+          "note_ko": "기사에서 출처를 밝힐 때 아주 자주 써요. 프랑스어로는 selon."
+        },
+        {
+          "lang": "en",
+          "word": "ill-judged",
+          "pos": "adjective",
+          "ko": "경솔한, 판단이 잘못된",
+          "example": "It was an ill-judged decision.",
+          "example_ko": "그건 경솔한 결정이었어요.",
+          "note_ko": "ill(나쁘게) + judged(판단된). 사과문에 자주 나오는 표현이에요."
+        },
+        {
+          "lang": "en",
+          "word": "hurt",
+          "pos": "verb",
+          "ko": "상처를 주다, 아프게 하다",
+          "example": "His words hurt me.",
+          "example_ko": "그의 말이 나에게 상처를 줬어요.",
+          "note_ko": "과거형·과거분사도 hurt. My leg hurts. = 다리가 아파요."
+        },
+        {
+          "lang": "en",
+          "word": "market",
+          "pos": "noun",
+          "ko": "시장",
+          "example": "China is a big market for cars.",
+          "example_ko": "중국은 자동차의 큰 시장이에요.",
+          "note_ko": "장 보는 '시장'과 경제의 '시장' 둘 다 market."
+        },
+        {
+          "lang": "fr",
+          "word": "ressembler",
+          "pos": "verb",
+          "ko": "닮다",
+          "example": "Tu ressembles à ta mère.",
+          "example_ko": "너는 엄마를 닮았구나.",
+          "note_ko": "ressembler à + 사람/사물. à를 꼭 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "dirigeant",
+          "pos": "noun",
+          "ko": "지도자",
+          "example": "Les dirigeants européens se réunissent demain.",
+          "example_ko": "유럽 정상들이 내일 모여요.",
+          "note_ko": "diriger(이끌다)에서 온 말. 여성형 dirigeante."
+        },
+        {
+          "lang": "fr",
+          "word": "fâché (se fâcher)",
+          "pos": "verb",
+          "ko": "화가 난",
+          "example": "Elle s'est fâchée contre moi.",
+          "example_ko": "그녀가 나한테 화를 냈어요.",
+          "note_ko": "se fâcher = 화내다. être fâché avec quelqu'un = ~와 사이가 틀어지다."
+        },
+        {
+          "lang": "fr",
+          "word": "marque",
+          "pos": "noun",
+          "ko": "브랜드, 상표",
+          "example": "C'est une marque de chaussures.",
+          "example_ko": "그건 신발 브랜드예요.",
+          "note_ko": "여성 명사. 동사 marquer(표시하다, 골을 넣다)와 같은 뿌리."
+        },
+        {
+          "lang": "fr",
+          "word": "excusé (s'excuser)",
+          "pos": "verb",
+          "ko": "사과하다",
+          "example": "Il s'est excusé d'être en retard.",
+          "example_ko": "그는 늦은 것을 사과했어요.",
+          "note_ko": "s'excuser de/pour ~ = ~에 대해 사과하다. Excusez-moi = 실례합니다."
+        },
+        {
+          "lang": "fr",
+          "word": "propos",
+          "pos": "noun",
+          "ko": "말, 발언",
+          "example": "Ses propos ont choqué le public.",
+          "example_ko": "그의 발언은 대중에게 충격을 줬어요.",
+          "note_ko": "보통 복수(des propos). à propos de ~ = ~에 대해."
+        },
+        {
+          "lang": "fr",
+          "word": "fondateur",
+          "pos": "noun",
+          "ko": "창시자, 설립자",
+          "example": "Il est le fondateur de cette école.",
+          "example_ko": "그는 이 학교의 설립자예요.",
+          "note_ko": "fonder(세우다)에서 온 말. 여성형 fondatrice."
+        },
+        {
+          "lang": "fr",
+          "word": "en plaisantant",
+          "pos": "phrase",
+          "ko": "농담으로, 장난삼아",
+          "example": "Il l'a dit en plaisantant.",
+          "example_ko": "그는 농담으로 그렇게 말했어요.",
+          "note_ko": "plaisanter(농담하다)의 제롱디프. une plaisanterie = 농담(= une blague)."
+        },
+        {
+          "lang": "fr",
+          "word": "répandue (se répandre)",
+          "pos": "verb",
+          "ko": "퍼지다",
+          "example": "La nouvelle s'est répandue très vite.",
+          "example_ko": "그 소식은 아주 빨리 퍼졌어요.",
+          "note_ko": "se répandre = 퍼지다. 형용사 répandu = 널리 퍼진, 흔한."
+        },
+        {
+          "lang": "fr",
+          "word": "réseaux sociaux",
+          "pos": "phrase",
+          "ko": "소셜미디어, SNS",
+          "example": "Elle passe trop de temps sur les réseaux sociaux.",
+          "example_ko": "그녀는 SNS에 시간을 너무 많이 써요.",
+          "note_ko": "단수는 un réseau social. 영어 social networks와 같은 짜임."
+        },
+        {
+          "lang": "fr",
+          "word": "mis fin à (mettre fin à)",
+          "pos": "phrase",
+          "ko": "~을 끝내다",
+          "example": "Ils ont mis fin à leur contrat.",
+          "example_ko": "그들은 계약을 끝냈어요.",
+          "note_ko": "mettre fin à ~ = ~에 끝을 내다. 과거는 a mis fin à."
+        },
+        {
+          "lang": "fr",
+          "word": "partenariat",
+          "pos": "noun",
+          "ko": "협력 관계, 제휴",
+          "example": "Les deux villes ont signé un partenariat.",
+          "example_ko": "두 도시는 협력 협정을 맺었어요.",
+          "note_ko": "un partenaire = 파트너. 영어 partnership."
+        },
+        {
+          "lang": "fr",
+          "word": "selon",
+          "pos": "preposition",
+          "ko": "~에 따르면",
+          "example": "Selon la météo, il va pleuvoir.",
+          "example_ko": "일기예보에 따르면 비가 올 거예요.",
+          "note_ko": "출처를 밝힐 때 써요. 비슷한 말 d'après."
+        },
+        {
+          "lang": "fr",
+          "word": "diffuser",
+          "pos": "verb",
+          "ko": "방송하다, 퍼뜨리다",
+          "example": "La chaîne va diffuser le match.",
+          "example_ko": "그 채널이 경기를 방송할 거예요.",
+          "note_ko": "une diffusion = 방송. 향기를 퍼뜨리는 기계도 un diffuseur."
+        },
+        {
+          "lang": "fr",
+          "word": "maladroit",
+          "pos": "adjective",
+          "ko": "서투른, 경솔한",
+          "example": "C'était une question maladroite.",
+          "example_ko": "서투른 질문이었어요.",
+          "note_ko": "mal(나쁘게) + adroit(능숙한). 손재주가 없을 때도 써요. 여성형 maladroite."
+        },
+        {
+          "lang": "fr",
+          "word": "blesser",
+          "pos": "verb",
+          "ko": "상처를 주다, 다치게 하다",
+          "example": "Tes mots m'ont blessé.",
+          "example_ko": "네 말이 나에게 상처를 줬어.",
+          "note_ko": "몸과 마음 모두에 써요. une blessure = 부상, 상처."
+        },
+        {
+          "lang": "fr",
+          "word": "marché",
+          "pos": "noun",
+          "ko": "시장",
+          "example": "Je vais au marché le samedi.",
+          "example_ko": "저는 토요일마다 시장에 가요.",
+          "note_ko": "bon marché = 값싼. le marché chinois = 중국 시장."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "If a company ends a \"partnership\" with someone, it…",
+          "choices": [
+            "stops working with them",
+            "pays them more",
+            "opens a new shop"
+          ],
+          "answer": 0,
+          "explain_ko": "partnership = 협력 관계. 끝내면 함께 일하지 않게 돼요."
+        },
+        {
+          "lang": "fr",
+          "q": "« Une marque », c'est…",
+          "choices": [
+            "le nom d'une entreprise ou de ses produits",
+            "un joueur de football",
+            "un pays"
+          ],
+          "answer": 0,
+          "explain_ko": "marque = 브랜드. 멍뉴, 둥펑 같은 기업이 marques예요."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo",
+          "accessed": "2026-10-28"
+        },
+        {
+          "name": "CBC Sports",
+          "url": "https://www.cbc.ca/sports/soccer/mbappe-china-dictator-meme-brands-9.7397640",
+          "accessed": "2026-10-28"
+        },
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/10/27/en-chine-le-cout-financier-exorbitant-des-propos-de-kylian-mbappe-sur-le-dictateur-mao_6801270_3234.html",
+          "accessed": "2026-10-28"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-28T00:33:07.471Z",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-10-27/013832c32ea2f410.mp3",
+            "2026-10-27/5b0bc3db82d18abc.mp3",
+            "2026-10-27/4a2df3a02f4f6936.mp3"
+          ],
+          "normal": [
+            "2026-10-27/2359c19e548a78ea.mp3",
+            "2026-10-27/0ee475e0a4fc3f9e.mp3",
+            "2026-10-27/00de42fc8439234d.mp3",
+            "2026-10-27/26615b329ac4adb4.mp3",
+            "2026-10-27/0c2cc206b099ea00.mp3",
+            "2026-10-27/0c24134d2424840f.mp3",
+            "2026-10-27/04326628a6b63b60.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-10-27/b5b528f8494ff4b8.mp3",
+            "2026-10-27/567f78c6e80b8541.mp3",
+            "2026-10-27/795cfc852cae47d0.mp3"
+          ],
+          "normal": [
+            "2026-10-27/67efd03116bdedf0.mp3",
+            "2026-10-27/1bce0b7d5b2092b3.mp3",
+            "2026-10-27/04c4299d2d9464b5.mp3",
+            "2026-10-27/1abd83d45fcfee12.mp3",
+            "2026-10-27/16ff09839d68499b.mp3",
+            "2026-10-27/5551334498fe13a5.mp3",
+            "2026-10-27/f09c6e16be843037.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-10-27/e026084abe84e912.mp3",
+          "2026-10-27/2920b677acbb4d20.mp3",
+          "2026-10-27/548818ceff54a59d.mp3",
+          "2026-10-27/13739aae384f9662.mp3",
+          "2026-10-27/558b06e7661585f8.mp3",
+          "2026-10-27/d268ee1d3a35f8f9.mp3",
+          "2026-10-27/f8d9c6b7611cc369.mp3",
+          "2026-10-27/68172b7d82dafc8d.mp3",
+          "2026-10-27/fe355c5c312f0840.mp3",
+          "2026-10-27/0cad6a022d50bf66.mp3",
+          "2026-10-27/362bed8cd41260f5.mp3",
+          "2026-10-27/b3f7a2814006a3c1.mp3",
+          "2026-10-27/6f8154c8b147624f.mp3",
+          "2026-10-27/15160106e5d8fe3d.mp3",
+          "2026-10-27/cdb4db4d92995563.mp3",
+          "2026-10-27/0fe50ffa8733dc05.mp3",
+          "2026-10-27/0e3551f3491862f6.mp3",
+          "2026-10-27/511aba903000d994.mp3",
+          "2026-10-27/ec5e61f234123783.mp3",
+          "2026-10-27/9dd4611fccf77244.mp3",
+          "2026-10-27/c799e501f7574e8d.mp3",
+          "2026-10-27/17e2520f6e3ffa4f.mp3",
+          "2026-10-27/1219df535893c2d6.mp3",
+          "2026-10-27/b2fbbeaa4f804f24.mp3",
+          "2026-10-27/cd000fc33a0bccbb.mp3",
+          "2026-10-27/93e4465d9ae059c8.mp3",
+          "2026-10-27/8e7a6187d139859f.mp3",
+          "2026-10-27/adfefb749655ce6b.mp3",
+          "2026-10-27/e4cdfab466e262c9.mp3",
+          "2026-10-27/bc76cc569f84fc4a.mp3",
+          "2026-10-27/4e99c452acfa0ee8.mp3",
+          "2026-10-27/ebbdd343fb060c81.mp3",
+          "2026-10-27/c9d0bd329074a3dd.mp3"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-27-04",
+      "category": "science",
+      "region": {
+        "country": "US",
+        "city": "New York",
+        "lat": 40.71,
+        "lng": -74.01
+      },
+      "headline": {
+        "en": "Rare Nanotyrannus Skeleton Sells for $47.3 Million",
+        "fr": "Un rare squelette de Nanotyrannus vendu 47,3 millions de dollars",
+        "ko": "희귀 공룡 나노티라누스 뼈, 4,730만 달러에 팔려"
+      },
+      "hook": {
+        "en": "How much did this dinosaur sell for?",
+        "fr": "Combien a coûté ce dinosaure ?",
+        "ko": "이 공룡 뼈, 얼마에 팔렸을까?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "A dinosaur skeleton sold for $47.3 million in New York on Tuesday.",
+            "The dinosaur is called Nanotyrannus, a smaller cousin of T. rex.",
+            "Some scientists worry that it will be hidden from the public."
+          ],
+          "easy_ko": [
+            "화요일 뉴욕에서 공룡 뼈 화석이 4,730만 달러에 팔렸습니다.",
+            "이 공룡은 티라노사우루스의 작은 사촌인 나노티라누스입니다.",
+            "일부 과학자들은 이 화석이 대중의 눈에서 사라질까 봐 걱정합니다."
+          ],
+          "normal": [
+            "The skeleton of a Nanotyrannus, a smaller relative of Tyrannosaurus rex, sold for $47.3 million at a Sotheby's auction in New York on Tuesday.",
+            "Six bidders competed for 12 minutes, and the final price was far above the estimate of $6 million to $9 million.",
+            "It is now the second most valuable dinosaur ever sold, after a T. rex called Gus that fetched $50.1 million in July.",
+            "The skeleton is nicknamed Jodi after the rancher who found it on her land in Montana in 2019, and it is about six metres long with around 191 fossil bones.",
+            "For decades, many scientists believed Nanotyrannus was just a young T. rex, but researchers confirmed last year that it was a separate kind of dinosaur.",
+            "The buyer has not been named, and some experts worry that the skeleton could disappear into a private collection.",
+            "Palaeontologist Steve Brusatte called the sale \"harrowing\", while another expert said some museums are closing over budget problems worth only a tenth of the price."
+          ],
+          "normal_ko": [
+            "티라노사우루스 렉스보다 작은 친척 공룡 나노티라누스의 뼈 화석이 화요일 뉴욕 소더비 경매에서 4,730만 달러에 팔렸습니다.",
+            "응찰자 6명이 12분 동안 경쟁했고, 최종 가격은 예상가 600만~900만 달러를 훨씬 넘었습니다.",
+            "이로써 지난 7월 5,010만 달러에 팔린 티라노사우루스 '거스'에 이어, 지금까지 팔린 공룡 가운데 두 번째로 비싼 화석이 됐습니다.",
+            "이 화석은 2019년 몬태나주 자기 땅에서 이를 발견한 목장주의 이름을 따 '조디'라는 별명이 붙었고, 길이는 약 6m이며 뼈 화석 약 191개로 이뤄져 있습니다.",
+            "수십 년 동안 많은 과학자는 나노티라누스가 어린 티라노사우루스일 뿐이라고 믿었지만, 지난해 연구자들이 별개의 공룡이라는 것을 확인했습니다.",
+            "구매자는 공개되지 않았고, 일부 전문가들은 이 화석이 개인 소장품 속으로 사라질 수 있다고 걱정합니다.",
+            "고생물학자 스티브 브루사테는 이번 판매가 '참담하다'고 했고, 또 다른 전문가는 이 가격의 10분의 1밖에 안 되는 예산 문제로 문을 닫는 박물관도 있다고 말했습니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Un squelette de dinosaure a été vendu 47,3 millions de dollars mardi à New York.",
+            "Ce dinosaure s'appelle Nanotyrannus, un petit cousin du T. rex.",
+            "Des scientifiques ont peur qu'il soit caché du public."
+          ],
+          "easy_ko": [
+            "화요일 뉴욕에서 공룡 뼈 화석이 4,730만 달러에 팔렸습니다.",
+            "이 공룡의 이름은 나노티라누스로, 티라노사우루스의 작은 사촌입니다.",
+            "일부 과학자들은 이 화석이 대중에게서 감춰질까 봐 걱정합니다."
+          ],
+          "normal": [
+            "Le squelette d'un Nanotyrannus, un parent plus petit du Tyrannosaurus rex, a été vendu 47,3 millions de dollars mardi lors d'une vente aux enchères de Sotheby's à New York.",
+            "Six acheteurs se sont affrontés pendant 12 minutes, et le prix final a largement dépassé l'estimation de 6 à 9 millions de dollars.",
+            "C'est désormais le deuxième dinosaure le plus cher jamais vendu, après un T. rex nommé Gus, adjugé 50,1 millions de dollars en juillet.",
+            "Le squelette est surnommé Jodi, du nom de la propriétaire de ranch qui l'a découvert sur ses terres du Montana en 2019, et il mesure environ six mètres de long, avec quelque 191 os fossiles.",
+            "Pendant des décennies, beaucoup de scientifiques ont cru que le Nanotyrannus n'était qu'un jeune T. rex, mais des chercheurs ont confirmé l'an dernier qu'il s'agissait d'un dinosaure à part.",
+            "L'acheteur n'a pas été dévoilé, et certains experts ont peur que le squelette disparaisse dans une collection privée.",
+            "Le paléontologue Steve Brusatte a jugé cette vente « déchirante », tandis qu'un autre expert a rappelé que certains musées ferment pour des problèmes de budget dix fois plus petits que ce prix."
+          ],
+          "normal_ko": [
+            "티라노사우루스 렉스보다 작은 친척인 나노티라누스의 뼈 화석이 화요일 뉴욕 소더비 경매에서 4,730만 달러에 팔렸습니다.",
+            "구매 희망자 6명이 12분 동안 맞붙었고, 최종 가격은 예상가 600만~900만 달러를 크게 넘었습니다.",
+            "이 화석은 이제 지난 7월 5,010만 달러에 낙찰된 티라노사우루스 '거스'에 이어, 지금까지 팔린 공룡 중 두 번째로 비쌉니다.",
+            "이 화석은 2019년 몬태나주의 자기 땅에서 이를 발견한 목장 주인의 이름을 따 '조디'라고 불리며, 길이는 약 6m, 뼈 화석은 191개쯤 됩니다.",
+            "수십 년 동안 많은 과학자는 나노티라누스가 어린 티라노사우루스일 뿐이라고 생각했지만, 지난해 연구자들이 따로 구분되는 공룡이라는 것을 확인했습니다.",
+            "구매자는 밝혀지지 않았고, 일부 전문가들은 화석이 개인 소장품 속으로 사라질까 봐 걱정합니다.",
+            "고생물학자 스티브 브루사테는 이번 판매를 '가슴 아픈 일'이라고 했고, 또 다른 전문가는 이 가격의 10분의 1밖에 안 되는 예산 문제로 문을 닫는 박물관도 있다고 지적했습니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "나노티라누스는 티라노사우루스(T. 렉스)와 같은 시기인 약 6,700만 년 전 북아메리카에 살던 육식 공룡입니다. 몸집이 작아 오랫동안 '어린 T. 렉스'로 여겨졌지만, 2025년 10월 발표된 연구로 별개의 공룡이라는 사실이 확인됐어요. 미국에서는 개인 땅에서 나온 화석을 땅 주인이 팔 수 있어서, 공룡 화석이 경매에서 큰돈에 팔리는 일이 늘고 있습니다. 과학자들은 중요한 화석이 부자의 집에 들어가 연구와 전시를 못 하게 될까 걱정해요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "skeleton",
+          "pos": "noun",
+          "ko": "뼈대, 해골",
+          "example": "The museum has a whale skeleton.",
+          "example_ko": "그 박물관에는 고래 뼈대가 있어요.",
+          "note_ko": "몸 전체의 뼈를 말해요. 뼈 하나는 a bone."
+        },
+        {
+          "lang": "en",
+          "word": "sold (sell)",
+          "pos": "verb",
+          "ko": "팔렸다 (팔다)",
+          "example": "The house sold for a high price.",
+          "example_ko": "그 집은 비싼 값에 팔렸어요.",
+          "note_ko": "sell–sold–sold. sell for + 가격 = ~에 팔리다."
+        },
+        {
+          "lang": "en",
+          "word": "cousin",
+          "pos": "noun",
+          "ko": "사촌",
+          "example": "My cousin lives in Busan.",
+          "example_ko": "제 사촌은 부산에 살아요.",
+          "note_ko": "기사에서는 '가까운 친척뻘 종(種)'을 비유적으로 말할 때도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "worry",
+          "pos": "verb",
+          "ko": "걱정하다",
+          "example": "Don't worry, it's fine.",
+          "example_ko": "걱정 마세요, 괜찮아요.",
+          "note_ko": "worry about ~ = ~을 걱정하다. 형용사 worried(걱정하는)."
+        },
+        {
+          "lang": "en",
+          "word": "hidden (hide)",
+          "pos": "verb",
+          "ko": "숨겨진 (숨기다)",
+          "example": "The key was hidden under the mat.",
+          "example_ko": "열쇠는 매트 밑에 숨겨져 있었어요.",
+          "note_ko": "hide–hid–hidden. be hidden from ~ = ~에게서 감춰지다."
+        },
+        {
+          "lang": "en",
+          "word": "public",
+          "pos": "noun",
+          "ko": "대중, 일반 사람들",
+          "example": "The park is open to the public.",
+          "example_ko": "그 공원은 일반인에게 열려 있어요.",
+          "note_ko": "the public = 대중. 반대는 private(개인의, 사적인)."
+        },
+        {
+          "lang": "en",
+          "word": "relative",
+          "pos": "noun",
+          "ko": "친척",
+          "example": "We visited relatives at the holiday.",
+          "example_ko": "명절에 친척들을 찾아갔어요.",
+          "note_ko": "형용사로는 '상대적인'. cousin보다 넓은 '친척' 전체."
+        },
+        {
+          "lang": "en",
+          "word": "auction",
+          "pos": "noun",
+          "ko": "경매",
+          "example": "The painting was sold at auction.",
+          "example_ko": "그 그림은 경매에서 팔렸어요.",
+          "note_ko": "가장 높은 값을 부른 사람이 사요. 부르는 사람은 a bidder."
+        },
+        {
+          "lang": "en",
+          "word": "bidder",
+          "pos": "noun",
+          "ko": "응찰자, 입찰자",
+          "example": "The highest bidder wins the item.",
+          "example_ko": "가장 높은 값을 부른 사람이 물건을 가져가요.",
+          "note_ko": "bid(값을 부르다)에 -er. the highest bidder = 최고 입찰자."
+        },
+        {
+          "lang": "en",
+          "word": "estimate",
+          "pos": "noun",
+          "ko": "추정치, 예상가",
+          "example": "The estimate was too low.",
+          "example_ko": "예상치가 너무 낮았어요.",
+          "note_ko": "동사로도 써요: estimate the cost = 비용을 추정하다."
+        },
+        {
+          "lang": "en",
+          "word": "valuable",
+          "pos": "adjective",
+          "ko": "값비싼, 귀중한",
+          "example": "This ring is very valuable.",
+          "example_ko": "이 반지는 아주 값비싸요.",
+          "note_ko": "value(가치) + -able. invaluable은 '매우 귀중한'(반대말 아님!)."
+        },
+        {
+          "lang": "en",
+          "word": "fetch",
+          "pos": "verb",
+          "ko": "(값에) 팔리다, 가져오다",
+          "example": "The car fetched $5,000.",
+          "example_ko": "그 차는 5천 달러에 팔렸어요.",
+          "note_ko": "원래 '가서 가져오다'(개가 공을 fetch). 경매 기사에서는 '~의 값을 받다'."
+        },
+        {
+          "lang": "en",
+          "word": "rancher",
+          "pos": "noun",
+          "ko": "목장 주인",
+          "example": "The rancher has 200 cows.",
+          "example_ko": "그 목장 주인은 소 200마리를 길러요.",
+          "note_ko": "a ranch = (미국의 큰) 목장. 농부는 farmer."
+        },
+        {
+          "lang": "en",
+          "word": "fossil",
+          "pos": "noun",
+          "ko": "화석",
+          "example": "They found a fossil in the rock.",
+          "example_ko": "그들은 바위에서 화석을 찾았어요.",
+          "note_ko": "fossil fuel = 화석 연료(석탄·석유)."
+        },
+        {
+          "lang": "en",
+          "word": "confirm",
+          "pos": "verb",
+          "ko": "확인하다, 사실로 밝히다",
+          "example": "Please confirm your booking.",
+          "example_ko": "예약을 확인해 주세요.",
+          "note_ko": "명사는 confirmation. 소문을 '사실이라고 확인하다'에도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "separate",
+          "pos": "adjective",
+          "ko": "별개의, 따로 떨어진",
+          "example": "They sleep in separate rooms.",
+          "example_ko": "그들은 각자 다른 방에서 자요.",
+          "note_ko": "동사로는 '분리하다'(발음이 조금 달라요). 철자 sepArate 주의."
+        },
+        {
+          "lang": "en",
+          "word": "disappear",
+          "pos": "verb",
+          "ko": "사라지다",
+          "example": "The cat disappeared under the bed.",
+          "example_ko": "고양이가 침대 밑으로 사라졌어요.",
+          "note_ko": "dis-(반대) + appear(나타나다). 명사는 disappearance."
+        },
+        {
+          "lang": "fr",
+          "word": "squelette",
+          "pos": "noun",
+          "ko": "뼈대, 해골",
+          "example": "Le squelette humain compte 206 os.",
+          "example_ko": "사람의 뼈대는 뼈 206개로 이뤄져요.",
+          "note_ko": "남성 명사(un squelette). 영어 skeleton과 비슷해요."
+        },
+        {
+          "lang": "fr",
+          "word": "vendu (vendre)",
+          "pos": "verb",
+          "ko": "팔린 (팔다)",
+          "example": "La maison est vendue.",
+          "example_ko": "그 집은 팔렸어요.",
+          "note_ko": "vendre의 과거분사. être vendu + 가격 = ~에 팔리다. 반대는 acheter."
+        },
+        {
+          "lang": "fr",
+          "word": "cousin",
+          "pos": "noun",
+          "ko": "사촌",
+          "example": "Mon cousin habite à Lyon.",
+          "example_ko": "제 사촌은 리옹에 살아요.",
+          "note_ko": "여성 사촌은 une cousine."
+        },
+        {
+          "lang": "fr",
+          "word": "peur",
+          "pos": "noun",
+          "ko": "두려움, 걱정",
+          "example": "J'ai peur des chiens.",
+          "example_ko": "저는 개가 무서워요.",
+          "note_ko": "avoir peur de ~ = ~이 무섭다. avoir peur que + 접속법 = ~할까 봐 걱정하다."
+        },
+        {
+          "lang": "fr",
+          "word": "caché",
+          "pos": "adjective",
+          "ko": "숨겨진",
+          "example": "Le trésor est caché sous la terre.",
+          "example_ko": "보물은 땅속에 숨겨져 있어요.",
+          "note_ko": "cacher(숨기다)의 과거분사. jouer à cache-cache = 숨바꼭질하다."
+        },
+        {
+          "lang": "fr",
+          "word": "parent",
+          "pos": "noun",
+          "ko": "친척, 부모",
+          "example": "Mes parents arrivent ce soir.",
+          "example_ko": "부모님이 오늘 저녁에 오세요.",
+          "note_ko": "복수 mes parents는 보통 '부모님', 단수는 '친척'의 뜻도 돼요."
+        },
+        {
+          "lang": "fr",
+          "word": "vente aux enchères",
+          "pos": "phrase",
+          "ko": "경매",
+          "example": "Le tableau sera vendu lors d'une vente aux enchères.",
+          "example_ko": "그 그림은 경매에서 팔릴 거예요.",
+          "note_ko": "une enchère = 입찰가. 줄여서 les enchères라고도 해요."
+        },
+        {
+          "lang": "fr",
+          "word": "acheteur",
+          "pos": "noun",
+          "ko": "구매자",
+          "example": "L'acheteur a payé en liquide.",
+          "example_ko": "구매자는 현금으로 냈어요.",
+          "note_ko": "acheter(사다)에서 온 말. 파는 사람은 le vendeur."
+        },
+        {
+          "lang": "fr",
+          "word": "estimation",
+          "pos": "noun",
+          "ko": "추정치, 예상가",
+          "example": "Selon les estimations, le prix va monter.",
+          "example_ko": "추정에 따르면 가격이 오를 거예요.",
+          "note_ko": "동사는 estimer(추정하다, 높이 평가하다)."
+        },
+        {
+          "lang": "fr",
+          "word": "dépasser",
+          "pos": "verb",
+          "ko": "넘다, 초과하다",
+          "example": "Le prix a dépassé 100 euros.",
+          "example_ko": "가격이 100유로를 넘었어요.",
+          "note_ko": "차를 '추월하다'도 dépasser. largement dépasser = 훨씬 넘다."
+        },
+        {
+          "lang": "fr",
+          "word": "cher",
+          "pos": "adjective",
+          "ko": "비싼",
+          "example": "Ce restaurant est trop cher.",
+          "example_ko": "이 식당은 너무 비싸요.",
+          "note_ko": "편지 첫머리의 Cher ami(친애하는)처럼 '소중한'이라는 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "surnommé",
+          "pos": "adjective",
+          "ko": "~라는 별명이 붙은",
+          "example": "Paris est surnommée la Ville Lumière.",
+          "example_ko": "파리는 '빛의 도시'라는 별명이 있어요.",
+          "note_ko": "un surnom = 별명. nom(이름) 앞에 sur-(위에)."
+        },
+        {
+          "lang": "fr",
+          "word": "découvert (découvrir)",
+          "pos": "verb",
+          "ko": "발견한 (발견하다)",
+          "example": "Ils ont découvert une grotte.",
+          "example_ko": "그들은 동굴을 발견했어요.",
+          "note_ko": "과거분사는 découvert(불규칙). 명사 une découverte."
+        },
+        {
+          "lang": "fr",
+          "word": "décennie",
+          "pos": "noun",
+          "ko": "10년",
+          "example": "Il vit ici depuis deux décennies.",
+          "example_ko": "그는 20년째 여기 살아요.",
+          "note_ko": "pendant des décennies = 수십 년 동안. 100년은 un siècle."
+        },
+        {
+          "lang": "fr",
+          "word": "chercheur",
+          "pos": "noun",
+          "ko": "연구자",
+          "example": "Les chercheurs ont publié leur étude.",
+          "example_ko": "연구자들이 연구를 발표했어요.",
+          "note_ko": "chercher(찾다)에서 온 말. la recherche = 연구. 여성형 chercheuse."
+        },
+        {
+          "lang": "fr",
+          "word": "à part",
+          "pos": "phrase",
+          "ko": "따로, 별개의",
+          "example": "C'est un cas à part.",
+          "example_ko": "그건 특별한(별개의) 경우예요.",
+          "note_ko": "à part ça = 그것 말고는. à part toi = 너를 빼고."
+        },
+        {
+          "lang": "fr",
+          "word": "privé",
+          "pos": "adjective",
+          "ko": "개인의, 사적인",
+          "example": "C'est une plage privée.",
+          "example_ko": "여기는 개인 소유 해변이에요.",
+          "note_ko": "반대는 public(공공의). la vie privée = 사생활."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "An \"auction\" is a sale where…",
+          "choices": [
+            "people offer more and more money",
+            "everything is free",
+            "only children can buy"
+          ],
+          "answer": 0,
+          "explain_ko": "auction = 경매. 가장 높은 값을 부른 bidder가 사요."
+        },
+        {
+          "lang": "fr",
+          "q": "Un « squelette », c'est…",
+          "choices": [
+            "l'ensemble des os d'un corps",
+            "un musée",
+            "un prix"
+          ],
+          "answer": 0,
+          "explain_ko": "squelette = 뼈대. un os = 뼈 하나."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o",
+          "accessed": "2026-10-28"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction",
+          "accessed": "2026-10-28"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-28T00:33:07.471Z",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-10-27/93d4bd02b3cb13c9.mp3",
+            "2026-10-27/bb626a8f209bfb25.mp3",
+            "2026-10-27/fd962e14624f4ac2.mp3"
+          ],
+          "normal": [
+            "2026-10-27/85014b3629218976.mp3",
+            "2026-10-27/4ad38ae91981e9b8.mp3",
+            "2026-10-27/3c5ffafa51804272.mp3",
+            "2026-10-27/2baec5c2c1bb4417.mp3",
+            "2026-10-27/84200be885196799.mp3",
+            "2026-10-27/b3ea86ba797f0aff.mp3",
+            "2026-10-27/eaadfee56453f658.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-10-27/3603b4a3506d83c8.mp3",
+            "2026-10-27/73caf7934d7a7e92.mp3",
+            "2026-10-27/1455c84c235c2965.mp3"
+          ],
+          "normal": [
+            "2026-10-27/b2156971781addd7.mp3",
+            "2026-10-27/f85d4514ef6c002e.mp3",
+            "2026-10-27/9d352293d8825f68.mp3",
+            "2026-10-27/5626db950e0e35f0.mp3",
+            "2026-10-27/91705859e1a16c13.mp3",
+            "2026-10-27/eb8763f0834cfb86.mp3",
+            "2026-10-27/a9cac7211e72def2.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-10-27/e3e9aabc830faa65.mp3",
+          "2026-10-27/14b4d0510ee4cf3b.mp3",
+          "2026-10-27/e24228aa19e69309.mp3",
+          "2026-10-27/0f559961e40bce03.mp3",
+          "2026-10-27/cec47ff7de7fa4e6.mp3",
+          "2026-10-27/b29c1a6074bf7601.mp3",
+          "2026-10-27/64fc4e373697e879.mp3",
+          "2026-10-27/40cf40bde756499a.mp3",
+          "2026-10-27/39c6ea830d46b2f6.mp3",
+          "2026-10-27/6e64aba982f9b3c4.mp3",
+          "2026-10-27/151d535a2fdfbbac.mp3",
+          "2026-10-27/d734cc5ebeaec0af.mp3",
+          "2026-10-27/a5c38f62457610cd.mp3",
+          "2026-10-27/53d8641aad89bb36.mp3",
+          "2026-10-27/287fd0c773d64f20.mp3",
+          "2026-10-27/ed611411f9a64656.mp3",
+          "2026-10-27/88b2616335ae8dda.mp3",
+          "2026-10-27/2176eb2bbfab5d87.mp3",
+          "2026-10-27/2dbd41c7bcfda51f.mp3",
+          "2026-10-27/8b6cdbd4a010b97b.mp3",
+          "2026-10-27/3e631ed0219a58b3.mp3",
+          "2026-10-27/20dc809a69d9a1fe.mp3",
+          "2026-10-27/13ac788a642756c1.mp3",
+          "2026-10-27/d135b93f2dff1289.mp3",
+          "2026-10-27/170fcf4098806283.mp3",
+          "2026-10-27/a6ca2e6c8cad6111.mp3",
+          "2026-10-27/c6be79eb0e073279.mp3",
+          "2026-10-27/1bcb4783a0b256d1.mp3",
+          "2026-10-27/62572ebe7e9ab9c7.mp3",
+          "2026-10-27/5f3235801b9284ff.mp3",
+          "2026-10-27/53af1d3254e354b3.mp3",
+          "2026-10-27/58ee111da18b8607.mp3",
+          "2026-10-27/1e48051be0aefe5b.mp3",
+          "2026-10-27/4c83742c7d71f8a3.mp3"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-27-05",
+      "category": "environment",
+      "region": {
+        "country": "SI",
+        "city": "Mount Triglav",
+        "lat": 46.38,
+        "lng": 13.84
+      },
+      "headline": {
+        "en": "Slovenia's Triglav Glacier Has Disappeared",
+        "fr": "Le glacier du Triglav, en Slovénie, a disparu",
+        "ko": "슬로베니아 트리글라우 빙하, 끝내 사라져"
+      },
+      "hook": {
+        "en": "What happened to this mountain's ice?",
+        "fr": "Qu'est-il arrivé à la glace de cette montagne ?",
+        "ko": "이 산의 얼음은 어디로 갔을까?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "The glacier on Slovenia's highest mountain has melted away.",
+            "A very hot summer and little snow were too much for it.",
+            "Slovenia now has only one small glacier left."
+          ],
+          "easy_ko": [
+            "슬로베니아에서 가장 높은 산의 빙하가 다 녹아 사라졌습니다.",
+            "아주 더운 여름과 적은 눈을 빙하가 견디지 못했습니다.",
+            "이제 슬로베니아에는 작은 빙하 하나만 남았습니다."
+          ],
+          "normal": [
+            "The last ice of the Triglav glacier, on Slovenia's highest peak, has disappeared after Europe's scorching summer, scientists say.",
+            "New photos of the mountainside taken this month confirm that no ice remains.",
+            "The glacier covered about 14 hectares when scientists first measured it in 1946, but it had shrunk to between half a hectare and one hectare in recent years.",
+            "Geographer Miha Pavšek said the final blow came from very little snow in winter, followed by a very hot summer.",
+            "Mount Triglav is a symbol of Slovenian identity, and people in the country are expected to climb it at least once in their lives.",
+            "Slovenia's only other glacier, Skuta, is better shaded but is also shrinking, and experts expect it to follow the same path.",
+            "On the same day, the UN's weather agency said that levels of carbon dioxide and other greenhouse gases in the atmosphere reached new records in 2025."
+          ],
+          "normal_ko": [
+            "슬로베니아 최고봉에 있는 트리글라우 빙하의 마지막 얼음이 유럽의 찌는 듯한 여름을 지나며 사라졌다고 과학자들이 밝혔습니다.",
+            "이번 달 찍은 산비탈의 새 사진들은 얼음이 하나도 남지 않았다는 것을 확인해 줍니다.",
+            "과학자들이 처음 측정한 1946년에 이 빙하는 약 14헥타르를 덮고 있었지만, 최근 몇 년 사이 0.5~1헥타르로 줄어 있었습니다.",
+            "지리학자 미하 파우셰크는 겨울에 눈이 아주 적게 내린 뒤 매우 더운 여름이 이어진 것이 결정타였다고 말했습니다.",
+            "트리글라우산은 슬로베니아 정체성의 상징이어서, 이 나라 사람들은 평생 적어도 한 번은 이 산에 오르는 것으로 여겨집니다.",
+            "슬로베니아에 하나 남은 빙하인 스쿠타는 그늘이 더 잘 지지만 역시 줄어들고 있어, 전문가들은 같은 길을 걸을 것으로 봅니다.",
+            "같은 날 유엔 기상 기구는 2025년 대기 중 이산화탄소와 다른 온실가스 농도가 사상 최고를 기록했다고 발표했습니다."
+          ],
+          "normal_paras": [
+            2,
+            3,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Le glacier de la plus haute montagne de Slovénie a complètement fondu.",
+            "Un été très chaud et peu de neige l'ont fait disparaître.",
+            "La Slovénie n'a plus qu'un petit glacier."
+          ],
+          "easy_ko": [
+            "슬로베니아에서 가장 높은 산의 빙하가 완전히 녹았습니다.",
+            "아주 더운 여름과 적은 눈 때문에 빙하가 사라졌습니다.",
+            "이제 슬로베니아에는 작은 빙하 하나만 남았습니다."
+          ],
+          "normal": [
+            "Les dernières glaces du glacier du Triglav, sur le plus haut sommet de Slovénie, ont disparu après l'été caniculaire en Europe, selon les scientifiques.",
+            "De nouvelles photos de la montagne prises ce mois-ci confirment qu'il ne reste plus de glace.",
+            "Le glacier couvrait environ 14 hectares lors des premières mesures, en 1946, mais il ne faisait plus qu'entre un demi-hectare et un hectare ces dernières années.",
+            "Selon le géographe Miha Pavšek, le coup de grâce est venu d'un hiver avec très peu de neige, suivi d'un été très chaud.",
+            "Le mont Triglav est un symbole de l'identité slovène, et chaque habitant du pays est censé le gravir au moins une fois dans sa vie.",
+            "Le seul autre glacier du pays, le Skuta, est mieux protégé du soleil, mais il rétrécit lui aussi, et les experts pensent qu'il suivra le même chemin.",
+            "Le même jour, l'agence météo de l'ONU a annoncé que les niveaux de dioxyde de carbone et d'autres gaz à effet de serre dans l'atmosphère avaient atteint des records en 2025."
+          ],
+          "normal_ko": [
+            "슬로베니아 최고봉에 있는 트리글라우 빙하의 마지막 얼음이 유럽의 폭염 여름을 지나며 사라졌다고 과학자들이 밝혔습니다.",
+            "이번 달 찍은 산의 새 사진들을 보면 얼음이 하나도 남아 있지 않습니다.",
+            "1946년 첫 측정 때 이 빙하는 약 14헥타르였지만, 최근 몇 년 사이에는 0.5~1헥타르밖에 되지 않았습니다.",
+            "지리학자 미하 파우셰크에 따르면, 눈이 아주 적었던 겨울에 이어 매우 더운 여름이 온 것이 결정타였습니다.",
+            "트리글라우산은 슬로베니아 정체성의 상징이어서, 이 나라 사람이라면 평생 적어도 한 번은 이 산에 올라야 한다고 여겨집니다.",
+            "이 나라에 하나 남은 빙하인 스쿠타는 햇빛을 더 잘 피하지만 역시 줄어들고 있어, 전문가들은 같은 길을 걸을 것으로 봅니다.",
+            "같은 날 유엔 기상 기구는 2025년 대기 중 이산화탄소와 다른 온실가스 농도가 사상 최고를 기록했다고 발표했습니다."
+          ],
+          "normal_paras": [
+            2,
+            3,
+            2
+          ]
+        }
+      },
+      "ko_note": "빙하는 오랜 세월 쌓인 눈이 다져져 생긴 얼음덩어리로, 여름에도 다 녹지 않아야 빙하로 남습니다. 트리글라우(2,864m)는 슬로베니아 국기의 문장에도 그려진 나라의 상징이에요. 알프스의 빙하는 기후변화로 빠르게 줄고 있어서, 스위스는 최근 5년 동안 빙하의 거의 5분의 1을 잃었습니다. 세계기상기구(WMO)에 따르면 2025년 이산화탄소 농도는 426.8ppm으로, 산업화 이전의 1.5배를 넘었어요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "glacier",
+          "pos": "noun",
+          "ko": "빙하",
+          "example": "The glacier moves very slowly.",
+          "example_ko": "빙하는 아주 천천히 움직여요.",
+          "note_ko": "바다에 떠다니는 얼음덩어리는 iceberg(빙산)."
+        },
+        {
+          "lang": "en",
+          "word": "highest",
+          "pos": "adjective",
+          "ko": "가장 높은",
+          "example": "Everest is the highest mountain in the world.",
+          "example_ko": "에베레스트는 세계에서 가장 높은 산이에요.",
+          "note_ko": "high–higher–highest. 반대는 lowest."
+        },
+        {
+          "lang": "en",
+          "word": "melted away (melt away)",
+          "pos": "phrase",
+          "ko": "녹아 없어지다",
+          "example": "The snow melted away in the sun.",
+          "example_ko": "눈이 햇볕에 녹아 없어졌어요.",
+          "note_ko": "melt = 녹다. away가 붙으면 '완전히 사라지다'는 느낌이 더해져요."
+        },
+        {
+          "lang": "en",
+          "word": "snow",
+          "pos": "noun",
+          "ko": "눈",
+          "example": "We had a lot of snow last winter.",
+          "example_ko": "지난겨울에 눈이 많이 왔어요.",
+          "note_ko": "동사로도 써요: It's snowing. = 눈이 와요."
+        },
+        {
+          "lang": "en",
+          "word": "left",
+          "pos": "adjective",
+          "ko": "남은",
+          "example": "Is there any cake left?",
+          "example_ko": "케이크 남은 거 있어요?",
+          "note_ko": "leave(남기다)의 과거분사. have ~ left = ~이 남아 있다. '왼쪽'의 left와 철자가 같아요."
+        },
+        {
+          "lang": "en",
+          "word": "peak",
+          "pos": "noun",
+          "ko": "봉우리, 정점",
+          "example": "We reached the peak at noon.",
+          "example_ko": "우리는 정오에 정상에 도착했어요.",
+          "note_ko": "peak season = 성수기, peak hours = 가장 붐비는 시간."
+        },
+        {
+          "lang": "en",
+          "word": "scorching",
+          "pos": "adjective",
+          "ko": "타는 듯이 더운",
+          "example": "It was a scorching day.",
+          "example_ko": "타는 듯이 더운 날이었어요.",
+          "note_ko": "very hot보다 강한 말. scorch = 그슬리다."
+        },
+        {
+          "lang": "en",
+          "word": "remain",
+          "pos": "verb",
+          "ko": "남아 있다",
+          "example": "Only two seats remain.",
+          "example_ko": "자리가 두 개만 남아 있어요.",
+          "note_ko": "stay와 비슷해요. 명사 remains는 '유적, 유해'."
+        },
+        {
+          "lang": "en",
+          "word": "measure",
+          "pos": "verb",
+          "ko": "재다, 측정하다",
+          "example": "The nurse measured my height.",
+          "example_ko": "간호사가 제 키를 쟀어요.",
+          "note_ko": "명사 measurement = 측정. 명사 measure는 '조치'(take measures)."
+        },
+        {
+          "lang": "en",
+          "word": "shrink",
+          "pos": "verb",
+          "ko": "줄어들다",
+          "example": "My shirt shrank in the wash.",
+          "example_ko": "셔츠가 빨래하다가 줄었어요.",
+          "note_ko": "shrink–shrank–shrunk. 불규칙 동사예요."
+        },
+        {
+          "lang": "en",
+          "word": "followed by",
+          "pos": "phrase",
+          "ko": "~이 뒤따른, 이어서",
+          "example": "Lunch was followed by a walk.",
+          "example_ko": "점심을 먹고 이어서 산책을 했어요.",
+          "note_ko": "A followed by B = A 다음에 B. 순서를 말할 때 써요."
+        },
+        {
+          "lang": "en",
+          "word": "symbol",
+          "pos": "noun",
+          "ko": "상징",
+          "example": "The dove is a symbol of peace.",
+          "example_ko": "비둘기는 평화의 상징이에요.",
+          "note_ko": "a symbol of ~ = ~의 상징. 형용사 symbolic."
+        },
+        {
+          "lang": "en",
+          "word": "identity",
+          "pos": "noun",
+          "ko": "정체성, 신원",
+          "example": "Language is part of our identity.",
+          "example_ko": "언어는 우리 정체성의 일부예요.",
+          "note_ko": "an identity card(ID card) = 신분증."
+        },
+        {
+          "lang": "en",
+          "word": "at least",
+          "pos": "phrase",
+          "ko": "적어도",
+          "example": "Drink at least two litres of water a day.",
+          "example_ko": "하루에 물을 적어도 2리터 마시세요.",
+          "note_ko": "반대는 at most(많아야). 'At least you tried.'(그래도 해 봤잖아)처럼 위로에도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "follow the same path",
+          "pos": "phrase",
+          "ko": "같은 길을 걷다",
+          "example": "He followed the same path as his father.",
+          "example_ko": "그는 아버지와 같은 길을 걸었어요.",
+          "note_ko": "같은 운명·결과를 맞는다는 비유. path = 길."
+        },
+        {
+          "lang": "en",
+          "word": "greenhouse gas",
+          "pos": "noun",
+          "ko": "온실가스",
+          "example": "Cars produce greenhouse gases.",
+          "example_ko": "자동차는 온실가스를 내뿜어요.",
+          "note_ko": "greenhouse = 온실. 이산화탄소(CO2), 메탄 등이 대표적이에요."
+        },
+        {
+          "lang": "en",
+          "word": "atmosphere",
+          "pos": "noun",
+          "ko": "대기, 분위기",
+          "example": "The restaurant has a nice atmosphere.",
+          "example_ko": "그 식당은 분위기가 좋아요.",
+          "note_ko": "과학에서는 '대기', 일상에서는 '분위기'."
+        },
+        {
+          "lang": "fr",
+          "word": "glacier",
+          "pos": "noun",
+          "ko": "빙하",
+          "example": "Le glacier recule chaque année.",
+          "example_ko": "빙하가 해마다 줄어들어요.",
+          "note_ko": "남성 명사. 아이스크림 가게 주인도 un glacier예요(la glace = 얼음, 아이스크림)."
+        },
+        {
+          "lang": "fr",
+          "word": "fondre",
+          "pos": "verb",
+          "ko": "녹다",
+          "example": "La neige fond au soleil.",
+          "example_ko": "눈이 햇볕에 녹아요.",
+          "note_ko": "과거분사 fondu. fondre en larmes = 울음을 터뜨리다."
+        },
+        {
+          "lang": "fr",
+          "word": "neige",
+          "pos": "noun",
+          "ko": "눈",
+          "example": "Il y a beaucoup de neige à la montagne.",
+          "example_ko": "산에 눈이 많아요.",
+          "note_ko": "동사는 neiger: Il neige. = 눈이 와요."
+        },
+        {
+          "lang": "fr",
+          "word": "disparaître",
+          "pos": "verb",
+          "ko": "사라지다",
+          "example": "Le soleil va disparaître derrière les nuages.",
+          "example_ko": "해가 구름 뒤로 사라질 거예요.",
+          "note_ko": "과거분사 disparu. faire disparaître = 사라지게 하다."
+        },
+        {
+          "lang": "fr",
+          "word": "sommet",
+          "pos": "noun",
+          "ko": "산꼭대기, 정상",
+          "example": "Nous avons atteint le sommet.",
+          "example_ko": "우리는 정상에 도착했어요.",
+          "note_ko": "'정상회의'도 un sommet(le sommet du G7)."
+        },
+        {
+          "lang": "fr",
+          "word": "caniculaire",
+          "pos": "adjective",
+          "ko": "폭염의, 찌는 듯한",
+          "example": "L'été a été caniculaire.",
+          "example_ko": "올여름은 폭염이었어요.",
+          "note_ko": "la canicule = 폭염. 프랑스 날씨 뉴스에서 여름마다 나오는 말이에요."
+        },
+        {
+          "lang": "fr",
+          "word": "mesure",
+          "pos": "noun",
+          "ko": "측정, 조치",
+          "example": "Le gouvernement prend des mesures.",
+          "example_ko": "정부가 조치를 취해요.",
+          "note_ko": "prendre des mesures = 조치를 취하다. 동사 mesurer = 재다."
+        },
+        {
+          "lang": "fr",
+          "word": "coup de grâce",
+          "pos": "phrase",
+          "ko": "결정타, 마지막 일격",
+          "example": "Cette défaite a été le coup de grâce.",
+          "example_ko": "이 패배가 결정타였어요.",
+          "note_ko": "영어에서도 그대로 써요(coup de grâce). 원래 고통을 끝내 주는 '자비의 일격'."
+        },
+        {
+          "lang": "fr",
+          "word": "suivi",
+          "pos": "adjective",
+          "ko": "뒤따른",
+          "example": "Le repas a été suivi d'un dessert.",
+          "example_ko": "식사 뒤에 디저트가 나왔어요.",
+          "note_ko": "suivre(따라가다)의 과거분사. suivi de ~ = ~이 뒤따른."
+        },
+        {
+          "lang": "fr",
+          "word": "identité",
+          "pos": "noun",
+          "ko": "정체성, 신원",
+          "example": "Montrez votre carte d'identité.",
+          "example_ko": "신분증을 보여 주세요.",
+          "note_ko": "la carte d'identité = 신분증. l'identité nationale = 국가 정체성."
+        },
+        {
+          "lang": "fr",
+          "word": "censé (être censé)",
+          "pos": "adjective",
+          "ko": "~하기로 되어 있는",
+          "example": "Tu es censé être à l'école !",
+          "example_ko": "너 학교에 있어야 하잖아!",
+          "note_ko": "être censé + 동사원형. 발음이 같은 sensé(분별 있는)와 헷갈리지 마세요."
+        },
+        {
+          "lang": "fr",
+          "word": "gravir",
+          "pos": "verb",
+          "ko": "오르다",
+          "example": "Ils ont gravi la montagne en six heures.",
+          "example_ko": "그들은 여섯 시간 만에 산을 올랐어요.",
+          "note_ko": "monter보다 힘들게 오르는 느낌. 계단·산·순위에 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "au moins",
+          "pos": "phrase",
+          "ko": "적어도",
+          "example": "Il faut dormir au moins sept heures.",
+          "example_ko": "적어도 일곱 시간은 자야 해요.",
+          "note_ko": "반대는 au plus(많아야). Au moins, tu as essayé. = 그래도 해 봤잖아."
+        },
+        {
+          "lang": "fr",
+          "word": "rétrécir",
+          "pos": "verb",
+          "ko": "줄어들다",
+          "example": "Mon pull a rétréci au lavage.",
+          "example_ko": "스웨터가 빨래하다가 줄었어요.",
+          "note_ko": "étroit(좁은)에서 온 말. 반대는 s'agrandir(커지다)."
+        },
+        {
+          "lang": "fr",
+          "word": "gaz à effet de serre",
+          "pos": "phrase",
+          "ko": "온실가스",
+          "example": "Les voitures émettent des gaz à effet de serre.",
+          "example_ko": "자동차는 온실가스를 내뿜어요.",
+          "note_ko": "la serre = 온실, l'effet de serre = 온실 효과. gaz는 단수·복수 형태가 같아요."
+        },
+        {
+          "lang": "fr",
+          "word": "atteindre",
+          "pos": "verb",
+          "ko": "이르다, 도달하다",
+          "example": "Les prix ont atteint un record.",
+          "example_ko": "가격이 사상 최고에 이르렀어요.",
+          "note_ko": "과거분사 atteint. atteindre un objectif = 목표를 달성하다."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "When ice \"melts\", it…",
+          "choices": [
+            "turns into water",
+            "gets bigger",
+            "turns into snow"
+          ],
+          "answer": 0,
+          "explain_ko": "melt = 녹다. melt away = 녹아서 다 사라지다."
+        },
+        {
+          "lang": "fr",
+          "q": "« La neige », c'est…",
+          "choices": [
+            "de l'eau gelée qui tombe du ciel",
+            "une haute montagne",
+            "un été très chaud"
+          ],
+          "answer": 0,
+          "explain_ko": "neige = 눈. Il neige. = 눈이 와요."
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/oct/27/slovenia-mourns-loss-glacier-highest-peak-scorching-summer",
+          "accessed": "2026-10-28"
+        },
+        {
+          "name": "AP (CTV News)",
+          "url": "https://www.ctvnews.ca/climate-and-environment/article/heat-scarce-snow-melting-away-slovenias-alpine-glaciers-one-is-still-standing/",
+          "accessed": "2026-10-28"
+        },
+        {
+          "name": "France 24 (AFP)",
+          "url": "https://www.france24.com/en/live-news/20261027-greenhouse-gas-levels-hit-new-record-highs-in-2025-un",
+          "accessed": "2026-10-28"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-28T00:33:07.471Z",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-10-27/36fb8940ed4d6abd.mp3",
+            "2026-10-27/8a94157bbe01355d.mp3",
+            "2026-10-27/678e546f3c25c37d.mp3"
+          ],
+          "normal": [
+            "2026-10-27/b62bce901c974d2a.mp3",
+            "2026-10-27/41fe326421ec8015.mp3",
+            "2026-10-27/e1b56d0b297f20d8.mp3",
+            "2026-10-27/0b38b321badb810d.mp3",
+            "2026-10-27/2bf6941d91ab62cf.mp3",
+            "2026-10-27/142780c73f4d04fb.mp3",
+            "2026-10-27/d5473f0b8e897002.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-10-27/0e720d17134c28ad.mp3",
+            "2026-10-27/152adbf0ce253e4c.mp3",
+            "2026-10-27/9b7ede27a2b98db2.mp3"
+          ],
+          "normal": [
+            "2026-10-27/85d24977119479d9.mp3",
+            "2026-10-27/ec4d56a19f3bc39b.mp3",
+            "2026-10-27/50a0a5eef110092b.mp3",
+            "2026-10-27/457ed25a637e3a89.mp3",
+            "2026-10-27/3a14110e86db9f04.mp3",
+            "2026-10-27/0b6402cb8bee232b.mp3",
+            "2026-10-27/f5cfa998cef29a40.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-10-27/87bc3634e9f49892.mp3",
+          "2026-10-27/0afa39d4f82f3ac6.mp3",
+          "2026-10-27/5dfa87777ca18a96.mp3",
+          "2026-10-27/b4f001d1677a2b60.mp3",
+          "2026-10-27/235f2aca9b3d1b19.mp3",
+          "2026-10-27/ffb1acb22914f43a.mp3",
+          "2026-10-27/4cd80b44cfcceb7f.mp3",
+          "2026-10-27/294668f5155ee0d1.mp3",
+          "2026-10-27/a11714c983e20c2d.mp3",
+          "2026-10-27/0fca8e93ab3b3294.mp3",
+          "2026-10-27/149303409e974718.mp3",
+          "2026-10-27/cb028b21803b713b.mp3",
+          "2026-10-27/8ef3fa681bfe3015.mp3",
+          "2026-10-27/9a7f276b6bfe1b8a.mp3",
+          "2026-10-27/c668cc226bf26917.mp3",
+          "2026-10-27/8a02ce42772395d9.mp3",
+          "2026-10-27/b6fa82b50727924d.mp3",
+          "2026-10-27/cf70130ce2319ced.mp3",
+          "2026-10-27/9237cfc8257ea201.mp3",
+          "2026-10-27/073b8df2a2e629c8.mp3",
+          "2026-10-27/2894928647cee93b.mp3",
+          "2026-10-27/e7a11d1a95415620.mp3",
+          "2026-10-27/9c64a4ac7230ba26.mp3",
+          "2026-10-27/acdbf5581489a0ae.mp3",
+          "2026-10-27/cbd945b420004617.mp3",
+          "2026-10-27/bcae5200a82ac67f.mp3",
+          "2026-10-27/d5021bd45e372bb0.mp3",
+          "2026-10-27/6d7499a66f23468c.mp3",
+          "2026-10-27/569d480f41e89542.mp3",
+          "2026-10-27/170c6256829073ab.mp3",
+          "2026-10-27/96934d4d7d37a0ab.mp3",
+          "2026-10-27/ce11c3211121eadd.mp3",
+          "2026-10-27/cb05a98357cfacd3.mp3"
+        ]
+      }
+    }
+  ],
+  "audio_base": "https://koreapapa-kim.github.io/worldnews-audio"
+}
