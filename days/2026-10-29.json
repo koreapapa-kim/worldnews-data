@@ -1,0 +1,2500 @@
+{
+  "schema": 1,
+  "date": "2026-10-29",
+  "stories": [
+    {
+      "id": "2026-10-29-01",
+      "category": "economy",
+      "region": {
+        "country": "DE",
+        "city": "Frankfurt",
+        "lat": 50.11,
+        "lng": 8.68
+      },
+      "headline": {
+        "en": "ECB Chief Christine Lagarde to Step Down Early",
+        "fr": "Christine Lagarde quittera la BCE avant la fin de son mandat",
+        "ko": "라가르드 유럽중앙은행 총재, 임기 9개월 앞두고 사임"
+      },
+      "hook": {
+        "en": "Why is Europe's top banker quitting?",
+        "fr": "Pourquoi Christine Lagarde quitte-t-elle la BCE ?",
+        "ko": "유럽 최고의 은행가는 왜 물러날까?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Christine Lagarde, the head of Europe's central bank, is leaving her job early.",
+            "She says she wants to speak freely about world events.",
+            "Europe will now choose a new person to lead the bank."
+          ],
+          "easy_ko": [
+            "유럽중앙은행 총재 크리스틴 라가르드가 임기보다 일찍 자리에서 물러납니다.",
+            "그녀는 세계에서 일어나는 일에 대해 자유롭게 말하고 싶다고 합니다.",
+            "이제 유럽은 이 은행을 이끌 새 사람을 뽑게 됩니다."
+          ],
+          "normal": [
+            "Christine Lagarde, the president of the European Central Bank (ECB), will step down on 7 February 2027, about nine months before her term ends.",
+            "The bank sets interest rates for the countries that use the euro.",
+            "Lagarde said the ECB's strict rules on neutrality kept her from speaking out on many issues, and that she wanted \"the freedom of speech\".",
+            "She made the announcement after the bank kept its main interest rate at 2.5%, even though inflation rose to 3.8% last month.",
+            "EU leaders will now choose her successor, and several European central bankers are seen as possible candidates.",
+            "Analysts say the early exit means the new chief can be chosen before France's presidential election in April, while President Emmanuel Macron is still in office.",
+            "Lagarde, a former French finance minister, has been mentioned as a possible head of the World Economic Forum, the group behind the yearly meeting in Davos."
+          ],
+          "normal_ko": [
+            "유럽중앙은행(ECB)의 크리스틴 라가르드 총재가 임기 종료를 약 9개월 앞둔 2027년 2월 7일에 물러납니다.",
+            "이 은행은 유로를 쓰는 나라들의 금리를 정합니다.",
+            "라가르드 총재는 ECB의 엄격한 중립 규정 때문에 많은 문제에 대해 목소리를 내지 못했다며, \"표현의 자유\"를 원한다고 말했습니다.",
+            "그녀는 지난달 물가 상승률이 3.8%로 올랐는데도 은행이 기준 금리를 2.5%로 유지한 뒤 이 발표를 했습니다.",
+            "이제 EU 정상들이 후임자를 뽑게 되며, 여러 유럽 중앙은행가들이 후보로 거론되고 있습니다.",
+            "분석가들은 그녀가 일찍 물러나면서 에마뉘엘 마크롱 대통령이 아직 재임 중인 4월 프랑스 대선 전에 새 총재를 뽑을 수 있게 됐다고 말합니다.",
+            "프랑스 재무장관을 지낸 라가르드 총재는 해마다 다보스 회의를 여는 세계경제포럼의 차기 대표로 거론되고 있습니다."
+          ],
+          "normal_paras": [
+            2,
+            3,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Christine Lagarde, la présidente de la Banque centrale européenne, quitte son poste plus tôt que prévu.",
+            "Elle dit vouloir parler librement de l'actualité mondiale.",
+            "L'Europe va maintenant choisir une nouvelle personne pour diriger la banque."
+          ],
+          "easy_ko": [
+            "유럽중앙은행 총재 크리스틴 라가르드가 예정보다 일찍 자리에서 물러납니다.",
+            "그녀는 세계 소식에 대해 자유롭게 말하고 싶다고 합니다.",
+            "이제 유럽은 이 은행을 이끌 새 사람을 뽑게 됩니다."
+          ],
+          "normal": [
+            "Christine Lagarde, présidente de la Banque centrale européenne (BCE), quittera ses fonctions le 7 février 2027, près de neuf mois avant la fin de son mandat.",
+            "La BCE fixe les taux d'intérêt des pays qui utilisent l'euro.",
+            "Christine Lagarde explique que les règles strictes de neutralité de la BCE l'empêchent de s'exprimer sur de nombreux sujets, et dit vouloir « la liberté de parole ».",
+            "Elle a fait cette annonce après que la banque a maintenu son principal taux à 2,5 %, alors que l'inflation a atteint 3,8 % le mois dernier.",
+            "Les dirigeants de l'UE vont désormais choisir son successeur, et plusieurs banquiers centraux européens sont cités parmi les candidats possibles.",
+            "Selon des analystes, ce départ anticipé permet de désigner le nouveau patron de la BCE avant l'élection présidentielle française d'avril, tant qu'Emmanuel Macron est encore à l'Élysée.",
+            "Ancienne ministre française de l'Économie, Christine Lagarde est citée comme possible future dirigeante du Forum économique mondial, qui organise chaque année la réunion de Davos."
+          ],
+          "normal_ko": [
+            "유럽중앙은행(ECB)의 크리스틴 라가르드 총재가 임기 종료를 9개월 가까이 앞둔 2027년 2월 7일에 자리에서 물러납니다.",
+            "ECB는 유로를 쓰는 나라들의 금리를 정합니다.",
+            "라가르드 총재는 ECB의 엄격한 중립 규정 때문에 많은 문제에 대해 의견을 말할 수 없다며, \"말할 자유\"를 원한다고 밝혔습니다.",
+            "그녀는 지난달 물가 상승률이 3.8%에 이르렀는데도 은행이 기준 금리를 2.5%로 유지한 뒤 이 발표를 했습니다.",
+            "이제 EU 정상들이 후임자를 뽑게 되며, 여러 유럽 중앙은행가들이 후보로 거론되고 있습니다.",
+            "분석가들에 따르면, 이번 조기 사임으로 에마뉘엘 마크롱 대통령이 아직 엘리제궁에 있는 4월 프랑스 대선 전에 새 ECB 총재를 정할 수 있게 됩니다.",
+            "프랑스 경제장관을 지낸 라가르드 총재는 해마다 다보스 회의를 여는 세계경제포럼의 차기 대표로 거론됩니다."
+          ],
+          "normal_paras": [
+            2,
+            3,
+            2
+          ]
+        }
+      },
+      "ko_note": "유럽중앙은행(ECB)은 독일 프랑크푸르트에 있으며, 유로를 쓰는 나라들(유로존)의 금리를 정하는 곳이에요. 한국은행처럼 정치적 중립을 지켜야 해서, 총재가 정치·사회 문제에 대해 마음대로 말하기 어렵습니다. 라가르드는 프랑스 재무장관과 국제통화기금(IMF) 총재를 지낸 뒤 2019년 ECB 총재가 됐어요. 프랑스 대선은 2027년 4월에 열리는데, 극우·극좌 후보가 여론조사에서 앞서 있어 후임자를 언제 뽑느냐가 관심을 끌고 있습니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "head",
+          "pos": "noun",
+          "ko": "우두머리, 책임자",
+          "example": "She is the head of the school.",
+          "example_ko": "그녀는 그 학교의 교장이에요.",
+          "note_ko": "the head of + 조직 = ~의 대표. 원래 뜻은 '머리'."
+        },
+        {
+          "lang": "en",
+          "word": "central bank",
+          "pos": "noun",
+          "ko": "중앙은행",
+          "example": "The central bank raised interest rates.",
+          "example_ko": "중앙은행이 금리를 올렸어요.",
+          "note_ko": "나라(또는 유로존)의 돈과 금리를 관리하는 은행. 한국은 한국은행(Bank of Korea)."
+        },
+        {
+          "lang": "en",
+          "word": "leave",
+          "pos": "verb",
+          "ko": "떠나다, 그만두다",
+          "example": "He left his job last year.",
+          "example_ko": "그는 작년에 직장을 그만뒀어요.",
+          "note_ko": "leave–left–left. leave a job = 일을 그만두다."
+        },
+        {
+          "lang": "en",
+          "word": "early",
+          "pos": "adverb",
+          "ko": "일찍, 예정보다 빨리",
+          "example": "We finished work early today.",
+          "example_ko": "우리는 오늘 일을 일찍 끝냈어요.",
+          "note_ko": "반대는 late. 형용사로도 써요: an early train."
+        },
+        {
+          "lang": "en",
+          "word": "speak freely",
+          "pos": "phrase",
+          "ko": "자유롭게 말하다",
+          "example": "You can speak freely here.",
+          "example_ko": "여기서는 편하게 말해도 돼요.",
+          "note_ko": "freely = 자유롭게(free + -ly). free speech = 표현의 자유."
+        },
+        {
+          "lang": "en",
+          "word": "choose",
+          "pos": "verb",
+          "ko": "고르다, 뽑다",
+          "example": "It's hard to choose a gift.",
+          "example_ko": "선물 고르기가 어려워요.",
+          "note_ko": "choose–chose–chosen. 명사 choice(선택)."
+        },
+        {
+          "lang": "en",
+          "word": "lead",
+          "pos": "verb",
+          "ko": "이끌다",
+          "example": "She will lead the team next year.",
+          "example_ko": "내년에는 그녀가 팀을 이끌 거예요.",
+          "note_ko": "lead–led–led. 명사 leader(지도자)."
+        },
+        {
+          "lang": "en",
+          "word": "step down",
+          "pos": "phrasal verb",
+          "ko": "(자리에서) 물러나다",
+          "example": "The boss stepped down after ten years.",
+          "example_ko": "사장은 10년 만에 물러났어요.",
+          "note_ko": "resign과 비슷해요. step down from + 자리."
+        },
+        {
+          "lang": "en",
+          "word": "term",
+          "pos": "noun",
+          "ko": "임기, 기간",
+          "example": "The president's term is five years.",
+          "example_ko": "대통령 임기는 5년이에요.",
+          "note_ko": "'용어'라는 뜻도 있어요. a school term = 학기."
+        },
+        {
+          "lang": "en",
+          "word": "interest rate",
+          "pos": "noun",
+          "ko": "금리, 이자율",
+          "example": "Interest rates are high this year.",
+          "example_ko": "올해는 금리가 높아요.",
+          "note_ko": "raise/cut interest rates = 금리를 올리다/내리다."
+        },
+        {
+          "lang": "en",
+          "word": "neutrality",
+          "pos": "noun",
+          "ko": "중립",
+          "example": "The country kept its neutrality during the war.",
+          "example_ko": "그 나라는 전쟁 중에 중립을 지켰어요.",
+          "note_ko": "형용사 neutral(중립의). 어느 편도 들지 않는 것."
+        },
+        {
+          "lang": "en",
+          "word": "announcement",
+          "pos": "noun",
+          "ko": "발표",
+          "example": "The company made an important announcement.",
+          "example_ko": "회사가 중요한 발표를 했어요.",
+          "note_ko": "동사 announce(발표하다). make an announcement = 발표하다."
+        },
+        {
+          "lang": "en",
+          "word": "inflation",
+          "pos": "noun",
+          "ko": "물가 상승, 인플레이션",
+          "example": "Inflation makes food more expensive.",
+          "example_ko": "물가가 오르면 음식이 더 비싸져요.",
+          "note_ko": "inflation rate = 물가 상승률. 반대는 deflation."
+        },
+        {
+          "lang": "en",
+          "word": "successor",
+          "pos": "noun",
+          "ko": "후임자, 후계자",
+          "example": "The king chose his son as his successor.",
+          "example_ko": "왕은 아들을 후계자로 정했어요.",
+          "note_ko": "동사 succeed(뒤를 잇다; 성공하다). 반대는 predecessor(전임자)."
+        },
+        {
+          "lang": "en",
+          "word": "candidate",
+          "pos": "noun",
+          "ko": "후보",
+          "example": "There are three candidates for the job.",
+          "example_ko": "그 자리에는 후보가 세 명 있어요.",
+          "note_ko": "선거 후보에도, 일자리 지원자에도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "former",
+          "pos": "adjective",
+          "ko": "전(前)의, 이전의",
+          "example": "He is a former teacher.",
+          "example_ko": "그는 전직 교사예요.",
+          "note_ko": "former president = 전 대통령. 반대는 current(현재의)."
+        },
+        {
+          "lang": "fr",
+          "word": "banque centrale",
+          "pos": "noun",
+          "ko": "중앙은행",
+          "example": "La banque centrale fixe les taux.",
+          "example_ko": "중앙은행이 금리를 정해요.",
+          "note_ko": "여성 명사. BCE = Banque centrale européenne(유럽중앙은행)."
+        },
+        {
+          "lang": "fr",
+          "word": "poste",
+          "pos": "noun",
+          "ko": "자리, 직위",
+          "example": "Elle a trouvé un nouveau poste.",
+          "example_ko": "그녀는 새 일자리를 구했어요.",
+          "note_ko": "남성 명사(le poste)는 '직위', 여성 명사(la poste)는 '우체국'."
+        },
+        {
+          "lang": "fr",
+          "word": "plus tôt que prévu",
+          "pos": "phrase",
+          "ko": "예정보다 일찍",
+          "example": "Le train est arrivé plus tôt que prévu.",
+          "example_ko": "기차가 예정보다 일찍 도착했어요.",
+          "note_ko": "prévu = 예정된. 반대는 plus tard que prévu(예정보다 늦게)."
+        },
+        {
+          "lang": "fr",
+          "word": "librement",
+          "pos": "adverb",
+          "ko": "자유롭게",
+          "example": "Ici, on peut parler librement.",
+          "example_ko": "여기서는 자유롭게 말할 수 있어요.",
+          "note_ko": "libre(자유로운) + -ment. la liberté = 자유."
+        },
+        {
+          "lang": "fr",
+          "word": "actualité",
+          "pos": "noun",
+          "ko": "시사, 뉴스",
+          "example": "Je regarde l'actualité tous les soirs.",
+          "example_ko": "저는 매일 저녁 뉴스를 봐요.",
+          "note_ko": "여성 명사. '현재'가 아니라 '최근 소식'이라는 뜻이에요."
+        },
+        {
+          "lang": "fr",
+          "word": "diriger",
+          "pos": "verb",
+          "ko": "이끌다, 운영하다",
+          "example": "Il dirige une grande entreprise.",
+          "example_ko": "그는 큰 회사를 이끌어요.",
+          "note_ko": "명사 le dirigeant(지도자, 경영자)."
+        },
+        {
+          "lang": "fr",
+          "word": "mandat",
+          "pos": "noun",
+          "ko": "임기",
+          "example": "Le mandat du président dure cinq ans.",
+          "example_ko": "대통령 임기는 5년이에요.",
+          "note_ko": "남성 명사. '위임, 권한'이라는 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "fixer",
+          "pos": "verb",
+          "ko": "정하다",
+          "example": "Nous avons fixé la date de la réunion.",
+          "example_ko": "우리는 회의 날짜를 정했어요.",
+          "note_ko": "'고정하다'가 원래 뜻. fixer un prix = 값을 정하다."
+        },
+        {
+          "lang": "fr",
+          "word": "taux d'intérêt",
+          "pos": "noun",
+          "ko": "금리, 이자율",
+          "example": "Les taux d'intérêt ont augmenté.",
+          "example_ko": "금리가 올랐어요.",
+          "note_ko": "남성 명사. le taux = 비율. le taux de chômage = 실업률."
+        },
+        {
+          "lang": "fr",
+          "word": "empêcher",
+          "pos": "verb",
+          "ko": "막다, ~하지 못하게 하다",
+          "example": "La pluie nous empêche de sortir.",
+          "example_ko": "비 때문에 우리는 나가지 못해요.",
+          "note_ko": "empêcher qqn de + 동사원형."
+        },
+        {
+          "lang": "fr",
+          "word": "s'exprimer",
+          "pos": "verb",
+          "ko": "의견을 말하다, 자기를 표현하다",
+          "example": "Chacun peut s'exprimer librement.",
+          "example_ko": "누구나 자유롭게 의견을 말할 수 있어요.",
+          "note_ko": "명사 l'expression. la liberté d'expression = 표현의 자유."
+        },
+        {
+          "lang": "fr",
+          "word": "maintenir",
+          "pos": "verb",
+          "ko": "유지하다",
+          "example": "La banque a maintenu ses taux.",
+          "example_ko": "은행이 금리를 유지했어요.",
+          "note_ko": "과거분사 maintenu. tenir처럼 변화해요."
+        },
+        {
+          "lang": "fr",
+          "word": "atteindre",
+          "pos": "verb",
+          "ko": "이르다, 도달하다",
+          "example": "Les prix ont atteint un record.",
+          "example_ko": "물가가 사상 최고치에 이르렀어요.",
+          "note_ko": "과거분사 atteint. atteindre un but = 목표를 이루다."
+        },
+        {
+          "lang": "fr",
+          "word": "successeur",
+          "pos": "noun",
+          "ko": "후임자",
+          "example": "Le roi a choisi son successeur.",
+          "example_ko": "왕이 후계자를 정했어요.",
+          "note_ko": "남성 명사지만 여성에게도 써요. 반대는 le prédécesseur(전임자)."
+        },
+        {
+          "lang": "fr",
+          "word": "anticipé",
+          "pos": "adjective",
+          "ko": "앞당긴, 조기의",
+          "example": "Il a pris une retraite anticipée.",
+          "example_ko": "그는 조기 퇴직을 했어요.",
+          "note_ko": "동사 anticiper(앞당기다; 예상하다). des élections anticipées = 조기 선거."
+        },
+        {
+          "lang": "fr",
+          "word": "ancien",
+          "pos": "adjective",
+          "ko": "전(前)의; 오래된",
+          "example": "C'est une ancienne ministre.",
+          "example_ko": "그녀는 전직 장관이에요.",
+          "note_ko": "명사 앞이면 '전(前)', 뒤면 '오래된'(une maison ancienne). 여성형 ancienne."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "If you \"step down\" from a job, you…",
+          "choices": [
+            "leave it",
+            "get it",
+            "start it"
+          ],
+          "answer": 0,
+          "explain_ko": "step down = 자리에서 물러나다. resign과 비슷해요."
+        },
+        {
+          "lang": "fr",
+          "q": "« Un successeur », c'est…",
+          "choices": [
+            "la personne qui prend la place de quelqu'un",
+            "un ancien ministre",
+            "une banque"
+          ],
+          "answer": 0,
+          "explain_ko": "successeur = 후임자. 반대는 prédécesseur(전임자)."
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early",
+          "accessed": "2026-10-30"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20261029-ecb-president-christine-lagarde-to-step-down-in-february-2027-nine-months-before-term-ends",
+          "accessed": "2026-10-30"
+        },
+        {
+          "name": "Wikipedia Current events (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_29",
+          "accessed": "2026-10-29"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-30T01:32:18.482Z",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-10-29/d867c7d17e5355c1.mp3",
+            "2026-10-29/840ddec8e9bca84d.mp3",
+            "2026-10-29/fcd725b0f203b91d.mp3"
+          ],
+          "normal": [
+            "2026-10-29/faffe72b907aecbe.mp3",
+            "2026-10-29/97979f82f2efa791.mp3",
+            "2026-10-29/032d81d322b60da3.mp3",
+            "2026-10-29/5dfd9fe8f759ed3c.mp3",
+            "2026-10-29/d88f2947cab8d7a0.mp3",
+            "2026-10-29/b4160c49a395e97c.mp3",
+            "2026-10-29/afa4e66d6039561b.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-10-29/5e19d4bff2428736.mp3",
+            "2026-10-29/e626ebcc597f20a9.mp3",
+            "2026-10-29/0d5d8e965fbef9bf.mp3"
+          ],
+          "normal": [
+            "2026-10-29/25b9a4c3fce4b7fb.mp3",
+            "2026-10-29/71307747b1f06038.mp3",
+            "2026-10-29/a77fe90537653c76.mp3",
+            "2026-10-29/43bf98db2bfcde40.mp3",
+            "2026-10-29/2037a3fdb33f6600.mp3",
+            "2026-10-29/3b6a6e80ff66218c.mp3",
+            "2026-10-29/125eefbda0c1d493.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-10-29/b840a258b9656aa7.mp3",
+          "2026-10-29/cd9e3688ee17f705.mp3",
+          "2026-10-29/adba50e8735e2666.mp3",
+          "2026-10-29/bc9bd4c33d656d7c.mp3",
+          "2026-10-29/7aa121cac8b55e91.mp3",
+          "2026-10-29/b4e7b544fd5a9906.mp3",
+          "2026-10-29/2f46920ec4d136ab.mp3",
+          "2026-10-29/566aa17be9e0190b.mp3",
+          "2026-10-29/86152791c9067afc.mp3",
+          "2026-10-29/8badd624314f45bd.mp3",
+          "2026-10-29/9c62db0d49fa8e5c.mp3",
+          "2026-10-29/079a889050214f80.mp3",
+          "2026-10-29/6cdcc28ad5925780.mp3",
+          "2026-10-29/1ca4bce9b49027ba.mp3",
+          "2026-10-29/2ff9823e3b843101.mp3",
+          "2026-10-29/313129288d90cc5e.mp3",
+          "2026-10-29/9ef1253da1170995.mp3",
+          "2026-10-29/6539bfb3e408119e.mp3",
+          "2026-10-29/6627f18a89d1f06d.mp3",
+          "2026-10-29/a0bd1efdcc9e9036.mp3",
+          "2026-10-29/1a9ab6b86ab5e9b4.mp3",
+          "2026-10-29/ae36ed08882e36e7.mp3",
+          "2026-10-29/813cc5f8a7646bb8.mp3",
+          "2026-10-29/761cc52b6af371a8.mp3",
+          "2026-10-29/3447973cb6e562d5.mp3",
+          "2026-10-29/36a2a88491d99345.mp3",
+          "2026-10-29/f6a2843f5f462297.mp3",
+          "2026-10-29/1695a00ec186d573.mp3",
+          "2026-10-29/cb05a98357cfacd3.mp3",
+          "2026-10-29/9f2398d80c52b3a0.mp3",
+          "2026-10-29/8af917faa3429875.mp3",
+          "2026-10-29/e19bdfeb7f2bb7b9.mp3"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-29-02",
+      "category": "culture",
+      "region": {
+        "country": "GB",
+        "city": "Mirfield",
+        "lat": 53.67,
+        "lng": -1.69
+      },
+      "headline": {
+        "en": "Star Trek Actor Patrick Stewart Dies at 86",
+        "fr": "Patrick Stewart, le capitaine de Star Trek, est mort à 86 ans",
+        "ko": "'스타트렉' 피카드 선장 패트릭 스튜어트, 86세로 별세"
+      },
+      "hook": {
+        "en": "Which famous captain did this actor play?",
+        "fr": "Quel célèbre capitaine cet acteur a-t-il joué ?",
+        "ko": "이 배우가 연기한 유명한 선장은?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "British actor Patrick Stewart has died at the age of 86.",
+            "He was famous as Captain Picard in Star Trek.",
+            "He also played Professor X in the X-Men films."
+          ],
+          "easy_ko": [
+            "영국 배우 패트릭 스튜어트가 86세의 나이로 세상을 떠났습니다.",
+            "그는 '스타트렉'의 피카드 선장으로 유명했습니다.",
+            "'엑스맨' 영화에서는 프로페서 X를 연기하기도 했습니다."
+          ],
+          "normal": [
+            "Patrick Stewart, the British actor known for both Shakespeare and science fiction, died on Wednesday at his home in Los Angeles at the age of 86.",
+            "A statement said he had died after a \"brief and poignant journey\" with Alzheimer's disease and Lewy body dementia.",
+            "Stewart grew up in a working-class family in Yorkshire, in northern England, and found an escape in acting at school.",
+            "He spent 16 years with the Royal Shakespeare Company before he was chosen, at 47, to play Captain Jean-Luc Picard in Star Trek: The Next Generation.",
+            "The role made him a global star, and Picard's order \"Make it so\" became famous.",
+            "From 2000, he also played Professor Charles Xavier in the X-Men films.",
+            "He won two Olivier awards for his work on stage and a Grammy for a recording for children.",
+            "His X-Men co-star Hugh Jackman called him \"one of the greats of stage and screen\"."
+          ],
+          "normal_ko": [
+            "셰익스피어 연극과 공상과학물로 모두 이름난 영국 배우 패트릭 스튜어트가 수요일 로스앤젤레스 자택에서 86세로 세상을 떠났습니다.",
+            "발표된 성명에 따르면 그는 알츠하이머병과 루이소체 치매로 \"짧지만 가슴 아픈 여정\"을 겪은 끝에 숨을 거뒀습니다.",
+            "스튜어트는 잉글랜드 북부 요크셔의 노동자 가정에서 자랐고, 학교에서 연기를 하며 힘든 현실에서 벗어날 곳을 찾았습니다.",
+            "그는 로열 셰익스피어 극단에서 16년을 보낸 뒤, 47세에 '스타트렉: 넥스트 제너레이션'의 장뤼크 피카드 선장 역에 뽑혔습니다.",
+            "이 역할로 그는 세계적인 스타가 됐고, 피카드의 명령 \"그렇게 하게(Make it so)\"는 유명한 말이 됐습니다.",
+            "2000년부터는 '엑스맨' 영화에서 찰스 자비에 교수 역도 맡았습니다.",
+            "그는 연극 무대에서의 활약으로 올리비에상을 두 번 받았고, 어린이를 위한 녹음으로 그래미상도 받았습니다.",
+            "'엑스맨'에서 함께 출연한 휴 잭맨은 그를 \"무대와 스크린의 거장 중 한 명\"이라고 불렀습니다."
+          ],
+          "normal_paras": [
+            2,
+            3,
+            3
+          ]
+        },
+        "fr": {
+          "easy": [
+            "L'acteur britannique Patrick Stewart est mort à l'âge de 86 ans.",
+            "Il était célèbre pour son rôle du capitaine Picard dans Star Trek.",
+            "Il a aussi joué le professeur X dans les films X-Men."
+          ],
+          "easy_ko": [
+            "영국 배우 패트릭 스튜어트가 86세의 나이로 세상을 떠났습니다.",
+            "그는 '스타트렉'의 피카드 선장 역으로 유명했습니다.",
+            "'엑스맨' 영화에서 프로페서 X를 연기하기도 했습니다."
+          ],
+          "normal": [
+            "Patrick Stewart, acteur britannique connu à la fois pour Shakespeare et pour la science-fiction, est mort mercredi chez lui, à Los Angeles, à l'âge de 86 ans.",
+            "Selon un communiqué, il souffrait de la maladie d'Alzheimer et d'une démence à corps de Lewy.",
+            "Issu d'une famille ouvrière du Yorkshire, dans le nord de l'Angleterre, il avait trouvé refuge dans le théâtre dès l'école.",
+            "Il a passé seize ans à la Royal Shakespeare Company avant d'être choisi, à 47 ans, pour incarner le capitaine Jean-Luc Picard dans Star Trek : La Nouvelle Génération.",
+            "Ce rôle a fait de lui une star mondiale, et l'ordre de Picard « Make it so » est devenu culte.",
+            "À partir de 2000, il a aussi incarné le professeur Charles Xavier dans les films X-Men.",
+            "Il a remporté deux prix Olivier pour son travail sur scène et un Grammy pour un enregistrement destiné aux enfants.",
+            "Son partenaire dans X-Men, Hugh Jackman, a salué en lui « l'un des plus grands de la scène et de l'écran »."
+          ],
+          "normal_ko": [
+            "셰익스피어 연극과 공상과학물로 모두 이름난 영국 배우 패트릭 스튜어트가 수요일 로스앤젤레스 자택에서 86세로 세상을 떠났습니다.",
+            "성명에 따르면 그는 알츠하이머병과 루이소체 치매를 앓고 있었습니다.",
+            "잉글랜드 북부 요크셔의 노동자 가정 출신인 그는 학교 시절부터 연극에서 피난처를 찾았습니다.",
+            "그는 로열 셰익스피어 극단에서 16년을 보낸 뒤, 47세에 '스타트렉: 넥스트 제너레이션'의 장뤼크 피카드 선장 역에 뽑혔습니다.",
+            "이 역할로 그는 세계적인 스타가 됐고, 피카드의 명령 \"Make it so(그렇게 하게)\"는 전설적인 대사가 됐습니다.",
+            "2000년부터는 '엑스맨' 영화에서 찰스 자비에 교수 역도 맡았습니다.",
+            "그는 연극 무대에서의 활약으로 올리비에상을 두 번 받았고, 어린이를 위한 녹음으로 그래미상도 받았습니다.",
+            "'엑스맨'에서 함께 연기한 휴 잭맨은 그를 \"무대와 스크린의 가장 위대한 배우 중 한 명\"이라고 기렸습니다."
+          ],
+          "normal_paras": [
+            2,
+            3,
+            3
+          ]
+        }
+      },
+      "ko_note": "패트릭 스튜어트는 셰익스피어 연극으로 이름난 영국 배우였다가, '스타트렉: 넥스트 제너레이션'(1987년 시작)의 피카드 선장 역으로 세계적인 스타가 됐어요. '엑스맨' 시리즈에서는 휠체어를 탄 돌연변이 학교 교장 찰스 자비에(프로페서 X)를 연기했습니다. 올리비에상은 영국 최고의 연극상이에요. 피카드 선장의 명령 \"Make it so(그렇게 하게)\"는 그의 2023년 회고록 제목 'Making It So'가 되기도 했습니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "actor",
+          "pos": "noun",
+          "ko": "배우",
+          "example": "My cousin wants to be an actor.",
+          "example_ko": "제 사촌은 배우가 되고 싶어 해요.",
+          "note_ko": "여성 배우는 actress라고도 하지만, 요즘은 남녀 모두 actor를 많이 써요."
+        },
+        {
+          "lang": "en",
+          "word": "at the age of",
+          "pos": "phrase",
+          "ko": "~살의 나이에",
+          "example": "She started school at the age of five.",
+          "example_ko": "그녀는 다섯 살에 학교에 들어갔어요.",
+          "note_ko": "at the age of 86 = 86세에. 짧게 at 86, aged 86이라고도 해요."
+        },
+        {
+          "lang": "en",
+          "word": "famous as",
+          "pos": "phrase",
+          "ko": "~로서 유명한",
+          "example": "He is famous as a singer.",
+          "example_ko": "그는 가수로 유명해요.",
+          "note_ko": "famous as + 신분·역할, famous for + 이유(famous for his voice)."
+        },
+        {
+          "lang": "en",
+          "word": "captain",
+          "pos": "noun",
+          "ko": "선장, 함장; 주장",
+          "example": "The captain spoke to the passengers.",
+          "example_ko": "선장이 승객들에게 말했어요.",
+          "note_ko": "배·비행기의 선장, 기장. 스포츠 팀의 주장도 captain."
+        },
+        {
+          "lang": "en",
+          "word": "play",
+          "pos": "verb",
+          "ko": "(역을) 연기하다",
+          "example": "Who played Harry Potter in the films?",
+          "example_ko": "영화에서 해리 포터를 누가 연기했어요?",
+          "note_ko": "play + 역할 = ~ 역을 맡다. '놀다, 경기하다'라는 뜻도 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "be known for",
+          "pos": "phrase",
+          "ko": "~로 알려져 있다",
+          "example": "This town is known for its cheese.",
+          "example_ko": "이 마을은 치즈로 알려져 있어요.",
+          "note_ko": "be famous for와 비슷해요. be known as + 이름·신분."
+        },
+        {
+          "lang": "en",
+          "word": "science fiction",
+          "pos": "noun",
+          "ko": "공상과학(SF)",
+          "example": "I love science fiction movies.",
+          "example_ko": "저는 SF 영화를 좋아해요.",
+          "note_ko": "줄여서 sci-fi(사이파이)라고도 해요."
+        },
+        {
+          "lang": "en",
+          "word": "statement",
+          "pos": "noun",
+          "ko": "성명, 진술",
+          "example": "The company released a statement.",
+          "example_ko": "회사가 성명을 냈어요.",
+          "note_ko": "동사 state(진술하다). make a statement = 성명을 내다."
+        },
+        {
+          "lang": "en",
+          "word": "grow up",
+          "pos": "phrasal verb",
+          "ko": "자라다, 성장하다",
+          "example": "I grew up in a small village.",
+          "example_ko": "저는 작은 마을에서 자랐어요.",
+          "note_ko": "grow–grew–grown. What do you want to be when you grow up? = 커서 뭐가 되고 싶니?"
+        },
+        {
+          "lang": "en",
+          "word": "escape",
+          "pos": "noun",
+          "ko": "탈출구, 벗어남",
+          "example": "Reading is my escape from stress.",
+          "example_ko": "독서는 제가 스트레스에서 벗어나는 방법이에요.",
+          "note_ko": "동사도 escape(탈출하다). 힘든 현실을 잊게 해 주는 것도 escape."
+        },
+        {
+          "lang": "en",
+          "word": "spend",
+          "pos": "verb",
+          "ko": "(시간을) 보내다; (돈을) 쓰다",
+          "example": "She spent ten years in Paris.",
+          "example_ko": "그녀는 파리에서 10년을 보냈어요.",
+          "note_ko": "spend–spent–spent. spend time/money."
+        },
+        {
+          "lang": "en",
+          "word": "role",
+          "pos": "noun",
+          "ko": "역할, 배역",
+          "example": "She got the main role in the play.",
+          "example_ko": "그녀는 그 연극의 주인공 역을 맡았어요.",
+          "note_ko": "play a role = 역할을 하다. 영화 배역에도, 일상의 역할에도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "global",
+          "pos": "adjective",
+          "ko": "세계적인",
+          "example": "The internet is a global network.",
+          "example_ko": "인터넷은 세계적인 네트워크예요.",
+          "note_ko": "globe(지구) + -al. a global star = 세계적인 스타."
+        },
+        {
+          "lang": "en",
+          "word": "award",
+          "pos": "noun",
+          "ko": "상",
+          "example": "He won an award for his song.",
+          "example_ko": "그는 자기 노래로 상을 받았어요.",
+          "note_ko": "win an award = 상을 받다. 동사 award는 '(상을) 주다'."
+        },
+        {
+          "lang": "en",
+          "word": "stage",
+          "pos": "noun",
+          "ko": "무대; 연극계",
+          "example": "The singer walked onto the stage.",
+          "example_ko": "가수가 무대 위로 걸어 나왔어요.",
+          "note_ko": "on stage = 무대에서. '단계'라는 뜻도 있어요(the first stage)."
+        },
+        {
+          "lang": "en",
+          "word": "co-star",
+          "pos": "noun",
+          "ko": "함께 주연한 배우",
+          "example": "She became friends with her co-star.",
+          "example_ko": "그녀는 함께 출연한 배우와 친구가 됐어요.",
+          "note_ko": "co-(함께) + star. coworker = 동료."
+        },
+        {
+          "lang": "fr",
+          "word": "acteur",
+          "pos": "noun",
+          "ko": "배우",
+          "example": "Mon frère veut devenir acteur.",
+          "example_ko": "제 형은 배우가 되고 싶어 해요.",
+          "note_ko": "여성형 actrice. 직업 앞에는 관사를 쓰지 않아요(il est acteur)."
+        },
+        {
+          "lang": "fr",
+          "word": "à l'âge de",
+          "pos": "phrase",
+          "ko": "~살의 나이에",
+          "example": "Il a appris à nager à l'âge de six ans.",
+          "example_ko": "그는 여섯 살에 수영을 배웠어요.",
+          "note_ko": "ans를 꼭 붙여요: à l'âge de 86 ans."
+        },
+        {
+          "lang": "fr",
+          "word": "célèbre",
+          "pos": "adjective",
+          "ko": "유명한",
+          "example": "Ce restaurant est célèbre pour ses crêpes.",
+          "example_ko": "이 식당은 크레프로 유명해요.",
+          "note_ko": "célèbre pour + 이유. 비슷한 말 connu, fameux."
+        },
+        {
+          "lang": "fr",
+          "word": "rôle",
+          "pos": "noun",
+          "ko": "역할, 배역",
+          "example": "Elle a obtenu le rôle principal.",
+          "example_ko": "그녀가 주인공 역을 따냈어요.",
+          "note_ko": "남성 명사. jouer un rôle = 역할을 하다."
+        },
+        {
+          "lang": "fr",
+          "word": "jouer",
+          "pos": "verb",
+          "ko": "연기하다; 놀다",
+          "example": "Il joue un médecin dans ce film.",
+          "example_ko": "그는 이 영화에서 의사 역을 맡아요.",
+          "note_ko": "jouer à + 운동, jouer de + 악기. 역할은 전치사 없이 jouer + 역."
+        },
+        {
+          "lang": "fr",
+          "word": "connu pour",
+          "pos": "phrase",
+          "ko": "~로 알려진",
+          "example": "Cette ville est connue pour son vin.",
+          "example_ko": "이 도시는 와인으로 알려져 있어요.",
+          "note_ko": "동사 connaître의 과거분사. 여성형 connue."
+        },
+        {
+          "lang": "fr",
+          "word": "communiqué",
+          "pos": "noun",
+          "ko": "성명, 발표문",
+          "example": "Le gouvernement a publié un communiqué.",
+          "example_ko": "정부가 성명을 발표했어요.",
+          "note_ko": "남성 명사. un communiqué de presse = 보도 자료."
+        },
+        {
+          "lang": "fr",
+          "word": "souffrir de",
+          "pos": "verb",
+          "ko": "(병을) 앓다",
+          "example": "Elle souffre de maux de tête.",
+          "example_ko": "그녀는 두통을 앓고 있어요.",
+          "note_ko": "과거분사 souffert. la souffrance = 고통."
+        },
+        {
+          "lang": "fr",
+          "word": "ouvrier",
+          "pos": "adjective",
+          "ko": "노동자의",
+          "example": "Il vient d'une famille ouvrière.",
+          "example_ko": "그는 노동자 가정 출신이에요.",
+          "note_ko": "여성형 ouvrière. 명사로 un ouvrier = 공장 노동자."
+        },
+        {
+          "lang": "fr",
+          "word": "trouver refuge",
+          "pos": "phrase",
+          "ko": "피난처를 찾다",
+          "example": "Il a trouvé refuge chez un ami.",
+          "example_ko": "그는 친구 집에 몸을 피했어요.",
+          "note_ko": "le refuge = 피난처, 산장. 마음의 안식처를 찾을 때도 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "incarner",
+          "pos": "verb",
+          "ko": "(역을) 연기하다, 구현하다",
+          "example": "Elle incarne une reine dans ce film.",
+          "example_ko": "그녀는 이 영화에서 여왕을 연기해요.",
+          "note_ko": "jouer보다 격식 있는 말. '상징하다'라는 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "culte",
+          "pos": "adjective",
+          "ko": "전설적인, 열광적인 팬이 있는",
+          "example": "C'est un film culte des années 80.",
+          "example_ko": "80년대의 전설적인 영화예요.",
+          "note_ko": "명사 le culte는 '숭배, 예배'. 형용사로는 형태가 변하지 않아요."
+        },
+        {
+          "lang": "fr",
+          "word": "remporter",
+          "pos": "verb",
+          "ko": "(상·승리를) 차지하다",
+          "example": "Elle a remporté le premier prix.",
+          "example_ko": "그녀가 1등 상을 받았어요.",
+          "note_ko": "gagner와 비슷해요. remporter une victoire = 승리를 거두다."
+        },
+        {
+          "lang": "fr",
+          "word": "scène",
+          "pos": "noun",
+          "ko": "무대; 장면",
+          "example": "Les acteurs montent sur scène.",
+          "example_ko": "배우들이 무대에 올라요.",
+          "note_ko": "여성 명사. sur scène = 무대에서. 영화의 '장면'도 scène."
+        },
+        {
+          "lang": "fr",
+          "word": "partenaire",
+          "pos": "noun",
+          "ko": "상대 배우, 동반자",
+          "example": "Il s'entend bien avec sa partenaire.",
+          "example_ko": "그는 상대 배우와 사이가 좋아요.",
+          "note_ko": "남녀 같은 형태. 운동·사업 파트너, 연인에게도 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "saluer",
+          "pos": "verb",
+          "ko": "기리다; 인사하다",
+          "example": "Tout le monde a salué son courage.",
+          "example_ko": "모두가 그의 용기를 칭송했어요.",
+          "note_ko": "'인사하다'가 원래 뜻. saluer la mémoire de qqn = ~를 추모하다."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "An \"award\" is…",
+          "choices": [
+            "a prize for doing something well",
+            "a kind of film",
+            "a theatre ticket"
+          ],
+          "answer": 0,
+          "explain_ko": "award = 상. win an award = 상을 받다."
+        },
+        {
+          "lang": "fr",
+          "q": "« Incarner » un personnage, c'est…",
+          "choices": [
+            "le jouer comme acteur",
+            "l'écrire",
+            "le dessiner"
+          ],
+          "answer": 0,
+          "explain_ko": "incarner = (배역을) 연기하다. jouer와 비슷한 말이에요."
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead",
+          "accessed": "2026-10-30"
+        },
+        {
+          "name": "France 24 (AFP)",
+          "url": "https://www.france24.com/en/culture/20261029-patrick-stewart-star-of-star-trek-and-x-men-dies-age-86",
+          "accessed": "2026-10-30"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-30T01:32:18.482Z",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-10-29/6013504f20299484.mp3",
+            "2026-10-29/3b28d778a4b8b135.mp3",
+            "2026-10-29/068ecb3992746b32.mp3"
+          ],
+          "normal": [
+            "2026-10-29/d5a4cb64bef544af.mp3",
+            "2026-10-29/5bc4e0b556bbd586.mp3",
+            "2026-10-29/6d79fcde1953e669.mp3",
+            "2026-10-29/27057aeef5c4be04.mp3",
+            "2026-10-29/ab9c9bbe3c26862a.mp3",
+            "2026-10-29/f7a4016de49c620c.mp3",
+            "2026-10-29/256655e38bcfddb1.mp3",
+            "2026-10-29/9bea1f8fbd69fd90.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-10-29/f99e0e702abfb78e.mp3",
+            "2026-10-29/7b609049be169463.mp3",
+            "2026-10-29/d7744084a0ea3635.mp3"
+          ],
+          "normal": [
+            "2026-10-29/8e51361235eb0586.mp3",
+            "2026-10-29/a282cddd564ad658.mp3",
+            "2026-10-29/c0927f704ae281ef.mp3",
+            "2026-10-29/d3c0783fc82223f6.mp3",
+            "2026-10-29/f72259f98e637f33.mp3",
+            "2026-10-29/3ea7b36583f97a77.mp3",
+            "2026-10-29/fc6054f122d18c3c.mp3",
+            "2026-10-29/67c547c90f257bff.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-10-29/80af42b3fe8c59ca.mp3",
+          "2026-10-29/d0d0cf38121bff98.mp3",
+          "2026-10-29/2fa59c02b1eb40e0.mp3",
+          "2026-10-29/7580ede618a29eb6.mp3",
+          "2026-10-29/fb88adc27c4a386c.mp3",
+          "2026-10-29/1c28966fb0760c1e.mp3",
+          "2026-10-29/9b99b89929f09904.mp3",
+          "2026-10-29/7edb26a74274767b.mp3",
+          "2026-10-29/4c510e78f66fa718.mp3",
+          "2026-10-29/03a381cc85548ec6.mp3",
+          "2026-10-29/6f6b7323be538913.mp3",
+          "2026-10-29/ca3c55e4e43ce715.mp3",
+          "2026-10-29/909a3fcc4e709d84.mp3",
+          "2026-10-29/70e769073ef0c77c.mp3",
+          "2026-10-29/044017caf9286337.mp3",
+          "2026-10-29/4af38b90366da1b3.mp3",
+          "2026-10-29/6064dc7965998c39.mp3",
+          "2026-10-29/b92e714a8074624d.mp3",
+          "2026-10-29/cbf2bb01f8dcdf44.mp3",
+          "2026-10-29/1736b05778607e0a.mp3",
+          "2026-10-29/9ad67af800f804ee.mp3",
+          "2026-10-29/4a85ba800f12f50e.mp3",
+          "2026-10-29/193c1874e37ebf5c.mp3",
+          "2026-10-29/06195a0bbc69f0f7.mp3",
+          "2026-10-29/5e88e0470eb7e430.mp3",
+          "2026-10-29/5fdeb24c7786957c.mp3",
+          "2026-10-29/e381d44ac97b73d2.mp3",
+          "2026-10-29/30024606909bbd0e.mp3",
+          "2026-10-29/44433eaa06c6b151.mp3",
+          "2026-10-29/757760a758e889e4.mp3",
+          "2026-10-29/946b3e3d45abff11.mp3",
+          "2026-10-29/c113f18d1a58d22d.mp3"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-29-03",
+      "category": "sports",
+      "region": {
+        "country": "US",
+        "city": "Milwaukee",
+        "lat": 43.04,
+        "lng": -87.91
+      },
+      "headline": {
+        "en": "Milwaukee Brewers Win Their First World Series",
+        "fr": "Baseball : les Brewers de Milwaukee remportent leurs premières World Series",
+        "ko": "밀워키 브루어스, 창단 첫 월드시리즈 우승"
+      },
+      "hook": {
+        "en": "Which team just won its first World Series?",
+        "fr": "Quelle équipe a gagné son premier titre ?",
+        "ko": "처음으로 월드시리즈에서 우승한 팀은?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "The Milwaukee Brewers have won baseball's World Series for the first time.",
+            "They beat the Tampa Bay Rays four games to one.",
+            "The Brewers come from the smallest market in Major League Baseball."
+          ],
+          "easy_ko": [
+            "밀워키 브루어스가 처음으로 야구 월드시리즈에서 우승했습니다.",
+            "그들은 탬파베이 레이스를 4승 1패로 이겼습니다.",
+            "브루어스는 메이저리그에서 가장 작은 시장의 팀입니다."
+          ],
+          "normal": [
+            "The Milwaukee Brewers won the World Series for the first time in their history on Wednesday, beating the Tampa Bay Rays 4-1 in Florida.",
+            "They took the best-of-seven series four games to one.",
+            "The team began in 1969 as the Seattle Pilots and moved to Milwaukee after just one season.",
+            "Before this year, the Brewers had reached the World Series only once, in 1982.",
+            "Milwaukee is the smallest market in Major League Baseball, and the team's payroll was only the 19th highest of the 30 teams.",
+            "Even so, the Brewers had the league's best record in the regular season, and in the play-offs they swept the two-time champions, the Los Angeles Dodgers.",
+            "Catcher William Contreras, 28, from Venezuela, was named the most valuable player of the series."
+          ],
+          "normal_ko": [
+            "밀워키 브루어스가 수요일 플로리다에서 탬파베이 레이스를 4대 1로 꺾고 팀 역사상 처음으로 월드시리즈에서 우승했습니다.",
+            "그들은 7전 4선승제 시리즈를 4승 1패로 가져갔습니다.",
+            "이 팀은 1969년 시애틀 파일러츠로 출발해 단 한 시즌 만에 밀워키로 옮겼습니다.",
+            "올해 전까지 브루어스가 월드시리즈에 오른 것은 1982년 단 한 번뿐이었습니다.",
+            "밀워키는 메이저리그에서 가장 작은 시장이고, 팀 연봉 총액은 30개 팀 가운데 19위에 그쳤습니다.",
+            "그런데도 브루어스는 정규 시즌 리그 최고 성적을 냈고, 플레이오프에서는 2년 연속 챔피언인 LA 다저스를 한 경기도 내주지 않고 꺾었습니다.",
+            "베네수엘라 출신의 28세 포수 윌리엄 콘트레라스가 시리즈 최우수 선수(MVP)로 뽑혔습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            3
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Les Brewers de Milwaukee ont remporté les World Series de baseball pour la première fois.",
+            "Ils ont battu les Rays de Tampa Bay quatre victoires à une.",
+            "L'équipe vient du plus petit marché de la ligue."
+          ],
+          "easy_ko": [
+            "밀워키 브루어스가 처음으로 야구 월드시리즈에서 우승했습니다.",
+            "그들은 탬파베이 레이스를 4승 1패로 이겼습니다.",
+            "이 팀은 리그에서 가장 작은 시장의 팀입니다."
+          ],
+          "normal": [
+            "Les Brewers de Milwaukee ont remporté mercredi les World Series, la finale du championnat nord-américain de baseball, pour la première fois de leur histoire, en battant les Rays de Tampa Bay 4-1 en Floride.",
+            "Ils s'imposent quatre victoires à une dans cette série au meilleur des sept matchs.",
+            "L'équipe est née en 1969 sous le nom des Seattle Pilots, avant de déménager à Milwaukee au bout d'une seule saison.",
+            "Avant cette année, les Brewers n'avaient atteint les World Series qu'une seule fois, en 1982.",
+            "Milwaukee est le plus petit marché de la Major League Baseball, et la masse salariale de l'équipe n'était que la 19e sur 30.",
+            "Pourtant, les Brewers ont signé le meilleur bilan de la saison régulière, puis ont balayé en séries éliminatoires les Dodgers de Los Angeles, doubles champions en titre.",
+            "Le receveur vénézuélien William Contreras, 28 ans, a été élu meilleur joueur de la série."
+          ],
+          "normal_ko": [
+            "밀워키 브루어스가 수요일 플로리다에서 탬파베이 레이스를 4대 1로 꺾고, 북미 프로야구 결승전인 월드시리즈에서 팀 역사상 처음으로 우승했습니다.",
+            "그들은 7전 4선승제인 이 시리즈를 4승 1패로 이겼습니다.",
+            "이 팀은 1969년 시애틀 파일러츠라는 이름으로 태어나, 단 한 시즌 만에 밀워키로 연고지를 옮겼습니다.",
+            "올해 전까지 브루어스가 월드시리즈에 오른 것은 1982년 단 한 번뿐이었습니다.",
+            "밀워키는 메이저리그에서 가장 작은 시장이고, 팀 연봉 총액은 30개 팀 가운데 19위에 불과했습니다.",
+            "그런데도 브루어스는 정규 시즌 최고 성적을 냈고, 플레이오프에서는 2년 연속 우승팀인 LA 다저스를 전승으로 꺾었습니다.",
+            "베네수엘라 출신의 28세 포수 윌리엄 콘트레라스가 시리즈 최우수 선수로 뽑혔습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            3
+          ]
+        }
+      },
+      "ko_note": "월드시리즈는 미국 메이저리그(MLB)의 챔피언 결정전으로, 먼저 4번 이기는 팀이 우승하는 7전 4선승제예요. '스몰 마켓'은 인구와 방송 시장이 작아 수입이 적은 연고지를 말하는데, 이런 팀은 몸값 비싼 선수를 데려오기 어렵습니다. 밀워키는 위스콘신주의 도시로, 맥주 공장이 많아 팀 이름이 '브루어스(맥주 양조업자들)'가 됐어요. 구단주들이 '작은 팀은 부자 팀을 이기기 어렵다'며 연봉 상한제를 요구하는 가운데 나온 우승이라 더 화제가 됐습니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "win",
+          "pos": "verb",
+          "ko": "이기다, 우승하다",
+          "example": "Our team won the cup.",
+          "example_ko": "우리 팀이 우승컵을 차지했어요.",
+          "note_ko": "win–won–won. win + 대회·상, beat + 상대 팀."
+        },
+        {
+          "lang": "en",
+          "word": "for the first time",
+          "pos": "phrase",
+          "ko": "처음으로",
+          "example": "I went to Paris for the first time last year.",
+          "example_ko": "저는 작년에 처음으로 파리에 갔어요.",
+          "note_ko": "the first time I met you = 너를 처음 만났을 때."
+        },
+        {
+          "lang": "en",
+          "word": "beat",
+          "pos": "verb",
+          "ko": "이기다, 꺾다",
+          "example": "Brazil beat Germany 2-1.",
+          "example_ko": "브라질이 독일을 2대 1로 이겼어요.",
+          "note_ko": "beat–beat–beaten. beat + 상대(사람·팀). '두드리다'라는 뜻도 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "market",
+          "pos": "noun",
+          "ko": "시장",
+          "example": "China is a big market for cars.",
+          "example_ko": "중국은 큰 자동차 시장이에요.",
+          "note_ko": "스포츠에서 small market = 인구가 적어 수입이 적은 연고지."
+        },
+        {
+          "lang": "en",
+          "word": "league",
+          "pos": "noun",
+          "ko": "리그, 연맹",
+          "example": "He plays in the Premier League.",
+          "example_ko": "그는 프리미어리그에서 뛰어요.",
+          "note_ko": "Major League Baseball(MLB) = 미국 프로야구."
+        },
+        {
+          "lang": "en",
+          "word": "history",
+          "pos": "noun",
+          "ko": "역사",
+          "example": "It was the best day in the club's history.",
+          "example_ko": "구단 역사상 최고의 날이었어요.",
+          "note_ko": "in history = 역사상. 형용사 historic(역사적인)."
+        },
+        {
+          "lang": "en",
+          "word": "best-of-seven",
+          "pos": "adjective",
+          "ko": "7전 4선승제의",
+          "example": "The final is a best-of-seven series.",
+          "example_ko": "결승은 7전 4선승제예요.",
+          "note_ko": "best-of-five = 5전 3선승제. 일곱 경기 중 먼저 네 번 이기면 우승."
+        },
+        {
+          "lang": "en",
+          "word": "move",
+          "pos": "verb",
+          "ko": "옮기다, 이사하다",
+          "example": "We moved to Busan last year.",
+          "example_ko": "우리는 작년에 부산으로 이사했어요.",
+          "note_ko": "move to + 장소. 명사 a move(이사; 움직임)."
+        },
+        {
+          "lang": "en",
+          "word": "season",
+          "pos": "noun",
+          "ko": "시즌; 계절",
+          "example": "The football season starts in August.",
+          "example_ko": "축구 시즌은 8월에 시작해요.",
+          "note_ko": "regular season = 정규 시즌. 사계절은 four seasons."
+        },
+        {
+          "lang": "en",
+          "word": "reach",
+          "pos": "verb",
+          "ko": "~에 이르다, 진출하다",
+          "example": "They reached the final.",
+          "example_ko": "그들은 결승에 진출했어요.",
+          "note_ko": "reach + 장소(전치사 없이). reach a decision = 결정에 이르다."
+        },
+        {
+          "lang": "en",
+          "word": "payroll",
+          "pos": "noun",
+          "ko": "(팀·회사의) 급여 총액",
+          "example": "The team has a small payroll.",
+          "example_ko": "그 팀은 연봉 총액이 적어요.",
+          "note_ko": "pay(급여) + roll(명단). 원래는 '급여 대장'."
+        },
+        {
+          "lang": "en",
+          "word": "even so",
+          "pos": "phrase",
+          "ko": "그렇다 해도, 그런데도",
+          "example": "It was raining. Even so, we went out.",
+          "example_ko": "비가 왔어요. 그런데도 우리는 나갔어요.",
+          "note_ko": "however, still과 비슷해요. 문장 앞에 쓰고 쉼표를 찍어요."
+        },
+        {
+          "lang": "en",
+          "word": "record",
+          "pos": "noun",
+          "ko": "성적, 기록",
+          "example": "They have the best record in the league.",
+          "example_ko": "그들이 리그 최고 성적을 갖고 있어요.",
+          "note_ko": "스포츠에서 record = 승패 기록. break a record = 기록을 깨다."
+        },
+        {
+          "lang": "en",
+          "word": "sweep",
+          "pos": "verb",
+          "ko": "(시리즈를) 전승으로 이기다; 쓸다",
+          "example": "They swept the series 4-0.",
+          "example_ko": "그들은 시리즈를 4대 0 전승으로 이겼어요.",
+          "note_ko": "sweep–swept–swept. 원래 뜻은 '빗자루로 쓸다'."
+        },
+        {
+          "lang": "en",
+          "word": "champion",
+          "pos": "noun",
+          "ko": "챔피언, 우승자",
+          "example": "She is the world tennis champion.",
+          "example_ko": "그녀는 세계 테니스 챔피언이에요.",
+          "note_ko": "명사 championship(선수권 대회). defending champion = 지난 대회 우승자."
+        },
+        {
+          "lang": "en",
+          "word": "most valuable player",
+          "pos": "noun",
+          "ko": "최우수 선수(MVP)",
+          "example": "He was the most valuable player of the game.",
+          "example_ko": "그가 그 경기의 최우수 선수였어요.",
+          "note_ko": "줄여서 MVP. valuable = 귀중한, 가치 있는."
+        },
+        {
+          "lang": "fr",
+          "word": "remporter",
+          "pos": "verb",
+          "ko": "(우승·상을) 차지하다",
+          "example": "Ils ont remporté la coupe.",
+          "example_ko": "그들이 우승컵을 차지했어요.",
+          "note_ko": "gagner와 비슷해요. remporter le titre = 우승하다."
+        },
+        {
+          "lang": "fr",
+          "word": "pour la première fois",
+          "pos": "phrase",
+          "ko": "처음으로",
+          "example": "J'ai pris l'avion pour la première fois.",
+          "example_ko": "처음으로 비행기를 탔어요.",
+          "note_ko": "la première fois que… = ~한 첫 번째 때."
+        },
+        {
+          "lang": "fr",
+          "word": "battre",
+          "pos": "verb",
+          "ko": "이기다, 꺾다",
+          "example": "La France a battu l'Espagne.",
+          "example_ko": "프랑스가 스페인을 이겼어요.",
+          "note_ko": "과거분사 battu. battre un record = 기록을 깨다."
+        },
+        {
+          "lang": "fr",
+          "word": "victoire",
+          "pos": "noun",
+          "ko": "승리",
+          "example": "C'est leur cinquième victoire.",
+          "example_ko": "그들의 다섯 번째 승리예요.",
+          "note_ko": "여성 명사. 반대말 la défaite(패배). quatre victoires à une = 4승 1패."
+        },
+        {
+          "lang": "fr",
+          "word": "marché",
+          "pos": "noun",
+          "ko": "시장",
+          "example": "Je vais au marché le samedi.",
+          "example_ko": "저는 토요일마다 시장에 가요.",
+          "note_ko": "남성 명사. 장 보는 시장도, 경제의 시장도 marché."
+        },
+        {
+          "lang": "fr",
+          "word": "ligue",
+          "pos": "noun",
+          "ko": "리그",
+          "example": "Il joue dans la meilleure ligue du monde.",
+          "example_ko": "그는 세계 최고의 리그에서 뛰어요.",
+          "note_ko": "여성 명사. 프랑스 축구 1부 리그는 la Ligue 1."
+        },
+        {
+          "lang": "fr",
+          "word": "histoire",
+          "pos": "noun",
+          "ko": "역사; 이야기",
+          "example": "C'est un jour historique dans l'histoire du club.",
+          "example_ko": "구단 역사에서 기념비적인 날이에요.",
+          "note_ko": "여성 명사. raconter une histoire = 이야기를 들려주다."
+        },
+        {
+          "lang": "fr",
+          "word": "s'imposer",
+          "pos": "verb",
+          "ko": "이기다; 두각을 나타내다",
+          "example": "L'équipe s'est imposée 3-0.",
+          "example_ko": "그 팀이 3대 0으로 이겼어요.",
+          "note_ko": "스포츠 기사에서 gagner 대신 자주 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "naître",
+          "pos": "verb",
+          "ko": "태어나다",
+          "example": "Je suis né à Séoul.",
+          "example_ko": "저는 서울에서 태어났어요.",
+          "note_ko": "과거분사 né, 과거는 être와 함께. 팀·회사가 '생기다'에도 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "déménager",
+          "pos": "verb",
+          "ko": "이사하다, 옮기다",
+          "example": "Nous déménageons à Lyon.",
+          "example_ko": "우리는 리옹으로 이사해요.",
+          "note_ko": "명사 le déménagement(이사)."
+        },
+        {
+          "lang": "fr",
+          "word": "saison",
+          "pos": "noun",
+          "ko": "시즌; 계절",
+          "example": "La saison de football commence en août.",
+          "example_ko": "축구 시즌은 8월에 시작해요.",
+          "note_ko": "여성 명사. la saison régulière = 정규 시즌."
+        },
+        {
+          "lang": "fr",
+          "word": "atteindre",
+          "pos": "verb",
+          "ko": "(목표·결승에) 이르다",
+          "example": "Ils ont atteint la finale.",
+          "example_ko": "그들은 결승에 올랐어요.",
+          "note_ko": "과거분사 atteint. atteindre un objectif = 목표를 이루다."
+        },
+        {
+          "lang": "fr",
+          "word": "masse salariale",
+          "pos": "noun",
+          "ko": "급여 총액",
+          "example": "Le club veut réduire sa masse salariale.",
+          "example_ko": "구단은 연봉 총액을 줄이려 해요.",
+          "note_ko": "la masse = 덩어리, 총량. salarial = 임금의."
+        },
+        {
+          "lang": "fr",
+          "word": "pourtant",
+          "pos": "adverb",
+          "ko": "그런데도, 하지만",
+          "example": "Il est riche, et pourtant il n'est pas heureux.",
+          "example_ko": "그는 부자인데도 행복하지 않아요.",
+          "note_ko": "앞 내용과 반대되는 결과를 말할 때. 비슷한 말 cependant."
+        },
+        {
+          "lang": "fr",
+          "word": "balayer",
+          "pos": "verb",
+          "ko": "(상대를) 완파하다; 쓸다",
+          "example": "Ils ont balayé leurs adversaires.",
+          "example_ko": "그들은 상대를 완파했어요.",
+          "note_ko": "원래 뜻은 '빗자루로 쓸다'(le balai = 빗자루)."
+        },
+        {
+          "lang": "fr",
+          "word": "en titre",
+          "pos": "phrase",
+          "ko": "현(現) 타이틀 보유의",
+          "example": "C'est le champion en titre.",
+          "example_ko": "그가 디펜딩 챔피언이에요.",
+          "note_ko": "le titre = 타이틀, 제목. champion en titre = 지난 대회 우승자."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "If a team \"beats\" another team, it…",
+          "choices": [
+            "wins against it",
+            "loses to it",
+            "plays with it"
+          ],
+          "answer": 0,
+          "explain_ko": "beat = (상대를) 이기다. 과거형도 beat."
+        },
+        {
+          "lang": "fr",
+          "q": "« Déménager », c'est…",
+          "choices": [
+            "aller vivre dans un autre endroit",
+            "gagner un match",
+            "acheter une maison"
+          ],
+          "answer": 0,
+          "explain_ko": "déménager = 이사하다, 옮기다."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/baseball/articles/c5x2v991l0lvo",
+          "accessed": "2026-10-30"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/sport/2026/oct/29/milwaukee-brewers-world-series-title-mlb-salary-cap",
+          "accessed": "2026-10-30"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-30T01:32:18.482Z",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-10-29/f2d118bc9bf3e4b5.mp3",
+            "2026-10-29/b30dc3a228fd299d.mp3",
+            "2026-10-29/6acdf08182ce0694.mp3"
+          ],
+          "normal": [
+            "2026-10-29/9f07d05e9dac1909.mp3",
+            "2026-10-29/97f18d3483f673b2.mp3",
+            "2026-10-29/06a799fe583f169f.mp3",
+            "2026-10-29/9341181eb5d4d4d4.mp3",
+            "2026-10-29/886e82a2509811d3.mp3",
+            "2026-10-29/c4e042de393397b0.mp3",
+            "2026-10-29/6e2b2adb83eb0510.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-10-29/d6fbeec2aabf8fa5.mp3",
+            "2026-10-29/562e66cf990da8fb.mp3",
+            "2026-10-29/8dbf7584a32ae6f8.mp3"
+          ],
+          "normal": [
+            "2026-10-29/7b1c71b17739ccea.mp3",
+            "2026-10-29/638d14ee3db67ecc.mp3",
+            "2026-10-29/b3885072bbaa92c0.mp3",
+            "2026-10-29/6da43faaff9a4c82.mp3",
+            "2026-10-29/a534f4e61b76d72f.mp3",
+            "2026-10-29/f9718e408a6261a8.mp3",
+            "2026-10-29/9a7e6a0369862d8f.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-10-29/397566553c6b479a.mp3",
+          "2026-10-29/88e5d627782c6546.mp3",
+          "2026-10-29/9f478e5d2b6d9d8d.mp3",
+          "2026-10-29/0fe50ffa8733dc05.mp3",
+          "2026-10-29/799a09c311b27059.mp3",
+          "2026-10-29/fc6241d75d970979.mp3",
+          "2026-10-29/66f91e6c778b335a.mp3",
+          "2026-10-29/df8fc4716d0da7bd.mp3",
+          "2026-10-29/088f3f27e2c81fa4.mp3",
+          "2026-10-29/2d408617368638cc.mp3",
+          "2026-10-29/cb078ad9417909f4.mp3",
+          "2026-10-29/2bcfcd106a610f85.mp3",
+          "2026-10-29/1d3747d97998db73.mp3",
+          "2026-10-29/f1368ab23450aa52.mp3",
+          "2026-10-29/84341afc566d7eb7.mp3",
+          "2026-10-29/b1461964f6d9ca6b.mp3",
+          "2026-10-29/e7ce68b6dbc62024.mp3",
+          "2026-10-29/d48cd73d7b853958.mp3",
+          "2026-10-29/20995e71a0b2e791.mp3",
+          "2026-10-29/65de317a9c370abf.mp3",
+          "2026-10-29/c9d0bd329074a3dd.mp3",
+          "2026-10-29/8541f1ad2d3908c9.mp3",
+          "2026-10-29/ad7da34bd44e8ea9.mp3",
+          "2026-10-29/5ae2dcb4671bed1e.mp3",
+          "2026-10-29/107641a25e5f90af.mp3",
+          "2026-10-29/f63cccf67295c9d1.mp3",
+          "2026-10-29/94b253d2378c8b36.mp3",
+          "2026-10-29/1d4f4d95d4689cd1.mp3",
+          "2026-10-29/879e29baa0a8212e.mp3",
+          "2026-10-29/86fa0951b8b7e399.mp3",
+          "2026-10-29/9d32d1ded5e4645f.mp3",
+          "2026-10-29/ee7865542b7e8415.mp3"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-29-04",
+      "category": "culture",
+      "region": {
+        "country": "JP",
+        "city": "Tokyo",
+        "lat": 35.68,
+        "lng": 139.69
+      },
+      "headline": {
+        "en": "Hello Kitty Maker Drops Japanese Spy Drama After China Anger",
+        "fr": "Hello Kitty lâche une série japonaise après la colère de la Chine",
+        "ko": "헬로키티 회사, 중국 반발에 일본 첩보 드라마와 결별"
+      },
+      "hook": {
+        "en": "Why did Hello Kitty drop a TV show?",
+        "fr": "Pourquoi Hello Kitty a lâché cette série ?",
+        "ko": "헬로키티는 왜 드라마와 손을 끊었을까?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "The company behind Hello Kitty has stopped working with a Japanese TV show.",
+            "People in China were angry because the show makes Chinese spies look cruel.",
+            "The company said sorry and ended the deal."
+          ],
+          "easy_ko": [
+            "헬로키티를 만든 회사가 일본 TV 드라마와 함께하던 일을 그만뒀습니다.",
+            "드라마가 중국 스파이를 잔인하게 그려 중국 사람들이 화가 났습니다.",
+            "회사는 사과하고 계약을 끝냈습니다."
+          ],
+          "normal": [
+            "Sanrio, the Japanese company behind Hello Kitty, has apologised and ended its partnership with the popular Japanese spy drama Vivant.",
+            "The company had sold products showing its characters, such as My Melody and Cinnamoroll, dressed as people from the show.",
+            "In the show's second season, Chinese agents use brutal violence against a Japanese spy, and Chinese state media called it a \"deliberate smear\" against China.",
+            "Sanrio said the drama \"contained elements inconsistent with Sanrio's core values\" and promised to check future projects more carefully.",
+            "China is an important market for the company: Chinese media say it earned about $117 million there in the first half of this year.",
+            "The TV network TBS said the show was completely fictional and was not meant to insult any country.",
+            "Relations between China and Japan are at their worst in years, after Japan's prime minister suggested last year that Japan could use its Self-Defence Forces if China attacked Taiwan.",
+            "Days earlier, several Chinese brands dropped French footballer Kylian Mbappé over a joke about Mao Zedong."
+          ],
+          "normal_ko": [
+            "헬로키티를 만든 일본 회사 산리오가 사과하고, 인기 일본 첩보 드라마 '비반트'와의 협업을 끝냈습니다.",
+            "이 회사는 마이멜로디, 시나모롤 같은 캐릭터들이 드라마 속 인물처럼 옷을 입은 상품을 팔아 왔습니다.",
+            "드라마 두 번째 시즌에서 중국 요원들이 일본 스파이에게 잔혹한 폭력을 쓰는 장면이 나오는데, 중국 관영 언론은 이를 중국에 대한 \"고의적인 모략\"이라고 했습니다.",
+            "산리오는 이 드라마에 \"산리오의 핵심 가치와 맞지 않는 요소가 있었다\"며, 앞으로 협업 작품을 더 꼼꼼히 살피겠다고 약속했습니다.",
+            "중국은 이 회사에 중요한 시장으로, 중국 언론에 따르면 산리오는 올해 상반기 중국에서 약 1억 1,700만 달러를 벌었습니다.",
+            "방송사 TBS는 이 드라마가 완전히 지어낸 이야기이고 어느 나라도 모욕할 뜻이 없었다고 밝혔습니다.",
+            "일본 총리가 지난해 중국이 대만을 공격하면 일본이 자위대를 동원할 수 있다고 말한 뒤로, 중일 관계는 몇 년 만에 가장 나빠졌습니다.",
+            "며칠 전에는 중국 브랜드 여러 곳이 마오쩌둥에 대한 농담을 이유로 프랑스 축구 선수 킬리안 음바페와의 계약을 끊었습니다."
+          ],
+          "normal_paras": [
+            2,
+            3,
+            3
+          ]
+        },
+        "fr": {
+          "easy": [
+            "L'entreprise qui a créé Hello Kitty arrête sa collaboration avec une série japonaise.",
+            "En Chine, beaucoup de gens étaient en colère contre l'image des espions chinois dans la série.",
+            "L'entreprise s'est excusée et a mis fin au partenariat."
+          ],
+          "easy_ko": [
+            "헬로키티를 만든 회사가 일본 드라마와의 협업을 그만둡니다.",
+            "중국에서는 많은 사람이 드라마 속 중국 스파이의 모습에 화가 났습니다.",
+            "회사는 사과하고 협업을 끝냈습니다."
+          ],
+          "normal": [
+            "Sanrio, l'entreprise japonaise à l'origine de Hello Kitty, s'est excusée et a mis fin à son partenariat avec Vivant, une série d'espionnage japonaise à succès.",
+            "La marque vendait des produits où ses personnages, comme My Melody et Cinnamoroll, étaient habillés comme les héros de la série.",
+            "Dans la deuxième saison, des agents chinois font preuve d'une violence brutale envers un espion japonais, et les médias d'État chinois y ont vu un « dénigrement délibéré » de la Chine.",
+            "Sanrio estime que la série « contenait des éléments incompatibles avec ses valeurs fondamentales » et promet de mieux vérifier ses futurs projets.",
+            "La Chine est un marché important pour l'entreprise : selon les médias chinois, elle y a réalisé environ 117 millions de dollars de chiffre d'affaires au premier semestre.",
+            "La chaîne de télévision TBS assure que la série est entièrement fictive et ne vise à dénigrer aucun pays.",
+            "Les relations entre la Chine et le Japon sont au plus bas depuis des années, depuis que la Première ministre japonaise a laissé entendre l'an dernier que le Japon pourrait déployer ses forces d'autodéfense en cas d'attaque chinoise contre Taïwan.",
+            "Quelques jours plus tôt, plusieurs marques chinoises avaient lâché le footballeur français Kylian Mbappé pour une plaisanterie sur Mao Zedong."
+          ],
+          "normal_ko": [
+            "헬로키티를 만든 일본 회사 산리오가 사과하고, 인기 일본 첩보 드라마 '비반트'와의 협업을 끝냈습니다.",
+            "이 브랜드는 마이멜로디, 시나모롤 같은 캐릭터들이 드라마 주인공들처럼 옷을 입은 상품을 팔아 왔습니다.",
+            "두 번째 시즌에서 중국 요원들이 일본 스파이에게 잔혹한 폭력을 휘두르는데, 중국 관영 언론은 이를 중국에 대한 \"고의적인 깎아내리기\"로 봤습니다.",
+            "산리오는 이 드라마에 \"자사의 핵심 가치와 맞지 않는 요소가 있었다\"며, 앞으로 협업 작품을 더 잘 살피겠다고 약속합니다.",
+            "중국은 이 회사에 중요한 시장으로, 중국 언론에 따르면 산리오는 상반기 중국에서 약 1억 1,700만 달러의 매출을 올렸습니다.",
+            "방송사 TBS는 이 드라마가 완전한 허구이며 어느 나라도 깎아내릴 뜻이 없다고 강조합니다.",
+            "일본 총리가 지난해 중국이 대만을 공격하면 일본이 자위대를 보낼 수 있다고 내비친 뒤로, 중일 관계는 몇 년 만에 최악입니다.",
+            "며칠 전에는 중국 브랜드 여러 곳이 마오쩌둥에 대한 농담을 이유로 프랑스 축구 선수 킬리안 음바페와 결별했습니다."
+          ],
+          "normal_paras": [
+            2,
+            3,
+            3
+          ]
+        }
+      },
+      "ko_note": "산리오는 헬로키티, 마이멜로디, 시나모롤 같은 캐릭터로 유명한 일본 회사예요. '비반트(VIVANT)'는 일본 TBS 방송의 인기 첩보 드라마로, 2023년 첫 시즌에 이어 올해 7월 두 번째 시즌이 시작됐습니다. 다카이치 사나에 일본 총리가 지난해 11월 '중국이 대만을 공격하면 자위대가 나설 수 있다'는 취지로 말한 뒤 중일 관계가 크게 나빠졌어요. 중국은 그 뒤 희토류 수출 제한, 관광 제한 등으로 일본을 압박하고 있습니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "behind",
+          "pos": "preposition",
+          "ko": "(일의) 배후에, ~을 만든",
+          "example": "Who is behind this idea?",
+          "example_ko": "이 아이디어는 누가 낸 거예요?",
+          "note_ko": "the company behind Hello Kitty = 헬로키티를 만든 회사. 원래 뜻은 '~뒤에'."
+        },
+        {
+          "lang": "en",
+          "word": "stop",
+          "pos": "verb",
+          "ko": "그만두다",
+          "example": "He stopped smoking last year.",
+          "example_ko": "그는 작년에 담배를 끊었어요.",
+          "note_ko": "stop + -ing = ~하던 것을 그만두다. stop to + 동사 = ~하려고 멈추다."
+        },
+        {
+          "lang": "en",
+          "word": "angry",
+          "pos": "adjective",
+          "ko": "화난",
+          "example": "She was angry about the delay.",
+          "example_ko": "그녀는 지연 때문에 화가 났어요.",
+          "note_ko": "be angry about + 일, be angry with + 사람. 명사 anger."
+        },
+        {
+          "lang": "en",
+          "word": "spy",
+          "pos": "noun",
+          "ko": "스파이, 첩보원",
+          "example": "The film is about a British spy.",
+          "example_ko": "그 영화는 영국 스파이 이야기예요.",
+          "note_ko": "spy drama = 첩보 드라마. 동사로 '몰래 살피다'."
+        },
+        {
+          "lang": "en",
+          "word": "cruel",
+          "pos": "adjective",
+          "ko": "잔인한",
+          "example": "It is cruel to hurt animals.",
+          "example_ko": "동물을 다치게 하는 건 잔인해요.",
+          "note_ko": "명사 cruelty(잔인함). 반대는 kind(친절한)."
+        },
+        {
+          "lang": "en",
+          "word": "say sorry",
+          "pos": "phrase",
+          "ko": "사과하다",
+          "example": "You should say sorry to your sister.",
+          "example_ko": "너는 언니에게 사과해야 해.",
+          "note_ko": "apologise보다 쉬운 말. say sorry to + 사람."
+        },
+        {
+          "lang": "en",
+          "word": "deal",
+          "pos": "noun",
+          "ko": "거래, 계약",
+          "example": "The two companies signed a deal.",
+          "example_ko": "두 회사가 계약을 맺었어요.",
+          "note_ko": "make a deal = 거래하다. It's a deal! = 그렇게 하자!"
+        },
+        {
+          "lang": "en",
+          "word": "apologise",
+          "pos": "verb",
+          "ko": "사과하다",
+          "example": "The company apologised for the mistake.",
+          "example_ko": "회사가 실수에 대해 사과했어요.",
+          "note_ko": "미국식 철자는 apologize. apologise for + 일. 명사 apology."
+        },
+        {
+          "lang": "en",
+          "word": "partnership",
+          "pos": "noun",
+          "ko": "협력 관계, 제휴",
+          "example": "The two brands started a partnership.",
+          "example_ko": "두 브랜드가 협업을 시작했어요.",
+          "note_ko": "partner(동반자) + -ship. collaboration도 비슷한 말."
+        },
+        {
+          "lang": "en",
+          "word": "character",
+          "pos": "noun",
+          "ko": "캐릭터, 등장인물; 성격",
+          "example": "Who is your favourite cartoon character?",
+          "example_ko": "가장 좋아하는 만화 캐릭터가 누구예요?",
+          "note_ko": "'성격'이라는 뜻도 있어요: She has a strong character."
+        },
+        {
+          "lang": "en",
+          "word": "brutal",
+          "pos": "adjective",
+          "ko": "잔혹한, 무자비한",
+          "example": "It was a brutal attack.",
+          "example_ko": "그것은 잔혹한 공격이었어요.",
+          "note_ko": "cruel보다 더 거칠고 폭력적인 느낌. '혹독한'(a brutal winter)으로도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "state media",
+          "pos": "noun",
+          "ko": "관영 언론, 국영 매체",
+          "example": "State media reported the news first.",
+          "example_ko": "관영 언론이 그 소식을 먼저 보도했어요.",
+          "note_ko": "state = 국가. 정부가 운영하는 신문·방송."
+        },
+        {
+          "lang": "en",
+          "word": "earn",
+          "pos": "verb",
+          "ko": "(돈을) 벌다",
+          "example": "She earns $3,000 a month.",
+          "example_ko": "그녀는 한 달에 3,000달러를 벌어요.",
+          "note_ko": "earn money, earn a living(생계를 꾸리다). 명사 earnings(수입)."
+        },
+        {
+          "lang": "en",
+          "word": "fictional",
+          "pos": "adjective",
+          "ko": "허구의, 지어낸",
+          "example": "Sherlock Holmes is a fictional detective.",
+          "example_ko": "셜록 홈스는 가상의 탐정이에요.",
+          "note_ko": "명사 fiction(소설, 허구). 반대는 real(실제의)."
+        },
+        {
+          "lang": "en",
+          "word": "relations",
+          "pos": "noun",
+          "ko": "(나라 사이의) 관계",
+          "example": "Relations between the two countries are good.",
+          "example_ko": "두 나라의 관계는 좋아요.",
+          "note_ko": "나라 사이에는 보통 복수형 relations를 써요."
+        },
+        {
+          "lang": "en",
+          "word": "brand",
+          "pos": "noun",
+          "ko": "브랜드, 상표",
+          "example": "This is my favourite clothing brand.",
+          "example_ko": "이건 제가 제일 좋아하는 옷 브랜드예요.",
+          "note_ko": "drop + 사람 = (광고 모델 등) 계약을 끊다."
+        },
+        {
+          "lang": "fr",
+          "word": "entreprise",
+          "pos": "noun",
+          "ko": "회사, 기업",
+          "example": "Il travaille dans une grande entreprise.",
+          "example_ko": "그는 큰 회사에서 일해요.",
+          "note_ko": "여성 명사. 비슷한 말 la société."
+        },
+        {
+          "lang": "fr",
+          "word": "collaboration",
+          "pos": "noun",
+          "ko": "협업, 협력",
+          "example": "Les deux marques annoncent une collaboration.",
+          "example_ko": "두 브랜드가 협업을 발표해요.",
+          "note_ko": "여성 명사. 동사 collaborer(협력하다)."
+        },
+        {
+          "lang": "fr",
+          "word": "série",
+          "pos": "noun",
+          "ko": "(TV) 시리즈, 드라마",
+          "example": "Je regarde une série coréenne.",
+          "example_ko": "저는 한국 드라마를 봐요.",
+          "note_ko": "여성 명사. une série d'espionnage = 첩보 드라마."
+        },
+        {
+          "lang": "fr",
+          "word": "en colère",
+          "pos": "phrase",
+          "ko": "화난",
+          "example": "Mon père est en colère.",
+          "example_ko": "아빠가 화가 나셨어요.",
+          "note_ko": "être en colère contre + 사람·일. la colère = 분노."
+        },
+        {
+          "lang": "fr",
+          "word": "espion",
+          "pos": "noun",
+          "ko": "스파이",
+          "example": "C'est un film d'espions.",
+          "example_ko": "스파이 영화예요.",
+          "note_ko": "여성형 espionne. l'espionnage = 첩보 활동."
+        },
+        {
+          "lang": "fr",
+          "word": "s'excuser",
+          "pos": "verb",
+          "ko": "사과하다",
+          "example": "Il s'est excusé pour son retard.",
+          "example_ko": "그는 늦은 것에 대해 사과했어요.",
+          "note_ko": "s'excuser de/pour + 일. Excusez-moi = 실례합니다."
+        },
+        {
+          "lang": "fr",
+          "word": "mettre fin à",
+          "pos": "phrase",
+          "ko": "~을 끝내다",
+          "example": "Ils ont mis fin à leur contrat.",
+          "example_ko": "그들은 계약을 끝냈어요.",
+          "note_ko": "la fin = 끝. arrêter, terminer와 비슷해요."
+        },
+        {
+          "lang": "fr",
+          "word": "à succès",
+          "pos": "phrase",
+          "ko": "인기 있는, 흥행한",
+          "example": "C'est un chanteur à succès.",
+          "example_ko": "그는 인기 가수예요.",
+          "note_ko": "le succès = 성공. un film à succès = 흥행작."
+        },
+        {
+          "lang": "fr",
+          "word": "personnage",
+          "pos": "noun",
+          "ko": "등장인물, 캐릭터",
+          "example": "Mon personnage préféré est Snoopy.",
+          "example_ko": "제가 제일 좋아하는 캐릭터는 스누피예요.",
+          "note_ko": "남성 명사. 실제 '사람'은 la personne."
+        },
+        {
+          "lang": "fr",
+          "word": "habiller",
+          "pos": "verb",
+          "ko": "옷을 입히다",
+          "example": "Elle habille sa poupée en princesse.",
+          "example_ko": "그녀는 인형에게 공주 옷을 입혀요.",
+          "note_ko": "s'habiller = 옷을 입다. habillé comme… = ~처럼 차려입은."
+        },
+        {
+          "lang": "fr",
+          "word": "médias d'État",
+          "pos": "noun",
+          "ko": "관영 언론",
+          "example": "Les médias d'État ont critiqué le film.",
+          "example_ko": "관영 언론이 그 영화를 비판했어요.",
+          "note_ko": "l'État(대문자) = 국가. les médias = 언론(복수)."
+        },
+        {
+          "lang": "fr",
+          "word": "vérifier",
+          "pos": "verb",
+          "ko": "확인하다, 점검하다",
+          "example": "Vérifie ton billet avant de partir.",
+          "example_ko": "떠나기 전에 표를 확인해.",
+          "note_ko": "명사 la vérification(확인)."
+        },
+        {
+          "lang": "fr",
+          "word": "chiffre d'affaires",
+          "pos": "noun",
+          "ko": "매출액",
+          "example": "Le chiffre d'affaires a augmenté de 40 %.",
+          "example_ko": "매출이 40% 늘었어요.",
+          "note_ko": "남성 명사. 직역은 '거래의 숫자'. 이익(bénéfice)과는 달라요."
+        },
+        {
+          "lang": "fr",
+          "word": "fictif",
+          "pos": "adjective",
+          "ko": "허구의, 가상의",
+          "example": "Cette histoire est entièrement fictive.",
+          "example_ko": "이 이야기는 완전히 허구예요.",
+          "note_ko": "여성형 fictive. la fiction = 허구, 소설."
+        },
+        {
+          "lang": "fr",
+          "word": "au plus bas",
+          "pos": "phrase",
+          "ko": "최저 수준인",
+          "example": "Le moral des joueurs est au plus bas.",
+          "example_ko": "선수들의 사기가 바닥이에요.",
+          "note_ko": "반대는 au plus haut(최고 수준인)."
+        },
+        {
+          "lang": "fr",
+          "word": "lâcher",
+          "pos": "verb",
+          "ko": "놓다; (관계를) 끊다",
+          "example": "Ne lâche pas ma main !",
+          "example_ko": "내 손 놓지 마!",
+          "note_ko": "원래 '손에서 놓다'. lâcher qqn = ~를 버리다, 손을 끊다."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "A \"spy\" is a person who…",
+          "choices": [
+            "secretly collects information",
+            "sells toys",
+            "makes TV shows"
+          ],
+          "answer": 0,
+          "explain_ko": "spy = 스파이. 몰래 정보를 모으는 사람이에요."
+        },
+        {
+          "lang": "fr",
+          "q": "« S'excuser », c'est…",
+          "choices": [
+            "dire pardon",
+            "dire merci",
+            "dire bonjour"
+          ],
+          "answer": 0,
+          "explain_ko": "s'excuser = 사과하다. Pardon ! / Je suis désolé(e)."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo",
+          "accessed": "2026-10-30"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry",
+          "accessed": "2026-10-30"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-30T01:32:18.482Z",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-10-29/10c46e3a1ebf3c8b.mp3",
+            "2026-10-29/59c32809210628dd.mp3",
+            "2026-10-29/5a3ee255c85d7c32.mp3"
+          ],
+          "normal": [
+            "2026-10-29/304cee22fbef4cc6.mp3",
+            "2026-10-29/c3940a05d5c40443.mp3",
+            "2026-10-29/72c1292aac683145.mp3",
+            "2026-10-29/c02dab2406c790fd.mp3",
+            "2026-10-29/7f8d477f3662f84f.mp3",
+            "2026-10-29/cb82363702d8961c.mp3",
+            "2026-10-29/7f4a67ad444f3481.mp3",
+            "2026-10-29/ffb6a494bebb01e1.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-10-29/9074e07ebfce57ad.mp3",
+            "2026-10-29/3e3a6ae73480d955.mp3",
+            "2026-10-29/53b2ab7c67368338.mp3"
+          ],
+          "normal": [
+            "2026-10-29/b0156f78340d86bc.mp3",
+            "2026-10-29/8396a86dfd525bef.mp3",
+            "2026-10-29/b61b27df121122b6.mp3",
+            "2026-10-29/edea7523a450a643.mp3",
+            "2026-10-29/b824f8a919593e56.mp3",
+            "2026-10-29/0b89f1872ba32a79.mp3",
+            "2026-10-29/bfaed0489cff1f75.mp3",
+            "2026-10-29/517cf7126f447ea0.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-10-29/dff62d8a8bb40ea7.mp3",
+          "2026-10-29/af56dc90821f329c.mp3",
+          "2026-10-29/1be431575c115e66.mp3",
+          "2026-10-29/38b4dcf2d741d5fb.mp3",
+          "2026-10-29/3d4905e61948c593.mp3",
+          "2026-10-29/22b664421e3b2402.mp3",
+          "2026-10-29/178c7aff9b39da45.mp3",
+          "2026-10-29/0f1a00043a5e9cef.mp3",
+          "2026-10-29/83343ca4bb105e79.mp3",
+          "2026-10-29/299fee0eb737cee8.mp3",
+          "2026-10-29/5fb7c94d7c9d50b6.mp3",
+          "2026-10-29/c18ec1789fc78e39.mp3",
+          "2026-10-29/935b2e731381d6e0.mp3",
+          "2026-10-29/0a48cfafe40473f3.mp3",
+          "2026-10-29/e87ee7395ea8b0dd.mp3",
+          "2026-10-29/6a32b88aa24efcf9.mp3",
+          "2026-10-29/638b7171b28d4d1b.mp3",
+          "2026-10-29/f57441b8730cf4f6.mp3",
+          "2026-10-29/db393620f3af738e.mp3",
+          "2026-10-29/3c92073149108e7f.mp3",
+          "2026-10-29/17e01ac992fce5a1.mp3",
+          "2026-10-29/a3767bb489838988.mp3",
+          "2026-10-29/5e5d363425a5bda4.mp3",
+          "2026-10-29/4fdf709c57b5f780.mp3",
+          "2026-10-29/72a2855ff4a379a6.mp3",
+          "2026-10-29/fec0018090766878.mp3",
+          "2026-10-29/68ff5e162fa1de57.mp3",
+          "2026-10-29/d24e77795feba02b.mp3",
+          "2026-10-29/a609d1d7aebbd438.mp3",
+          "2026-10-29/e448987a8a8db9f3.mp3",
+          "2026-10-29/0096f558b953e2c8.mp3",
+          "2026-10-29/a4daddc2793044bd.mp3"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-29-05",
+      "category": "economy",
+      "region": {
+        "country": "US",
+        "city": "San Francisco",
+        "lat": 37.77,
+        "lng": -122.42
+      },
+      "headline": {
+        "en": "DoorDash to Buy Instacart for $17 Billion",
+        "fr": "DoorDash va racheter Instacart pour 17 milliards de dollars",
+        "ko": "미국 배달 1위 도어대시, 인스타카트 170억 달러에 인수"
+      },
+      "hook": {
+        "en": "Which delivery giant is buying Instacart?",
+        "fr": "Qui rachète Instacart ?",
+        "ko": "인스타카트를 사들이는 배달 공룡은?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "DoorDash, a big food delivery company, is buying its rival Instacart.",
+            "The deal is worth 17 billion dollars.",
+            "Customers will be able to order from more shops."
+          ],
+          "easy_ko": [
+            "큰 음식 배달 회사인 도어대시가 경쟁 회사 인스타카트를 사들입니다.",
+            "이 거래의 규모는 170억 달러입니다.",
+            "고객들은 더 많은 가게에서 주문할 수 있게 됩니다."
+          ],
+          "normal": [
+            "The American delivery company DoorDash has agreed to buy its rival Instacart, which delivers groceries, for 17 billion dollars.",
+            "It is DoorDash's biggest deal so far, and it is expected to be completed by the end of 2027 or the first half of 2028.",
+            "DoorDash began by delivering restaurant meals, but it has been moving into groceries and other shopping.",
+            "Its chief executive, Tony Xu, said grocery is \"one of the hardest things to get right online\", because someone has to pick a ripe avocado and get the ice cream to you before it melts.",
+            "Instacart will keep its brand and app, and its customers will be able to order from about 150,000 stores instead of 100,000.",
+            "One analyst said growth in delivery is moving from restaurant meals to weekly grocery shopping, and the deal could help DoorDash compete with Amazon.",
+            "The deal may also face questions from competition regulators.",
+            "According to one research firm, DoorDash already has 59% of spending on US delivery platforms, while Instacart's share has fallen to 18%."
+          ],
+          "normal_ko": [
+            "미국 배달 회사 도어대시가 장보기 배달을 하는 경쟁 회사 인스타카트를 170억 달러에 사들이기로 했습니다.",
+            "도어대시가 지금까지 한 거래 가운데 가장 크며, 2027년 말이나 2028년 상반기에 마무리될 것으로 보입니다.",
+            "도어대시는 식당 음식 배달로 시작했지만, 장보기와 다른 쇼핑으로 사업을 넓혀 왔습니다.",
+            "토니 쉬 최고경영자는 장보기가 \"온라인에서 제대로 하기 가장 어려운 일 중 하나\"라며, 누군가 잘 익은 아보카도를 고르고 아이스크림이 녹기 전에 가져다줘야 하기 때문이라고 말했습니다.",
+            "인스타카트는 브랜드와 앱을 그대로 유지하고, 고객들은 10만 곳이 아닌 약 15만 곳의 가게에서 주문할 수 있게 됩니다.",
+            "한 분석가는 배달 시장의 성장이 식당 음식에서 매주 장보기로 옮겨 가고 있으며, 이번 거래가 도어대시가 아마존과 경쟁하는 데 도움이 될 수 있다고 말했습니다.",
+            "이 거래는 경쟁 당국의 심사도 받을 수 있습니다.",
+            "한 조사 회사에 따르면 미국 배달 플랫폼 지출 가운데 도어대시의 몫은 이미 59%이고, 인스타카트의 몫은 18%로 줄었습니다."
+          ],
+          "normal_paras": [
+            3,
+            3,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "DoorDash, une grande entreprise de livraison de repas, rachète son concurrent Instacart.",
+            "L'accord vaut 17 milliards de dollars.",
+            "Les clients pourront commander dans plus de magasins."
+          ],
+          "easy_ko": [
+            "큰 음식 배달 회사인 도어대시가 경쟁 회사 인스타카트를 사들입니다.",
+            "이 거래의 가치는 170억 달러입니다.",
+            "고객들은 더 많은 가게에서 주문할 수 있게 됩니다."
+          ],
+          "normal": [
+            "L'entreprise américaine de livraison DoorDash a accepté de racheter son concurrent Instacart, spécialisé dans la livraison de courses, pour 17 milliards de dollars.",
+            "C'est la plus grosse acquisition de DoorDash à ce jour, et elle devrait être finalisée d'ici fin 2027 ou au premier semestre 2028.",
+            "DoorDash a commencé par livrer des repas de restaurants, mais se développe dans les courses et d'autres achats.",
+            "Son PDG, Tony Xu, estime que les courses sont « l'une des choses les plus difficiles à bien faire en ligne », car il faut choisir un avocat bien mûr et livrer la glace avant qu'elle ne fonde.",
+            "Instacart gardera sa marque et son application, et ses clients pourront commander dans environ 150 000 magasins, contre 100 000 aujourd'hui.",
+            "Selon un analyste, la croissance de la livraison passe des repas aux courses de la semaine, et l'accord pourrait aider DoorDash à concurrencer Amazon.",
+            "L'opération pourrait aussi susciter des questions de la part des autorités de la concurrence.",
+            "Selon une société d'études, DoorDash représente déjà 59 % des dépenses sur les plateformes de livraison aux États-Unis, tandis que la part d'Instacart est tombée à 18 %."
+          ],
+          "normal_ko": [
+            "미국 배달 회사 도어대시가 장보기 배달 전문인 경쟁사 인스타카트를 170억 달러에 사들이기로 했습니다.",
+            "도어대시의 지금까지 인수 가운데 가장 큰 규모로, 2027년 말이나 2028년 상반기까지 마무리될 예정입니다.",
+            "도어대시는 식당 음식 배달로 시작했지만, 장보기와 다른 쇼핑으로 사업을 넓히고 있습니다.",
+            "토니 쉬 최고경영자는 장보기가 \"온라인에서 제대로 하기 가장 어려운 일 중 하나\"라며, 잘 익은 아보카도를 고르고 아이스크림이 녹기 전에 배달해야 하기 때문이라고 봅니다.",
+            "인스타카트는 브랜드와 앱을 유지하고, 고객들은 지금의 10만 곳 대신 약 15만 곳의 가게에서 주문할 수 있게 됩니다.",
+            "한 분석가에 따르면 배달 시장의 성장은 식당 음식에서 매주 장보기로 옮겨 가고 있으며, 이번 거래가 도어대시가 아마존과 겨루는 데 도움이 될 수 있습니다.",
+            "이번 거래는 경쟁 당국의 문제 제기를 받을 수도 있습니다.",
+            "한 조사 회사에 따르면 미국 배달 플랫폼 지출 가운데 도어대시가 이미 59%를 차지하고, 인스타카트의 몫은 18%로 떨어졌습니다."
+          ],
+          "normal_paras": [
+            3,
+            3,
+            2
+          ]
+        }
+      },
+      "ko_note": "도어대시는 미국 최대 음식 배달 앱으로, 한국의 배달의민족이나 쿠팡이츠와 비슷한 서비스예요. 인스타카트는 마트 장보기를 대신해 집까지 배달해 주는 회사로, 미국과 캐나다에서 운영됩니다. 같은 업계의 큰 회사끼리 합치면 경쟁이 줄어 소비자에게 불리할 수 있어서, 정부의 경쟁 당국이 인수를 심사해요(한국의 공정거래위원회와 비슷한 역할). 도어대시는 2013년 샌프란시스코에서 시작해 지금은 40개 나라에서 영업합니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "delivery",
+          "pos": "noun",
+          "ko": "배달",
+          "example": "Is delivery free?",
+          "example_ko": "배달은 무료인가요?",
+          "note_ko": "동사 deliver(배달하다). food delivery = 음식 배달."
+        },
+        {
+          "lang": "en",
+          "word": "rival",
+          "pos": "noun",
+          "ko": "경쟁자, 경쟁사",
+          "example": "Coca-Cola and Pepsi are old rivals.",
+          "example_ko": "코카콜라와 펩시는 오랜 경쟁자예요.",
+          "note_ko": "competitor와 비슷해요. 형용사로도 써요: a rival team."
+        },
+        {
+          "lang": "en",
+          "word": "deal",
+          "pos": "noun",
+          "ko": "거래",
+          "example": "They made a deal to sell the company.",
+          "example_ko": "그들은 회사를 파는 거래를 맺었어요.",
+          "note_ko": "a good deal = 좋은 조건, 싼 가격."
+        },
+        {
+          "lang": "en",
+          "word": "worth",
+          "pos": "adjective",
+          "ko": "~의 가치가 있는",
+          "example": "This painting is worth a million dollars.",
+          "example_ko": "이 그림은 100만 달러의 가치가 있어요.",
+          "note_ko": "be worth + 금액. It's worth it. = 그럴 만한 가치가 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "customer",
+          "pos": "noun",
+          "ko": "고객, 손님",
+          "example": "The shop has many customers on Sundays.",
+          "example_ko": "그 가게는 일요일에 손님이 많아요.",
+          "note_ko": "가게의 손님은 customer, 집에 온 손님은 guest."
+        },
+        {
+          "lang": "en",
+          "word": "order",
+          "pos": "verb",
+          "ko": "주문하다",
+          "example": "Let's order pizza tonight.",
+          "example_ko": "오늘 밤에 피자 시켜 먹자.",
+          "note_ko": "명사도 order(주문). '명령하다'라는 뜻도 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "groceries",
+          "pos": "noun",
+          "ko": "식료품, 장 본 것",
+          "example": "I buy groceries every Saturday.",
+          "example_ko": "저는 토요일마다 장을 봐요.",
+          "note_ko": "보통 복수형으로 써요. grocery store = 식료품점."
+        },
+        {
+          "lang": "en",
+          "word": "so far",
+          "pos": "phrase",
+          "ko": "지금까지",
+          "example": "So far, everything is going well.",
+          "example_ko": "지금까지는 모든 게 잘되고 있어요.",
+          "note_ko": "현재완료와 자주 함께 써요: I have read two books so far."
+        },
+        {
+          "lang": "en",
+          "word": "be expected to",
+          "pos": "phrase",
+          "ko": "~할 것으로 예상되다",
+          "example": "The train is expected to arrive at 5.",
+          "example_ko": "기차는 5시에 도착할 예정이에요.",
+          "note_ko": "expect = 예상하다, 기대하다."
+        },
+        {
+          "lang": "en",
+          "word": "chief executive",
+          "pos": "noun",
+          "ko": "최고경영자(CEO)",
+          "example": "The chief executive announced the plan.",
+          "example_ko": "최고경영자가 그 계획을 발표했어요.",
+          "note_ko": "CEO = chief executive officer. chief = 우두머리."
+        },
+        {
+          "lang": "en",
+          "word": "ripe",
+          "pos": "adjective",
+          "ko": "(과일이) 익은",
+          "example": "These bananas are not ripe yet.",
+          "example_ko": "이 바나나는 아직 안 익었어요.",
+          "note_ko": "반대는 unripe(덜 익은). 사람의 '성숙한'은 mature."
+        },
+        {
+          "lang": "en",
+          "word": "melt",
+          "pos": "verb",
+          "ko": "녹다",
+          "example": "The snow melted in the sun.",
+          "example_ko": "눈이 햇볕에 녹았어요.",
+          "note_ko": "melt away = 녹아 없어지다. melting pot = 용광로, 여러 문화가 섞인 곳."
+        },
+        {
+          "lang": "en",
+          "word": "instead of",
+          "pos": "phrase",
+          "ko": "~ 대신에",
+          "example": "I drank tea instead of coffee.",
+          "example_ko": "저는 커피 대신 차를 마셨어요.",
+          "note_ko": "instead of + 명사/-ing. 문장 끝에 instead만 쓰기도 해요."
+        },
+        {
+          "lang": "en",
+          "word": "growth",
+          "pos": "noun",
+          "ko": "성장",
+          "example": "The company had strong growth this year.",
+          "example_ko": "그 회사는 올해 크게 성장했어요.",
+          "note_ko": "동사 grow(자라다). economic growth = 경제 성장."
+        },
+        {
+          "lang": "en",
+          "word": "compete with",
+          "pos": "phrase",
+          "ko": "~와 경쟁하다",
+          "example": "Small shops can't compete with big stores.",
+          "example_ko": "작은 가게들은 큰 매장과 경쟁하기 어려워요.",
+          "note_ko": "명사 competition(경쟁), competitor(경쟁자)."
+        },
+        {
+          "lang": "en",
+          "word": "regulator",
+          "pos": "noun",
+          "ko": "규제 기관, 감독 당국",
+          "example": "Regulators are looking at the deal.",
+          "example_ko": "규제 당국이 그 거래를 살펴보고 있어요.",
+          "note_ko": "동사 regulate(규제하다). 명사 regulation(규정)."
+        },
+        {
+          "lang": "en",
+          "word": "share",
+          "pos": "noun",
+          "ko": "몫, 점유율",
+          "example": "The company has a 20% share of the market.",
+          "example_ko": "그 회사의 시장 점유율은 20%예요.",
+          "note_ko": "market share = 시장 점유율. 동사 share는 '나누다'."
+        },
+        {
+          "lang": "fr",
+          "word": "livraison",
+          "pos": "noun",
+          "ko": "배달",
+          "example": "La livraison est gratuite.",
+          "example_ko": "배달은 무료예요.",
+          "note_ko": "여성 명사. 동사 livrer(배달하다). un livreur = 배달원."
+        },
+        {
+          "lang": "fr",
+          "word": "racheter",
+          "pos": "verb",
+          "ko": "(회사를) 인수하다; 다시 사다",
+          "example": "Le groupe veut racheter une marque.",
+          "example_ko": "그 그룹은 한 브랜드를 인수하려 해요.",
+          "note_ko": "re-(다시) + acheter. 회사 기사에서는 '인수하다'."
+        },
+        {
+          "lang": "fr",
+          "word": "concurrent",
+          "pos": "noun",
+          "ko": "경쟁자, 경쟁사",
+          "example": "C'est notre principal concurrent.",
+          "example_ko": "그들이 우리의 주요 경쟁사예요.",
+          "note_ko": "여성형 concurrente. la concurrence = 경쟁."
+        },
+        {
+          "lang": "fr",
+          "word": "accord",
+          "pos": "noun",
+          "ko": "합의, 계약",
+          "example": "Les deux pays ont signé un accord.",
+          "example_ko": "두 나라가 협정에 서명했어요.",
+          "note_ko": "남성 명사. D'accord ! = 좋아요!"
+        },
+        {
+          "lang": "fr",
+          "word": "valoir",
+          "pos": "verb",
+          "ko": "~의 가치가 있다",
+          "example": "Ce tableau vaut un million d'euros.",
+          "example_ko": "이 그림은 100만 유로의 가치가 있어요.",
+          "note_ko": "il vaut(현재). Ça vaut la peine. = 그럴 만한 가치가 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "commander",
+          "pos": "verb",
+          "ko": "주문하다",
+          "example": "On commande une pizza ?",
+          "example_ko": "피자 시킬까?",
+          "note_ko": "명사 la commande(주문). '명령하다, 지휘하다'라는 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "courses",
+          "pos": "noun",
+          "ko": "장보기, 장 본 것",
+          "example": "Je fais les courses le samedi.",
+          "example_ko": "저는 토요일에 장을 봐요.",
+          "note_ko": "여성 명사 복수. faire les courses = 장을 보다. 단수 la course는 '달리기, 경주'."
+        },
+        {
+          "lang": "fr",
+          "word": "à ce jour",
+          "pos": "phrase",
+          "ko": "지금까지",
+          "example": "C'est son meilleur film à ce jour.",
+          "example_ko": "지금까지 그의 최고 영화예요.",
+          "note_ko": "jusqu'à présent과 비슷해요."
+        },
+        {
+          "lang": "fr",
+          "word": "finaliser",
+          "pos": "verb",
+          "ko": "마무리하다",
+          "example": "Ils doivent finaliser le contrat.",
+          "example_ko": "그들은 계약을 마무리해야 해요.",
+          "note_ko": "final(마지막의)에서 왔어요. terminer와 비슷해요."
+        },
+        {
+          "lang": "fr",
+          "word": "PDG",
+          "pos": "noun",
+          "ko": "최고경영자(CEO)",
+          "example": "La PDG a présenté les résultats.",
+          "example_ko": "CEO가 실적을 발표했어요.",
+          "note_ko": "président-directeur général의 줄임말. 'P-D-G'로 읽어요."
+        },
+        {
+          "lang": "fr",
+          "word": "mûr",
+          "pos": "adjective",
+          "ko": "(과일이) 익은",
+          "example": "Ces pêches sont bien mûres.",
+          "example_ko": "이 복숭아들은 잘 익었어요.",
+          "note_ko": "여성형 mûre. la mûre(명사)는 '블랙베리'."
+        },
+        {
+          "lang": "fr",
+          "word": "fondre",
+          "pos": "verb",
+          "ko": "녹다",
+          "example": "La glace fond vite en été.",
+          "example_ko": "여름에는 아이스크림이 빨리 녹아요.",
+          "note_ko": "avant qu'elle ne fonde = 그것이 녹기 전에(접속법)."
+        },
+        {
+          "lang": "fr",
+          "word": "marque",
+          "pos": "noun",
+          "ko": "브랜드, 상표",
+          "example": "Quelle est ta marque préférée ?",
+          "example_ko": "제일 좋아하는 브랜드가 뭐야?",
+          "note_ko": "여성 명사. 동사 marquer는 '표시하다; 골을 넣다'."
+        },
+        {
+          "lang": "fr",
+          "word": "croissance",
+          "pos": "noun",
+          "ko": "성장",
+          "example": "La croissance du secteur ralentit.",
+          "example_ko": "그 업계의 성장이 둔화되고 있어요.",
+          "note_ko": "여성 명사. 동사 croître(자라다)."
+        },
+        {
+          "lang": "fr",
+          "word": "concurrencer",
+          "pos": "verb",
+          "ko": "~와 경쟁하다",
+          "example": "Les petits magasins ne peuvent pas concurrencer les géants.",
+          "example_ko": "작은 가게들은 거대 기업과 경쟁할 수 없어요.",
+          "note_ko": "concurrencer + 상대(전치사 없이)."
+        },
+        {
+          "lang": "fr",
+          "word": "part",
+          "pos": "noun",
+          "ko": "몫, 점유율",
+          "example": "Sa part de marché a augmenté.",
+          "example_ko": "그 회사의 시장 점유율이 늘었어요.",
+          "note_ko": "여성 명사. la part de marché = 시장 점유율. à part = ~를 빼고."
+        },
+        {
+          "lang": "fr",
+          "word": "tomber",
+          "pos": "verb",
+          "ko": "떨어지다",
+          "example": "Les ventes sont tombées de 10 %.",
+          "example_ko": "판매가 10% 떨어졌어요.",
+          "note_ko": "과거는 être와 함께(est tombée). 원래 뜻은 '넘어지다'."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "A \"rival\" is…",
+          "choices": [
+            "a person or company you compete with",
+            "a delivery driver",
+            "a kind of shop"
+          ],
+          "answer": 0,
+          "explain_ko": "rival = 경쟁자. competitor와 비슷한 말이에요."
+        },
+        {
+          "lang": "fr",
+          "q": "« Racheter » une entreprise, c'est…",
+          "choices": [
+            "l'acheter",
+            "la vendre",
+            "la fermer"
+          ],
+          "answer": 0,
+          "explain_ko": "racheter = (회사를) 사들이다, 인수하다."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo",
+          "accessed": "2026-10-30"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery",
+          "accessed": "2026-10-30"
+        },
+        {
+          "name": "Wikipedia Current events (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_29",
+          "accessed": "2026-10-29"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-10-30T01:32:18.482Z",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-10-29/21e623341d322f00.mp3",
+            "2026-10-29/aced3b7228822b73.mp3",
+            "2026-10-29/4a3e518167a66b53.mp3"
+          ],
+          "normal": [
+            "2026-10-29/e767395c20f37f9d.mp3",
+            "2026-10-29/76af1bc6c5c12560.mp3",
+            "2026-10-29/d0d8a0778b383ebf.mp3",
+            "2026-10-29/e84f98bd812effd1.mp3",
+            "2026-10-29/b5b6a14c6a353822.mp3",
+            "2026-10-29/3d6da1b4ee1f1e81.mp3",
+            "2026-10-29/41389ab6bf7967e5.mp3",
+            "2026-10-29/2f50bfe9a25d8df3.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-10-29/6ca3829ef03aff8f.mp3",
+            "2026-10-29/9c56033836b9c1e0.mp3",
+            "2026-10-29/1ea303303a2d9533.mp3"
+          ],
+          "normal": [
+            "2026-10-29/911b08c24b22d6e8.mp3",
+            "2026-10-29/da9b8874c1b545a2.mp3",
+            "2026-10-29/de2d57fca9b22a2a.mp3",
+            "2026-10-29/0dace77a0b3f1ba8.mp3",
+            "2026-10-29/ef7435b650b8f6dc.mp3",
+            "2026-10-29/f4e12cc30b55e84e.mp3",
+            "2026-10-29/b9e6e9b5db108edd.mp3",
+            "2026-10-29/d6ad2e5031de5e92.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-10-29/e13e537b49c286dc.mp3",
+          "2026-10-29/2e4151bc840be2bc.mp3",
+          "2026-10-29/fe496d0e98b946b2.mp3",
+          "2026-10-29/1a58794e6d05bf23.mp3",
+          "2026-10-29/4289dc1bcdfea0a0.mp3",
+          "2026-10-29/d7e936b62b9eff4d.mp3",
+          "2026-10-29/becf7f8eb7cb400b.mp3",
+          "2026-10-29/ead28053c389f63e.mp3",
+          "2026-10-29/498267b6119a9fe6.mp3",
+          "2026-10-29/e667e061fa0b84c1.mp3",
+          "2026-10-29/ab1f531e73b810cd.mp3",
+          "2026-10-29/f7b2577b8aef5ff3.mp3",
+          "2026-10-29/5eeacd34e6fe1e93.mp3",
+          "2026-10-29/53cc44a309ba28f4.mp3",
+          "2026-10-29/f5eef6841fcc3420.mp3",
+          "2026-10-29/62a69f56c6b72929.mp3",
+          "2026-10-29/8951b4c97123a26f.mp3",
+          "2026-10-29/af7b39d48a3a7685.mp3",
+          "2026-10-29/6fd3e22dd591dccd.mp3",
+          "2026-10-29/51f83c38ffa81d4d.mp3",
+          "2026-10-29/b6e68ab1b9ddbfb1.mp3",
+          "2026-10-29/d2f1e5dc154362aa.mp3",
+          "2026-10-29/1196ba93c128dece.mp3",
+          "2026-10-29/e5c5ae219ade6bf0.mp3",
+          "2026-10-29/81ea5b581a794875.mp3",
+          "2026-10-29/960cf3b83e8b5088.mp3",
+          "2026-10-29/1a129412e39d5514.mp3",
+          "2026-10-29/6cfd6398e252a78a.mp3",
+          "2026-10-29/97adbf0f3a89e628.mp3",
+          "2026-10-29/22f91b0d061bd9d2.mp3",
+          "2026-10-29/c8116a4679351474.mp3",
+          "2026-10-29/74eb492779f222ab.mp3",
+          "2026-10-29/cef4ba95c511b44a.mp3",
+          "2026-10-29/06dc4be6ebf3c3c7.mp3"
+        ]
+      }
+    }
+  ],
+  "audio_base": "https://koreapapa-kim.github.io/worldnews-audio"
+}

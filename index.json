@@ -2,6 +2,52 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-10-29",
+      "count": 5,
+      "headlines": [
+        {
+          "id": "2026-10-29-01",
+          "ko": "라가르드 유럽중앙은행 총재, 임기 9개월 앞두고 사임",
+          "en": "ECB Chief Christine Lagarde to Step Down Early",
+          "fr": "Christine Lagarde quittera la BCE avant la fin de son mandat",
+          "category": "economy",
+          "country": "DE"
+        },
+        {
+          "id": "2026-10-29-02",
+          "ko": "'스타트렉' 피카드 선장 패트릭 스튜어트, 86세로 별세",
+          "en": "Star Trek Actor Patrick Stewart Dies at 86",
+          "fr": "Patrick Stewart, le capitaine de Star Trek, est mort à 86 ans",
+          "category": "culture",
+          "country": "GB"
+        },
+        {
+          "id": "2026-10-29-03",
+          "ko": "밀워키 브루어스, 창단 첫 월드시리즈 우승",
+          "en": "Milwaukee Brewers Win Their First World Series",
+          "fr": "Baseball : les Brewers de Milwaukee remportent leurs premières World Series",
+          "category": "sports",
+          "country": "US"
+        },
+        {
+          "id": "2026-10-29-04",
+          "ko": "헬로키티 회사, 중국 반발에 일본 첩보 드라마와 결별",
+          "en": "Hello Kitty Maker Drops Japanese Spy Drama After China Anger",
+          "fr": "Hello Kitty lâche une série japonaise après la colère de la Chine",
+          "category": "culture",
+          "country": "JP"
+        },
+        {
+          "id": "2026-10-29-05",
+          "ko": "미국 배달 1위 도어대시, 인스타카트 170억 달러에 인수",
+          "en": "DoorDash to Buy Instacart for $17 Billion",
+          "fr": "DoorDash va racheter Instacart pour 17 milliards de dollars",
+          "category": "economy",
+          "country": "US"
+        }
+      ]
+    },
+    {
       "date": "2026-10-27",
       "count": 5,
       "headlines": [
@@ -186,6 +232,6 @@
       ]
     }
   ],
-  "latest": "2026-10-27",
-  "updated_at": "2026-10-28T00:34:27.871Z"
+  "latest": "2026-10-29",
+  "updated_at": "2026-11-08T15:27:17.937Z"
 }
