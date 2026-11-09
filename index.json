@@ -2,6 +2,228 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-11-08",
+      "count": 1,
+      "headlines": [
+        {
+          "id": "2026-11-08-01",
+          "ko": "엔비디아 이사회, CEO 젠슨 황 조사 착수",
+          "en": "Nvidia's Board Opens Investigation Into CEO Jensen Huang",
+          "fr": "Le conseil d'administration de Nvidia ouvre une enquête sur son PDG Jensen Huang",
+          "category": "economy",
+          "country": "US"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "count": 1,
+      "headlines": [
+        {
+          "id": "2026-11-07-01",
+          "ko": "미국, 이란 핵 프로그램 정보에 최대 2,000만 달러 현상금",
+          "en": "US Offers $20 Million Reward for Information on Iran's Nuclear Programme",
+          "fr": "Les États-Unis offrent 20 millions de dollars pour des informations sur le programme nucléaire iranien",
+          "category": "conflict",
+          "country": "IR"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "count": 1,
+      "headlines": [
+        {
+          "id": "2026-11-06-01",
+          "ko": "미국 중간선거 뒤 AI 규제 우려로 기술주 급락",
+          "en": "Tech Stocks Plunge After US Midterms on Fears of AI Rules",
+          "fr": "Les valeurs technologiques chutent après les élections américaines, par peur de règles sur l'IA",
+          "category": "economy",
+          "country": "US"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "count": 1,
+      "headlines": [
+        {
+          "id": "2026-11-05-01",
+          "ko": "민주당 격차 더 벌어져… 상원 두 곳은 아직 접전",
+          "en": "Democrats' Lead Grows as Two Senate Races Stay Too Close to Call",
+          "fr": "Midterms : l'avance des démocrates grandit, deux sièges du Sénat encore indécis",
+          "category": "politics",
+          "country": "US"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "count": 1,
+      "headlines": [
+        {
+          "id": "2026-11-04-01",
+          "ko": "프랑스 혈액원 냉장 보관실, 해커 공격 받아",
+          "en": "Hackers Hit French Blood Storage Rooms in Latest European Cyber-Attack",
+          "fr": "Cyberattaque : des pirates s'en prennent aux chambres froides de l'Établissement français du sang",
+          "category": "technology",
+          "country": "FR"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "count": 1,
+      "headlines": [
+        {
+          "id": "2026-11-03-01",
+          "ko": "미국 중간선거, 민주당이 하원·상원 모두 차지",
+          "en": "Democrats Win the House and Senate in US Midterm Elections",
+          "fr": "Élections de mi-mandat aux États-Unis : les démocrates prennent le Congrès",
+          "category": "politics",
+          "country": "US"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "count": 5,
+      "headlines": [
+        {
+          "id": "2026-11-01-01",
+          "ko": "안토넬리, 20세에 F1 역대 최연소 월드 챔피언",
+          "en": "Kimi Antonelli Becomes F1's Youngest World Champion",
+          "fr": "Kimi Antonelli devient le plus jeune champion du monde de F1",
+          "category": "sports",
+          "country": "MX"
+        },
+        {
+          "id": "2026-11-01-02",
+          "ko": "불가리아 대선 결선, 이오토바 현직 대통령 앞서",
+          "en": "Bulgaria's Iotova Leads Presidential Runoff, Exit Polls Show",
+          "fr": "Présidentielle en Bulgarie : Iliana Iotova en tête, selon les sondages à la sortie des urnes",
+          "category": "politics",
+          "country": "BG"
+        },
+        {
+          "id": "2026-11-01-03",
+          "ko": "인도 야당, 선거인 명부 개정에 항의하며 델리서 대규모 집회",
+          "en": "Tens of Thousands Rally in Delhi Over Voter List Changes",
+          "fr": "Inde : des dizaines de milliers de manifestants contre la révision des listes électorales",
+          "category": "politics",
+          "country": "IN"
+        },
+        {
+          "id": "2026-11-01-04",
+          "ko": "프랑스 필리프 전 총리, 중도·우파 경선 참여 거부",
+          "en": "Philippe Rules Out a Centre-Right Primary Ahead of French Election",
+          "fr": "Présidentielle 2027 : Édouard Philippe refuse de participer à une primaire",
+          "category": "politics",
+          "country": "FR"
+        },
+        {
+          "id": "2026-11-01-05",
+          "ko": "유엔 서사하라 평화유지 임무, 35년 만에 종료",
+          "en": "UN Peacekeeping Mission in Western Sahara Ends After 35 Years",
+          "fr": "Sahara occidental : l'ONU met fin à sa mission, la MINURSO, après 35 ans",
+          "category": "world",
+          "country": "EH"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "count": 5,
+      "headlines": [
+        {
+          "id": "2026-10-31-01",
+          "ko": "다카르 유스올림픽 개막… 아프리카 땅에서 열린 첫 올림픽 행사",
+          "en": "Africa Hosts Its First Olympic Event in Dakar",
+          "fr": "Dakar accueille les premiers Jeux olympiques de l'histoire en Afrique",
+          "category": "sports",
+          "country": "SN"
+        },
+        {
+          "id": "2026-10-31-02",
+          "ko": "프랑스 생활비 시위 3주째… 32만 명 행진, 독일 청년 시위도",
+          "en": "Third Weekend of Cost-of-Living Protests Across France",
+          "fr": "Vie chère : troisième samedi de mobilisation en France, des heurts en fin de journée",
+          "category": "politics",
+          "country": "FR"
+        },
+        {
+          "id": "2026-10-31-03",
+          "ko": "영국 총리, 노예무역 공식 사과에 '열린 입장'… 배상은 선 그어",
+          "en": "UK Prime Minister Open to Formal Apology for Slavery",
+          "fr": "Esclavage : Andy Burnham se dit ouvert à des excuses officielles du Royaume-Uni",
+          "category": "politics",
+          "country": "GB"
+        },
+        {
+          "id": "2026-10-31-04",
+          "ko": "올레시키 휴전 덕분에… 몇 년 만에 가족 품에 안긴 피란민들",
+          "en": "Families Reunite After Rare Ceasefire in Oleshky",
+          "fr": "Olechky : des familles se retrouvent après une trêve rare",
+          "category": "conflict",
+          "country": "UA"
+        },
+        {
+          "id": "2026-10-31-05",
+          "ko": "폴란드 헌법재판소 놓고 정부와 대통령 정면충돌",
+          "en": "Poland's Government and President Clash Over the Top Court",
+          "fr": "Pologne : bras de fer entre le gouvernement et le président autour du Tribunal constitutionnel",
+          "category": "politics",
+          "country": "PL"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "count": 5,
+      "headlines": [
+        {
+          "id": "2026-10-30-01",
+          "ko": "레오 14세, 미국 선거에서 투표한 첫 교황",
+          "en": "Pope Leo XIV Becomes First Pope to Vote in a US Election",
+          "fr": "Léon XIV, premier pape à voter lors d'une élection américaine",
+          "category": "culture",
+          "country": "US"
+        },
+        {
+          "id": "2026-10-30-02",
+          "ko": "이탈리아 총파업… 생활비 시위, 프랑스·독일로 번져",
+          "en": "Cost-of-Living Protests Spread Across Europe",
+          "fr": "Vie chère : la colère des jeunes gagne l'Europe",
+          "category": "economy",
+          "country": "IT"
+        },
+        {
+          "id": "2026-10-30-03",
+          "ko": "바이낸스서 63억 달러 해킹… 역대 최대, '북한 배후' 지목",
+          "en": "Record $6.3 Billion Stolen in Binance Crypto Hack",
+          "fr": "Binance : 6,3 milliards de dollars volés, un record",
+          "category": "tech",
+          "country": "KP"
+        },
+        {
+          "id": "2026-10-30-04",
+          "ko": "COP17, 200개국 가까이 자연 보호 합의 채택",
+          "en": "Nearly 200 Countries Agree on New Steps to Protect Nature",
+          "fr": "COP17 : près de 200 pays s'accordent pour protéger la nature",
+          "category": "environment",
+          "country": "AM"
+        },
+        {
+          "id": "2026-10-30-05",
+          "ko": "캐나다·EU '미래를 위한 동맹' 발표… 한국도 파트너 후보",
+          "en": "Canada and the EU Launch an \"Alliance for the Future\"",
+          "fr": "Le Canada et l'UE lancent une « Alliance pour l'avenir »",
+          "category": "politics",
+          "country": "CA"
+        }
+      ]
+    },
+    {
       "date": "2026-10-29",
       "count": 5,
       "headlines": [
@@ -44,6 +266,52 @@
           "fr": "DoorDash va racheter Instacart pour 17 milliards de dollars",
           "category": "economy",
           "country": "US"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "count": 5,
+      "headlines": [
+        {
+          "id": "2026-10-28-01",
+          "ko": "스페인 고속열차 충돌… 2013년 이후 최악의 철도 사고",
+          "en": "High-Speed Train Crash Shocks Spain",
+          "fr": "L'Espagne sous le choc après une collision entre deux trains à grande vitesse",
+          "category": "disaster",
+          "country": "ES"
+        },
+        {
+          "id": "2026-10-28-02",
+          "ko": "영국, 에너지 요금 100파운드 지원… 은행 세금은 두 배로",
+          "en": "UK Gives £100 for Energy Bills, Raises Bank Tax",
+          "fr": "Royaume-Uni : 100 livres pour l'énergie, financées par les banques",
+          "category": "economy",
+          "country": "GB"
+        },
+        {
+          "id": "2026-10-28-03",
+          "ko": "브라질 대선 패배한 보우소나루, 몰래 미국 마이애미로",
+          "en": "Brazil's Defeated Candidate Flies to Miami",
+          "fr": "Brésil : le candidat battu Flávio Bolsonaro s'envole pour Miami",
+          "category": "politics",
+          "country": "BR"
+        },
+        {
+          "id": "2026-10-28-04",
+          "ko": "명왕성 너머에서 새 왜소행성 후보 발견",
+          "en": "A Possible New Dwarf Planet Beyond Pluto",
+          "fr": "Une possible nouvelle planète naine au-delà de Pluton",
+          "category": "science",
+          "country": "CL"
+        },
+        {
+          "id": "2026-10-28-05",
+          "ko": "프랑스 중부에 작은 지진 700여 차례… '지진 떼'",
+          "en": "Hundreds of Tiny Earthquakes Shake Central France",
+          "fr": "Plus de 700 microséismes secouent le Massif central",
+          "category": "science",
+          "country": "FR"
         }
       ]
     },
@@ -232,6 +500,6 @@
       ]
     }
   ],
-  "latest": "2026-10-29",
-  "updated_at": "2026-11-08T16:19:48.967Z"
+  "latest": "2026-11-08",
+  "updated_at": "2026-11-09T02:52:56.589Z"
 }

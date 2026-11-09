@@ -1,0 +1,852 @@
+{
+  "schema": 1,
+  "date": "2026-11-05",
+  "stories": [
+    {
+      "id": "2026-11-05-01",
+      "category": "politics",
+      "region": {
+        "country": "US",
+        "city": "Washington, D.C.",
+        "lat": 38.9,
+        "lng": -77.04
+      },
+      "headline": {
+        "en": "Democrats' Lead Grows as Two Senate Races Stay Too Close to Call",
+        "fr": "Midterms : l'avance des démocrates grandit, deux sièges du Sénat encore indécis",
+        "ko": "민주당 격차 더 벌어져… 상원 두 곳은 아직 접전"
+      },
+      "hook": {
+        "en": "Which US Senate races are still too close to call?",
+        "fr": "Quelles élections au Sénat américain sont encore trop serrées ?",
+        "ko": "미국 상원 선거 중 아직 결과가 안 나온 곳은?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Democrats won the House and the Senate.",
+            "Their lead in the House keeps growing.",
+            "Two Senate races, in Alaska and Mississippi, are still too close to call."
+          ],
+          "easy_ko": [
+            "민주당이 하원과 상원을 차지했습니다.",
+            "하원에서 민주당의 격차는 계속 커지고 있습니다.",
+            "알래스카와 미시시피의 상원 선거 두 곳은 아직 너무 접전이라 결과를 말할 수 없습니다."
+          ],
+          "normal": [
+            "The Democrats' wins in the US midterm elections kept growing on Thursday.",
+            "In the House of Representatives, they led Republicans by 252 seats to 155, with 28 races still to be called, the Guardian reported.",
+            "They also won the Senate, and NPR said it is their biggest Senate majority since Barack Obama's early years as president.",
+            "Two Senate races, in Alaska and Mississippi, were still too close to call, according to the BBC.",
+            "In Mississippi, Democrat Scott Colom led Republican Senator Cindy Hyde-Smith by about 1,100 votes, and officials have until 10 November to count late ballots.",
+            "In Alaska, Democrat Mary Peltola led Republican Senator Dan Sullivan by about 600 votes.",
+            "If Colom wins, he would be the first Black person elected to the US Senate in Mississippi since 1875."
+          ],
+          "normal_ko": [
+            "미국 중간선거에서 민주당의 승리는 목요일에도 계속 늘어났습니다.",
+            "가디언에 따르면 하원에서 민주당은 공화당을 252석 대 155석으로 앞섰고, 28개 선거구는 아직 결과가 나오지 않았습니다.",
+            "민주당은 상원도 차지했고, NPR은 버락 오바마 대통령 집권 초기 이후 가장 큰 상원 다수라고 전했습니다.",
+            "BBC에 따르면 알래스카와 미시시피의 상원 선거 두 곳은 아직 너무 접전이라 결과를 알 수 없었습니다.",
+            "미시시피에서는 민주당 스콧 콜럼이 공화당 신디 하이드스미스 상원의원을 약 1,100표 앞서고 있고, 당국은 11월 10일까지 늦게 도착한 투표용지를 셉니다.",
+            "알래스카에서는 민주당 메리 펠톨라가 공화당 댄 설리번 상원의원을 약 600표 앞서고 있습니다.",
+            "콜럼이 이기면, 1875년 이후 미시시피에서 미국 상원의원으로 뽑힌 첫 흑인이 됩니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Les démocrates ont gagné la Chambre et le Sénat.",
+            "Leur avance à la Chambre continue de grandir.",
+            "Au Sénat, les résultats en Alaska et au Mississippi sont encore trop serrés."
+          ],
+          "easy_ko": [
+            "민주당이 하원과 상원을 차지했습니다.",
+            "하원에서 민주당의 격차는 계속 커지고 있습니다.",
+            "상원에서 알래스카와 미시시피의 결과는 아직 너무 접전입니다."
+          ],
+          "normal": [
+            "Les victoires des démocrates aux élections de mi-mandat ont continué de s'étendre jeudi.",
+            "À la Chambre des représentants, ils avaient pris de l'avance sur les républicains, avec 252 sièges contre 155, et 28 circonscriptions restaient à désigner, selon le Guardian.",
+            "Ils ont aussi gagné le Sénat, et selon NPR, c'est leur plus large majorité au Sénat depuis les premières années de la présidence de Barack Obama.",
+            "Deux élections sénatoriales, en Alaska et au Mississippi, restaient trop serrées pour être tranchées, selon la BBC.",
+            "Au Mississippi, le démocrate Scott Colom devançait la sénatrice républicaine Cindy Hyde-Smith d'environ 1 100 voix, et les autorités ont jusqu'au 10 novembre pour compter les bulletins arrivés tard.",
+            "En Alaska, la démocrate Mary Peltola devançait le sénateur républicain Dan Sullivan d'environ 600 voix.",
+            "Si Scott Colom gagne, il sera le premier Noir élu au Sénat américain pour le Mississippi depuis 1875."
+          ],
+          "normal_ko": [
+            "미국 중간선거에서 민주당의 승리는 목요일에도 계속 늘어났습니다.",
+            "가디언에 따르면 하원에서 민주당은 공화당을 252석 대 155석으로 앞섰고, 28개 선거구는 아직 결과가 나오지 않았습니다.",
+            "민주당은 상원도 차지했고, NPR은 버락 오바마 대통령 집권 초기 이후 가장 큰 상원 다수라고 전했습니다.",
+            "BBC에 따르면 알래스카와 미시시피의 상원 선거 두 곳은 아직 너무 접전이라 결론이 나지 않았습니다.",
+            "미시시피에서는 민주당 스콧 콜럼이 공화당 신디 하이드스미스 상원의원을 약 1,100표 앞서고 있고, 당국은 11월 10일까지 늦게 도착한 투표용지를 셉니다.",
+            "알래스카에서는 민주당 메리 펠톨라가 공화당 댄 설리번 상원의원을 약 600표 앞서고 있습니다.",
+            "콜럼이 이기면, 1875년 이후 미시시피에서 미국 상원의원으로 뽑힌 첫 흑인이 됩니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "미국 중간선거는 11월 3일에 치러졌고, 개표는 며칠 더 걸립니다. 접전 지역에서는 투표소에서 바로 내지 못한 임시투표(provisional ballot)나 우편투표를 선거 뒤에도 일정 기간 받아 세기 때문에, 몇백~천 표 차이면 결과가 며칠 늦어질 수 있어요. 미시시피는 11월 10일까지 이를 셉니다. 상원은 100명으로 구성되어 과반은 51석이고, 이번에 민주당이 이미 다수당이 됐지만 알래스카·미시시피 결과에 따라 다수의 크기가 달라집니다. 하원은 435석이라 과반은 218석입니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "grow",
+          "pos": "verb",
+          "ko": "커지다, 늘어나다",
+          "example": "The city keeps growing.",
+          "example_ko": "그 도시는 계속 커지고 있어요.",
+          "note_ko": "grow–grew–grown. 'grow up'은 '자라다, 어른이 되다'. 명사는 growth."
+        },
+        {
+          "lang": "en",
+          "word": "win",
+          "pos": "verb",
+          "ko": "이기다, 얻다",
+          "example": "She won the race.",
+          "example_ko": "그녀가 경주에서 이겼어요.",
+          "note_ko": "win–won–won. 명사로도 써요(a win = 승리). 반대는 lose."
+        },
+        {
+          "lang": "en",
+          "word": "lead",
+          "pos": "noun",
+          "ko": "앞선 상태, 선두",
+          "example": "She has a small lead in the polls.",
+          "example_ko": "그녀는 여론조사에서 근소하게 앞서요.",
+          "note_ko": "동사 lead(이끌다, 앞서다)는 led–led로 변해요. 'lead by 600 votes' = 600표 차로 앞서다."
+        },
+        {
+          "lang": "en",
+          "word": "seat",
+          "pos": "noun",
+          "ko": "(의회) 의석, 자리",
+          "example": "The party won three seats.",
+          "example_ko": "그 정당은 3석을 얻었어요.",
+          "note_ko": "원래는 '좌석'. 의회에서는 의원 한 명의 자리를 뜻해요."
+        },
+        {
+          "lang": "en",
+          "word": "race",
+          "pos": "noun",
+          "ko": "선거 (경쟁), 경주",
+          "example": "It is a close race.",
+          "example_ko": "접전이에요.",
+          "note_ko": "선거 뉴스에서는 '한 지역의 선거'를 race라고 불러요(Senate race). close race = 접전."
+        },
+        {
+          "lang": "en",
+          "word": "too close to call",
+          "pos": "phrase",
+          "ko": "너무 접전이라 승자를 알 수 없는",
+          "example": "The vote is too close to call.",
+          "example_ko": "투표가 너무 접전이라 승자를 알 수 없어요.",
+          "note_ko": "call a race = 당선을 발표하다. 선거·경기 뉴스에서 자주 나와요."
+        },
+        {
+          "lang": "en",
+          "word": "majority",
+          "pos": "noun",
+          "ko": "과반, 다수",
+          "example": "They have a majority in the Senate.",
+          "example_ko": "그들은 상원에서 과반이에요.",
+          "note_ko": "반대말은 minority(소수). 'the majority of people' = 대다수의 사람들."
+        },
+        {
+          "lang": "en",
+          "word": "vote",
+          "pos": "noun",
+          "ko": "표, 투표",
+          "example": "She won by 600 votes.",
+          "example_ko": "그녀가 600표 차로 이겼어요.",
+          "note_ko": "동사(투표하다)로도 써요. 투표하는 사람은 voter."
+        },
+        {
+          "lang": "en",
+          "word": "official",
+          "pos": "noun",
+          "ko": "공무원, 당국자",
+          "example": "An official said the results are not final.",
+          "example_ko": "한 당국자가 결과가 확정이 아니라고 말했어요.",
+          "note_ko": "형용사로는 '공식적인'(official result = 공식 결과). 복수 officials는 '당국'처럼 쓰여요."
+        },
+        {
+          "lang": "en",
+          "word": "count",
+          "pos": "verb",
+          "ko": "(표를) 세다, 집계하다",
+          "example": "They are still counting the votes.",
+          "example_ko": "그들은 아직 표를 세고 있어요.",
+          "note_ko": "명사로도 써요(a count = 개표, 집계). 'vote count' = 개표."
+        },
+        {
+          "lang": "en",
+          "word": "ballot",
+          "pos": "noun",
+          "ko": "투표용지, 투표",
+          "example": "Ballots arrived by mail.",
+          "example_ko": "투표용지가 우편으로 도착했어요.",
+          "note_ko": "mail ballot = 우편투표. 'on the ballot' = 투표에 오른."
+        },
+        {
+          "lang": "en",
+          "word": "until",
+          "pos": "preposition",
+          "ko": "~까지",
+          "example": "You have until Friday to vote.",
+          "example_ko": "금요일까지 투표할 수 있어요.",
+          "note_ko": "have until + 날짜 = ~까지 기한이 있다. 'by'는 '~까지는 (그 전에)'로 조금 달라요."
+        },
+        {
+          "lang": "en",
+          "word": "elect",
+          "pos": "verb",
+          "ko": "선출하다",
+          "example": "They elected a new mayor.",
+          "example_ko": "그들은 새 시장을 뽑았어요.",
+          "note_ko": "명사 election(선거). 'newly elected' = 새로 당선된. 사람은 elected official."
+        },
+        {
+          "lang": "en",
+          "word": "since",
+          "pos": "preposition",
+          "ko": "~이래로",
+          "example": "He has lived here since 2020.",
+          "example_ko": "그는 2020년부터 여기 살았어요.",
+          "note_ko": "since + 시점은 보통 현재완료와 함께 써요. 'first … since 1875' = 1875년 이후 처음."
+        },
+        {
+          "lang": "fr",
+          "word": "victoire",
+          "pos": "noun",
+          "ko": "승리",
+          "example": "Le parti fête sa victoire.",
+          "example_ko": "그 정당이 승리를 축하해요.",
+          "note_ko": "여성 명사. 반대는 la défaite(패배). 동사 vaincre."
+        },
+        {
+          "lang": "fr",
+          "word": "avance",
+          "pos": "noun",
+          "ko": "앞섬, 앞선 정도",
+          "example": "Elle a de l'avance dans les sondages.",
+          "example_ko": "그녀는 여론조사에서 앞서 있어요.",
+          "note_ko": "여성 명사. prendre de l'avance = 앞서 나가다. 반대는 le retard(뒤처짐). '미리'의 en avance도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "siège",
+          "pos": "noun",
+          "ko": "(의회) 의석, 좌석",
+          "example": "Le parti gagne dix sièges.",
+          "example_ko": "그 정당은 10석을 얻어요.",
+          "note_ko": "남성 명사. 원래 '좌석'. 회사의 본사(siège social)도 siège."
+        },
+        {
+          "lang": "fr",
+          "word": "circonscription",
+          "pos": "noun",
+          "ko": "선거구",
+          "example": "Elle est élue dans sa circonscription.",
+          "example_ko": "그녀는 자기 선거구에서 당선돼요.",
+          "note_ko": "여성 명사. 의원 한 명을 뽑는 지역 단위. 긴 단어라 천천히 읽어 보세요."
+        },
+        {
+          "lang": "fr",
+          "word": "majorité",
+          "pos": "noun",
+          "ko": "과반, 다수",
+          "example": "Ils ont la majorité au Sénat.",
+          "example_ko": "그들은 상원에서 과반이에요.",
+          "note_ko": "반대말은 minorité(소수). la majorité des gens = 대다수의 사람들."
+        },
+        {
+          "lang": "fr",
+          "word": "serré",
+          "pos": "adjective",
+          "ko": "접전인, 팽팽한",
+          "example": "Le résultat est très serré.",
+          "example_ko": "결과가 매우 팽팽해요.",
+          "note_ko": "여성형 serrée. 원래 '꽉 조인'. une course serrée = 접전. 동사 serrer(조이다)."
+        },
+        {
+          "lang": "fr",
+          "word": "trancher",
+          "pos": "verb",
+          "ko": "결정짓다, (논쟁을) 끝내다",
+          "example": "Les votes tardifs vont trancher.",
+          "example_ko": "늦게 온 표가 승부를 가를 거예요.",
+          "note_ko": "원래 '자르다'. 접전·논쟁을 '결말짓다'는 뜻으로 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "devancer",
+          "pos": "verb",
+          "ko": "앞서다",
+          "example": "Elle devance son rival de 600 voix.",
+          "example_ko": "그녀가 경쟁자를 600표 앞서요.",
+          "note_ko": "devant(앞)에서 나온 동사. 반대는 être derrière. 'devancer + 사람 + de + 숫자'."
+        },
+        {
+          "lang": "fr",
+          "word": "voix",
+          "pos": "noun",
+          "ko": "표, 목소리",
+          "example": "Il gagne avec mille voix d'avance.",
+          "example_ko": "그는 천 표 차로 이겨요.",
+          "note_ko": "여성 명사. 원래 '목소리'인데 선거에서는 '표'. 투표용지는 bulletin."
+        },
+        {
+          "lang": "fr",
+          "word": "autorités",
+          "pos": "noun",
+          "ko": "당국",
+          "example": "Les autorités comptent les votes.",
+          "example_ko": "당국이 표를 세고 있어요.",
+          "note_ko": "여성 복수 명사. 뉴스에서 '당국'이라고 할 때 복수로 써요(les autorités)."
+        },
+        {
+          "lang": "fr",
+          "word": "compter",
+          "pos": "verb",
+          "ko": "세다, 집계하다",
+          "example": "On compte encore les bulletins.",
+          "example_ko": "아직 투표용지를 세고 있어요.",
+          "note_ko": "'p'는 발음하지 않아요(콩테). 명사 le compte, 'décompte'는 개표."
+        },
+        {
+          "lang": "fr",
+          "word": "bulletin",
+          "pos": "noun",
+          "ko": "투표용지",
+          "example": "Chaque électeur met un bulletin dans l'urne.",
+          "example_ko": "유권자는 투표함에 투표용지를 넣어요.",
+          "note_ko": "남성 명사. bulletin de vote = 투표용지. 일기예보(bulletin météo)처럼 '보고서·소식'의 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "élire",
+          "pos": "verb",
+          "ko": "선출하다",
+          "example": "Les Américains élisent leurs sénateurs.",
+          "example_ko": "미국인들은 상원의원을 뽑아요.",
+          "note_ko": "불규칙 동사(élu). 명사 élection, 당선된 사람은 un élu."
+        },
+        {
+          "lang": "fr",
+          "word": "depuis",
+          "pos": "preposition",
+          "ko": "~이래로, ~전부터",
+          "example": "Il vit ici depuis 2020.",
+          "example_ko": "그는 2020년부터 여기 살아요.",
+          "note_ko": "depuis + 시점/기간. 현재형과 함께 써요(il vit … depuis). 'pour la première fois depuis 1875' = 1875년 이후 처음."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "If a race is \"too close to call\"…",
+          "choices": [
+            "nobody knows the winner yet",
+            "the winner is clear",
+            "the vote is cancelled"
+          ],
+          "answer": 0,
+          "explain_ko": "too close to call = 표 차가 너무 작아 아직 승자를 알 수 없다는 뜻."
+        },
+        {
+          "lang": "fr",
+          "q": "« Un résultat serré », c'est…",
+          "choices": [
+            "un résultat très proche",
+            "un résultat très large",
+            "un résultat annulé"
+          ],
+          "answer": 0,
+          "explain_ko": "serré = 팽팽한. 두 후보의 표 차가 아주 작다는 뜻."
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+          "accessed": "2026-11-06"
+        },
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg0y2nr445o",
+          "accessed": "2026-11-06"
+        },
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
+          "accessed": "2026-11-06"
+        },
+        {
+          "name": "Wikipedia Current events (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_5",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": null,
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-05/2ffc7f1921f7b61d.mp3",
+            "2026-11-05/f80a48eac4e09a50.mp3",
+            "2026-11-05/9699b6de302ff7c0.mp3"
+          ],
+          "normal": [
+            "2026-11-05/15170604bb25f050.mp3",
+            "2026-11-05/d3898c3dc9f6f120.mp3",
+            "2026-11-05/06a4a9c3988fd10c.mp3",
+            "2026-11-05/2abed456b38d8bf9.mp3",
+            "2026-11-05/c6d7ba41de2bc873.mp3",
+            "2026-11-05/0e46937ed67f32f6.mp3",
+            "2026-11-05/bdc2602dffdc989a.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-05/2d3bcca2ef565ddf.mp3",
+            "2026-11-05/78af70743388459b.mp3",
+            "2026-11-05/f19ad2c5e88efba7.mp3"
+          ],
+          "normal": [
+            "2026-11-05/37df613de668ec62.mp3",
+            "2026-11-05/53ff6d70f0df7646.mp3",
+            "2026-11-05/6b107d3cf12ebf78.mp3",
+            "2026-11-05/2d4403e5474f2afc.mp3",
+            "2026-11-05/f6da4c41a9b2a32d.mp3",
+            "2026-11-05/81cfb251898623aa.mp3",
+            "2026-11-05/ec9e5c1d055353d0.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-05/89232d4c9e40a92b.mp3",
+          "2026-11-05/4210bd6bcfa0016f.mp3",
+          "2026-11-05/5f5bd8a08ff29115.mp3",
+          "2026-11-05/b0b795926188a28b.mp3",
+          "2026-11-05/46b578f0fe65f330.mp3",
+          "2026-11-05/6d06f028a24bc150.mp3",
+          "2026-11-05/8e120907bafd4d5a.mp3",
+          "2026-11-05/fa2d5e6c07c71f86.mp3",
+          "2026-11-05/2da636d48629491e.mp3",
+          "2026-11-05/7af11133106c5dec.mp3",
+          "2026-11-05/da7b8d24741fc176.mp3",
+          "2026-11-05/1b8145c63e6d3e71.mp3",
+          "2026-11-05/ce0b74668976a885.mp3",
+          "2026-11-05/3c3ff5c1cc7a5368.mp3",
+          "2026-11-05/63ec32676b4c8f2d.mp3",
+          "2026-11-05/09f1f91e88cf4bdb.mp3",
+          "2026-11-05/9d170543f8caf83e.mp3",
+          "2026-11-05/1bb7876333254ae4.mp3",
+          "2026-11-05/1e187b3c980add7e.mp3",
+          "2026-11-05/b9bf575807859fac.mp3",
+          "2026-11-05/4ab1cbf8a253c409.mp3",
+          "2026-11-05/b65f028edf28c4a7.mp3",
+          "2026-11-05/18322bf8c83038f6.mp3",
+          "2026-11-05/eed5999a3f8b182f.mp3",
+          "2026-11-05/a21bca629b9207ab.mp3",
+          "2026-11-05/8b7a443c92a7c3bb.mp3",
+          "2026-11-05/918f394bf0f79c3e.mp3",
+          "2026-11-05/ef6b2eea7fda6ae0.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.154,
+              0.363,
+              0.433,
+              0.502,
+              0.572,
+              0.641,
+              0.711
+            ],
+            [
+              0,
+              0.125,
+              0.25,
+              0.375,
+              0.5,
+              0.625,
+              0.75
+            ],
+            [
+              0,
+              0.067,
+              0.2,
+              0.298,
+              0.329,
+              0.423,
+              0.454,
+              0.648,
+              0.707,
+              0.766,
+              0.824,
+              0.883,
+              0.941
+            ]
+          ],
+          "normal": [
+            [
+              0.144,
+              0.187,
+              0.315,
+              0.358,
+              0.401,
+              0.443,
+              0.486,
+              0.571,
+              0.7,
+              0.742,
+              0.828,
+              0.87
+            ],
+            [
+              0.058,
+              0.081,
+              0.105,
+              0.129,
+              0.153,
+              0.272,
+              0.296,
+              0.32,
+              0.415,
+              0.439,
+              0.486,
+              0.51,
+              0.534,
+              0.595,
+              0.604,
+              0.624,
+              0.633,
+              0.643,
+              0.653,
+              0.663,
+              0.684,
+              0.744,
+              0.864
+            ],
+            [
+              0.04,
+              0.063,
+              0.109,
+              0.132,
+              0.155,
+              0.249,
+              0.276,
+              0.302,
+              0.329,
+              0.356,
+              0.383,
+              0.41,
+              0.464,
+              0.518,
+              0.625,
+              0.652,
+              0.706,
+              0.786,
+              0.84,
+              0.867,
+              0.894
+            ],
+            [
+              0.11,
+              0.153,
+              0.24,
+              0.305,
+              0.33,
+              0.404,
+              0.428,
+              0.596,
+              0.63,
+              0.663,
+              0.696,
+              0.729,
+              0.763,
+              0.825,
+              0.9,
+              0.925,
+              0.95
+            ],
+            [
+              0.062,
+              0.076,
+              0.169,
+              0.224,
+              0.242,
+              0.279,
+              0.298,
+              0.372,
+              0.427,
+              0.464,
+              0.52,
+              0.538,
+              0.575,
+              0.63,
+              0.687,
+              0.706,
+              0.761,
+              0.779,
+              0.816,
+              0.853,
+              0.908,
+              0.926,
+              0.945,
+              0.963
+            ],
+            [
+              0.061,
+              0.084,
+              0.208,
+              0.295,
+              0.353,
+              0.441,
+              0.47,
+              0.586,
+              0.674,
+              0.703,
+              0.79,
+              0.819,
+              0.878,
+              0.936
+            ],
+            [
+              0.057,
+              0.091,
+              0.158,
+              0.243,
+              0.274,
+              0.304,
+              0.334,
+              0.364,
+              0.394,
+              0.424,
+              0.485,
+              0.545,
+              0.575,
+              0.606,
+              0.636,
+              0.696,
+              0.726,
+              0.847,
+              0.877
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.273,
+              0.325,
+              0.479,
+              0.53,
+              0.633,
+              0.684,
+              0.735,
+              0.787,
+              0.838
+            ],
+            [
+              0.177,
+              0.24,
+              0.367,
+              0.43,
+              0.493,
+              0.557,
+              0.747,
+              0.81
+            ],
+            [
+              0.102,
+              0.139,
+              0.276,
+              0.309,
+              0.407,
+              0.44,
+              0.538,
+              0.571,
+              0.603,
+              0.734,
+              0.767,
+              0.833,
+              0.865
+            ]
+          ],
+          "normal": [
+            [
+              0.049,
+              0.085,
+              0.157,
+              0.193,
+              0.3,
+              0.336,
+              0.444,
+              0.48,
+              0.587,
+              0.623,
+              0.731,
+              0.767,
+              0.838
+            ],
+            [
+              0.024,
+              0.04,
+              0.056,
+              0.072,
+              0.089,
+              0.187,
+              0.201,
+              0.229,
+              0.243,
+              0.257,
+              0.285,
+              0.299,
+              0.313,
+              0.398,
+              0.443,
+              0.487,
+              0.51,
+              0.532,
+              0.577,
+              0.599,
+              0.644,
+              0.733,
+              0.778,
+              0.8,
+              0.868,
+              0.912,
+              0.935
+            ],
+            [
+              0.053,
+              0.071,
+              0.089,
+              0.126,
+              0.162,
+              0.181,
+              0.255,
+              0.292,
+              0.368,
+              0.42,
+              0.437,
+              0.454,
+              0.47,
+              0.487,
+              0.555,
+              0.572,
+              0.606,
+              0.64,
+              0.657,
+              0.69,
+              0.724,
+              0.741,
+              0.758,
+              0.809,
+              0.826,
+              0.859
+            ],
+            [
+              0.05,
+              0.074,
+              0.147,
+              0.281,
+              0.303,
+              0.369,
+              0.391,
+              0.413,
+              0.526,
+              0.581,
+              0.608,
+              0.663,
+              0.69,
+              0.717,
+              0.807,
+              0.87,
+              0.902
+            ],
+            [
+              0.03,
+              0.044,
+              0.136,
+              0.152,
+              0.198,
+              0.214,
+              0.245,
+              0.291,
+              0.307,
+              0.353,
+              0.415,
+              0.447,
+              0.493,
+              0.54,
+              0.555,
+              0.586,
+              0.602,
+              0.617,
+              0.633,
+              0.695,
+              0.71,
+              0.741,
+              0.772,
+              0.803,
+              0.819,
+              0.85,
+              0.865,
+              0.912,
+              0.959
+            ],
+            [
+              0.089,
+              0.114,
+              0.225,
+              0.249,
+              0.32,
+              0.368,
+              0.439,
+              0.51,
+              0.534,
+              0.606,
+              0.701,
+              0.725,
+              0.796,
+              0.868,
+              0.915
+            ],
+            [
+              0.084,
+              0.118,
+              0.151,
+              0.219,
+              0.306,
+              0.329,
+              0.377,
+              0.4,
+              0.448,
+              0.472,
+              0.519,
+              0.543,
+              0.59,
+              0.685,
+              0.709,
+              0.733,
+              0.827,
+              0.875
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "audio_base": "https://koreapapa-kim.github.io/worldnews-audio"
+}

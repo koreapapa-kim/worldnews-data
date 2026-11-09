@@ -1,0 +1,928 @@
+{
+  "schema": 1,
+  "date": "2026-11-03",
+  "stories": [
+    {
+      "id": "2026-11-03-01",
+      "category": "politics",
+      "region": {
+        "country": "US",
+        "city": "Washington, D.C.",
+        "lat": 38.9,
+        "lng": -77.04
+      },
+      "headline": {
+        "en": "Democrats Win the House and Senate in US Midterm Elections",
+        "fr": "Élections de mi-mandat aux États-Unis : les démocrates prennent le Congrès",
+        "ko": "미국 중간선거, 민주당이 하원·상원 모두 차지"
+      },
+      "hook": {
+        "en": "Who won the US midterm elections?",
+        "fr": "Qui a gagné les élections de mi-mandat aux États-Unis ?",
+        "ko": "미국 중간선거의 승자는 누구일까?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Americans voted in the midterm elections on Tuesday.",
+            "Democrats took control of the House and the Senate.",
+            "It is a big loss for President Trump's party."
+          ],
+          "easy_ko": [
+            "미국인들이 화요일에 중간선거 투표를 했습니다.",
+            "민주당이 하원과 상원의 다수당이 됐습니다.",
+            "트럼프 대통령의 당에는 큰 패배입니다."
+          ],
+          "normal": [
+            "Americans voted in the midterm elections on Tuesday, halfway through President Donald Trump's second term.",
+            "News organizations, including CBS News and Fox News, project that the Democratic Party will win control of both the House of Representatives and the Senate.",
+            "CNBC expects Democrats to win at least 245 of the 435 House seats, while 218 are needed for a majority.",
+            "In the Senate, Democrats flipped seats in Texas, Kansas, North Carolina, Ohio, Iowa and South Carolina, and Democrat Troy Jackson beat Republican Senator Susan Collins in Maine.",
+            "Exit polls put Trump's approval rating at 38 percent, which CBS News said would be a record low for a president in a midterm election.",
+            "Trump congratulated the Democrats and told CBS News he will work with them, but he also told Fox News he will use his veto power against laws he opposes.",
+            "Some Senate races, such as Michigan and Alaska, were still being counted."
+          ],
+          "normal_ko": [
+            "미국인들은 화요일에 도널드 트럼프 대통령의 두 번째 임기 중반을 맞아 중간선거 투표를 했습니다.",
+            "CBS뉴스와 폭스뉴스를 비롯한 언론사들은 민주당이 하원과 상원을 모두 차지할 것으로 전망합니다.",
+            "CNBC는 민주당이 하원 435석 중 최소 245석을 얻을 것으로 보는데, 과반에는 218석이 필요합니다.",
+            "상원에서는 민주당이 텍사스, 캔자스, 노스캐롤라이나, 오하이오, 아이오와, 사우스캐롤라이나에서 의석을 빼앗았고, 메인주에서는 민주당 트로이 잭슨이 공화당 수전 콜린스 상원의원을 이겼습니다.",
+            "출구조사에서 트럼프의 지지율은 38%였고, CBS뉴스는 중간선거에서 대통령 지지율로는 역대 최저 기록이 될 것이라고 전했습니다.",
+            "트럼프는 민주당에 축하를 전하고 CBS뉴스에 협력하겠다고 말했지만, 폭스뉴스에는 반대하는 법안에 거부권을 쓰겠다고도 말했습니다.",
+            "미시간, 알래스카 같은 일부 상원 선거는 아직 개표 중이었습니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Les Américains ont voté mardi aux élections de mi-mandat.",
+            "Les démocrates ont pris le contrôle de la Chambre et du Sénat.",
+            "C'est une grande défaite pour le parti du président Trump."
+          ],
+          "easy_ko": [
+            "미국인들이 화요일에 중간선거 투표를 했습니다.",
+            "민주당이 하원과 상원의 다수당이 됐습니다.",
+            "트럼프 대통령의 당에는 큰 패배입니다."
+          ],
+          "normal": [
+            "Les Américains ont voté mardi lors des élections de mi-mandat, à mi-chemin du second mandat du président Donald Trump.",
+            "Plusieurs médias, dont CBS News et Fox News, annoncent que le Parti démocrate prend le contrôle de la Chambre des représentants et du Sénat.",
+            "Selon CNBC, les démocrates devraient obtenir au moins 245 des 435 sièges de la Chambre ; il leur en fallait 218 pour avoir la majorité.",
+            "Au Sénat, les démocrates ont repris des sièges au Texas, au Kansas, en Caroline du Nord, dans l'Ohio, en Iowa et en Caroline du Sud, et le démocrate Troy Jackson a battu la sénatrice républicaine Susan Collins dans le Maine.",
+            "Selon les sondages à la sortie des urnes, la cote de popularité de Donald Trump est de 38 %, ce qui serait un niveau record pour un président lors de ces élections, d'après CBS News.",
+            "Donald Trump a félicité les démocrates et dit à CBS News qu'il travaillera avec eux ; il a aussi annoncé à Fox News qu'il utiliserait son droit de veto contre les lois qu'il refuse.",
+            "Dans certains États, comme le Michigan et l'Alaska, les votes étaient encore en cours de décompte."
+          ],
+          "normal_ko": [
+            "미국인들은 화요일에 도널드 트럼프 대통령의 두 번째 임기 중반을 맞아 중간선거 투표를 했습니다.",
+            "CBS뉴스와 폭스뉴스를 비롯한 여러 언론은 민주당이 하원과 상원을 모두 차지한다고 전했습니다.",
+            "CNBC에 따르면 민주당은 하원 435석 중 최소 245석을 얻을 전망이고, 과반에는 218석이 필요했습니다.",
+            "상원에서는 민주당이 텍사스, 캔자스, 노스캐롤라이나, 오하이오, 아이오와, 사우스캐롤라이나에서 의석을 되찾았고, 메인주에서는 민주당 트로이 잭슨이 공화당 수전 콜린스 상원의원을 이겼습니다.",
+            "출구조사에서 트럼프의 지지율은 38%였고, CBS뉴스에 따르면 중간선거 대통령 지지율로는 역대 최저 수준입니다.",
+            "트럼프는 민주당에 축하를 전하고 CBS뉴스에 협력하겠다고 말했지만, 폭스뉴스에는 반대하는 법안에 거부권을 쓰겠다고도 말했습니다.",
+            "미시간, 알래스카 같은 일부 주에서는 아직 개표가 진행 중이었습니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "미국 중간선거는 대통령 임기 4년의 중간(2년째)에 열리는 선거로, 하원 435석 전체와 상원 100석 중 약 3분의 1을 새로 뽑습니다. 법은 하원과 상원이 모두 통과시켜야 만들어지기 때문에, 대통령과 다른 당이 의회를 차지하면 대통령이 원하는 법을 통과시키기 어려워지고 의회가 정부를 조사할 힘도 커집니다. 그래서 중간선거는 대통령에 대한 평가로 불려요. 대통령의 당은 최근 20번의 중간선거 중 18번에서 하원 의석을 잃었습니다. 거부권(veto)은 대통령이 의회가 통과시킨 법안을 거부하는 권한입니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "vote",
+          "pos": "verb",
+          "ko": "투표하다",
+          "example": "I voted for the first time last year.",
+          "example_ko": "저는 작년에 처음으로 투표했어요.",
+          "note_ko": "명사로도 써요(a vote = 투표). 투표하는 사람은 voter."
+        },
+        {
+          "lang": "en",
+          "word": "midterm elections",
+          "pos": "noun",
+          "ko": "중간선거",
+          "example": "The midterm elections are held every four years.",
+          "example_ko": "중간선거는 4년마다 열려요.",
+          "note_ko": "대통령 임기 중간에 열려서 midterm. 줄여서 the midterms라고도 해요."
+        },
+        {
+          "lang": "en",
+          "word": "term",
+          "pos": "noun",
+          "ko": "임기",
+          "example": "She is in her second term as mayor.",
+          "example_ko": "그녀는 시장 두 번째 임기예요.",
+          "note_ko": "학교의 '학기', 계약의 '조건(terms)'도 term. 뜻이 여러 개인 단어예요."
+        },
+        {
+          "lang": "en",
+          "word": "project",
+          "pos": "verb",
+          "ko": "예측하다, 전망하다",
+          "example": "Experts project that prices will rise.",
+          "example_ko": "전문가들은 물가가 오를 것으로 전망해요.",
+          "note_ko": "선거 뉴스에서는 '당선을 예측(발표)하다'. 명사 project(프로젝트)와 강세가 달라요(동사는 pro-JECT)."
+        },
+        {
+          "lang": "en",
+          "word": "control",
+          "pos": "noun",
+          "ko": "(권력의) 통제, 장악",
+          "example": "The party took control of the city.",
+          "example_ko": "그 정당이 시를 장악했어요.",
+          "note_ko": "take control of = ~를 장악하다. lose control = 통제력을 잃다."
+        },
+        {
+          "lang": "en",
+          "word": "majority",
+          "pos": "noun",
+          "ko": "과반, 다수",
+          "example": "They have a majority in the House.",
+          "example_ko": "그들은 하원에서 과반을 차지해요.",
+          "note_ko": "반대말은 minority(소수). 'the majority of people'은 대다수의 사람들."
+        },
+        {
+          "lang": "en",
+          "word": "seat",
+          "pos": "noun",
+          "ko": "(의회) 의석",
+          "example": "The party won ten seats.",
+          "example_ko": "그 정당은 10석을 얻었어요.",
+          "note_ko": "원래는 '자리, 좌석'. 의회에서는 의원 한 명의 자리를 뜻해요."
+        },
+        {
+          "lang": "en",
+          "word": "flip",
+          "pos": "verb",
+          "ko": "(의석을) 뒤집어 가져오다",
+          "example": "Democrats flipped a seat in Ohio.",
+          "example_ko": "민주당이 오하이오에서 의석 하나를 뒤집었어요.",
+          "note_ko": "원래 '뒤집다'. 상대 당이 가지고 있던 의석을 빼앗을 때 써요."
+        },
+        {
+          "lang": "en",
+          "word": "beat",
+          "pos": "verb",
+          "ko": "이기다",
+          "example": "She beat him in the election.",
+          "example_ko": "그녀가 선거에서 그를 이겼어요.",
+          "note_ko": "beat–beat–beaten으로 변해요. defeat도 같은 뜻이지만 더 격식 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "exit poll",
+          "pos": "noun",
+          "ko": "출구조사",
+          "example": "The exit poll shows a close race.",
+          "example_ko": "출구조사는 접전을 보여 줘요.",
+          "note_ko": "투표소를 나오는 사람에게 누구를 찍었는지 묻는 조사. poll = 여론조사."
+        },
+        {
+          "lang": "en",
+          "word": "approval rating",
+          "pos": "noun",
+          "ko": "지지율",
+          "example": "The mayor's approval rating is 60 percent.",
+          "example_ko": "시장의 지지율은 60%예요.",
+          "note_ko": "대통령·정부의 일을 잘한다고 보는 사람의 비율. 짝꿍 표현: high/low approval rating."
+        },
+        {
+          "lang": "en",
+          "word": "record low",
+          "pos": "noun",
+          "ko": "역대 최저",
+          "example": "Sales hit a record low last month.",
+          "example_ko": "지난달 판매량이 역대 최저를 기록했어요.",
+          "note_ko": "반대말은 record high(역대 최고). hit a record low = 역대 최저를 찍다."
+        },
+        {
+          "lang": "en",
+          "word": "congratulate",
+          "pos": "verb",
+          "ko": "축하하다",
+          "example": "I congratulated her on her win.",
+          "example_ko": "저는 그녀의 승리를 축하했어요.",
+          "note_ko": "congratulate + 사람 + on + 일. 명사는 congratulations(항상 복수)."
+        },
+        {
+          "lang": "en",
+          "word": "veto",
+          "pos": "noun",
+          "ko": "거부권",
+          "example": "The president used his veto to stop the law.",
+          "example_ko": "대통령은 거부권으로 그 법을 막았어요.",
+          "note_ko": "동사로도 써요(to veto a bill = 법안에 거부권을 행사하다)."
+        },
+        {
+          "lang": "fr",
+          "word": "voter",
+          "pos": "verb",
+          "ko": "투표하다",
+          "example": "Elle a voté pour la première fois.",
+          "example_ko": "그녀는 처음으로 투표했어요.",
+          "note_ko": "명사는 le vote(투표), l'électeur(유권자). voter pour + 후보 = ~에게 투표하다."
+        },
+        {
+          "lang": "fr",
+          "word": "élections de mi-mandat",
+          "pos": "noun",
+          "ko": "중간선거",
+          "example": "Les élections de mi-mandat ont lieu en novembre.",
+          "example_ko": "중간선거는 11월에 열려요.",
+          "note_ko": "여성 복수 명사(les élections). mi-mandat = 임기의 절반. 미국 뉴스에서 자주 나와요."
+        },
+        {
+          "lang": "fr",
+          "word": "mandat",
+          "pos": "noun",
+          "ko": "임기",
+          "example": "Le président est à la fin de son mandat.",
+          "example_ko": "대통령은 임기 끝에 와 있어요.",
+          "note_ko": "남성 명사. 'un second mandat' = 두 번째 임기. 우편환(mandat postal)의 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "annoncer",
+          "pos": "verb",
+          "ko": "알리다, 발표하다",
+          "example": "Les médias annoncent la victoire.",
+          "example_ko": "언론이 승리를 알려요.",
+          "note_ko": "뉴스에서 '~라고 전하다'로 자주 써요. 명사는 l'annonce."
+        },
+        {
+          "lang": "fr",
+          "word": "contrôle",
+          "pos": "noun",
+          "ko": "장악, 통제",
+          "example": "Le parti prend le contrôle du Sénat.",
+          "example_ko": "그 정당이 상원을 장악해요.",
+          "note_ko": "남성 명사. prendre le contrôle de = ~를 장악하다. 공항·검문의 '검사'도 contrôle."
+        },
+        {
+          "lang": "fr",
+          "word": "majorité",
+          "pos": "noun",
+          "ko": "과반, 다수",
+          "example": "Ils ont la majorité à la Chambre.",
+          "example_ko": "그들은 하원에서 과반이에요.",
+          "note_ko": "반대말은 minorité(소수). la majorité des gens = 대다수의 사람들."
+        },
+        {
+          "lang": "fr",
+          "word": "siège",
+          "pos": "noun",
+          "ko": "(의회) 의석",
+          "example": "Le parti gagne dix sièges.",
+          "example_ko": "그 정당은 10석을 얻어요.",
+          "note_ko": "남성 명사. 원래는 '좌석'. 회사의 '본사(siège social)'도 siège."
+        },
+        {
+          "lang": "fr",
+          "word": "reprendre",
+          "pos": "verb",
+          "ko": "되찾다, 다시 가져오다",
+          "example": "Ils ont repris le siège de leurs rivaux.",
+          "example_ko": "그들은 경쟁자에게서 의석을 되찾았어요.",
+          "note_ko": "prendre(가지다)의 파생어. '다시 시작하다'의 뜻도 있어요(reprendre le travail)."
+        },
+        {
+          "lang": "fr",
+          "word": "battre",
+          "pos": "verb",
+          "ko": "이기다, 때리다",
+          "example": "Elle a battu son rival aux élections.",
+          "example_ko": "그녀가 선거에서 경쟁자를 이겼어요.",
+          "note_ko": "불규칙 동사(battu). 선거·경기에서 '이기다'로 많이 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "sondage à la sortie des urnes",
+          "pos": "noun",
+          "ko": "출구조사",
+          "example": "Le sondage à la sortie des urnes montre un duel serré.",
+          "example_ko": "출구조사는 접전을 보여 줘요.",
+          "note_ko": "une urne = 투표함. sondage = 여론조사. 'sortie des urnes'는 '투표함에서 나올 때'."
+        },
+        {
+          "lang": "fr",
+          "word": "cote de popularité",
+          "pos": "noun",
+          "ko": "지지율",
+          "example": "La cote de popularité du président baisse.",
+          "example_ko": "대통령의 지지율이 떨어져요.",
+          "note_ko": "여성 명사. 짝꿍 표현: une cote de popularité en baisse(하락하는 지지율)."
+        },
+        {
+          "lang": "fr",
+          "word": "féliciter",
+          "pos": "verb",
+          "ko": "축하하다",
+          "example": "Je te félicite pour ta victoire.",
+          "example_ko": "승리를 축하해요.",
+          "note_ko": "féliciter + 사람 + de/pour + 일. 명사 félicitations(축하, 항상 복수)."
+        },
+        {
+          "lang": "fr",
+          "word": "droit de veto",
+          "pos": "noun",
+          "ko": "거부권",
+          "example": "Le président a un droit de veto sur les lois.",
+          "example_ko": "대통령은 법안에 거부권이 있어요.",
+          "note_ko": "veto는 남성 명사. 'mettre son veto' = 거부권을 행사하다."
+        },
+        {
+          "lang": "fr",
+          "word": "décompte",
+          "pos": "noun",
+          "ko": "개표, 집계",
+          "example": "Le décompte des votes continue.",
+          "example_ko": "개표가 계속돼요.",
+          "note_ko": "남성 명사. 동사 décompter(집계하다). 'en cours de décompte' = 개표 중."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "\"Midterm elections\" are held…",
+          "choices": [
+            "halfway through a president's term",
+            "on the first day of a president's term",
+            "after a president leaves office"
+          ],
+          "answer": 0,
+          "explain_ko": "midterm = 중간. 대통령 임기 중간에 열리는 선거."
+        },
+        {
+          "lang": "fr",
+          "q": "« Avoir la majorité », c'est…",
+          "choices": [
+            "avoir plus de la moitié des sièges",
+            "perdre toutes les élections",
+            "ne pas voter"
+          ],
+          "answer": 0,
+          "explain_ko": "majorité = 과반. 의석의 절반을 넘게 가진 것."
+        }
+      ],
+      "sources": [
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
+          "accessed": "2026-11-04"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+          "accessed": "2026-11-04"
+        },
+        {
+          "name": "Fox News",
+          "url": "https://www.foxnews.com/live-news/election-day-results-11-3-2026",
+          "accessed": "2026-11-04"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/02/what-are-midterm-elections",
+          "accessed": "2026-11-04"
+        },
+        {
+          "name": "Wikipedia Current events (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_3",
+          "accessed": "2026-11-04"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": null,
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-03/1f4214850c1a5efa.mp3",
+            "2026-11-03/61c20a390ea4672b.mp3",
+            "2026-11-03/0655a41b80465717.mp3"
+          ],
+          "normal": [
+            "2026-11-03/4365d9752007fa4b.mp3",
+            "2026-11-03/a2ccb805afb5e6e4.mp3",
+            "2026-11-03/a1d67bccae5e405f.mp3",
+            "2026-11-03/1ed930b04765cec3.mp3",
+            "2026-11-03/ba0bd7acdef188ad.mp3",
+            "2026-11-03/38ca57d6af41ccd1.mp3",
+            "2026-11-03/b7fcd00c2b47cd4f.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-03/cf1f0312fdf84264.mp3",
+            "2026-11-03/dbfcdba005b610b3.mp3",
+            "2026-11-03/42cdf99df92f6500.mp3"
+          ],
+          "normal": [
+            "2026-11-03/1a042c12fef85f61.mp3",
+            "2026-11-03/4684215ca1a5fd99.mp3",
+            "2026-11-03/1171b502fbbeb21f.mp3",
+            "2026-11-03/0a3cda0b0e40f5a3.mp3",
+            "2026-11-03/4b0e6697f0ece139.mp3",
+            "2026-11-03/31288925e06e9f3e.mp3",
+            "2026-11-03/5cc4b279cb0f40b2.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-03/c21720c5f7fa1199.mp3",
+          "2026-11-03/c7cf3c1d0d804798.mp3",
+          "2026-11-03/5882087c6a77dab8.mp3",
+          "2026-11-03/0f1a7b1141e47e23.mp3",
+          "2026-11-03/1384ee5848c3578f.mp3",
+          "2026-11-03/663fec16e940c0a3.mp3",
+          "2026-11-03/22ff1eea58253438.mp3",
+          "2026-11-03/4725c6fbdabfe530.mp3",
+          "2026-11-03/9b497a29941dfc9a.mp3",
+          "2026-11-03/797968ab524bdb39.mp3",
+          "2026-11-03/6624b2b10ac798f0.mp3",
+          "2026-11-03/2292655a63602972.mp3",
+          "2026-11-03/1f2e715ae095f573.mp3",
+          "2026-11-03/f7882da64844e8fb.mp3",
+          "2026-11-03/fddf6dc5383e6e33.mp3",
+          "2026-11-03/9f3c300b277b4b78.mp3",
+          "2026-11-03/ccff9e1499208eb0.mp3",
+          "2026-11-03/b6009a8cec1892a4.mp3",
+          "2026-11-03/63d67ea7f0d0eb14.mp3",
+          "2026-11-03/7fdb90e90a1377fb.mp3",
+          "2026-11-03/9d170543f8caf83e.mp3",
+          "2026-11-03/d6e630b49ea7ece1.mp3",
+          "2026-11-03/807eef1ba112540c.mp3",
+          "2026-11-03/422530ad915aa21b.mp3",
+          "2026-11-03/1bd50d72598cfa28.mp3",
+          "2026-11-03/76099f62aa7e1a88.mp3",
+          "2026-11-03/f1c9e047cc390fde.mp3",
+          "2026-11-03/41c69ae3613cf49d.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0,
+              0.267,
+              0.333,
+              0.4,
+              0.467,
+              0.6,
+              0.8,
+              0.867
+            ],
+            [
+              0.221,
+              0.388,
+              0.443,
+              0.554,
+              0.609,
+              0.665,
+              0.72,
+              0.776,
+              0.831
+            ],
+            [
+              0,
+              0.083,
+              0.167,
+              0.25,
+              0.333,
+              0.417,
+              0.5,
+              0.75,
+              0.833
+            ]
+          ],
+          "normal": [
+            [
+              0.089,
+              0.202,
+              0.231,
+              0.259,
+              0.288,
+              0.344,
+              0.43,
+              0.458,
+              0.6,
+              0.662,
+              0.694,
+              0.787,
+              0.849,
+              0.881,
+              0.943
+            ],
+            [
+              0.044,
+              0.062,
+              0.176,
+              0.229,
+              0.246,
+              0.264,
+              0.281,
+              0.298,
+              0.332,
+              0.379,
+              0.402,
+              0.426,
+              0.519,
+              0.566,
+              0.589,
+              0.612,
+              0.659,
+              0.682,
+              0.705,
+              0.729,
+              0.752,
+              0.775,
+              0.892,
+              0.915,
+              0.939
+            ],
+            [
+              0,
+              0.026,
+              0.077,
+              0.155,
+              0.18,
+              0.206,
+              0.232,
+              0.258,
+              0.309,
+              0.335,
+              0.361,
+              0.413,
+              0.438,
+              0.48,
+              0.526,
+              0.617,
+              0.663,
+              0.709,
+              0.755,
+              0.801
+            ],
+            [
+              0.04,
+              0.05,
+              0.06,
+              0.106,
+              0.143,
+              0.155,
+              0.167,
+              0.179,
+              0.217,
+              0.319,
+              0.33,
+              0.377,
+              0.4,
+              0.424,
+              0.435,
+              0.447,
+              0.521,
+              0.543,
+              0.609,
+              0.631,
+              0.675,
+              0.697,
+              0.786,
+              0.852,
+              0.896,
+              0.94,
+              0.962
+            ],
+            [
+              0.054,
+              0.101,
+              0.125,
+              0.149,
+              0.173,
+              0.245,
+              0.293,
+              0.316,
+              0.364,
+              0.478,
+              0.501,
+              0.523,
+              0.546,
+              0.569,
+              0.591,
+              0.614,
+              0.637,
+              0.682,
+              0.705,
+              0.727,
+              0.75,
+              0.818,
+              0.841,
+              0.863,
+              0.909
+            ],
+            [
+              0.02,
+              0.044,
+              0.142,
+              0.166,
+              0.239,
+              0.263,
+              0.288,
+              0.312,
+              0.336,
+              0.361,
+              0.385,
+              0.409,
+              0.434,
+              0.502,
+              0.525,
+              0.548,
+              0.594,
+              0.617,
+              0.641,
+              0.664,
+              0.687,
+              0.71,
+              0.733,
+              0.756,
+              0.802,
+              0.848,
+              0.895,
+              0.918,
+              0.941
+            ],
+            [
+              0.134,
+              0.187,
+              0.293,
+              0.376,
+              0.422,
+              0.467,
+              0.604,
+              0.649,
+              0.786,
+              0.832,
+              0.877,
+              0.923
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.178,
+              0.22,
+              0.391,
+              0.434,
+              0.519,
+              0.604,
+              0.647,
+              0.775,
+              0.818
+            ],
+            [
+              0.146,
+              0.197,
+              0.348,
+              0.399,
+              0.449,
+              0.5,
+              0.601,
+              0.651,
+              0.702,
+              0.752,
+              0.803,
+              0.853
+            ],
+            [
+              0.199,
+              0.261,
+              0.322,
+              0.384,
+              0.507,
+              0.569,
+              0.63,
+              0.754,
+              0.815,
+              0.938
+            ]
+          ],
+          "normal": [
+            [
+              0.059,
+              0.083,
+              0.176,
+              0.2,
+              0.246,
+              0.293,
+              0.316,
+              0.34,
+              0.41,
+              0.433,
+              0.548,
+              0.574,
+              0.653,
+              0.679,
+              0.732,
+              0.784,
+              0.811,
+              0.863,
+              0.916
+            ],
+            [
+              0.046,
+              0.092,
+              0.176,
+              0.211,
+              0.245,
+              0.28,
+              0.315,
+              0.349,
+              0.455,
+              0.494,
+              0.514,
+              0.533,
+              0.572,
+              0.63,
+              0.65,
+              0.669,
+              0.708,
+              0.727,
+              0.747,
+              0.766,
+              0.786,
+              0.863,
+              0.883,
+              0.902
+            ],
+            [
+              0.047,
+              0.119,
+              0.189,
+              0.21,
+              0.276,
+              0.319,
+              0.384,
+              0.406,
+              0.428,
+              0.471,
+              0.493,
+              0.536,
+              0.558,
+              0.58,
+              0.601,
+              0.623,
+              0.645,
+              0.666,
+              0.688,
+              0.71,
+              0.753,
+              0.797,
+              0.818,
+              0.862,
+              0.883
+            ],
+            [
+              0.034,
+              0.046,
+              0.092,
+              0.105,
+              0.143,
+              0.156,
+              0.182,
+              0.194,
+              0.207,
+              0.22,
+              0.263,
+              0.268,
+              0.28,
+              0.286,
+              0.303,
+              0.309,
+              0.334,
+              0.355,
+              0.423,
+              0.428,
+              0.438,
+              0.443,
+              0.448,
+              0.463,
+              0.468,
+              0.494,
+              0.513,
+              0.532,
+              0.588,
+              0.607,
+              0.645,
+              0.663,
+              0.701,
+              0.72,
+              0.776,
+              0.851,
+              0.889,
+              0.926,
+              0.945,
+              0.964
+            ],
+            [
+              0.044,
+              0.075,
+              0.091,
+              0.122,
+              0.138,
+              0.154,
+              0.185,
+              0.2,
+              0.239,
+              0.255,
+              0.27,
+              0.286,
+              0.365,
+              0.38,
+              0.412,
+              0.427,
+              0.443,
+              0.459,
+              0.49,
+              0.546,
+              0.562,
+              0.578,
+              0.609,
+              0.625,
+              0.656,
+              0.687,
+              0.703,
+              0.719,
+              0.75,
+              0.766,
+              0.781,
+              0.797,
+              0.865,
+              0.921,
+              0.949
+            ],
+            [
+              0.051,
+              0.085,
+              0.101,
+              0.118,
+              0.185,
+              0.201,
+              0.251,
+              0.268,
+              0.285,
+              0.301,
+              0.318,
+              0.335,
+              0.351,
+              0.418,
+              0.451,
+              0.468,
+              0.531,
+              0.548,
+              0.564,
+              0.597,
+              0.647,
+              0.664,
+              0.68,
+              0.697,
+              0.713,
+              0.796,
+              0.813,
+              0.83,
+              0.846,
+              0.879,
+              0.896,
+              0.912,
+              0.929,
+              0.946
+            ],
+            [
+              0.089,
+              0.124,
+              0.194,
+              0.312,
+              0.342,
+              0.372,
+              0.461,
+              0.491,
+              0.615,
+              0.645,
+              0.674,
+              0.733,
+              0.792,
+              0.822,
+              0.851,
+              0.88
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "audio_base": "https://koreapapa-kim.github.io/worldnews-audio"
+}

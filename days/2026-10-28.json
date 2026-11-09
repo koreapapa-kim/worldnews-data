@@ -1,0 +1,4860 @@
+{
+  "schema": 1,
+  "date": "2026-10-28",
+  "stories": [
+    {
+      "id": "2026-10-28-01",
+      "category": "disaster",
+      "region": {
+        "country": "ES",
+        "city": "Urda",
+        "lat": 39.41,
+        "lng": -3.71
+      },
+      "headline": {
+        "en": "High-Speed Train Crash Shocks Spain",
+        "fr": "L'Espagne sous le choc après une collision entre deux trains à grande vitesse",
+        "ko": "스페인 고속열차 충돌… 2013년 이후 최악의 철도 사고"
+      },
+      "hook": {
+        "en": "How did two trains crash in Spain?",
+        "fr": "Comment deux trains se sont-ils percutés ?",
+        "ko": "스페인에서 기차 두 대가 어떻게 부딪혔을까?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Two high-speed trains crashed in Spain on Wednesday.",
+            "One train hit another train that was stopped on the track.",
+            "At least 68 people died, and the country is in mourning."
+          ],
+          "easy_ko": [
+            "수요일 스페인에서 고속열차 두 대가 충돌했습니다.",
+            "한 열차가 선로에 서 있던 다른 열차를 들이받았습니다.",
+            "적어도 68명이 숨졌고, 나라 전체가 애도하고 있습니다."
+          ],
+          "normal": [
+            "Two high-speed trains collided on Wednesday morning about 140 kilometres south of Madrid, killing at least 68 people.",
+            "A train run by the state company Renfe crashed into the back of a train from the private operator Iryo, which was stopped on the track.",
+            "More than 500 passengers were on board the two trains.",
+            "According to Transport Minister Óscar Puente, a computer failure first stopped several trains on the line.",
+            "He said the control centre in Madrid then allowed the trains to move again without any speed limits, a decision he called \"inexplicable\".",
+            "Prime Minister Pedro Sánchez said the whole country was grieving and promised to find out whether there had been any negligence.",
+            "It is Spain's second deadly high-speed crash this year, after 46 people died on the same line in January, and the country is holding three days of mourning."
+          ],
+          "normal_ko": [
+            "수요일 아침 마드리드에서 남쪽으로 약 140킬로미터 떨어진 곳에서 고속열차 두 대가 충돌해 적어도 68명이 숨졌습니다.",
+            "국영 철도회사 렌페가 운행하는 열차가 선로에 멈춰 서 있던 민간 운영사 이리오의 열차 뒤쪽을 들이받았습니다.",
+            "두 열차에는 500명이 넘는 승객이 타고 있었습니다.",
+            "오스카르 푸엔테 교통부 장관에 따르면, 먼저 컴퓨터 고장으로 이 노선의 열차 여러 대가 멈춰 섰습니다.",
+            "그는 이후 마드리드의 관제 센터가 아무런 속도 제한 없이 열차들을 다시 움직이게 했다며, 이 결정을 \"설명할 수 없다\"고 말했습니다.",
+            "페드로 산체스 총리는 온 나라가 슬픔에 잠겼다며, 과실이 있었는지 밝혀내겠다고 약속했습니다.",
+            "이번 사고는 1월 같은 노선에서 46명이 숨진 데 이어 올해 스페인에서 두 번째로 일어난 인명 피해 고속철 사고로, 나라 전체가 사흘간 애도 기간을 갖습니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Deux trains à grande vitesse se sont percutés mercredi en Espagne.",
+            "Un train a heurté un autre train arrêté sur la voie.",
+            "Au moins 68 personnes sont mortes, et le pays est en deuil."
+          ],
+          "easy_ko": [
+            "수요일 스페인에서 고속열차 두 대가 서로 부딪혔습니다.",
+            "한 열차가 선로에 서 있던 다른 열차를 들이받았습니다.",
+            "적어도 68명이 숨졌고, 나라 전체가 애도하고 있습니다."
+          ],
+          "normal": [
+            "Deux trains à grande vitesse sont entrés en collision mercredi matin, à environ 140 kilomètres au sud de Madrid, faisant au moins 68 morts.",
+            "Un train de la compagnie publique Renfe a percuté par l'arrière un train de l'opérateur privé Iryo, qui était à l'arrêt sur la voie.",
+            "Plus de 500 passagers se trouvaient à bord des deux trains.",
+            "Selon le ministre des Transports, Óscar Puente, une panne informatique avait d'abord immobilisé plusieurs trains sur la ligne.",
+            "Le centre de contrôle de Madrid a ensuite autorisé les trains à repartir sans aucune limitation de vitesse, une décision qu'il juge « inexplicable ».",
+            "Le Premier ministre, Pedro Sánchez, a déclaré que toute l'Espagne était dans la douleur et a promis de faire la lumière sur d'éventuelles négligences.",
+            "C'est le deuxième accident mortel sur une ligne à grande vitesse cette année, après celui de janvier qui avait fait 46 morts sur la même ligne, et le pays observe trois jours de deuil."
+          ],
+          "normal_ko": [
+            "수요일 아침 마드리드에서 남쪽으로 약 140킬로미터 떨어진 곳에서 고속열차 두 대가 충돌해 적어도 68명이 숨졌습니다.",
+            "국영 회사 렌페의 열차가 선로에 멈춰 있던 민간 운영사 이리오의 열차를 뒤에서 들이받았습니다.",
+            "두 열차에는 500명이 넘는 승객이 타고 있었습니다.",
+            "오스카르 푸엔테 교통부 장관에 따르면, 먼저 컴퓨터 고장으로 이 노선의 열차 여러 대가 멈춰 있었습니다.",
+            "이후 마드리드 관제 센터가 아무런 속도 제한 없이 열차들의 운행 재개를 허락했는데, 장관은 이 결정을 \"설명할 수 없다\"고 봅니다.",
+            "페드로 산체스 총리는 스페인 전체가 고통에 빠졌다며, 과실이 있었는지 밝혀내겠다고 약속했습니다.",
+            "올해 고속철도에서 일어난 두 번째 인명 사고로, 1월에도 같은 노선에서 46명이 숨졌으며, 나라 전체가 사흘간 애도 기간을 갖습니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "스페인의 고속철도망(약 4,000km)은 유럽에서 가장 길고, 중국에 이어 세계 2위예요. 2019~2024년 사이 기차 이용이 40% 늘었는데, 같은 기간 민간 회사들도 고속철 운행에 뛰어들었습니다. 올해 1월에도 같은 마드리드–안달루시아 노선의 아다무스 근처에서 사고로 46명이 숨져, 철도 안전과 유지·보수 투자를 둘러싼 논란이 다시 커지고 있어요. 이번 사고는 2013년 산티아고 데 콤포스텔라 사고(80명 사망) 이후 스페인 최악의 철도 사고입니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "high-speed",
+          "pos": "adjective",
+          "ko": "고속의",
+          "example": "A high-speed train can go 300 km an hour.",
+          "example_ko": "고속열차는 시속 300킬로미터로 달릴 수 있어요.",
+          "note_ko": "high-speed internet(초고속 인터넷)처럼도 써요. 하이픈(-)을 넣어 씁니다."
+        },
+        {
+          "lang": "en",
+          "word": "crash",
+          "pos": "verb",
+          "ko": "충돌하다, 부딪히다",
+          "example": "The car crashed into a tree.",
+          "example_ko": "차가 나무에 부딪혔어요.",
+          "note_ko": "crash into ~ = ~에 들이받다. 명사로 a car crash(교통사고)."
+        },
+        {
+          "lang": "en",
+          "word": "stop",
+          "pos": "verb",
+          "ko": "멈추다, 서다",
+          "example": "The bus stopped in front of the school.",
+          "example_ko": "버스가 학교 앞에 섰어요.",
+          "note_ko": "was stopped = 멈춰 서 있었다. stop + -ing는 '~을 그만두다'."
+        },
+        {
+          "lang": "en",
+          "word": "track",
+          "pos": "noun",
+          "ko": "선로, 철길",
+          "example": "Don't walk on the train tracks.",
+          "example_ko": "기찻길 위로 걷지 마세요.",
+          "note_ko": "on the track = 선로 위에. 육상 경기의 트랙도 track."
+        },
+        {
+          "lang": "en",
+          "word": "die",
+          "pos": "verb",
+          "ko": "죽다",
+          "example": "Many trees died in the dry summer.",
+          "example_ko": "건조한 여름에 나무가 많이 죽었어요.",
+          "note_ko": "die–died–died. 명사는 death, 형용사는 dead."
+        },
+        {
+          "lang": "en",
+          "word": "in mourning",
+          "pos": "phrase",
+          "ko": "애도 중인, 상중인",
+          "example": "The whole town was in mourning.",
+          "example_ko": "온 마을이 애도에 잠겼어요.",
+          "note_ko": "mourn = 애도하다. morning(아침)과 발음이 같으니 철자를 조심하세요."
+        },
+        {
+          "lang": "en",
+          "word": "collide",
+          "pos": "verb",
+          "ko": "충돌하다",
+          "example": "Two ships collided in the fog.",
+          "example_ko": "안개 속에서 배 두 척이 충돌했어요.",
+          "note_ko": "명사는 collision. crash보다 뉴스에서 더 격식 있게 쓰는 말."
+        },
+        {
+          "lang": "en",
+          "word": "run",
+          "pos": "verb",
+          "ko": "운영하다, 운행하다",
+          "example": "She runs a small café.",
+          "example_ko": "그녀는 작은 카페를 운영해요.",
+          "note_ko": "a train run by Renfe = 렌페가 운행하는 열차. '달리다' 말고도 '운영하다' 뜻이 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "on board",
+          "pos": "phrase",
+          "ko": "(배·비행기·기차에) 탄",
+          "example": "There were 200 people on board the plane.",
+          "example_ko": "비행기에는 200명이 타고 있었어요.",
+          "note_ko": "Welcome on board! = 탑승을 환영합니다. board는 동사로 '타다'."
+        },
+        {
+          "lang": "en",
+          "word": "according to",
+          "pos": "phrase",
+          "ko": "~에 따르면",
+          "example": "According to the news, it will snow tomorrow.",
+          "example_ko": "뉴스에 따르면 내일 눈이 온대요.",
+          "note_ko": "뉴스에서 출처를 밝힐 때 자주 써요. according to me는 쓰지 않고 in my opinion을 씁니다."
+        },
+        {
+          "lang": "en",
+          "word": "failure",
+          "pos": "noun",
+          "ko": "고장, 실패",
+          "example": "A power failure left the city dark.",
+          "example_ko": "정전으로 도시가 캄캄해졌어요.",
+          "note_ko": "동사는 fail. a computer failure = 컴퓨터 고장."
+        },
+        {
+          "lang": "en",
+          "word": "allow",
+          "pos": "verb",
+          "ko": "허락하다, ~하게 두다",
+          "example": "My parents allowed me to stay up late.",
+          "example_ko": "부모님이 늦게까지 안 자도 된다고 하셨어요.",
+          "note_ko": "allow + 사람 + to 동사. 비슷한 말 let(let me go)."
+        },
+        {
+          "lang": "en",
+          "word": "speed limit",
+          "pos": "noun",
+          "ko": "속도 제한",
+          "example": "The speed limit here is 50 km an hour.",
+          "example_ko": "여기 제한 속도는 시속 50킬로미터예요.",
+          "note_ko": "limit = 한계, 제한. break the speed limit = 과속하다."
+        },
+        {
+          "lang": "en",
+          "word": "promise",
+          "pos": "verb",
+          "ko": "약속하다",
+          "example": "He promised to call me tonight.",
+          "example_ko": "그는 오늘 밤 전화하겠다고 약속했어요.",
+          "note_ko": "promise to 동사. 명사도 promise(keep a promise = 약속을 지키다)."
+        },
+        {
+          "lang": "en",
+          "word": "negligence",
+          "pos": "noun",
+          "ko": "과실, 부주의",
+          "example": "The fire was caused by negligence.",
+          "example_ko": "그 화재는 부주의 때문에 일어났어요.",
+          "note_ko": "형용사는 negligent. 법률·사고 기사에 자주 나오는 말."
+        },
+        {
+          "lang": "en",
+          "word": "deadly",
+          "pos": "adjective",
+          "ko": "인명 피해를 낸, 치명적인",
+          "example": "It was the deadliest storm in years.",
+          "example_ko": "몇 년 만에 가장 많은 사람이 숨진 폭풍이었어요.",
+          "note_ko": "-ly로 끝나지만 형용사예요. deadly–deadlier–deadliest."
+        },
+        {
+          "lang": "fr",
+          "word": "à grande vitesse",
+          "pos": "phrase",
+          "ko": "고속의",
+          "example": "Le TGV est un train à grande vitesse.",
+          "example_ko": "TGV는 고속열차예요.",
+          "note_ko": "TGV = train à grande vitesse의 줄임말. vitesse = 속도."
+        },
+        {
+          "lang": "fr",
+          "word": "se percuter",
+          "pos": "verb",
+          "ko": "서로 부딪히다",
+          "example": "Deux voitures se sont percutées au carrefour.",
+          "example_ko": "교차로에서 차 두 대가 서로 부딪혔어요.",
+          "note_ko": "percuter qqch = ~을 들이받다. se percuter는 서로 부딪히는 것."
+        },
+        {
+          "lang": "fr",
+          "word": "heurter",
+          "pos": "verb",
+          "ko": "부딪히다, 들이받다",
+          "example": "Le vélo a heurté un arbre.",
+          "example_ko": "자전거가 나무에 부딪혔어요.",
+          "note_ko": "h는 소리 나지 않지만 le heurt처럼 앞말과 이어 읽지 않아요."
+        },
+        {
+          "lang": "fr",
+          "word": "arrêté",
+          "pos": "adjective",
+          "ko": "멈춘, 서 있는",
+          "example": "Le bus est arrêté devant la gare.",
+          "example_ko": "버스가 역 앞에 서 있어요.",
+          "note_ko": "동사 arrêter(멈추다)에서 왔어요. '체포된'이라는 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "voie",
+          "pos": "noun",
+          "ko": "선로, 길",
+          "example": "Le train part de la voie 3.",
+          "example_ko": "기차는 3번 선로에서 출발해요.",
+          "note_ko": "여성 명사(la voie). 역에서 '몇 번 선'을 말할 때 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "mourir",
+          "pos": "verb",
+          "ko": "죽다",
+          "example": "Cette plante va mourir sans eau.",
+          "example_ko": "이 식물은 물이 없으면 죽을 거예요.",
+          "note_ko": "과거는 être와 함께: il est mort, elles sont mortes. 명사 la mort."
+        },
+        {
+          "lang": "fr",
+          "word": "être en deuil",
+          "pos": "phrase",
+          "ko": "애도 중이다, 상중이다",
+          "example": "Toute la ville est en deuil.",
+          "example_ko": "온 도시가 애도에 잠겨 있어요.",
+          "note_ko": "le deuil = 애도. un jour de deuil national = 국가 애도일."
+        },
+        {
+          "lang": "fr",
+          "word": "entrer en collision",
+          "pos": "phrase",
+          "ko": "충돌하다",
+          "example": "Deux bateaux sont entrés en collision.",
+          "example_ko": "배 두 척이 충돌했어요.",
+          "note_ko": "과거는 être와 함께(sont entrés). 뉴스에서 자주 쓰는 표현."
+        },
+        {
+          "lang": "fr",
+          "word": "par l'arrière",
+          "pos": "phrase",
+          "ko": "뒤에서",
+          "example": "La voiture a été percutée par l'arrière.",
+          "example_ko": "그 차는 뒤에서 들이받혔어요.",
+          "note_ko": "반대는 par l'avant(앞에서). l'arrière = 뒤쪽."
+        },
+        {
+          "lang": "fr",
+          "word": "à bord",
+          "pos": "phrase",
+          "ko": "(배·비행기·기차에) 탄",
+          "example": "Il y avait 200 passagers à bord.",
+          "example_ko": "200명의 승객이 타고 있었어요.",
+          "note_ko": "à bord de + 탈것. Bienvenue à bord ! = 탑승을 환영합니다."
+        },
+        {
+          "lang": "fr",
+          "word": "selon",
+          "pos": "preposition",
+          "ko": "~에 따르면",
+          "example": "Selon la météo, il va pleuvoir.",
+          "example_ko": "일기예보에 따르면 비가 온대요.",
+          "note_ko": "뉴스에서 출처를 밝힐 때 써요. 비슷한 말 d'après."
+        },
+        {
+          "lang": "fr",
+          "word": "panne",
+          "pos": "noun",
+          "ko": "고장",
+          "example": "Ma voiture est en panne.",
+          "example_ko": "내 차가 고장 났어요.",
+          "note_ko": "여성 명사(une panne). être en panne = 고장 나다. une panne d'électricité = 정전."
+        },
+        {
+          "lang": "fr",
+          "word": "autoriser",
+          "pos": "verb",
+          "ko": "허락하다",
+          "example": "Le médecin l'a autorisé à sortir.",
+          "example_ko": "의사가 그에게 외출을 허락했어요.",
+          "note_ko": "autoriser qqn à + 동사원형. 반대말 interdire(금지하다)."
+        },
+        {
+          "lang": "fr",
+          "word": "repartir",
+          "pos": "verb",
+          "ko": "다시 출발하다",
+          "example": "Après une pause, le train est reparti.",
+          "example_ko": "잠시 멈춘 뒤 기차가 다시 출발했어요.",
+          "note_ko": "re-(다시) + partir(떠나다). 과거는 être와 함께."
+        },
+        {
+          "lang": "fr",
+          "word": "faire la lumière sur",
+          "pos": "phrase",
+          "ko": "~을 밝혀내다",
+          "example": "La police veut faire la lumière sur cette affaire.",
+          "example_ko": "경찰은 이 사건의 진상을 밝히려 해요.",
+          "note_ko": "lumière = 빛. 직역하면 '~에 빛을 비추다'."
+        },
+        {
+          "lang": "fr",
+          "word": "négligence",
+          "pos": "noun",
+          "ko": "과실, 부주의",
+          "example": "L'accident est dû à une négligence.",
+          "example_ko": "그 사고는 부주의 때문이에요.",
+          "note_ko": "여성 명사. 형용사는 négligent(e)."
+        },
+        {
+          "lang": "fr",
+          "word": "observer",
+          "pos": "verb",
+          "ko": "(애도·침묵 등을) 지키다",
+          "example": "Le pays observe une minute de silence.",
+          "example_ko": "나라 전체가 1분간 묵념해요.",
+          "note_ko": "'관찰하다'라는 뜻도 있어요. observer un deuil = 애도 기간을 지키다."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "A \"high-speed\" train is…",
+          "choices": [
+            "very fast",
+            "very old",
+            "very long"
+          ],
+          "answer": 0,
+          "explain_ko": "high-speed = 고속의. speed는 '속도'."
+        },
+        {
+          "lang": "fr",
+          "q": "« Une panne », c'est…",
+          "choices": [
+            "un problème qui empêche une machine de marcher",
+            "un billet de train",
+            "un nouveau train"
+          ],
+          "answer": 0,
+          "explain_ko": "panne = 고장. Ma voiture est en panne. = 내 차가 고장 났어요."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo",
+          "accessed": "2026-10-29"
+        },
+        {
+          "name": "BBC News (what we know)",
+          "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo",
+          "accessed": "2026-10-29"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail",
+          "accessed": "2026-10-29"
+        },
+        {
+          "name": "France 24 (AFP)",
+          "url": "https://www.france24.com/en/spain-rail-crash-came-after-train-ordered-to-go-in-error-minister",
+          "accessed": "2026-10-29"
+        },
+        {
+          "name": "Wikipedia Current events (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_28",
+          "accessed": "2026-10-28"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": null,
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-10-28/56d07d3482fefcaf.mp3",
+            "2026-10-28/54b16a26b1c60233.mp3",
+            "2026-10-28/ee0fe8c5ac5f358f.mp3"
+          ],
+          "normal": [
+            "2026-10-28/810b2f6549d4a241.mp3",
+            "2026-10-28/0d11529ddd02ec3d.mp3",
+            "2026-10-28/be24d0f2570a6b1f.mp3",
+            "2026-10-28/ce5540116557797f.mp3",
+            "2026-10-28/ed5d2d3f6f8cb360.mp3",
+            "2026-10-28/c1ec7e2c0787e525.mp3",
+            "2026-10-28/8dc839166f9bc270.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-10-28/89dd16b244da6f48.mp3",
+            "2026-10-28/7cf33a38cb44024f.mp3",
+            "2026-10-28/70c7469986f6a9ca.mp3"
+          ],
+          "normal": [
+            "2026-10-28/483d172e031ae9d3.mp3",
+            "2026-10-28/f63e7ae7fead0f8f.mp3",
+            "2026-10-28/7c18a829e5b27cbc.mp3",
+            "2026-10-28/96de1fa42488adaf.mp3",
+            "2026-10-28/77bf3640b0029fac.mp3",
+            "2026-10-28/e4a67651d9d76ee4.mp3",
+            "2026-10-28/6a13061d328bb3e3.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-10-28/9c2f124e0413ac63.mp3",
+          "2026-10-28/abfaa1347f6339e9.mp3",
+          "2026-10-28/05e5f377b8e519a5.mp3",
+          "2026-10-28/5e04518c5bc29052.mp3",
+          "2026-10-28/8fa7604c060e0ebc.mp3",
+          "2026-10-28/53477303f462edbd.mp3",
+          "2026-10-28/07704de281eb66e4.mp3",
+          "2026-10-28/a0b221d6c81ff3fc.mp3",
+          "2026-10-28/362775f865b770b6.mp3",
+          "2026-10-28/c29cb81c58904f9e.mp3",
+          "2026-10-28/a9b8ba91d914b562.mp3",
+          "2026-10-28/79896d9bf102847d.mp3",
+          "2026-10-28/9af9d240eb589341.mp3",
+          "2026-10-28/dc31425286a9b644.mp3",
+          "2026-10-28/0c3304fe83b624cf.mp3",
+          "2026-10-28/15861b64ad405ccf.mp3",
+          "2026-10-28/79721c2ae06348b5.mp3",
+          "2026-10-28/e2c8b0aedbb8093d.mp3",
+          "2026-10-28/f1f707a6941b8e30.mp3",
+          "2026-10-28/f7babbdebf8daf01.mp3",
+          "2026-10-28/98a5441970b2141f.mp3",
+          "2026-10-28/d66a2150a52794f4.mp3",
+          "2026-10-28/b424c1aab75e7ba5.mp3",
+          "2026-10-28/d040122bbbb3df49.mp3",
+          "2026-10-28/8fd3707b3a92c9ce.mp3",
+          "2026-10-28/3674bae8634023e5.mp3",
+          "2026-10-28/e4cdfab466e262c9.mp3",
+          "2026-10-28/36505d6fad389f19.mp3",
+          "2026-10-28/81030cea465521b3.mp3",
+          "2026-10-28/4d7e5ebd0e33af50.mp3",
+          "2026-10-28/fb327c2fdb93c97b.mp3",
+          "2026-10-28/aa556938a1a117b8.mp3",
+          "2026-10-28/bc06d03bfcc7501f.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0,
+              0.091,
+              0.273,
+              0.364,
+              0.455,
+              0.545,
+              0.636,
+              0.727
+            ],
+            [
+              0,
+              0.073,
+              0.146,
+              0.219,
+              0.438,
+              0.511,
+              0.584,
+              0.657,
+              0.73,
+              0.803,
+              0.876
+            ],
+            [
+              0.093,
+              0.166,
+              0.239,
+              0.384,
+              0.457,
+              0.607,
+              0.65,
+              0.693,
+              0.779,
+              0.822,
+              0.865
+            ]
+          ],
+          "normal": [
+            [
+              0,
+              0.033,
+              0.099,
+              0.132,
+              0.198,
+              0.231,
+              0.33,
+              0.396,
+              0.462,
+              0.528,
+              0.627,
+              0.66,
+              0.693,
+              0.788,
+              0.848,
+              0.879,
+              0.909,
+              0.97
+            ],
+            [
+              0.053,
+              0.078,
+              0.104,
+              0.129,
+              0.154,
+              0.18,
+              0.205,
+              0.281,
+              0.307,
+              0.332,
+              0.383,
+              0.408,
+              0.434,
+              0.459,
+              0.485,
+              0.51,
+              0.535,
+              0.561,
+              0.612,
+              0.713,
+              0.805,
+              0.833,
+              0.86,
+              0.887,
+              0.915,
+              0.942
+            ],
+            [
+              0.115,
+              0.179,
+              0.244,
+              0.374,
+              0.569,
+              0.634,
+              0.699,
+              0.764,
+              0.828,
+              0.893
+            ],
+            [
+              0.047,
+              0.152,
+              0.186,
+              0.256,
+              0.36,
+              0.395,
+              0.49,
+              0.522,
+              0.617,
+              0.68,
+              0.712,
+              0.744,
+              0.839,
+              0.871,
+              0.902,
+              0.934
+            ],
+            [
+              0.042,
+              0.065,
+              0.088,
+              0.112,
+              0.158,
+              0.181,
+              0.204,
+              0.25,
+              0.273,
+              0.32,
+              0.343,
+              0.366,
+              0.389,
+              0.412,
+              0.459,
+              0.505,
+              0.551,
+              0.574,
+              0.703,
+              0.731,
+              0.814,
+              0.842,
+              0.87
+            ],
+            [
+              0.067,
+              0.096,
+              0.185,
+              0.244,
+              0.274,
+              0.304,
+              0.333,
+              0.363,
+              0.422,
+              0.452,
+              0.511,
+              0.541,
+              0.6,
+              0.629,
+              0.659,
+              0.689,
+              0.748,
+              0.777,
+              0.807,
+              0.837,
+              0.896
+            ],
+            [
+              0.046,
+              0.075,
+              0.105,
+              0.135,
+              0.194,
+              0.253,
+              0.312,
+              0.342,
+              0.372,
+              0.42,
+              0.465,
+              0.51,
+              0.533,
+              0.555,
+              0.578,
+              0.6,
+              0.623,
+              0.645,
+              0.668,
+              0.762,
+              0.78,
+              0.798,
+              0.834,
+              0.852,
+              0.888,
+              0.906,
+              0.925,
+              0.943
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.081,
+              0.13,
+              0.18,
+              0.23,
+              0.28,
+              0.379,
+              0.429,
+              0.478,
+              0.628,
+              0.777,
+              0.827
+            ],
+            [
+              0.211,
+              0.262,
+              0.313,
+              0.364,
+              0.466,
+              0.517,
+              0.568,
+              0.619,
+              0.772,
+              0.823,
+              0.874
+            ],
+            [
+              0.098,
+              0.156,
+              0.215,
+              0.332,
+              0.449,
+              0.507,
+              0.624,
+              0.672,
+              0.72,
+              0.768,
+              0.817,
+              0.865
+            ]
+          ],
+          "normal": [
+            [
+              0.047,
+              0.067,
+              0.087,
+              0.106,
+              0.126,
+              0.165,
+              0.185,
+              0.224,
+              0.244,
+              0.303,
+              0.362,
+              0.445,
+              0.467,
+              0.531,
+              0.574,
+              0.638,
+              0.659,
+              0.681,
+              0.702,
+              0.78,
+              0.828,
+              0.852,
+              0.875,
+              0.923
+            ],
+            [
+              0.083,
+              0.106,
+              0.128,
+              0.151,
+              0.174,
+              0.242,
+              0.31,
+              0.332,
+              0.355,
+              0.423,
+              0.446,
+              0.491,
+              0.514,
+              0.536,
+              0.559,
+              0.65,
+              0.695,
+              0.778,
+              0.796,
+              0.831,
+              0.849,
+              0.884,
+              0.901,
+              0.919
+            ],
+            [
+              0.107,
+              0.157,
+              0.207,
+              0.308,
+              0.459,
+              0.509,
+              0.61,
+              0.66,
+              0.71,
+              0.76,
+              0.811
+            ],
+            [
+              0.052,
+              0.103,
+              0.129,
+              0.18,
+              0.205,
+              0.298,
+              0.358,
+              0.483,
+              0.504,
+              0.525,
+              0.631,
+              0.673,
+              0.716,
+              0.822,
+              0.864,
+              0.885,
+              0.906,
+              0.928
+            ],
+            [
+              0.048,
+              0.068,
+              0.088,
+              0.107,
+              0.146,
+              0.166,
+              0.205,
+              0.225,
+              0.264,
+              0.342,
+              0.362,
+              0.381,
+              0.401,
+              0.459,
+              0.479,
+              0.518,
+              0.596,
+              0.616,
+              0.706,
+              0.728,
+              0.794,
+              0.816,
+              0.837,
+              0.859,
+              0.947
+            ],
+            [
+              0.059,
+              0.08,
+              0.122,
+              0.196,
+              0.262,
+              0.321,
+              0.342,
+              0.405,
+              0.426,
+              0.447,
+              0.489,
+              0.531,
+              0.552,
+              0.573,
+              0.615,
+              0.637,
+              0.658,
+              0.7,
+              0.721,
+              0.742,
+              0.763,
+              0.805,
+              0.826,
+              0.889
+            ],
+            [
+              0.048,
+              0.067,
+              0.086,
+              0.124,
+              0.161,
+              0.199,
+              0.218,
+              0.237,
+              0.256,
+              0.275,
+              0.294,
+              0.332,
+              0.351,
+              0.41,
+              0.447,
+              0.484,
+              0.502,
+              0.54,
+              0.558,
+              0.595,
+              0.614,
+              0.651,
+              0.67,
+              0.688,
+              0.707,
+              0.725,
+              0.778,
+              0.799,
+              0.821,
+              0.843,
+              0.886,
+              0.908,
+              0.93,
+              0.952
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-10-28-02",
+      "category": "economy",
+      "region": {
+        "country": "GB",
+        "city": "London",
+        "lat": 51.5,
+        "lng": -0.13
+      },
+      "headline": {
+        "en": "UK Gives £100 for Energy Bills, Raises Bank Tax",
+        "fr": "Royaume-Uni : 100 livres pour l'énergie, financées par les banques",
+        "ko": "영국, 에너지 요금 100파운드 지원… 은행 세금은 두 배로"
+      },
+      "hook": {
+        "en": "Who pays for Britain's £100 energy help?",
+        "fr": "Qui paie l'aide de 100 livres ?",
+        "ko": "영국의 100파운드 지원금, 누가 낼까?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Britain will give £100 to millions of homes for energy bills.",
+            "Banks will pay a higher tax to cover the cost.",
+            "Critics say the help is too small for a hard winter."
+          ],
+          "easy_ko": [
+            "영국이 수백만 가구에 에너지 요금으로 100파운드를 줍니다.",
+            "그 비용은 은행들이 더 많은 세금을 내서 충당합니다.",
+            "비판하는 사람들은 힘든 겨울을 나기에는 지원이 너무 적다고 말합니다."
+          ],
+          "normal": [
+            "Chancellor John Healey presented his first budget on Wednesday, with a one-off payment of £100 to help families with their energy bills.",
+            "About 20 million households in England will receive the money this winter, and Wales and Scotland plan similar help.",
+            "Healey said \"global economic storms\", including high oil and gas prices linked to the war in the Middle East, were pushing up the cost of living.",
+            "To pay for the plan, the extra tax on big banks' profits will double from 3% to 6% for about 15 months.",
+            "Taxes on income from savings and from renting out homes will also rise.",
+            "The government's independent forecaster said the economy would grow by only 1% next year and called the outlook for living standards \"pretty grim\".",
+            "Conservative leader Kemi Badenoch said the budget was \"not bold enough\", while some experts said more of the money should go to the poorest families.",
+            "Others warned that landlords could pass the higher tax on to their tenants by raising rents."
+          ],
+          "normal_ko": [
+            "존 힐리 재무장관이 수요일 첫 예산안을 발표하며, 가정의 에너지 요금을 돕기 위해 한 번에 100파운드를 지급하기로 했습니다.",
+            "잉글랜드의 약 2천만 가구가 이번 겨울 이 돈을 받게 되고, 웨일스와 스코틀랜드도 비슷한 지원을 계획하고 있습니다.",
+            "힐리 장관은 중동 전쟁과 관련된 석유·가스 가격 상승을 비롯한 \"세계 경제의 폭풍\"이 생활비를 끌어올리고 있다고 말했습니다.",
+            "이 계획의 재원을 마련하기 위해 대형 은행 이익에 붙는 추가 세금이 약 15개월 동안 3%에서 6%로 두 배가 됩니다.",
+            "예금 이자와 집을 세놓아 얻는 소득에 매기는 세금도 오릅니다.",
+            "정부의 독립 경제 전망 기관은 내년 경제 성장률이 1%에 그칠 것이라며, 생활 수준 전망을 \"꽤 암울하다\"고 표현했습니다.",
+            "케미 베이디넉 보수당 대표는 이번 예산이 \"충분히 과감하지 않다\"고 했고, 일부 전문가들은 가장 가난한 가정에 더 많은 돈이 가야 한다고 말했습니다.",
+            "집주인들이 늘어난 세금을 집세를 올려 세입자에게 떠넘길 수 있다는 경고도 나왔습니다."
+          ],
+          "normal_paras": [
+            3,
+            3,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Le Royaume-Uni va donner 100 livres à des millions de foyers pour l'énergie.",
+            "Les banques paieront plus d'impôts pour financer cette aide.",
+            "Selon ses critiques, l'aide est trop faible pour un hiver difficile."
+          ],
+          "easy_ko": [
+            "영국이 수백만 가구에 에너지 비용으로 100파운드를 줍니다.",
+            "은행들이 세금을 더 내서 이 지원금을 마련합니다.",
+            "비판하는 사람들은 힘든 겨울을 나기에는 지원이 너무 적다고 말합니다."
+          ],
+          "normal": [
+            "Le chancelier de l'Échiquier, John Healey, a présenté mercredi son premier budget, avec une aide exceptionnelle de 100 livres pour aider les familles à payer leurs factures d'énergie.",
+            "Environ 20 millions de foyers en Angleterre recevront cette somme cet hiver, et le pays de Galles et l'Écosse prévoient une aide similaire.",
+            "Pour John Healey, des « tempêtes économiques mondiales », dont la hausse des prix du pétrole et du gaz liée à la guerre au Moyen-Orient, font grimper le coût de la vie.",
+            "Pour financer ce plan, la taxe supplémentaire sur les bénéfices des grandes banques va doubler, passant de 3 % à 6 % pendant environ quinze mois.",
+            "Les impôts sur les revenus de l'épargne et de la location de logements vont aussi augmenter.",
+            "L'organisme public indépendant chargé des prévisions table sur une croissance de seulement 1 % l'an prochain et juge les perspectives de niveau de vie « assez sombres ».",
+            "La cheffe des conservateurs, Kemi Badenoch, a jugé le budget « pas assez audacieux », tandis que des experts estiment qu'une plus grande part de l'argent aurait dû aller aux familles les plus pauvres.",
+            "D'autres craignent que les propriétaires ne répercutent la hausse d'impôt sur leurs locataires en augmentant les loyers."
+          ],
+          "normal_ko": [
+            "존 힐리 재무장관이 수요일 첫 예산안을 발표하며, 가정의 에너지 요금을 돕기 위한 100파운드 특별 지원금을 내놓았습니다.",
+            "잉글랜드의 약 2천만 가구가 이번 겨울 이 돈을 받게 되고, 웨일스와 스코틀랜드도 비슷한 지원을 계획하고 있습니다.",
+            "힐리 장관은 중동 전쟁과 관련된 석유·가스 가격 상승을 비롯한 \"세계 경제의 폭풍\"이 생활비를 끌어올리고 있다고 봅니다.",
+            "이 계획의 재원을 마련하기 위해 대형 은행 이익에 붙는 추가 세금이 약 15개월 동안 3%에서 6%로 두 배가 됩니다.",
+            "예금 소득과 주택 임대 소득에 매기는 세금도 오릅니다.",
+            "경제 전망을 맡은 독립 공공기관은 내년 성장률을 1%에 불과할 것으로 보고, 생활 수준 전망을 \"꽤 어둡다\"고 평가했습니다.",
+            "케미 베이디넉 보수당 대표는 예산이 \"충분히 과감하지 않다\"고 했고, 일부 전문가들은 더 많은 돈이 가장 가난한 가정에 갔어야 한다고 봅니다.",
+            "집주인들이 늘어난 세금을 집세를 올려 세입자에게 떠넘길 수 있다는 우려도 나옵니다."
+          ],
+          "normal_paras": [
+            3,
+            3,
+            2
+          ]
+        }
+      },
+      "ko_note": "영국의 '버짓(Budget)'은 재무장관(Chancellor of the Exchequer)이 의회에서 발표하는 한 해 세금·지출 계획이에요. council tax(지방세) A~D 구간은 집값이 비교적 낮은 주택들로, 잉글랜드 가구의 대부분이 여기에 속합니다. 이란 전쟁 이후 석유·가스 가격이 올라, 영국 전력회사 EDF는 1월에 가정용 에너지 요금 상한이 또 466파운드 오를 것으로 내다봤어요. 이번 예산은 앤디 버넘 총리 정부에서 존 힐리 재무장관이 처음 내놓은 예산입니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "millions of",
+          "pos": "phrase",
+          "ko": "수백만의",
+          "example": "Millions of people watched the game.",
+          "example_ko": "수백만 명이 그 경기를 봤어요.",
+          "note_ko": "숫자와 함께면 s가 없어요: two million people. 막연히 많을 때 millions of."
+        },
+        {
+          "lang": "en",
+          "word": "energy bill",
+          "pos": "noun",
+          "ko": "에너지(전기·가스) 요금 고지서",
+          "example": "Our energy bill was very high this winter.",
+          "example_ko": "이번 겨울 우리 집 에너지 요금이 아주 많이 나왔어요.",
+          "note_ko": "bill = 청구서. pay the bill = 요금을 내다. 식당 계산서도 bill."
+        },
+        {
+          "lang": "en",
+          "word": "tax",
+          "pos": "noun",
+          "ko": "세금",
+          "example": "We pay tax on everything we buy.",
+          "example_ko": "우리는 사는 모든 것에 세금을 내요.",
+          "note_ko": "pay tax, raise taxes(세금을 올리다), cut taxes(세금을 내리다)."
+        },
+        {
+          "lang": "en",
+          "word": "cover the cost",
+          "pos": "phrase",
+          "ko": "비용을 충당하다",
+          "example": "The money will cover the cost of the trip.",
+          "example_ko": "그 돈으로 여행 비용을 충당할 거예요.",
+          "note_ko": "cover = 덮다 → 비용을 '덮다', 즉 감당하다."
+        },
+        {
+          "lang": "en",
+          "word": "critic",
+          "pos": "noun",
+          "ko": "비판하는 사람, 비평가",
+          "example": "Critics say the plan is too expensive.",
+          "example_ko": "비판하는 사람들은 그 계획이 너무 비싸다고 말해요.",
+          "note_ko": "동사는 criticize, 명사 criticism(비판). 영화 평론가도 critic."
+        },
+        {
+          "lang": "en",
+          "word": "one-off",
+          "pos": "adjective",
+          "ko": "한 번만의, 일회성의",
+          "example": "It was a one-off payment, not a monthly one.",
+          "example_ko": "그건 매달 주는 게 아니라 한 번만 주는 돈이었어요.",
+          "note_ko": "주로 영국 영어. 미국에서는 one-time을 더 써요."
+        },
+        {
+          "lang": "en",
+          "word": "household",
+          "pos": "noun",
+          "ko": "가구, 가정",
+          "example": "Most households have a car.",
+          "example_ko": "대부분의 가정에 차가 있어요.",
+          "note_ko": "한집에 사는 사람들 전체. household goods = 가정용품."
+        },
+        {
+          "lang": "en",
+          "word": "receive",
+          "pos": "verb",
+          "ko": "받다",
+          "example": "Did you receive my email?",
+          "example_ko": "제 이메일 받으셨어요?",
+          "note_ko": "get보다 격식 있는 말. 반대는 send(보내다)."
+        },
+        {
+          "lang": "en",
+          "word": "cost of living",
+          "pos": "noun",
+          "ko": "생활비",
+          "example": "The cost of living in London is very high.",
+          "example_ko": "런던은 생활비가 아주 비싸요.",
+          "note_ko": "cost-of-living crisis = 생활비 위기(물가 급등)."
+        },
+        {
+          "lang": "en",
+          "word": "profit",
+          "pos": "noun",
+          "ko": "이익, 이윤",
+          "example": "The company made a big profit this year.",
+          "example_ko": "그 회사는 올해 큰 이익을 냈어요.",
+          "note_ko": "make a profit = 이익을 내다. 반대는 loss(손실)."
+        },
+        {
+          "lang": "en",
+          "word": "double",
+          "pos": "verb",
+          "ko": "두 배가 되다",
+          "example": "The price of coffee has doubled.",
+          "example_ko": "커피값이 두 배가 됐어요.",
+          "note_ko": "형용사·명사로도 써요: a double room. triple = 세 배가 되다."
+        },
+        {
+          "lang": "en",
+          "word": "rent out",
+          "pos": "phrasal verb",
+          "ko": "세놓다, 빌려주다",
+          "example": "They rent out their flat in the summer.",
+          "example_ko": "그들은 여름에 아파트를 세놓아요.",
+          "note_ko": "rent = 빌리다(돈 내고). rent out = 빌려주다(돈 받고). 명사 rent는 '집세'."
+        },
+        {
+          "lang": "en",
+          "word": "forecaster",
+          "pos": "noun",
+          "ko": "예측하는 사람(기관)",
+          "example": "The weather forecaster said it would rain.",
+          "example_ko": "기상 예보관이 비가 올 거라고 했어요.",
+          "note_ko": "forecast = 예측(하다). weather forecast = 일기예보."
+        },
+        {
+          "lang": "en",
+          "word": "outlook",
+          "pos": "noun",
+          "ko": "전망",
+          "example": "The outlook for next year is good.",
+          "example_ko": "내년 전망은 좋아요.",
+          "note_ko": "look out(밖을 보다)과 뜻이 달라요. 이메일 프로그램 이름도 Outlook."
+        },
+        {
+          "lang": "en",
+          "word": "bold",
+          "pos": "adjective",
+          "ko": "과감한, 대담한",
+          "example": "It was a bold decision to quit her job.",
+          "example_ko": "직장을 그만둔 건 과감한 결정이었어요.",
+          "note_ko": "글씨의 '굵은(볼드)'도 bold. 반대말 timid(소심한)."
+        },
+        {
+          "lang": "en",
+          "word": "landlord",
+          "pos": "noun",
+          "ko": "집주인",
+          "example": "My landlord fixed the heater quickly.",
+          "example_ko": "집주인이 난방기를 금방 고쳐 줬어요.",
+          "note_ko": "여성은 landlady. 세입자는 tenant."
+        },
+        {
+          "lang": "en",
+          "word": "tenant",
+          "pos": "noun",
+          "ko": "세입자",
+          "example": "The tenants pay rent every month.",
+          "example_ko": "세입자들은 매달 집세를 내요.",
+          "note_ko": "landlord(집주인)와 짝으로 외우세요."
+        },
+        {
+          "lang": "fr",
+          "word": "livre",
+          "pos": "noun",
+          "ko": "파운드(영국 돈)",
+          "example": "Ce sac coûte vingt livres.",
+          "example_ko": "이 가방은 20파운드예요.",
+          "note_ko": "la livre (sterling) = 파운드는 여성 명사. le livre(남성)는 '책'이에요."
+        },
+        {
+          "lang": "fr",
+          "word": "foyer",
+          "pos": "noun",
+          "ko": "가구, 가정",
+          "example": "Chaque foyer va recevoir une lettre.",
+          "example_ko": "가구마다 편지 한 통을 받게 돼요.",
+          "note_ko": "남성 명사. '집, 가정'의 뜻으로, 통계에서는 '가구'."
+        },
+        {
+          "lang": "fr",
+          "word": "impôt",
+          "pos": "noun",
+          "ko": "세금",
+          "example": "On paie des impôts sur son salaire.",
+          "example_ko": "월급에 대해 세금을 내요.",
+          "note_ko": "남성 명사. payer des impôts. taxe는 특정 물건·서비스에 붙는 세금일 때가 많아요."
+        },
+        {
+          "lang": "fr",
+          "word": "financer",
+          "pos": "verb",
+          "ko": "자금을 대다",
+          "example": "La ville va financer une nouvelle école.",
+          "example_ko": "시가 새 학교에 자금을 댈 거예요.",
+          "note_ko": "명사 le financement(자금 조달). la finance = 금융."
+        },
+        {
+          "lang": "fr",
+          "word": "facture",
+          "pos": "noun",
+          "ko": "청구서, 요금 고지서",
+          "example": "J'ai reçu la facture d'électricité.",
+          "example_ko": "전기 요금 고지서를 받았어요.",
+          "note_ko": "여성 명사. payer une facture = 요금을 내다. 식당 계산서는 l'addition."
+        },
+        {
+          "lang": "fr",
+          "word": "recevoir",
+          "pos": "verb",
+          "ko": "받다",
+          "example": "Tu as reçu mon message ?",
+          "example_ko": "내 메시지 받았어?",
+          "note_ko": "과거분사 reçu. 반대말 envoyer(보내다)."
+        },
+        {
+          "lang": "fr",
+          "word": "coût de la vie",
+          "pos": "noun",
+          "ko": "생활비",
+          "example": "Le coût de la vie augmente à Paris.",
+          "example_ko": "파리의 생활비가 오르고 있어요.",
+          "note_ko": "le coût = 비용. coûter = (값이) 들다."
+        },
+        {
+          "lang": "fr",
+          "word": "grimper",
+          "pos": "verb",
+          "ko": "오르다, 치솟다",
+          "example": "Les prix ont grimpé cet hiver.",
+          "example_ko": "이번 겨울에 물가가 치솟았어요.",
+          "note_ko": "원래 '기어오르다'(grimper à un arbre). 물가·숫자가 오를 때도 써요. faire grimper = 끌어올리다."
+        },
+        {
+          "lang": "fr",
+          "word": "bénéfice",
+          "pos": "noun",
+          "ko": "이익",
+          "example": "L'entreprise a fait un gros bénéfice.",
+          "example_ko": "그 회사는 큰 이익을 냈어요.",
+          "note_ko": "남성 명사. 반대말 la perte(손실)."
+        },
+        {
+          "lang": "fr",
+          "word": "doubler",
+          "pos": "verb",
+          "ko": "두 배가 되다",
+          "example": "Le prix du café a doublé.",
+          "example_ko": "커피값이 두 배가 됐어요.",
+          "note_ko": "'추월하다'라는 뜻도 있어요(doubler une voiture). 영화 '더빙하다'도 doubler."
+        },
+        {
+          "lang": "fr",
+          "word": "épargne",
+          "pos": "noun",
+          "ko": "저축, 예금",
+          "example": "Elle met son épargne à la banque.",
+          "example_ko": "그녀는 저축한 돈을 은행에 넣어 둬요.",
+          "note_ko": "여성 명사. 동사 épargner(저축하다, 아끼다)."
+        },
+        {
+          "lang": "fr",
+          "word": "croissance",
+          "pos": "noun",
+          "ko": "성장",
+          "example": "La croissance économique est faible.",
+          "example_ko": "경제 성장이 약해요.",
+          "note_ko": "여성 명사. 동사 croître(자라다). croissant(크루아상)과 같은 뿌리예요."
+        },
+        {
+          "lang": "fr",
+          "word": "audacieux",
+          "pos": "adjective",
+          "ko": "과감한, 대담한",
+          "example": "C'est un projet audacieux.",
+          "example_ko": "과감한 계획이에요.",
+          "note_ko": "여성형 audacieuse. 명사 l'audace(대담함)."
+        },
+        {
+          "lang": "fr",
+          "word": "propriétaire",
+          "pos": "noun",
+          "ko": "집주인, 소유자",
+          "example": "Le propriétaire a augmenté le loyer.",
+          "example_ko": "집주인이 집세를 올렸어요.",
+          "note_ko": "남녀 같은 형태(le/la propriétaire). 반대는 le locataire."
+        },
+        {
+          "lang": "fr",
+          "word": "locataire",
+          "pos": "noun",
+          "ko": "세입자",
+          "example": "Les locataires paient le loyer chaque mois.",
+          "example_ko": "세입자들은 매달 집세를 내요.",
+          "note_ko": "남녀 같은 형태. louer = 빌리다/빌려주다."
+        },
+        {
+          "lang": "fr",
+          "word": "loyer",
+          "pos": "noun",
+          "ko": "집세, 월세",
+          "example": "Mon loyer est de 800 euros.",
+          "example_ko": "내 월세는 800유로예요.",
+          "note_ko": "남성 명사. payer le loyer = 집세를 내다."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "A \"landlord\" is a person who…",
+          "choices": [
+            "rents a home to other people",
+            "lives in a castle",
+            "works in a bank"
+          ],
+          "answer": 0,
+          "explain_ko": "landlord = 집주인. 집을 빌려 사는 사람은 tenant(세입자)."
+        },
+        {
+          "lang": "fr",
+          "q": "« Un loyer », c'est…",
+          "choices": [
+            "l'argent qu'on paie chaque mois pour un logement",
+            "une personne qui loue un appartement",
+            "une banque"
+          ],
+          "answer": 0,
+          "explain_ko": "loyer = 집세. 빌려 사는 사람은 locataire."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go",
+          "accessed": "2026-10-29"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households",
+          "accessed": "2026-10-29"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": null,
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-10-28/795749759817cfcb.mp3",
+            "2026-10-28/d4e9aa0d7caefbe6.mp3",
+            "2026-10-28/c1a17065fe7e44e0.mp3"
+          ],
+          "normal": [
+            "2026-10-28/418555e3dbe7479f.mp3",
+            "2026-10-28/1a0769ef06a69dd7.mp3",
+            "2026-10-28/d3e58b07c090a08b.mp3",
+            "2026-10-28/852cf75e5d8c5699.mp3",
+            "2026-10-28/882ab66d8b764d61.mp3",
+            "2026-10-28/1e048193912532b4.mp3",
+            "2026-10-28/3cd98d88dcd6fbfa.mp3",
+            "2026-10-28/e4293ae2697fa775.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-10-28/9377b5055308e7f0.mp3",
+            "2026-10-28/ab3daf4da2a75140.mp3",
+            "2026-10-28/84691a474e0607c5.mp3"
+          ],
+          "normal": [
+            "2026-10-28/eb18cb47e78d5288.mp3",
+            "2026-10-28/377e90f63e10ad95.mp3",
+            "2026-10-28/15410ca7a94c354c.mp3",
+            "2026-10-28/1ec1f7f1b39c6ffa.mp3",
+            "2026-10-28/31ddf419b474eb54.mp3",
+            "2026-10-28/b99bfe55908da5e8.mp3",
+            "2026-10-28/149127327a2eacc0.mp3",
+            "2026-10-28/c7bb05937085c3d5.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-10-28/a5231bde658e8eeb.mp3",
+          "2026-10-28/839b41d8bf93f69c.mp3",
+          "2026-10-28/aafce9daf841f1a2.mp3",
+          "2026-10-28/3d99c4ee8c5e5f3a.mp3",
+          "2026-10-28/020f45314c981a83.mp3",
+          "2026-10-28/8e096456fe199fd9.mp3",
+          "2026-10-28/0717eba7cf4b219e.mp3",
+          "2026-10-28/8fc1e939c6b93eea.mp3",
+          "2026-10-28/9afdedcfa3d63297.mp3",
+          "2026-10-28/33065919de104c2d.mp3",
+          "2026-10-28/b88838ed64c164b4.mp3",
+          "2026-10-28/49758c7c6f59673e.mp3",
+          "2026-10-28/86863b1a396e89c7.mp3",
+          "2026-10-28/8f931ea4d35a7296.mp3",
+          "2026-10-28/3c20fe2e79e96892.mp3",
+          "2026-10-28/28ef146c70d5b84b.mp3",
+          "2026-10-28/e63ae5bbf6ad70dc.mp3",
+          "2026-10-28/04e542a21c3f4463.mp3",
+          "2026-10-28/6cc2a4464362c709.mp3",
+          "2026-10-28/ab822363adffd1e3.mp3",
+          "2026-10-28/dc3d5f93f7fb347f.mp3",
+          "2026-10-28/fce5b098a52b87bf.mp3",
+          "2026-10-28/c8c8f71c5db7cece.mp3",
+          "2026-10-28/42628f9eb5d3d3e4.mp3",
+          "2026-10-28/69fd61a7a4eac038.mp3",
+          "2026-10-28/d929ccecb5601440.mp3",
+          "2026-10-28/cd4a991789e266df.mp3",
+          "2026-10-28/3a5efa4caf407340.mp3",
+          "2026-10-28/2626edc90bf215d4.mp3",
+          "2026-10-28/5f1045ef310cd6cb.mp3",
+          "2026-10-28/cdadb8ed063a2b80.mp3",
+          "2026-10-28/f953c9cbfcf9464c.mp3",
+          "2026-10-28/9cd2e86ae5a76c36.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.095,
+              0.198,
+              0.249,
+              0.3,
+              0.402,
+              0.453,
+              0.555,
+              0.606,
+              0.657,
+              0.708,
+              0.862
+            ],
+            [
+              0.219,
+              0.28,
+              0.34,
+              0.401,
+              0.462,
+              0.583,
+              0.644,
+              0.704,
+              0.826,
+              0.886
+            ],
+            [
+              0.124,
+              0.252,
+              0.316,
+              0.38,
+              0.444,
+              0.508,
+              0.573,
+              0.637,
+              0.701,
+              0.765,
+              0.829
+            ]
+          ],
+          "normal": [
+            [
+              0.029,
+              0.108,
+              0.135,
+              0.188,
+              0.241,
+              0.267,
+              0.294,
+              0.347,
+              0.373,
+              0.513,
+              0.537,
+              0.56,
+              0.607,
+              0.653,
+              0.677,
+              0.723,
+              0.747,
+              0.77,
+              0.84,
+              0.863,
+              0.887,
+              0.957
+            ],
+            [
+              0.096,
+              0.147,
+              0.197,
+              0.248,
+              0.324,
+              0.349,
+              0.399,
+              0.424,
+              0.475,
+              0.5,
+              0.551,
+              0.576,
+              0.676,
+              0.706,
+              0.735,
+              0.765,
+              0.824,
+              0.854,
+              0.943
+            ],
+            [
+              0.09,
+              0.135,
+              0.158,
+              0.204,
+              0.295,
+              0.349,
+              0.415,
+              0.437,
+              0.459,
+              0.481,
+              0.503,
+              0.525,
+              0.546,
+              0.568,
+              0.59,
+              0.612,
+              0.634,
+              0.656,
+              0.678,
+              0.712,
+              0.741,
+              0.801,
+              0.831,
+              0.861,
+              0.891,
+              0.921
+            ],
+            [
+              0.033,
+              0.09,
+              0.147,
+              0.204,
+              0.26,
+              0.332,
+              0.363,
+              0.425,
+              0.455,
+              0.486,
+              0.517,
+              0.548,
+              0.609,
+              0.64,
+              0.671,
+              0.702,
+              0.732,
+              0.763,
+              0.794,
+              0.825,
+              0.886,
+              0.948
+            ],
+            [
+              0.079,
+              0.132,
+              0.185,
+              0.29,
+              0.343,
+              0.448,
+              0.501,
+              0.554,
+              0.659,
+              0.712,
+              0.765,
+              0.817,
+              0.923
+            ],
+            [
+              0.089,
+              0.112,
+              0.181,
+              0.273,
+              0.364,
+              0.387,
+              0.41,
+              0.502,
+              0.525,
+              0.548,
+              0.571,
+              0.617,
+              0.64,
+              0.663,
+              0.686,
+              0.708,
+              0.731,
+              0.754,
+              0.8,
+              0.823,
+              0.869,
+              0.915,
+              0.961
+            ],
+            [
+              0.052,
+              0.123,
+              0.158,
+              0.193,
+              0.246,
+              0.264,
+              0.282,
+              0.317,
+              0.335,
+              0.353,
+              0.37,
+              0.455,
+              0.482,
+              0.51,
+              0.566,
+              0.594,
+              0.621,
+              0.649,
+              0.677,
+              0.732,
+              0.76,
+              0.788,
+              0.816,
+              0.844,
+              0.899
+            ],
+            [
+              0.087,
+              0.17,
+              0.211,
+              0.252,
+              0.334,
+              0.375,
+              0.416,
+              0.457,
+              0.54,
+              0.581,
+              0.622,
+              0.663,
+              0.704,
+              0.786,
+              0.827,
+              0.91
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.062,
+              0.106,
+              0.238,
+              0.282,
+              0.37,
+              0.458,
+              0.502,
+              0.546,
+              0.59,
+              0.679,
+              0.723,
+              0.767,
+              0.811
+            ],
+            [
+              0.125,
+              0.183,
+              0.3,
+              0.417,
+              0.475,
+              0.591,
+              0.65,
+              0.825,
+              0.883
+            ],
+            [
+              0.148,
+              0.217,
+              0.251,
+              0.48,
+              0.52,
+              0.561,
+              0.601,
+              0.641,
+              0.681,
+              0.721,
+              0.801
+            ]
+          ],
+          "normal": [
+            [
+              0.036,
+              0.049,
+              0.09,
+              0.104,
+              0.168,
+              0.185,
+              0.24,
+              0.259,
+              0.316,
+              0.373,
+              0.392,
+              0.43,
+              0.468,
+              0.506,
+              0.525,
+              0.544,
+              0.62,
+              0.639,
+              0.676,
+              0.695,
+              0.714,
+              0.752,
+              0.771,
+              0.809,
+              0.828,
+              0.847,
+              0.866,
+              0.904
+            ],
+            [
+              0.032,
+              0.095,
+              0.138,
+              0.18,
+              0.201,
+              0.222,
+              0.243,
+              0.307,
+              0.37,
+              0.392,
+              0.413,
+              0.434,
+              0.526,
+              0.554,
+              0.583,
+              0.611,
+              0.64,
+              0.669,
+              0.697,
+              0.754,
+              0.811,
+              0.84,
+              0.868
+            ],
+            [
+              0.08,
+              0.104,
+              0.128,
+              0.196,
+              0.212,
+              0.228,
+              0.259,
+              0.338,
+              0.37,
+              0.424,
+              0.444,
+              0.464,
+              0.483,
+              0.503,
+              0.523,
+              0.543,
+              0.583,
+              0.602,
+              0.622,
+              0.642,
+              0.662,
+              0.682,
+              0.702,
+              0.722,
+              0.741,
+              0.857,
+              0.875,
+              0.911,
+              0.929,
+              0.946,
+              0.964,
+              0.982
+            ],
+            [
+              0.047,
+              0.067,
+              0.126,
+              0.146,
+              0.216,
+              0.237,
+              0.259,
+              0.344,
+              0.365,
+              0.387,
+              0.451,
+              0.472,
+              0.493,
+              0.536,
+              0.558,
+              0.642,
+              0.686,
+              0.708,
+              0.73,
+              0.752,
+              0.774,
+              0.796,
+              0.818,
+              0.862,
+              0.928,
+              0.95
+            ],
+            [
+              0.123,
+              0.153,
+              0.213,
+              0.243,
+              0.273,
+              0.363,
+              0.393,
+              0.453,
+              0.483,
+              0.513,
+              0.543,
+              0.633,
+              0.663,
+              0.753,
+              0.783,
+              0.843
+            ],
+            [
+              0.051,
+              0.114,
+              0.155,
+              0.238,
+              0.28,
+              0.301,
+              0.363,
+              0.384,
+              0.405,
+              0.426,
+              0.467,
+              0.488,
+              0.53,
+              0.55,
+              0.571,
+              0.592,
+              0.634,
+              0.654,
+              0.675,
+              0.696,
+              0.758,
+              0.779,
+              0.821,
+              0.842,
+              0.862,
+              0.883,
+              0.925,
+              0.945
+            ],
+            [
+              0.072,
+              0.089,
+              0.107,
+              0.124,
+              0.22,
+              0.249,
+              0.332,
+              0.339,
+              0.351,
+              0.357,
+              0.37,
+              0.376,
+              0.382,
+              0.395,
+              0.414,
+              0.475,
+              0.514,
+              0.534,
+              0.554,
+              0.593,
+              0.633,
+              0.653,
+              0.672,
+              0.692,
+              0.712,
+              0.732,
+              0.752,
+              0.791,
+              0.811,
+              0.851,
+              0.87,
+              0.91,
+              0.93,
+              0.95
+            ],
+            [
+              0.056,
+              0.09,
+              0.123,
+              0.157,
+              0.191,
+              0.292,
+              0.326,
+              0.427,
+              0.461,
+              0.495,
+              0.562,
+              0.596,
+              0.63,
+              0.731,
+              0.765,
+              0.866,
+              0.9
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-10-28-03",
+      "category": "politics",
+      "region": {
+        "country": "BR",
+        "city": "Brasília",
+        "lat": -15.79,
+        "lng": -47.88
+      },
+      "headline": {
+        "en": "Brazil's Defeated Candidate Flies to Miami",
+        "fr": "Brésil : le candidat battu Flávio Bolsonaro s'envole pour Miami",
+        "ko": "브라질 대선 패배한 보우소나루, 몰래 미국 마이애미로"
+      },
+      "hook": {
+        "en": "Where did Brazil's losing candidate go?",
+        "fr": "Où est parti le candidat battu ?",
+        "ko": "브라질 대선에서 진 후보는 어디로 갔을까?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Flávio Bolsonaro lost Brazil's presidential election on Sunday.",
+            "Then he secretly left Brazil and flew to Miami.",
+            "He now says he is the real leader of Brazil."
+          ],
+          "easy_ko": [
+            "플라비우 보우소나루가 일요일 브라질 대통령 선거에서 졌습니다.",
+            "그 뒤 그는 몰래 브라질을 떠나 비행기로 마이애미에 갔습니다.",
+            "그는 이제 자신이 브라질의 진짜 지도자라고 말합니다."
+          ],
+          "normal": [
+            "Flávio Bolsonaro, the son of Brazil's jailed former president Jair Bolsonaro, lost Sunday's presidential run-off to President Luiz Inácio Lula da Silva by more than four million votes.",
+            "Because of a criminal investigation, Brazilian authorities had ordered him to hand over his passports, and they cancelled them when he missed the deadline.",
+            "On Tuesday night he crossed the border into Argentina by land, and then he flew on a private jet through Ecuador to Miami with his wife and two daughters.",
+            "After landing, he published a letter calling himself the \"leader of Brazil\" and repeated claims of election fraud without evidence.",
+            "Brazil's courts have rejected those claims, and even his own party has accepted the result.",
+            "Bolsonaro said he did not flee but left \"for the sake of Brazil\", while Lula called his departure \"shameful\".",
+            "US President Donald Trump said the US had given him a pass to enter the country but that he would not get involved.",
+            "Bolsonaro, who denies any wrongdoing, will lose his immunity as a senator at the end of January."
+          ],
+          "normal_ko": [
+            "수감 중인 자이르 보우소나루 전 브라질 대통령의 아들 플라비우 보우소나루가 일요일 대선 결선 투표에서 루이스 이나시우 룰라 다시우바 대통령에게 400만 표 넘는 차이로 졌습니다.",
+            "브라질 당국은 형사 수사 때문에 그에게 여권을 내놓으라고 명령했고, 그가 기한을 넘기자 여권을 무효로 했습니다.",
+            "그는 화요일 밤 육로로 국경을 넘어 아르헨티나로 간 뒤, 아내와 두 딸과 함께 전용기를 타고 에콰도르를 거쳐 마이애미로 날아갔습니다.",
+            "도착한 뒤 그는 자신을 \"브라질의 지도자\"라고 부르는 편지를 발표하고, 근거 없이 선거 부정 주장을 되풀이했습니다.",
+            "브라질 법원들은 그런 주장을 받아들이지 않았고, 그의 소속 정당조차 결과를 인정했습니다.",
+            "보우소나루는 도망친 것이 아니라 \"브라질을 위해\" 떠났다고 말했고, 룰라 대통령은 그의 출국을 \"부끄러운 일\"이라고 했습니다.",
+            "도널드 트럼프 미국 대통령은 미국이 그의 입국을 허락했지만 자신은 관여하지 않겠다고 말했습니다.",
+            "잘못한 것이 없다고 주장하는 보우소나루는 1월 말이면 상원의원으로서 누리던 면책 특권을 잃게 됩니다."
+          ],
+          "normal_paras": [
+            3,
+            3,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Flávio Bolsonaro a perdu dimanche l'élection présidentielle au Brésil.",
+            "Il a ensuite quitté le pays en secret pour aller à Miami.",
+            "Il affirme maintenant être le vrai chef du Brésil."
+          ],
+          "easy_ko": [
+            "플라비우 보우소나루가 일요일 브라질 대통령 선거에서 졌습니다.",
+            "그 뒤 그는 몰래 나라를 떠나 마이애미로 갔습니다.",
+            "그는 이제 자신이 브라질의 진짜 지도자라고 주장합니다."
+          ],
+          "normal": [
+            "Flávio Bolsonaro, fils de l'ancien président Jair Bolsonaro, aujourd'hui en prison, a perdu dimanche le second tour de la présidentielle face au président Luiz Inácio Lula da Silva, avec plus de quatre millions de voix d'écart.",
+            "Dans le cadre d'une enquête pénale, les autorités brésiliennes lui avaient ordonné de remettre ses passeports, puis les ont annulés lorsqu'il n'a pas respecté le délai.",
+            "Mardi soir, il a franchi la frontière argentine par la route, avant de s'envoler à bord d'un jet privé vers Miami, via l'Équateur, avec sa femme et ses deux filles.",
+            "Après son arrivée, il a publié une lettre dans laquelle il se présente comme le « leader du Brésil » et reprend, sans preuve, des accusations de fraude électorale.",
+            "La justice brésilienne a rejeté ces accusations, et même son propre parti a reconnu le résultat.",
+            "Flávio Bolsonaro assure qu'il n'a pas fui, mais qu'il est parti « pour le bien du Brésil », tandis que Lula a qualifié son départ de « honteux ».",
+            "Le président américain, Donald Trump, a indiqué que les États-Unis l'avaient autorisé à entrer dans le pays, mais qu'il ne s'en mêlerait pas.",
+            "Le sénateur, qui nie toute faute, perdra son immunité parlementaire fin janvier."
+          ],
+          "normal_ko": [
+            "지금 수감 중인 자이르 보우소나루 전 대통령의 아들 플라비우 보우소나루가 일요일 대선 결선에서 루이스 이나시우 룰라 다시우바 대통령에게 400만 표 넘는 차이로 졌습니다.",
+            "브라질 당국은 형사 수사의 하나로 그에게 여권을 내놓으라고 명령했고, 그가 기한을 지키지 않자 여권을 무효로 했습니다.",
+            "그는 화요일 밤 육로로 아르헨티나 국경을 넘은 뒤, 아내와 두 딸과 함께 전용기를 타고 에콰도르를 거쳐 마이애미로 날아갔습니다.",
+            "도착한 뒤 그는 자신을 \"브라질의 지도자\"라고 소개하며 근거 없이 선거 부정 주장을 되풀이하는 편지를 발표했습니다.",
+            "브라질 법원은 이런 주장을 받아들이지 않았고, 그의 정당조차 결과를 인정했습니다.",
+            "보우소나루는 도망친 게 아니라 \"브라질을 위해\" 떠났다고 주장하고, 룰라 대통령은 그의 출국을 \"부끄러운 일\"이라고 했습니다.",
+            "도널드 트럼프 미국 대통령은 미국이 그의 입국을 허락했지만 자신은 끼어들지 않겠다고 밝혔습니다.",
+            "잘못을 모두 부인하는 이 상원의원은 1월 말 의원 면책 특권을 잃게 됩니다."
+          ],
+          "normal_paras": [
+            3,
+            3,
+            2
+          ]
+        }
+      },
+      "ko_note": "브라질 대선은 1차 투표에서 과반을 얻은 후보가 없으면 상위 두 명이 결선 투표를 치러요. 플라비우의 아버지 자이르 보우소나루 전 대통령은 2022년 대선에서 룰라에게 진 뒤 쿠데타를 꾀한 혐의로 징역 27년을 선고받았습니다. 아버지도 2022년 룰라 취임 직전 미국 플로리다로 떠난 적이 있어 이번 일과 자주 비교돼요. 룰라 대통령은 이번 승리로 네 번째 임기를 맞습니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "lose",
+          "pos": "verb",
+          "ko": "지다, 잃다",
+          "example": "Our team lost the game 2–1.",
+          "example_ko": "우리 팀이 그 경기에서 2대 1로 졌어요.",
+          "note_ko": "lose–lost–lost. 반대는 win. lose a key = 열쇠를 잃어버리다."
+        },
+        {
+          "lang": "en",
+          "word": "election",
+          "pos": "noun",
+          "ko": "선거",
+          "example": "The next election is in May.",
+          "example_ko": "다음 선거는 5월에 있어요.",
+          "note_ko": "presidential election = 대통령 선거. 동사 elect(선출하다)."
+        },
+        {
+          "lang": "en",
+          "word": "secretly",
+          "pos": "adverb",
+          "ko": "몰래, 비밀리에",
+          "example": "She secretly bought him a gift.",
+          "example_ko": "그녀는 몰래 그에게 줄 선물을 샀어요.",
+          "note_ko": "형용사 secret(비밀의), 명사 a secret(비밀)."
+        },
+        {
+          "lang": "en",
+          "word": "fly",
+          "pos": "verb",
+          "ko": "비행기로 가다, 날다",
+          "example": "We flew to Paris last summer.",
+          "example_ko": "우리는 지난여름 비행기로 파리에 갔어요.",
+          "note_ko": "fly–flew–flown. fly to + 장소 = 비행기로 ~에 가다."
+        },
+        {
+          "lang": "en",
+          "word": "leader",
+          "pos": "noun",
+          "ko": "지도자",
+          "example": "She is the leader of the team.",
+          "example_ko": "그녀가 팀의 리더예요.",
+          "note_ko": "동사 lead(이끌다). world leaders = 세계 정상들."
+        },
+        {
+          "lang": "en",
+          "word": "jailed",
+          "pos": "adjective",
+          "ko": "수감된",
+          "example": "The jailed reporter was freed last week.",
+          "example_ko": "수감됐던 기자가 지난주 풀려났어요.",
+          "note_ko": "jail = 감옥(prison). be jailed = 수감되다."
+        },
+        {
+          "lang": "en",
+          "word": "run-off",
+          "pos": "noun",
+          "ko": "결선 투표",
+          "example": "No one won half the votes, so there will be a run-off.",
+          "example_ko": "아무도 과반을 얻지 못해 결선 투표가 열려요.",
+          "note_ko": "1차에서 과반이 없을 때 상위 두 명이 다시 겨루는 투표. second round라고도 해요."
+        },
+        {
+          "lang": "en",
+          "word": "investigation",
+          "pos": "noun",
+          "ko": "수사, 조사",
+          "example": "The police started an investigation.",
+          "example_ko": "경찰이 수사를 시작했어요.",
+          "note_ko": "동사 investigate. a criminal investigation = 형사 수사."
+        },
+        {
+          "lang": "en",
+          "word": "hand over",
+          "pos": "phrasal verb",
+          "ko": "넘겨주다, 내놓다",
+          "example": "Please hand over your keys.",
+          "example_ko": "열쇠를 넘겨주세요.",
+          "note_ko": "hand = 손 → 손으로 건네다. hand in = 제출하다."
+        },
+        {
+          "lang": "en",
+          "word": "deadline",
+          "pos": "noun",
+          "ko": "마감 기한",
+          "example": "The deadline for the report is Friday.",
+          "example_ko": "보고서 마감은 금요일이에요.",
+          "note_ko": "meet the deadline = 기한을 지키다. miss the deadline = 기한을 넘기다."
+        },
+        {
+          "lang": "en",
+          "word": "cross the border",
+          "pos": "phrase",
+          "ko": "국경을 넘다",
+          "example": "We crossed the border into France.",
+          "example_ko": "우리는 국경을 넘어 프랑스로 들어갔어요.",
+          "note_ko": "border = 국경. by land = 육로로, by air = 하늘길로."
+        },
+        {
+          "lang": "en",
+          "word": "claim",
+          "pos": "noun",
+          "ko": "주장",
+          "example": "There is no proof for his claim.",
+          "example_ko": "그의 주장에는 증거가 없어요.",
+          "note_ko": "동사도 claim(주장하다). 사실인지 확실하지 않을 때 뉴스에서 자주 써요."
+        },
+        {
+          "lang": "en",
+          "word": "without evidence",
+          "pos": "phrase",
+          "ko": "근거 없이",
+          "example": "He blamed his neighbor without evidence.",
+          "example_ko": "그는 근거도 없이 이웃을 탓했어요.",
+          "note_ko": "evidence는 셀 수 없는 명사(an evidence ×). a piece of evidence = 증거 하나."
+        },
+        {
+          "lang": "en",
+          "word": "reject",
+          "pos": "verb",
+          "ko": "거부하다, 받아들이지 않다",
+          "example": "The court rejected his request.",
+          "example_ko": "법원은 그의 요청을 받아들이지 않았어요.",
+          "note_ko": "반대는 accept(받아들이다). 명사 rejection."
+        },
+        {
+          "lang": "en",
+          "word": "flee",
+          "pos": "verb",
+          "ko": "도망치다, 달아나다",
+          "example": "Many people fled the war.",
+          "example_ko": "많은 사람들이 전쟁을 피해 달아났어요.",
+          "note_ko": "flee–fled–fled. fly(날다)의 과거 flew와 헷갈리지 마세요."
+        },
+        {
+          "lang": "en",
+          "word": "get involved",
+          "pos": "phrase",
+          "ko": "관여하다, 끼어들다",
+          "example": "I don't want to get involved in their fight.",
+          "example_ko": "그들 싸움에 끼어들고 싶지 않아요.",
+          "note_ko": "get involved in + 일. involve = 포함하다, 관련시키다."
+        },
+        {
+          "lang": "en",
+          "word": "deny",
+          "pos": "verb",
+          "ko": "부인하다",
+          "example": "He denied taking the money.",
+          "example_ko": "그는 돈을 가져간 걸 부인했어요.",
+          "note_ko": "deny + -ing. 반대는 admit(인정하다). deny any wrongdoing = 잘못을 모두 부인하다."
+        },
+        {
+          "lang": "fr",
+          "word": "perdre",
+          "pos": "verb",
+          "ko": "지다, 잃다",
+          "example": "Notre équipe a perdu le match.",
+          "example_ko": "우리 팀이 경기에서 졌어요.",
+          "note_ko": "과거분사 perdu. 반대말 gagner(이기다). perdre ses clés = 열쇠를 잃어버리다."
+        },
+        {
+          "lang": "fr",
+          "word": "élection présidentielle",
+          "pos": "noun",
+          "ko": "대통령 선거",
+          "example": "L'élection présidentielle a lieu tous les cinq ans.",
+          "example_ko": "대통령 선거는 5년마다 열려요.",
+          "note_ko": "여성 명사. 그냥 la présidentielle라고도 해요."
+        },
+        {
+          "lang": "fr",
+          "word": "quitter",
+          "pos": "verb",
+          "ko": "떠나다",
+          "example": "Il a quitté Paris l'an dernier.",
+          "example_ko": "그는 작년에 파리를 떠났어요.",
+          "note_ko": "quitter + 장소/사람(전치사 없이). Ne quittez pas ! = (전화) 끊지 마세요."
+        },
+        {
+          "lang": "fr",
+          "word": "en secret",
+          "pos": "phrase",
+          "ko": "몰래, 비밀리에",
+          "example": "Ils se sont mariés en secret.",
+          "example_ko": "그들은 몰래 결혼했어요.",
+          "note_ko": "un secret = 비밀. 비슷한 말 secrètement."
+        },
+        {
+          "lang": "fr",
+          "word": "affirmer",
+          "pos": "verb",
+          "ko": "주장하다, 단언하다",
+          "example": "Il affirme qu'il n'a rien vu.",
+          "example_ko": "그는 아무것도 못 봤다고 주장해요.",
+          "note_ko": "affirmer que + 문장 / affirmer + 동사원형(être)."
+        },
+        {
+          "lang": "fr",
+          "word": "chef",
+          "pos": "noun",
+          "ko": "우두머리, 지도자",
+          "example": "C'est le chef de l'équipe.",
+          "example_ko": "그가 팀의 책임자예요.",
+          "note_ko": "요리사(chef cuisinier)만이 아니라 '장(長)'의 뜻. 여성형은 cheffe도 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "second tour",
+          "pos": "noun",
+          "ko": "결선 투표(2차 투표)",
+          "example": "Les deux candidats s'affrontent au second tour.",
+          "example_ko": "두 후보가 결선에서 맞붙어요.",
+          "note_ko": "le premier tour = 1차 투표. tour = 차례, 회."
+        },
+        {
+          "lang": "fr",
+          "word": "voix",
+          "pos": "noun",
+          "ko": "표; 목소리",
+          "example": "Elle a gagné avec 52 % des voix.",
+          "example_ko": "그녀는 52% 득표로 이겼어요.",
+          "note_ko": "여성 명사, 단복수 같은 형태. '목소리'라는 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "enquête",
+          "pos": "noun",
+          "ko": "수사, 조사",
+          "example": "La police a ouvert une enquête.",
+          "example_ko": "경찰이 수사에 착수했어요.",
+          "note_ko": "여성 명사. une enquête pénale = 형사 수사. 설문 조사도 enquête."
+        },
+        {
+          "lang": "fr",
+          "word": "remettre",
+          "pos": "verb",
+          "ko": "넘겨주다, 제출하다",
+          "example": "Remettez vos devoirs au professeur.",
+          "example_ko": "숙제를 선생님께 제출하세요.",
+          "note_ko": "'다시 놓다'라는 뜻도 있어요. remettre à plus tard = 미루다."
+        },
+        {
+          "lang": "fr",
+          "word": "délai",
+          "pos": "noun",
+          "ko": "기한",
+          "example": "Le délai est de 24 heures.",
+          "example_ko": "기한은 24시간이에요.",
+          "note_ko": "남성 명사. respecter le délai = 기한을 지키다. '지연'이라는 뜻의 영어 delay와 달라요."
+        },
+        {
+          "lang": "fr",
+          "word": "franchir la frontière",
+          "pos": "phrase",
+          "ko": "국경을 넘다",
+          "example": "Ils ont franchi la frontière à pied.",
+          "example_ko": "그들은 걸어서 국경을 넘었어요.",
+          "note_ko": "franchir = 넘다, 건너다. la frontière = 국경."
+        },
+        {
+          "lang": "fr",
+          "word": "sans preuve",
+          "pos": "phrase",
+          "ko": "증거 없이",
+          "example": "On ne peut pas l'accuser sans preuve.",
+          "example_ko": "증거 없이 그를 고발할 수는 없어요.",
+          "note_ko": "la preuve = 증거. prouver = 증명하다."
+        },
+        {
+          "lang": "fr",
+          "word": "rejeter",
+          "pos": "verb",
+          "ko": "거부하다, 기각하다",
+          "example": "Le juge a rejeté sa demande.",
+          "example_ko": "판사가 그의 요청을 기각했어요.",
+          "note_ko": "변화할 때 t가 둘: je rejette. 반대말 accepter."
+        },
+        {
+          "lang": "fr",
+          "word": "fuir",
+          "pos": "verb",
+          "ko": "달아나다, 도망치다",
+          "example": "Ils ont fui la guerre.",
+          "example_ko": "그들은 전쟁을 피해 달아났어요.",
+          "note_ko": "과거분사 fui. 명사 la fuite(도피, 누출)."
+        },
+        {
+          "lang": "fr",
+          "word": "honteux",
+          "pos": "adjective",
+          "ko": "부끄러운, 수치스러운",
+          "example": "C'est honteux de mentir comme ça.",
+          "example_ko": "그렇게 거짓말하다니 부끄러운 일이에요.",
+          "note_ko": "여성형 honteuse. 명사 la honte(수치). J'ai honte. = 부끄러워요."
+        },
+        {
+          "lang": "fr",
+          "word": "nier",
+          "pos": "verb",
+          "ko": "부인하다",
+          "example": "Il nie avoir volé l'argent.",
+          "example_ko": "그는 돈을 훔친 걸 부인해요.",
+          "note_ko": "nier + 동사원형(avoir + 과거분사). 반대말 avouer(자백하다)."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "A \"deadline\" is…",
+          "choices": [
+            "the last time or day to do something",
+            "a long line of people",
+            "a kind of passport"
+          ],
+          "answer": 0,
+          "explain_ko": "deadline = 마감 기한. miss the deadline = 기한을 넘기다."
+        },
+        {
+          "lang": "fr",
+          "q": "« Fuir », c'est…",
+          "choices": [
+            "partir vite pour échapper à quelque chose",
+            "gagner une élection",
+            "écrire une lettre"
+          ],
+          "answer": 0,
+          "explain_ko": "fuir = 도망치다. 명사는 la fuite."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo",
+          "accessed": "2026-10-29"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+          "accessed": "2026-10-29"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20261028-us-grants-visa-to-defeated-brazilian-presidential-candidate-flavio-bolsonaro",
+          "accessed": "2026-10-29"
+        },
+        {
+          "name": "Wikipedia Current events (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_28",
+          "accessed": "2026-10-28"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": null,
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-10-28/0727f0f16bf41e0f.mp3",
+            "2026-10-28/83211a68cd28a981.mp3",
+            "2026-10-28/f1c056b7d1182620.mp3"
+          ],
+          "normal": [
+            "2026-10-28/0a787a62aaa04bbc.mp3",
+            "2026-10-28/2770072a32c869c3.mp3",
+            "2026-10-28/165f849464ce5493.mp3",
+            "2026-10-28/c511d5ca51c1263e.mp3",
+            "2026-10-28/b00f589e05c7b07e.mp3",
+            "2026-10-28/06eea1318112f999.mp3",
+            "2026-10-28/20bc45be64c1d0b1.mp3",
+            "2026-10-28/846121f766c433d6.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-10-28/fcd0b5702c24a545.mp3",
+            "2026-10-28/a1cd80510d99f3f0.mp3",
+            "2026-10-28/7ba7dc50f5a55c12.mp3"
+          ],
+          "normal": [
+            "2026-10-28/33a1f1d30d478162.mp3",
+            "2026-10-28/a0f93bd0923cd889.mp3",
+            "2026-10-28/527540cbe6a27008.mp3",
+            "2026-10-28/f6a78bc2a5a0252f.mp3",
+            "2026-10-28/0547e7c7a5db9e97.mp3",
+            "2026-10-28/ddd7418250bb47d3.mp3",
+            "2026-10-28/2a598a78d2c7d2f3.mp3",
+            "2026-10-28/83243d0d14185a04.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-10-28/e61ac0c50358f697.mp3",
+          "2026-10-28/d5c72b059458a277.mp3",
+          "2026-10-28/43ac05a14d2a8978.mp3",
+          "2026-10-28/e819b9bac00d553e.mp3",
+          "2026-10-28/669c74ec9104a29e.mp3",
+          "2026-10-28/761dc539c25728f8.mp3",
+          "2026-10-28/c1ff478d2e72f548.mp3",
+          "2026-10-28/793cafef68b7cdfd.mp3",
+          "2026-10-28/f7ed2844bca96e75.mp3",
+          "2026-10-28/47450701dff92af7.mp3",
+          "2026-10-28/d7d497f7334e4443.mp3",
+          "2026-10-28/9d62bdfe6532cb50.mp3",
+          "2026-10-28/ac142ae475faf95b.mp3",
+          "2026-10-28/26c80de5df833353.mp3",
+          "2026-10-28/0b9ec1729cdadf34.mp3",
+          "2026-10-28/0de082bd8d594bb4.mp3",
+          "2026-10-28/1870c51d58843133.mp3",
+          "2026-10-28/f580345d99356d26.mp3",
+          "2026-10-28/0ccff536ffd28e6f.mp3",
+          "2026-10-28/43ad56088daafcd6.mp3",
+          "2026-10-28/7962d5d6c336c832.mp3",
+          "2026-10-28/208d9d743687cf9f.mp3",
+          "2026-10-28/5fb1cee5e306b2e1.mp3",
+          "2026-10-28/6b397dcce0613605.mp3",
+          "2026-10-28/d04861f1fcdec594.mp3",
+          "2026-10-28/a8376ee58491c0ea.mp3",
+          "2026-10-28/b34d555f8f72948d.mp3",
+          "2026-10-28/18bc2c2c3457c5ac.mp3",
+          "2026-10-28/508edff50eb76c66.mp3",
+          "2026-10-28/f32f600abc8dbcc4.mp3",
+          "2026-10-28/baf88ba0e1fa9be1.mp3",
+          "2026-10-28/29d22904de9b8410.mp3",
+          "2026-10-28/0445920420ebe8cc.mp3",
+          "2026-10-28/279ca2430af36ce9.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.054,
+              0.105,
+              0.306,
+              0.356,
+              0.457,
+              0.658,
+              0.809,
+              0.859
+            ],
+            [
+              0.092,
+              0.159,
+              0.225,
+              0.423,
+              0.49,
+              0.622,
+              0.688,
+              0.755,
+              0.821
+            ],
+            [
+              0,
+              0.083,
+              0.167,
+              0.25,
+              0.333,
+              0.417,
+              0.5,
+              0.583,
+              0.75,
+              0.833
+            ]
+          ],
+          "normal": [
+            [
+              0.044,
+              0.065,
+              0.182,
+              0.194,
+              0.207,
+              0.219,
+              0.245,
+              0.257,
+              0.282,
+              0.32,
+              0.333,
+              0.398,
+              0.42,
+              0.462,
+              0.546,
+              0.588,
+              0.61,
+              0.673,
+              0.694,
+              0.736,
+              0.778,
+              0.8,
+              0.842,
+              0.863,
+              0.884,
+              0.905,
+              0.926,
+              0.969
+            ],
+            [
+              0.053,
+              0.083,
+              0.098,
+              0.114,
+              0.159,
+              0.273,
+              0.332,
+              0.412,
+              0.432,
+              0.472,
+              0.492,
+              0.511,
+              0.531,
+              0.571,
+              0.591,
+              0.713,
+              0.737,
+              0.761,
+              0.81,
+              0.834,
+              0.859,
+              0.883,
+              0.907,
+              0.932
+            ],
+            [
+              0.047,
+              0.068,
+              0.11,
+              0.13,
+              0.151,
+              0.172,
+              0.193,
+              0.235,
+              0.276,
+              0.36,
+              0.381,
+              0.458,
+              0.48,
+              0.503,
+              0.525,
+              0.547,
+              0.57,
+              0.592,
+              0.637,
+              0.659,
+              0.682,
+              0.749,
+              0.771,
+              0.816,
+              0.838,
+              0.861,
+              0.883,
+              0.905,
+              0.928
+            ],
+            [
+              0.056,
+              0.109,
+              0.212,
+              0.238,
+              0.29,
+              0.315,
+              0.367,
+              0.418,
+              0.47,
+              0.496,
+              0.547,
+              0.573,
+              0.624,
+              0.65,
+              0.702,
+              0.727,
+              0.753,
+              0.83,
+              0.856,
+              0.908
+            ],
+            [
+              0.05,
+              0.153,
+              0.205,
+              0.257,
+              0.36,
+              0.412,
+              0.53,
+              0.562,
+              0.626,
+              0.658,
+              0.69,
+              0.754,
+              0.786,
+              0.85,
+              0.882
+            ],
+            [
+              0,
+              0.083,
+              0.104,
+              0.124,
+              0.145,
+              0.166,
+              0.187,
+              0.207,
+              0.228,
+              0.249,
+              0.27,
+              0.29,
+              0.311,
+              0.37,
+              0.427,
+              0.542,
+              0.599,
+              0.656,
+              0.828
+            ],
+            [
+              0.049,
+              0.079,
+              0.169,
+              0.23,
+              0.26,
+              0.29,
+              0.32,
+              0.35,
+              0.38,
+              0.44,
+              0.47,
+              0.5,
+              0.53,
+              0.56,
+              0.621,
+              0.651,
+              0.711,
+              0.741,
+              0.771,
+              0.801,
+              0.831,
+              0.861,
+              0.891
+            ],
+            [
+              0.09,
+              0.289,
+              0.32,
+              0.381,
+              0.443,
+              0.539,
+              0.562,
+              0.584,
+              0.607,
+              0.697,
+              0.719,
+              0.742,
+              0.809,
+              0.832,
+              0.854,
+              0.877,
+              0.899
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.101,
+              0.141,
+              0.301,
+              0.341,
+              0.421,
+              0.502,
+              0.622,
+              0.782,
+              0.823
+            ],
+            [
+              0.147,
+              0.193,
+              0.239,
+              0.331,
+              0.423,
+              0.469,
+              0.515,
+              0.561,
+              0.653,
+              0.699,
+              0.791,
+              0.837
+            ],
+            [
+              0.118,
+              0.182,
+              0.312,
+              0.506,
+              0.571,
+              0.635,
+              0.7,
+              0.765,
+              0.829
+            ]
+          ],
+          "normal": [
+            [
+              0.051,
+              0.065,
+              0.153,
+              0.167,
+              0.181,
+              0.209,
+              0.237,
+              0.251,
+              0.328,
+              0.364,
+              0.376,
+              0.42,
+              0.435,
+              0.464,
+              0.494,
+              0.509,
+              0.538,
+              0.553,
+              0.568,
+              0.583,
+              0.642,
+              0.657,
+              0.672,
+              0.701,
+              0.716,
+              0.746,
+              0.775,
+              0.79,
+              0.82,
+              0.849,
+              0.864,
+              0.879,
+              0.894,
+              0.923,
+              0.938,
+              0.953
+            ],
+            [
+              0.054,
+              0.076,
+              0.099,
+              0.121,
+              0.144,
+              0.189,
+              0.282,
+              0.3,
+              0.372,
+              0.427,
+              0.445,
+              0.481,
+              0.535,
+              0.553,
+              0.589,
+              0.607,
+              0.715,
+              0.732,
+              0.749,
+              0.765,
+              0.815,
+              0.848,
+              0.865,
+              0.881,
+              0.931,
+              0.947
+            ],
+            [
+              0.035,
+              0.083,
+              0.144,
+              0.16,
+              0.175,
+              0.206,
+              0.222,
+              0.253,
+              0.299,
+              0.315,
+              0.33,
+              0.386,
+              0.41,
+              0.421,
+              0.456,
+              0.468,
+              0.48,
+              0.491,
+              0.503,
+              0.526,
+              0.538,
+              0.561,
+              0.573,
+              0.635,
+              0.72,
+              0.763,
+              0.805,
+              0.848,
+              0.891,
+              0.933
+            ],
+            [
+              0.044,
+              0.077,
+              0.094,
+              0.182,
+              0.194,
+              0.206,
+              0.23,
+              0.242,
+              0.254,
+              0.266,
+              0.291,
+              0.303,
+              0.315,
+              0.339,
+              0.351,
+              0.363,
+              0.375,
+              0.399,
+              0.411,
+              0.435,
+              0.479,
+              0.514,
+              0.619,
+              0.646,
+              0.695,
+              0.719,
+              0.816,
+              0.841,
+              0.865
+            ],
+            [
+              0.11,
+              0.136,
+              0.187,
+              0.265,
+              0.29,
+              0.368,
+              0.393,
+              0.548,
+              0.573,
+              0.597,
+              0.622,
+              0.646,
+              0.695,
+              0.719,
+              0.793,
+              0.817
+            ],
+            [
+              0.087,
+              0.111,
+              0.207,
+              0.255,
+              0.279,
+              0.303,
+              0.327,
+              0.395,
+              0.402,
+              0.409,
+              0.417,
+              0.431,
+              0.439,
+              0.446,
+              0.453,
+              0.461,
+              0.468,
+              0.482,
+              0.517,
+              0.572,
+              0.599,
+              0.654,
+              0.682,
+              0.764,
+              0.791,
+              0.846,
+              0.874,
+              0.901,
+              0.956
+            ],
+            [
+              0.033,
+              0.06,
+              0.114,
+              0.223,
+              0.277,
+              0.356,
+              0.374,
+              0.43,
+              0.449,
+              0.467,
+              0.541,
+              0.579,
+              0.653,
+              0.671,
+              0.709,
+              0.727,
+              0.746,
+              0.811,
+              0.83,
+              0.849,
+              0.868,
+              0.887,
+              0.943
+            ],
+            [
+              0.082,
+              0.121,
+              0.272,
+              0.311,
+              0.35,
+              0.389,
+              0.52,
+              0.582,
+              0.613,
+              0.738,
+              0.862,
+              0.893
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-10-28-04",
+      "category": "science",
+      "region": {
+        "country": "CL",
+        "city": "Cerro Pachón",
+        "lat": -30.24,
+        "lng": -70.74
+      },
+      "headline": {
+        "en": "A Possible New Dwarf Planet Beyond Pluto",
+        "fr": "Une possible nouvelle planète naine au-delà de Pluton",
+        "ko": "명왕성 너머에서 새 왜소행성 후보 발견"
+      },
+      "hook": {
+        "en": "What did this telescope find past Pluto?",
+        "fr": "Qu'a trouvé ce télescope après Pluton ?",
+        "ko": "이 망원경이 명왕성 너머에서 찾은 것은?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "A new telescope in Chile has found a big, icy object beyond Pluto.",
+            "It may be a new dwarf planet, like Pluto.",
+            "Scientists need a few more months to be sure."
+          ],
+          "easy_ko": [
+            "칠레의 새 망원경이 명왕성 너머에서 크고 얼음으로 덮인 천체를 찾았습니다.",
+            "명왕성처럼 새로운 왜소행성일지도 모릅니다.",
+            "과학자들이 확실히 알려면 몇 달이 더 필요합니다."
+          ],
+          "normal": [
+            "Scientists using the new Vera C. Rubin Observatory in Chile have found an icy object beyond Pluto that may be a new dwarf planet.",
+            "The object, called 2026 ED138 for now, is about 46 times farther from the sun than Earth is.",
+            "Its width is estimated at between 600 and 1,500 kilometres, which could make it one of the largest dwarf planets.",
+            "Astronomer Matthew Holman spotted it in October while his computer program searched through billions of sightings of moving objects.",
+            "\"My first reaction was one of excited disbelief,\" he said.",
+            "It had stayed hidden partly because it is in the southern sky and has been moving across the Milky Way, which is crowded with stars.",
+            "To be a dwarf planet, an object must be big enough for its own gravity to make it round, so scientists now need to measure its size.",
+            "If it is confirmed, it will join the five dwarf planets recognised today: Pluto, Eris, Haumea, Makemake and Ceres."
+          ],
+          "normal_ko": [
+            "칠레의 새 베라 C. 루빈 천문대를 이용하는 과학자들이 명왕성 너머에서 새로운 왜소행성일 수 있는 얼음 천체를 찾았습니다.",
+            "지금은 2026 ED138이라고 부르는 이 천체는 지구보다 태양에서 약 46배 멀리 떨어져 있습니다.",
+            "지름은 600~1,500킬로미터로 추정되며, 이는 가장 큰 왜소행성 가운데 하나가 될 수 있는 크기입니다.",
+            "천문학자 매슈 홀먼은 10월, 그의 컴퓨터 프로그램이 움직이는 천체를 관측한 수십억 건의 기록을 샅샅이 살피던 중 이 천체를 발견했습니다.",
+            "\"제 첫 반응은 신나면서도 믿기지 않는다는 것이었어요\"라고 그는 말했습니다.",
+            "이 천체가 지금까지 숨어 있었던 것은 남쪽 하늘에 있는 데다, 별이 빽빽한 은하수를 가로질러 움직여 왔기 때문이기도 합니다.",
+            "왜소행성이 되려면 스스로의 중력으로 둥근 모양이 될 만큼 커야 하므로, 과학자들은 이제 크기를 재야 합니다.",
+            "확인되면 이 천체는 현재 인정받는 다섯 왜소행성인 명왕성, 에리스, 하우메아, 마케마케, 세레스와 함께하게 됩니다."
+          ],
+          "normal_paras": [
+            3,
+            3,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Un nouveau télescope au Chili a découvert un gros objet glacé au-delà de Pluton.",
+            "C'est peut-être une nouvelle planète naine, comme Pluton.",
+            "Les scientifiques ont besoin de quelques mois pour en être sûrs."
+          ],
+          "easy_ko": [
+            "칠레의 새 망원경이 명왕성 너머에서 크고 얼음으로 덮인 천체를 발견했습니다.",
+            "명왕성처럼 새로운 왜소행성일지도 모릅니다.",
+            "과학자들이 확실히 알려면 몇 달이 필요합니다."
+          ],
+          "normal": [
+            "Grâce au nouvel observatoire Vera C. Rubin, installé au Chili, des scientifiques ont repéré au-delà de Pluton un objet glacé qui pourrait être une nouvelle planète naine.",
+            "Baptisé provisoirement 2026 ED138, il se trouve environ 46 fois plus loin du Soleil que la Terre.",
+            "Son diamètre est estimé entre 600 et 1 500 kilomètres, ce qui pourrait en faire l'une des plus grandes planètes naines.",
+            "L'astronome Matthew Holman l'a découvert en octobre, alors que son programme informatique passait au crible des milliards d'observations d'objets en mouvement.",
+            "« Ma première réaction a été une incrédulité mêlée d'excitation », raconte-t-il.",
+            "S'il est passé inaperçu jusqu'ici, c'est en partie parce qu'il se trouve dans le ciel austral et qu'il traverse, vu de la Terre, la Voie lactée, où les étoiles sont très nombreuses.",
+            "Pour être une planète naine, un objet doit être assez massif pour que sa propre gravité lui donne une forme ronde : les scientifiques doivent donc maintenant mesurer sa taille.",
+            "S'il est confirmé, il rejoindra les cinq planètes naines reconnues aujourd'hui : Pluton, Éris, Hauméa, Makémaké et Cérès."
+          ],
+          "normal_ko": [
+            "칠레에 있는 새 베라 C. 루빈 천문대 덕분에 과학자들이 명왕성 너머에서 새로운 왜소행성일 수 있는 얼음 천체를 찾아냈습니다.",
+            "임시로 2026 ED138이라는 이름이 붙은 이 천체는 지구보다 태양에서 약 46배 멀리 있습니다.",
+            "지름은 600~1,500킬로미터로 추정되어, 가장 큰 왜소행성 가운데 하나가 될 수도 있습니다.",
+            "천문학자 매슈 홀먼은 10월, 그의 컴퓨터 프로그램이 움직이는 천체 관측 기록 수십억 건을 샅샅이 살피던 중 이 천체를 발견했습니다.",
+            "\"제 첫 반응은 신나면서도 믿기지 않는다는 것이었어요\"라고 그는 말합니다.",
+            "지금까지 눈에 띄지 않은 것은, 남쪽 하늘에 있는 데다 지구에서 보기에 별이 아주 많은 은하수를 가로지르고 있기 때문이기도 합니다.",
+            "왜소행성이 되려면 스스로의 중력으로 둥근 모양이 될 만큼 질량이 커야 해서, 과학자들은 이제 크기를 재야 합니다.",
+            "확인되면 이 천체는 현재 인정받는 다섯 왜소행성인 명왕성, 에리스, 하우메아, 마케마케, 세레스와 함께하게 됩니다."
+          ],
+          "normal_paras": [
+            3,
+            3,
+            2
+          ]
+        }
+      },
+      "ko_note": "왜소행성은 태양 주위를 돌고 스스로의 중력으로 둥글어질 만큼 크지만, 자기 궤도 주변의 다른 천체들을 치워 낼 만큼은 크지 않은 천체예요. 명왕성도 원래 아홉 번째 행성이었지만 2006년 국제천문연맹(IAU)이 왜소행성으로 다시 분류했습니다. 칠레 안데스산맥의 베라 C. 루빈 천문대는 세계에서 가장 큰 디지털카메라를 달고 사흘마다 하늘 전체를 찍는 새 망원경이에요. 태양에서 46AU는 지구–태양 거리의 46배, 약 69억 km입니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "telescope",
+          "pos": "noun",
+          "ko": "망원경",
+          "example": "We looked at the moon through a telescope.",
+          "example_ko": "우리는 망원경으로 달을 봤어요.",
+          "note_ko": "tele-(멀리) + -scope(보는 것). microscope = 현미경."
+        },
+        {
+          "lang": "en",
+          "word": "find",
+          "pos": "verb",
+          "ko": "찾다, 발견하다",
+          "example": "I found my keys under the bed.",
+          "example_ko": "침대 밑에서 열쇠를 찾았어요.",
+          "note_ko": "find–found–found. found는 '설립하다'라는 다른 동사이기도 해요."
+        },
+        {
+          "lang": "en",
+          "word": "icy",
+          "pos": "adjective",
+          "ko": "얼음으로 덮인, 얼음 같은",
+          "example": "Be careful, the road is icy.",
+          "example_ko": "조심하세요, 길이 얼었어요.",
+          "note_ko": "ice(얼음) + -y. 비슷하게 snow → snowy, rain → rainy."
+        },
+        {
+          "lang": "en",
+          "word": "beyond",
+          "pos": "preposition",
+          "ko": "~너머에, ~저편에",
+          "example": "There is a village beyond the hills.",
+          "example_ko": "언덕 너머에 마을이 있어요.",
+          "note_ko": "beyond my control = 내 힘으로 어쩔 수 없는. 위치뿐 아니라 '범위 밖'도 뜻해요."
+        },
+        {
+          "lang": "en",
+          "word": "may",
+          "pos": "modal verb",
+          "ko": "~일지도 모른다",
+          "example": "It may rain this afternoon.",
+          "example_ko": "오후에 비가 올지도 몰라요.",
+          "note_ko": "might는 조금 더 약한 가능성. may + 동사원형."
+        },
+        {
+          "lang": "en",
+          "word": "dwarf planet",
+          "pos": "noun",
+          "ko": "왜소행성",
+          "example": "Pluto is a dwarf planet.",
+          "example_ko": "명왕성은 왜소행성이에요.",
+          "note_ko": "dwarf = 난쟁이, 아주 작은 것. 복수는 dwarf planets."
+        },
+        {
+          "lang": "en",
+          "word": "be sure",
+          "pos": "phrase",
+          "ko": "확신하다",
+          "example": "Are you sure the shop is open?",
+          "example_ko": "가게가 문 연 게 확실해요?",
+          "note_ko": "be sure of/about + 명사, be sure that + 문장. make sure = 꼭 확인하다."
+        },
+        {
+          "lang": "en",
+          "word": "farther",
+          "pos": "adverb",
+          "ko": "더 멀리",
+          "example": "My school is farther than yours.",
+          "example_ko": "우리 학교가 너희 학교보다 더 멀어요.",
+          "note_ko": "far–farther–farthest. further도 비슷하게 쓰지만 '더 나아가' 뜻이 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "estimate",
+          "pos": "verb",
+          "ko": "추정하다, 어림하다",
+          "example": "Experts estimate the cost at $1 million.",
+          "example_ko": "전문가들은 비용을 100만 달러로 추정해요.",
+          "note_ko": "명사도 estimate(추정치). be estimated at + 숫자."
+        },
+        {
+          "lang": "en",
+          "word": "spot",
+          "pos": "verb",
+          "ko": "발견하다, 알아채다",
+          "example": "I spotted my friend in the crowd.",
+          "example_ko": "사람들 속에서 친구를 알아봤어요.",
+          "note_ko": "명사 spot은 '점, 장소'. 동사로는 '언뜻 발견하다'."
+        },
+        {
+          "lang": "en",
+          "word": "search through",
+          "pos": "phrasal verb",
+          "ko": "샅샅이 뒤지다",
+          "example": "She searched through her bag for her phone.",
+          "example_ko": "그녀는 휴대폰을 찾으려고 가방을 뒤졌어요.",
+          "note_ko": "search for + 찾는 것, search through + 뒤지는 곳."
+        },
+        {
+          "lang": "en",
+          "word": "reaction",
+          "pos": "noun",
+          "ko": "반응",
+          "example": "What was your first reaction?",
+          "example_ko": "당신의 첫 반응은 어땠어요?",
+          "note_ko": "동사 react(반응하다). react to + 대상."
+        },
+        {
+          "lang": "en",
+          "word": "hidden",
+          "pos": "adjective",
+          "ko": "숨겨진, 숨은",
+          "example": "The key was hidden under a stone.",
+          "example_ko": "열쇠는 돌 밑에 숨겨져 있었어요.",
+          "note_ko": "hide–hid–hidden. stay hidden = 계속 숨어 있다."
+        },
+        {
+          "lang": "en",
+          "word": "gravity",
+          "pos": "noun",
+          "ko": "중력",
+          "example": "Gravity makes things fall to the ground.",
+          "example_ko": "중력 때문에 물건이 땅으로 떨어져요.",
+          "note_ko": "zero gravity = 무중력. '심각함'이라는 뜻도 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "measure",
+          "pos": "verb",
+          "ko": "재다, 측정하다",
+          "example": "Can you measure the size of the table?",
+          "example_ko": "탁자 크기를 재 줄래요?",
+          "note_ko": "명사 measurement(측정). '조치'라는 명사 measure도 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "confirm",
+          "pos": "verb",
+          "ko": "확인하다, 사실로 인정하다",
+          "example": "Please confirm your booking.",
+          "example_ko": "예약을 확인해 주세요.",
+          "note_ko": "명사 confirmation. If it is confirmed = 확인되면."
+        },
+        {
+          "lang": "en",
+          "word": "join",
+          "pos": "verb",
+          "ko": "합류하다, 함께하다",
+          "example": "Can I join you for lunch?",
+          "example_ko": "점심 같이 해도 될까요?",
+          "note_ko": "join a club = 동아리에 가입하다. join + 사람(전치사 없이)."
+        },
+        {
+          "lang": "fr",
+          "word": "télescope",
+          "pos": "noun",
+          "ko": "망원경",
+          "example": "On regarde les étoiles avec un télescope.",
+          "example_ko": "망원경으로 별을 봐요.",
+          "note_ko": "남성 명사(un télescope). 쌍안경은 les jumelles."
+        },
+        {
+          "lang": "fr",
+          "word": "découvrir",
+          "pos": "verb",
+          "ko": "발견하다",
+          "example": "Ils ont découvert une nouvelle espèce.",
+          "example_ko": "그들은 새로운 종을 발견했어요.",
+          "note_ko": "과거분사 découvert. 명사 la découverte(발견)."
+        },
+        {
+          "lang": "fr",
+          "word": "glacé",
+          "pos": "adjective",
+          "ko": "얼음으로 된, 아주 차가운",
+          "example": "J'aime le thé glacé.",
+          "example_ko": "저는 아이스티를 좋아해요.",
+          "note_ko": "la glace = 얼음, 아이스크림. 여성형 glacée."
+        },
+        {
+          "lang": "fr",
+          "word": "au-delà de",
+          "pos": "preposition",
+          "ko": "~너머에",
+          "example": "Il y a un village au-delà de la colline.",
+          "example_ko": "언덕 너머에 마을이 있어요.",
+          "note_ko": "l'au-delà(명사)는 '저승'. 하이픈을 꼭 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "peut-être",
+          "pos": "adverb",
+          "ko": "아마, ~일지도",
+          "example": "Il va peut-être pleuvoir.",
+          "example_ko": "아마 비가 올지도 몰라요.",
+          "note_ko": "하이픈이 있으면 '아마'. peut être(띄어 쓰면)는 '~일 수 있다'."
+        },
+        {
+          "lang": "fr",
+          "word": "planète naine",
+          "pos": "noun",
+          "ko": "왜소행성",
+          "example": "Pluton est une planète naine.",
+          "example_ko": "명왕성은 왜소행성이에요.",
+          "note_ko": "nain(e) = 난쟁이, 아주 작은. planète는 여성 명사라 naine."
+        },
+        {
+          "lang": "fr",
+          "word": "être sûr",
+          "pos": "phrase",
+          "ko": "확신하다",
+          "example": "Tu es sûr que c'est ouvert ?",
+          "example_ko": "문 연 게 확실해?",
+          "note_ko": "en être sûr = 그것을 확신하다. 여성형 sûre."
+        },
+        {
+          "lang": "fr",
+          "word": "repérer",
+          "pos": "verb",
+          "ko": "찾아내다, 알아보다",
+          "example": "J'ai repéré un bon restaurant.",
+          "example_ko": "괜찮은 식당을 하나 찾아 뒀어요.",
+          "note_ko": "un repère = 표시, 기준점. 눈여겨보아 찾아낼 때 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "loin",
+          "pos": "adverb",
+          "ko": "멀리",
+          "example": "La gare est loin d'ici.",
+          "example_ko": "역은 여기서 멀어요.",
+          "note_ko": "loin de + 장소. 반대말 près(가까이). plus loin = 더 멀리."
+        },
+        {
+          "lang": "fr",
+          "word": "diamètre",
+          "pos": "noun",
+          "ko": "지름",
+          "example": "Le diamètre de la Terre est d'environ 12 700 km.",
+          "example_ko": "지구의 지름은 약 12,700km예요.",
+          "note_ko": "남성 명사. 반지름은 le rayon."
+        },
+        {
+          "lang": "fr",
+          "word": "estimer",
+          "pos": "verb",
+          "ko": "추정하다; 생각하다",
+          "example": "On estime le coût à un million d'euros.",
+          "example_ko": "비용을 100만 유로로 추정해요.",
+          "note_ko": "être estimé à + 숫자. '~라고 생각하다'라는 뜻도 있어요(J'estime que…)."
+        },
+        {
+          "lang": "fr",
+          "word": "passer au crible",
+          "pos": "phrase",
+          "ko": "샅샅이 살피다",
+          "example": "La police a passé au crible ses messages.",
+          "example_ko": "경찰은 그의 메시지를 샅샅이 살폈어요.",
+          "note_ko": "le crible = 체. 체로 거르듯 꼼꼼히 조사하다."
+        },
+        {
+          "lang": "fr",
+          "word": "réaction",
+          "pos": "noun",
+          "ko": "반응",
+          "example": "Quelle a été ta première réaction ?",
+          "example_ko": "네 첫 반응은 어땠어?",
+          "note_ko": "여성 명사. 동사 réagir(반응하다)."
+        },
+        {
+          "lang": "fr",
+          "word": "passer inaperçu",
+          "pos": "phrase",
+          "ko": "눈에 띄지 않다",
+          "example": "Son erreur est passée inaperçue.",
+          "example_ko": "그의 실수는 아무도 눈치채지 못했어요.",
+          "note_ko": "inaperçu = 알아채지 못한. 과거는 être와 함께."
+        },
+        {
+          "lang": "fr",
+          "word": "gravité",
+          "pos": "noun",
+          "ko": "중력; 심각함",
+          "example": "La gravité fait tomber les objets.",
+          "example_ko": "중력 때문에 물건이 떨어져요.",
+          "note_ko": "여성 명사. la gravité de la situation = 상황의 심각함."
+        },
+        {
+          "lang": "fr",
+          "word": "mesurer",
+          "pos": "verb",
+          "ko": "재다, 측정하다",
+          "example": "Il faut mesurer la pièce.",
+          "example_ko": "방 크기를 재야 해요.",
+          "note_ko": "Je mesure 1,70 m. = 제 키는 1미터 70이에요."
+        },
+        {
+          "lang": "fr",
+          "word": "rejoindre",
+          "pos": "verb",
+          "ko": "합류하다",
+          "example": "Je te rejoins au café.",
+          "example_ko": "카페에서 만나자(내가 그리로 갈게).",
+          "note_ko": "과거분사 rejoint. rejoindre une équipe = 팀에 합류하다."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "Something \"icy\" is…",
+          "choices": [
+            "very cold, like ice",
+            "very hot",
+            "very bright"
+          ],
+          "answer": 0,
+          "explain_ko": "icy = 얼음 같은, 얼음으로 덮인. an icy road = 빙판길."
+        },
+        {
+          "lang": "fr",
+          "q": "« Au-delà de Pluton » veut dire…",
+          "choices": [
+            "plus loin que Pluton",
+            "sur Pluton",
+            "plus près que Pluton"
+          ],
+          "answer": 0,
+          "explain_ko": "au-delà de = ~너머에. 명왕성보다 더 먼 곳."
+        }
+      ],
+      "sources": [
+        {
+          "name": "CBC News (Reuters)",
+          "url": "https://www.cbc.ca/news/science/possible-new-dwarf-planet-9.7399957",
+          "accessed": "2026-10-29"
+        },
+        {
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/10/28/science/ed138-dwarf-planet-candidate-beyond-pluto",
+          "accessed": "2026-10-29"
+        },
+        {
+          "name": "Rubin Observatory / SLAC",
+          "url": "https://www6.slac.stanford.edu/news/2026-10-27-nsf-doe-vera-c-rubin-observatory-reveals-its-first-dwarf-planet-candidate-our-solar",
+          "accessed": "2026-10-29"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": null,
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-10-28/3dcff71538a79934.mp3",
+            "2026-10-28/e005bf1b1ddbac6b.mp3",
+            "2026-10-28/03faf8c540064746.mp3"
+          ],
+          "normal": [
+            "2026-10-28/19f37b4b9d5ab7d3.mp3",
+            "2026-10-28/b826353496b540be.mp3",
+            "2026-10-28/c01e64d8f2d3c0a5.mp3",
+            "2026-10-28/d48b13149419e2ba.mp3",
+            "2026-10-28/bc153d9e0c3ebab0.mp3",
+            "2026-10-28/1a2cf6a6fb25df7b.mp3",
+            "2026-10-28/e65e43fb76e9040b.mp3",
+            "2026-10-28/f7526c291e4bd702.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-10-28/b14248e3ddee0dba.mp3",
+            "2026-10-28/f15b5ef9cff5f4e9.mp3",
+            "2026-10-28/cd08b279745d59ef.mp3"
+          ],
+          "normal": [
+            "2026-10-28/be07047c584650db.mp3",
+            "2026-10-28/87e27d38c0d51295.mp3",
+            "2026-10-28/96fd05eef208c4ae.mp3",
+            "2026-10-28/5ba0d617a5d308b1.mp3",
+            "2026-10-28/d2865a3d1704d28f.mp3",
+            "2026-10-28/af335477efcc4a66.mp3",
+            "2026-10-28/25bff51681b9f958.mp3",
+            "2026-10-28/1252f29bf009a3a2.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-10-28/b9770898336dc0fc.mp3",
+          "2026-10-28/eb8b9b28c902d103.mp3",
+          "2026-10-28/36c0219e78fcb67a.mp3",
+          "2026-10-28/1a98cfeb9f923e8b.mp3",
+          "2026-10-28/8941479035c011ff.mp3",
+          "2026-10-28/ab25bdaee9dbb4bc.mp3",
+          "2026-10-28/2674fbba6918f83a.mp3",
+          "2026-10-28/4b61ee9bd181d5d8.mp3",
+          "2026-10-28/3a2a5f3c030afc30.mp3",
+          "2026-10-28/c98c3721ca25419e.mp3",
+          "2026-10-28/deba6ffac93cc827.mp3",
+          "2026-10-28/aa9823a0457d790b.mp3",
+          "2026-10-28/95787993ac8a5f32.mp3",
+          "2026-10-28/40ada1e0e3e89ff9.mp3",
+          "2026-10-28/cd1dd27d1ce137de.mp3",
+          "2026-10-28/287fd0c773d64f20.mp3",
+          "2026-10-28/91a205f58d7a158c.mp3",
+          "2026-10-28/15a4cb0c8d0714d7.mp3",
+          "2026-10-28/572f258ec1fe8484.mp3",
+          "2026-10-28/bf820842f00d0d52.mp3",
+          "2026-10-28/d4cd7388988dcb76.mp3",
+          "2026-10-28/eb15bc11d8eadf9b.mp3",
+          "2026-10-28/86308792839cf22c.mp3",
+          "2026-10-28/bb52842e7f3bfc84.mp3",
+          "2026-10-28/8f4c4f19559ee684.mp3",
+          "2026-10-28/3c81b8578a6da247.mp3",
+          "2026-10-28/44bfdd27030de7e3.mp3",
+          "2026-10-28/93442ae10debfd5b.mp3",
+          "2026-10-28/2a768e7c37e971bb.mp3",
+          "2026-10-28/9e69b1a29187930a.mp3",
+          "2026-10-28/35f6da92b1232f58.mp3",
+          "2026-10-28/4870cc2277340488.mp3",
+          "2026-10-28/8df23f42efe981e6.mp3",
+          "2026-10-28/558357099a51d804.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.084,
+              0.118,
+              0.151,
+              0.252,
+              0.286,
+              0.32,
+              0.353,
+              0.387,
+              0.421,
+              0.489,
+              0.625,
+              0.762,
+              0.83
+            ],
+            [
+              0,
+              0.058,
+              0.116,
+              0.174,
+              0.232,
+              0.29,
+              0.348,
+              0.504,
+              0.669
+            ],
+            [
+              0.04,
+              0.232,
+              0.328,
+              0.424,
+              0.52,
+              0.616,
+              0.712,
+              0.808,
+              0.904
+            ]
+          ],
+          "normal": [
+            [
+              0,
+              0.056,
+              0.111,
+              0.139,
+              0.167,
+              0.222,
+              0.25,
+              0.306,
+              0.444,
+              0.472,
+              0.5,
+              0.528,
+              0.556,
+              0.583,
+              0.639,
+              0.694,
+              0.722,
+              0.778,
+              0.806,
+              0.833,
+              0.861,
+              0.889,
+              0.917,
+              0.944
+            ],
+            [
+              0.062,
+              0.081,
+              0.135,
+              0.162,
+              0.245,
+              0.273,
+              0.3,
+              0.34,
+              0.386,
+              0.478,
+              0.571,
+              0.617,
+              0.709,
+              0.755,
+              0.801,
+              0.847,
+              0.893,
+              0.939
+            ],
+            [
+              0.055,
+              0.077,
+              0.099,
+              0.121,
+              0.187,
+              0.209,
+              0.252,
+              0.296,
+              0.318,
+              0.384,
+              0.507,
+              0.546,
+              0.586,
+              0.626,
+              0.665,
+              0.705,
+              0.745,
+              0.784,
+              0.864,
+              0.903
+            ],
+            [
+              0.055,
+              0.166,
+              0.221,
+              0.276,
+              0.304,
+              0.332,
+              0.359,
+              0.442,
+              0.47,
+              0.498,
+              0.581,
+              0.636,
+              0.663,
+              0.691,
+              0.746,
+              0.774,
+              0.829,
+              0.857,
+              0.912
+            ],
+            [
+              0,
+              0.058,
+              0.115,
+              0.231,
+              0.289,
+              0.346,
+              0.404,
+              0.519,
+              0.894,
+              0.947
+            ],
+            [
+              0.06,
+              0.086,
+              0.111,
+              0.136,
+              0.187,
+              0.237,
+              0.288,
+              0.313,
+              0.339,
+              0.364,
+              0.389,
+              0.44,
+              0.465,
+              0.491,
+              0.516,
+              0.541,
+              0.592,
+              0.642,
+              0.668,
+              0.718,
+              0.773,
+              0.811,
+              0.849,
+              0.886,
+              0.924
+            ],
+            [
+              0.056,
+              0.068,
+              0.079,
+              0.091,
+              0.103,
+              0.152,
+              0.18,
+              0.234,
+              0.261,
+              0.288,
+              0.315,
+              0.369,
+              0.397,
+              0.424,
+              0.451,
+              0.532,
+              0.559,
+              0.587,
+              0.614,
+              0.682,
+              0.712,
+              0.771,
+              0.801,
+              0.83,
+              0.86,
+              0.919,
+              0.949
+            ],
+            [
+              0.051,
+              0.072,
+              0.092,
+              0.112,
+              0.166,
+              0.188,
+              0.211,
+              0.234,
+              0.256,
+              0.279,
+              0.302,
+              0.347,
+              0.415,
+              0.505,
+              0.53,
+              0.602,
+              0.689,
+              0.864,
+              0.923
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.118,
+              0.152,
+              0.22,
+              0.322,
+              0.356,
+              0.424,
+              0.458,
+              0.561,
+              0.595,
+              0.629,
+              0.697,
+              0.765,
+              0.867,
+              0.901
+            ],
+            [
+              0.19,
+              0.24,
+              0.34,
+              0.39,
+              0.49,
+              0.59,
+              0.711,
+              0.761
+            ],
+            [
+              0.181,
+              0.227,
+              0.412,
+              0.458,
+              0.551,
+              0.597,
+              0.69,
+              0.736,
+              0.783,
+              0.829,
+              0.875
+            ]
+          ],
+          "normal": [
+            [
+              0.05,
+              0.067,
+              0.085,
+              0.121,
+              0.192,
+              0.227,
+              0.245,
+              0.299,
+              0.346,
+              0.362,
+              0.428,
+              0.446,
+              0.517,
+              0.535,
+              0.588,
+              0.641,
+              0.659,
+              0.695,
+              0.713,
+              0.748,
+              0.784,
+              0.802,
+              0.837,
+              0.855,
+              0.873,
+              0.908,
+              0.944
+            ],
+            [
+              0.061,
+              0.168,
+              0.31,
+              0.417,
+              0.502,
+              0.527,
+              0.553,
+              0.578,
+              0.654,
+              0.705,
+              0.731,
+              0.756,
+              0.782,
+              0.807,
+              0.858,
+              0.883,
+              0.909
+            ],
+            [
+              0.102,
+              0.126,
+              0.173,
+              0.197,
+              0.268,
+              0.291,
+              0.339,
+              0.362,
+              0.386,
+              0.433,
+              0.556,
+              0.581,
+              0.606,
+              0.655,
+              0.68,
+              0.705,
+              0.73,
+              0.755,
+              0.779,
+              0.804,
+              0.854
+            ],
+            [
+              0.066,
+              0.133,
+              0.178,
+              0.223,
+              0.245,
+              0.313,
+              0.335,
+              0.44,
+              0.479,
+              0.499,
+              0.518,
+              0.557,
+              0.655,
+              0.695,
+              0.714,
+              0.734,
+              0.753,
+              0.793,
+              0.871,
+              0.91,
+              0.93
+            ],
+            [
+              0.065,
+              0.101,
+              0.137,
+              0.209,
+              0.281,
+              0.317,
+              0.389,
+              0.425,
+              0.605,
+              0.676,
+              0.82,
+              0.856
+            ],
+            [
+              0.049,
+              0.063,
+              0.078,
+              0.107,
+              0.165,
+              0.255,
+              0.268,
+              0.281,
+              0.308,
+              0.321,
+              0.334,
+              0.347,
+              0.361,
+              0.374,
+              0.387,
+              0.4,
+              0.426,
+              0.44,
+              0.453,
+              0.501,
+              0.521,
+              0.541,
+              0.561,
+              0.611,
+              0.628,
+              0.646,
+              0.722,
+              0.754,
+              0.785,
+              0.848,
+              0.88,
+              0.911
+            ],
+            [
+              0.058,
+              0.071,
+              0.083,
+              0.096,
+              0.121,
+              0.146,
+              0.168,
+              0.213,
+              0.236,
+              0.258,
+              0.304,
+              0.349,
+              0.371,
+              0.394,
+              0.416,
+              0.439,
+              0.506,
+              0.529,
+              0.551,
+              0.574,
+              0.596,
+              0.619,
+              0.694,
+              0.712,
+              0.784,
+              0.802,
+              0.821,
+              0.875,
+              0.929,
+              0.948
+            ],
+            [
+              0.05,
+              0.069,
+              0.088,
+              0.156,
+              0.175,
+              0.232,
+              0.251,
+              0.27,
+              0.308,
+              0.327,
+              0.384,
+              0.441,
+              0.53,
+              0.553,
+              0.619,
+              0.706,
+              0.848,
+              0.883
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-10-28-05",
+      "category": "science",
+      "region": {
+        "country": "FR",
+        "city": "Ambert",
+        "lat": 45.55,
+        "lng": 3.74
+      },
+      "headline": {
+        "en": "Hundreds of Tiny Earthquakes Shake Central France",
+        "fr": "Plus de 700 microséismes secouent le Massif central",
+        "ko": "프랑스 중부에 작은 지진 700여 차례… '지진 떼'"
+      },
+      "hook": {
+        "en": "What is shaking this part of France?",
+        "fr": "Qu'est-ce qui secoue cette région ?",
+        "ko": "프랑스의 이 지역을 흔드는 것은?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Hundreds of small earthquakes have shaken a part of central France.",
+            "Most were too weak for people to feel.",
+            "Scientists are not sure why they are happening."
+          ],
+          "easy_ko": [
+            "프랑스 중부의 한 지역이 수백 번의 작은 지진으로 흔들렸습니다.",
+            "대부분은 너무 약해서 사람들이 느끼지 못했습니다.",
+            "과학자들은 지진이 왜 일어나는지 아직 확실히 모릅니다."
+          ],
+          "normal": [
+            "More than 700 tiny earthquakes have been recorded in about ten days near the town of Ambert, in the Massif Central region of France.",
+            "Scientists call this kind of event an \"earthquake swarm\": many quakes in one small area, with no single big one clearly coming first.",
+            "Most of the quakes were too weak to feel, but a few were noticed by people living nearby.",
+            "The strongest, with a magnitude of 3.6, struck during the night of 22 October, about 13 kilometres underground.",
+            "Because Auvergne is famous for its sleeping volcanoes, many people wondered about magma, but the area is far from the main chain of volcanoes, and no link has been shown.",
+            "Volcanologist Guillaume Boudoire said more quakes were \"very likely\", although nobody can know how strong they will be.",
+            "Experts say the exact cause is still unknown and will take time to study."
+          ],
+          "normal_ko": [
+            "프랑스 마시프 상트랄 지역의 앙베르 마을 근처에서 약 열흘 동안 아주 작은 지진이 700번 넘게 기록됐습니다.",
+            "과학자들은 이런 현상을 \"지진 떼\"라고 부르는데, 좁은 한 지역에서 지진이 잇따라 일어나고 처음에 뚜렷하게 큰 지진 하나가 오지 않는 것을 말합니다.",
+            "대부분은 느낄 수 없을 만큼 약했지만, 몇몇은 근처 주민들이 알아챘습니다.",
+            "가장 강한 규모 3.6의 지진은 10월 22일 밤, 땅속 약 13킬로미터에서 일어났습니다.",
+            "오베르뉴는 잠든 화산들로 유명해서 많은 사람이 마그마와 관련이 있는지 궁금해했지만, 이 지역은 주요 화산 줄기에서 멀리 떨어져 있고 관련이 있다는 증거는 나오지 않았습니다.",
+            "화산학자 기욤 부두아르는 지진이 더 일어날 \"가능성이 매우 높다\"면서도, 얼마나 강할지는 아무도 알 수 없다고 말했습니다.",
+            "전문가들은 정확한 원인은 아직 알 수 없으며, 연구하는 데 시간이 걸릴 것이라고 말합니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Des centaines de petits séismes ont secoué une région du centre de la France.",
+            "La plupart étaient trop faibles pour être ressentis.",
+            "Les scientifiques ne savent pas encore pourquoi."
+          ],
+          "easy_ko": [
+            "프랑스 중부의 한 지역이 수백 번의 작은 지진으로 흔들렸습니다.",
+            "대부분은 너무 약해서 느껴지지 않았습니다.",
+            "과학자들은 아직 그 이유를 모릅니다."
+          ],
+          "normal": [
+            "Plus de 700 microséismes ont été enregistrés en une dizaine de jours près d'Ambert, dans le Massif central.",
+            "Les scientifiques parlent d'« essaim sismique » : de nombreuses secousses dans une même petite zone, sans qu'un grand séisme domine clairement au départ.",
+            "La plupart étaient trop faibles pour être ressenties, mais quelques-unes ont été perçues par les habitants des environs.",
+            "La plus forte, de magnitude 3,6, s'est produite dans la nuit du 22 octobre, à environ 13 kilomètres de profondeur.",
+            "Comme l'Auvergne est célèbre pour ses volcans endormis, beaucoup se sont interrogés sur le rôle du magma, mais la zone se trouve loin de la chaîne des Puys, et aucun lien n'a été établi.",
+            "Selon le volcanologue Guillaume Boudoire, de nouvelles secousses sont « tout à fait probables », même si personne ne peut savoir quelle sera leur force.",
+            "Pour les experts, la cause exacte reste inconnue, et il faudra du temps pour l'étudier."
+          ],
+          "normal_ko": [
+            "마시프 상트랄의 앙베르 근처에서 열흘 남짓 동안 아주 작은 지진이 700번 넘게 기록됐습니다.",
+            "과학자들은 이를 \"지진 떼\"라고 부르는데, 좁은 한 지역에서 진동이 잇따르고 처음에 뚜렷하게 큰 지진 하나가 두드러지지 않는 것을 말합니다.",
+            "대부분은 느껴지지 않을 만큼 약했지만, 몇몇은 근처 주민들이 느꼈습니다.",
+            "가장 강한 규모 3.6의 지진은 10월 22일 밤, 땅속 약 13킬로미터 깊이에서 일어났습니다.",
+            "오베르뉴는 잠든 화산들로 유명해서 많은 사람이 마그마의 역할을 궁금해했지만, 이 지역은 퓌 화산 줄기에서 멀리 떨어져 있고 관련성은 확인되지 않았습니다.",
+            "화산학자 기욤 부두아르에 따르면 진동이 또 일어날 \"가능성이 아주 높지만\", 그 세기는 아무도 알 수 없습니다.",
+            "전문가들은 정확한 원인은 아직 모르며, 연구하는 데 시간이 걸릴 것이라고 봅니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "마시프 상트랄(중앙 산괴)은 프랑스 중남부의 넓은 고원 지대로, 오래된 화산과 단층이 많아요. 오베르뉴의 '퓌 화산 줄기(Chaîne des Puys)'는 지금은 잠들어 있는 화산 80여 개로 이루어져 2018년 유네스코 세계유산이 되었습니다. 이곳은 큰 판 경계에서 멀어 지진이 대체로 약하지만, 오래된 단층 때문에 작은 지진은 종종 일어나요. 규모 3.6은 진앙 가까이에서 사람이 느낄 수 있는 정도의 지진입니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "hundreds of",
+          "pos": "phrase",
+          "ko": "수백의",
+          "example": "Hundreds of people came to the concert.",
+          "example_ko": "수백 명이 콘서트에 왔어요.",
+          "note_ko": "숫자와 함께면 s가 없어요: three hundred people. thousands of = 수천의."
+        },
+        {
+          "lang": "en",
+          "word": "earthquake",
+          "pos": "noun",
+          "ko": "지진",
+          "example": "The earthquake woke everyone up.",
+          "example_ko": "지진 때문에 모두 잠에서 깼어요.",
+          "note_ko": "earth(땅) + quake(흔들림). 줄여서 quake라고도 해요."
+        },
+        {
+          "lang": "en",
+          "word": "shake",
+          "pos": "verb",
+          "ko": "흔들다, 흔들리다",
+          "example": "The wind shook the windows.",
+          "example_ko": "바람에 창문이 흔들렸어요.",
+          "note_ko": "shake–shook–shaken. shake hands = 악수하다."
+        },
+        {
+          "lang": "en",
+          "word": "weak",
+          "pos": "adjective",
+          "ko": "약한",
+          "example": "The signal is too weak here.",
+          "example_ko": "여기는 신호가 너무 약해요.",
+          "note_ko": "반대는 strong. week(주)와 발음이 같아요."
+        },
+        {
+          "lang": "en",
+          "word": "feel",
+          "pos": "verb",
+          "ko": "느끼다",
+          "example": "Did you feel the floor move?",
+          "example_ko": "바닥이 움직이는 거 느꼈어요?",
+          "note_ko": "feel–felt–felt. too weak to feel = 느끼기엔 너무 약한."
+        },
+        {
+          "lang": "en",
+          "word": "happen",
+          "pos": "verb",
+          "ko": "일어나다, 생기다",
+          "example": "What happened to your phone?",
+          "example_ko": "휴대폰 어떻게 된 거예요?",
+          "note_ko": "happen은 수동태로 쓰지 않아요(was happened ×)."
+        },
+        {
+          "lang": "en",
+          "word": "record",
+          "pos": "verb",
+          "ko": "기록하다",
+          "example": "The machine records every small movement.",
+          "example_ko": "그 기계는 작은 움직임까지 다 기록해요.",
+          "note_ko": "동사는 re-CORD, 명사(기록)는 RE-cord로 강세가 달라요."
+        },
+        {
+          "lang": "en",
+          "word": "tiny",
+          "pos": "adjective",
+          "ko": "아주 작은",
+          "example": "The baby has tiny hands.",
+          "example_ko": "아기 손이 아주 작아요.",
+          "note_ko": "small보다 더 작을 때. 반대는 huge(거대한)."
+        },
+        {
+          "lang": "en",
+          "word": "swarm",
+          "pos": "noun",
+          "ko": "떼, 무리",
+          "example": "A swarm of bees flew over the field.",
+          "example_ko": "벌 떼가 들판 위로 날아갔어요.",
+          "note_ko": "곤충 떼에 주로 쓰고, earthquake swarm(지진 떼)처럼 과학 용어로도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "notice",
+          "pos": "verb",
+          "ko": "알아채다",
+          "example": "Nobody noticed that he had left.",
+          "example_ko": "그가 떠난 걸 아무도 알아채지 못했어요.",
+          "note_ko": "명사 notice는 '공지, 안내문'. 형용사 noticeable(눈에 띄는)."
+        },
+        {
+          "lang": "en",
+          "word": "nearby",
+          "pos": "adverb",
+          "ko": "근처에",
+          "example": "Do you live nearby?",
+          "example_ko": "근처에 사세요?",
+          "note_ko": "형용사로도 써요: a nearby shop(근처 가게)."
+        },
+        {
+          "lang": "en",
+          "word": "magnitude",
+          "pos": "noun",
+          "ko": "(지진의) 규모",
+          "example": "The quake had a magnitude of 5.",
+          "example_ko": "그 지진의 규모는 5였어요.",
+          "note_ko": "a magnitude 3.6 earthquake처럼 써요. '크기, 중요성'이라는 뜻도 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "underground",
+          "pos": "adverb",
+          "ko": "땅속에, 지하에",
+          "example": "The cables run underground.",
+          "example_ko": "케이블은 땅속으로 지나가요.",
+          "note_ko": "영국에서 the Underground는 '런던 지하철'."
+        },
+        {
+          "lang": "en",
+          "word": "famous for",
+          "pos": "phrase",
+          "ko": "~로 유명한",
+          "example": "Paris is famous for its museums.",
+          "example_ko": "파리는 박물관으로 유명해요.",
+          "note_ko": "famous for + 이유, famous as + 신분(famous as a singer)."
+        },
+        {
+          "lang": "en",
+          "word": "wonder",
+          "pos": "verb",
+          "ko": "궁금해하다",
+          "example": "I wonder what time it is.",
+          "example_ko": "지금 몇 시인지 궁금하네요.",
+          "note_ko": "wonder about + 대상. 명사 wonder는 '경이, 놀라움'."
+        },
+        {
+          "lang": "en",
+          "word": "likely",
+          "pos": "adjective",
+          "ko": "~할 것 같은, 가능성이 높은",
+          "example": "It is likely to rain tomorrow.",
+          "example_ko": "내일 비가 올 것 같아요.",
+          "note_ko": "-ly로 끝나지만 형용사예요. 반대는 unlikely."
+        },
+        {
+          "lang": "en",
+          "word": "cause",
+          "pos": "noun",
+          "ko": "원인",
+          "example": "The cause of the fire is not known.",
+          "example_ko": "화재의 원인은 알려지지 않았어요.",
+          "note_ko": "동사도 cause(일으키다). cause and effect = 원인과 결과."
+        },
+        {
+          "lang": "fr",
+          "word": "des centaines de",
+          "pos": "phrase",
+          "ko": "수백의",
+          "example": "Des centaines de personnes sont venues.",
+          "example_ko": "수백 명이 왔어요.",
+          "note_ko": "une centaine = 약 100. des milliers de = 수천의."
+        },
+        {
+          "lang": "fr",
+          "word": "séisme",
+          "pos": "noun",
+          "ko": "지진",
+          "example": "Le séisme a réveillé tout le monde.",
+          "example_ko": "지진 때문에 모두 잠에서 깼어요.",
+          "note_ko": "남성 명사. 같은 뜻의 un tremblement de terre도 많이 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "secouer",
+          "pos": "verb",
+          "ko": "흔들다",
+          "example": "Le vent secoue les arbres.",
+          "example_ko": "바람이 나무를 흔들어요.",
+          "note_ko": "명사 une secousse(진동, 흔들림)."
+        },
+        {
+          "lang": "fr",
+          "word": "la plupart",
+          "pos": "phrase",
+          "ko": "대부분",
+          "example": "La plupart des élèves sont là.",
+          "example_ko": "학생들 대부분이 와 있어요.",
+          "note_ko": "la plupart des + 복수 명사, 동사도 복수(sont)."
+        },
+        {
+          "lang": "fr",
+          "word": "faible",
+          "pos": "adjective",
+          "ko": "약한",
+          "example": "Le signal est trop faible ici.",
+          "example_ko": "여기는 신호가 너무 약해요.",
+          "note_ko": "남녀 같은 형태. 반대말 fort(e)."
+        },
+        {
+          "lang": "fr",
+          "word": "ressentir",
+          "pos": "verb",
+          "ko": "느끼다",
+          "example": "On a ressenti une secousse cette nuit.",
+          "example_ko": "어젯밤 진동을 느꼈어요.",
+          "note_ko": "과거분사 ressenti. sentir보다 감정·진동처럼 '몸으로 겪는' 느낌."
+        },
+        {
+          "lang": "fr",
+          "word": "enregistrer",
+          "pos": "verb",
+          "ko": "기록하다",
+          "example": "Les appareils enregistrent chaque secousse.",
+          "example_ko": "기계가 진동을 하나하나 기록해요.",
+          "note_ko": "'녹음·녹화하다', '(짐을) 부치다'라는 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "une dizaine de",
+          "pos": "phrase",
+          "ko": "열 개 남짓의, 약 10의",
+          "example": "Il reste une dizaine de places.",
+          "example_ko": "자리가 열 개쯤 남았어요.",
+          "note_ko": "dix(10) + -aine = 약 10. une vingtaine = 약 20."
+        },
+        {
+          "lang": "fr",
+          "word": "essaim",
+          "pos": "noun",
+          "ko": "떼, 무리",
+          "example": "Un essaim d'abeilles est entré dans le jardin.",
+          "example_ko": "벌 떼가 정원에 들어왔어요.",
+          "note_ko": "남성 명사. un essaim sismique = 지진 떼."
+        },
+        {
+          "lang": "fr",
+          "word": "secousse",
+          "pos": "noun",
+          "ko": "진동, 흔들림",
+          "example": "J'ai senti une petite secousse.",
+          "example_ko": "작은 진동을 느꼈어요.",
+          "note_ko": "여성 명사. 동사 secouer(흔들다)."
+        },
+        {
+          "lang": "fr",
+          "word": "percevoir",
+          "pos": "verb",
+          "ko": "감지하다, 알아채다",
+          "example": "Ce bruit est difficile à percevoir.",
+          "example_ko": "이 소리는 알아듣기 어려워요.",
+          "note_ko": "과거분사 perçu. '(돈을) 받다'라는 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "se produire",
+          "pos": "verb",
+          "ko": "일어나다",
+          "example": "L'accident s'est produit hier soir.",
+          "example_ko": "사고는 어제저녁에 일어났어요.",
+          "note_ko": "과거는 être와 함께. 비슷한 말 avoir lieu."
+        },
+        {
+          "lang": "fr",
+          "word": "profondeur",
+          "pos": "noun",
+          "ko": "깊이",
+          "example": "Le lac a 30 mètres de profondeur.",
+          "example_ko": "그 호수는 깊이가 30미터예요.",
+          "note_ko": "여성 명사. 형용사 profond(e)(깊은)."
+        },
+        {
+          "lang": "fr",
+          "word": "endormi",
+          "pos": "adjective",
+          "ko": "잠든",
+          "example": "Le bébé est endormi.",
+          "example_ko": "아기가 잠들었어요.",
+          "note_ko": "동사 s'endormir(잠들다)에서 왔어요. un volcan endormi = 휴화산."
+        },
+        {
+          "lang": "fr",
+          "word": "s'interroger",
+          "pos": "verb",
+          "ko": "궁금해하다, 자문하다",
+          "example": "Je m'interroge sur son choix.",
+          "example_ko": "그의 선택이 궁금해요.",
+          "note_ko": "s'interroger sur + 대상. 비슷한 말 se demander."
+        },
+        {
+          "lang": "fr",
+          "word": "probable",
+          "pos": "adjective",
+          "ko": "있을 법한, 가능성 높은",
+          "example": "Il est probable qu'il pleuve demain.",
+          "example_ko": "내일 비가 올 가능성이 높아요.",
+          "note_ko": "반대말 improbable. 부사 probablement(아마)."
+        },
+        {
+          "lang": "fr",
+          "word": "inconnu",
+          "pos": "adjective",
+          "ko": "알려지지 않은",
+          "example": "La cause de l'incendie reste inconnue.",
+          "example_ko": "화재 원인은 여전히 알려지지 않았어요.",
+          "note_ko": "in-(아닌) + connu(알려진). 명사로 un inconnu = 낯선 사람."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "An \"earthquake\" is when…",
+          "choices": [
+            "the ground shakes",
+            "it rains a lot",
+            "a volcano is sleeping"
+          ],
+          "answer": 0,
+          "explain_ko": "earthquake = 지진. 땅(earth)이 흔들리는(quake) 것."
+        },
+        {
+          "lang": "fr",
+          "q": "« Faible » est le contraire de…",
+          "choices": [
+            "fort",
+            "petit",
+            "lent"
+          ],
+          "answer": 0,
+          "explain_ko": "faible = 약한, fort = 강한."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/planete/article/2026/10/28/dans-le-massif-central-un-intrigant-essaim-de-plus-de-700-microseismes_6801636_3244.html",
+          "accessed": "2026-10-29"
+        },
+        {
+          "name": "notre-planete.info",
+          "url": "https://www.notre-planete.info/actualites/12-seismes-Auvergne-octobre-2026",
+          "accessed": "2026-10-29"
+        },
+        {
+          "name": "ICI (France Bleu)",
+          "url": "https://www.ici.fr/auvergne-rhone-alpes/puy-de-dome-63/ambert/serie-de-petits-tremblements-de-terre-cette-nuit-pres-d-ambert-a-l-est-du-puy-de-dome-9324700",
+          "accessed": "2026-10-29"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": null,
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-10-28/20ee4ce1ea0a164e.mp3",
+            "2026-10-28/edc5caeaeef04d5a.mp3",
+            "2026-10-28/873bd7a89708394e.mp3"
+          ],
+          "normal": [
+            "2026-10-28/30c7ae17aa97caf8.mp3",
+            "2026-10-28/a66370c282f1daa8.mp3",
+            "2026-10-28/7c73b09a52dd9e56.mp3",
+            "2026-10-28/538dc709d8229aaa.mp3",
+            "2026-10-28/361efff2e638e6f9.mp3",
+            "2026-10-28/34d57e29568a1b3a.mp3",
+            "2026-10-28/16b88ca3dd76365f.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-10-28/1a819081838d85f5.mp3",
+            "2026-10-28/820d282d3e1ebb0f.mp3",
+            "2026-10-28/e089a2a2ce5bca02.mp3"
+          ],
+          "normal": [
+            "2026-10-28/504451d8ba7d6697.mp3",
+            "2026-10-28/5b2680f5d8de7770.mp3",
+            "2026-10-28/e3d57dfb71e71507.mp3",
+            "2026-10-28/81a2a71bf0e9292d.mp3",
+            "2026-10-28/95b7a33a4e38fc83.mp3",
+            "2026-10-28/d6a25fb8acc7c5f1.mp3",
+            "2026-10-28/ce9e28881341f4f6.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-10-28/f23e533766c312fa.mp3",
+          "2026-10-28/d10d7950358e399a.mp3",
+          "2026-10-28/46ab4720de1724da.mp3",
+          "2026-10-28/0fdbff35054420c3.mp3",
+          "2026-10-28/7dbc2cac689ca6e1.mp3",
+          "2026-10-28/6021a3cd60669828.mp3",
+          "2026-10-28/5155945821d3d2be.mp3",
+          "2026-10-28/f7a4354b7b008827.mp3",
+          "2026-10-28/589d87c66e9a813c.mp3",
+          "2026-10-28/c2db6cb11276658c.mp3",
+          "2026-10-28/9f90d6db67bc359d.mp3",
+          "2026-10-28/fccc6895652e53e4.mp3",
+          "2026-10-28/f1624622bc0d166b.mp3",
+          "2026-10-28/77fcf2454e44d3f9.mp3",
+          "2026-10-28/31ad43216b579dde.mp3",
+          "2026-10-28/cc0b2cf2a2ae35f2.mp3",
+          "2026-10-28/15b629f529924972.mp3",
+          "2026-10-28/481948f6d4d8e42d.mp3",
+          "2026-10-28/5c6a370734855575.mp3",
+          "2026-10-28/77c728ef741e0138.mp3",
+          "2026-10-28/aa3dcd12cd66fc83.mp3",
+          "2026-10-28/01876b25125db1e6.mp3",
+          "2026-10-28/59ae1d4578567cb1.mp3",
+          "2026-10-28/f612c09416c835ec.mp3",
+          "2026-10-28/922f5f88b043ea3e.mp3",
+          "2026-10-28/37fffb0bf948d916.mp3",
+          "2026-10-28/c8be265ce99ab77f.mp3",
+          "2026-10-28/1d53db95767a7aba.mp3",
+          "2026-10-28/18747bdbd73086d9.mp3",
+          "2026-10-28/5e05b680a20044c6.mp3",
+          "2026-10-28/46079dad53bf387e.mp3",
+          "2026-10-28/89af20675aa6ddd2.mp3",
+          "2026-10-28/bd23bf6583558054.mp3",
+          "2026-10-28/f65cd944038aa050.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.169,
+              0.275,
+              0.327,
+              0.38,
+              0.486,
+              0.538,
+              0.644,
+              0.697,
+              0.749,
+              0.802,
+              0.908
+            ],
+            [
+              0.058,
+              0.175,
+              0.293,
+              0.411,
+              0.529,
+              0.647,
+              0.764,
+              0.882
+            ],
+            [
+              0,
+              0.182,
+              0.273,
+              0.364,
+              0.455,
+              0.545,
+              0.636,
+              0.727
+            ]
+          ],
+          "normal": [
+            [
+              0.04,
+              0.067,
+              0.095,
+              0.151,
+              0.207,
+              0.262,
+              0.29,
+              0.318,
+              0.373,
+              0.401,
+              0.457,
+              0.485,
+              0.512,
+              0.54,
+              0.568,
+              0.596,
+              0.624,
+              0.72,
+              0.745,
+              0.771,
+              0.821,
+              0.871,
+              0.922,
+              0.947
+            ],
+            [
+              0.05,
+              0.089,
+              0.109,
+              0.129,
+              0.149,
+              0.168,
+              0.208,
+              0.228,
+              0.267,
+              0.301,
+              0.388,
+              0.431,
+              0.474,
+              0.517,
+              0.56,
+              0.698,
+              0.725,
+              0.753,
+              0.781,
+              0.808,
+              0.836,
+              0.891,
+              0.946
+            ],
+            [
+              0,
+              0.037,
+              0.075,
+              0.112,
+              0.149,
+              0.187,
+              0.224,
+              0.261,
+              0.298,
+              0.366,
+              0.418,
+              0.471,
+              0.524,
+              0.577,
+              0.683,
+              0.736,
+              0.789,
+              0.894
+            ],
+            [
+              0.05,
+              0.077,
+              0.166,
+              0.177,
+              0.188,
+              0.222,
+              0.234,
+              0.269,
+              0.303,
+              0.37,
+              0.403,
+              0.437,
+              0.471,
+              0.538,
+              0.652,
+              0.718,
+              0.784,
+              0.884
+            ],
+            [
+              0.026,
+              0.065,
+              0.103,
+              0.122,
+              0.16,
+              0.179,
+              0.198,
+              0.236,
+              0.331,
+              0.367,
+              0.385,
+              0.421,
+              0.458,
+              0.519,
+              0.54,
+              0.56,
+              0.6,
+              0.62,
+              0.64,
+              0.66,
+              0.68,
+              0.7,
+              0.72,
+              0.74,
+              0.844,
+              0.868,
+              0.892,
+              0.916,
+              0.94,
+              0.964
+            ],
+            [
+              0.057,
+              0.199,
+              0.256,
+              0.313,
+              0.341,
+              0.37,
+              0.398,
+              0.426,
+              0.483,
+              0.649,
+              0.704,
+              0.786,
+              0.813,
+              0.841,
+              0.868,
+              0.895,
+              0.923,
+              0.95
+            ],
+            [
+              0.097,
+              0.192,
+              0.24,
+              0.287,
+              0.382,
+              0.43,
+              0.477,
+              0.525,
+              0.62,
+              0.667,
+              0.715,
+              0.763,
+              0.81,
+              0.858
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.105,
+              0.151,
+              0.242,
+              0.287,
+              0.378,
+              0.424,
+              0.469,
+              0.56,
+              0.606,
+              0.697,
+              0.743,
+              0.788,
+              0.834,
+              0.879
+            ],
+            [
+              0.251,
+              0.307,
+              0.418,
+              0.528,
+              0.584,
+              0.639,
+              0.695,
+              0.75
+            ],
+            [
+              0.12,
+              0.184,
+              0.437,
+              0.501,
+              0.564,
+              0.628,
+              0.754
+            ]
+          ],
+          "normal": [
+            [
+              0.071,
+              0.101,
+              0.132,
+              0.192,
+              0.283,
+              0.314,
+              0.374,
+              0.495,
+              0.526,
+              0.556,
+              0.617,
+              0.647,
+              0.677,
+              0.708,
+              0.768,
+              0.799,
+              0.829,
+              0.889
+            ],
+            [
+              0.08,
+              0.1,
+              0.183,
+              0.204,
+              0.225,
+              0.266,
+              0.328,
+              0.349,
+              0.417,
+              0.439,
+              0.482,
+              0.526,
+              0.548,
+              0.569,
+              0.591,
+              0.634,
+              0.698,
+              0.721,
+              0.744,
+              0.767,
+              0.79,
+              0.835,
+              0.881,
+              0.904
+            ],
+            [
+              0.084,
+              0.115,
+              0.177,
+              0.24,
+              0.271,
+              0.302,
+              0.333,
+              0.364,
+              0.512,
+              0.537,
+              0.61,
+              0.635,
+              0.684,
+              0.733,
+              0.757,
+              0.782,
+              0.855,
+              0.879
+            ],
+            [
+              0.05,
+              0.08,
+              0.11,
+              0.172,
+              0.184,
+              0.219,
+              0.258,
+              0.286,
+              0.342,
+              0.37,
+              0.399,
+              0.427,
+              0.455,
+              0.511,
+              0.567,
+              0.595,
+              0.68,
+              0.736,
+              0.82,
+              0.848
+            ],
+            [
+              0.023,
+              0.042,
+              0.08,
+              0.098,
+              0.136,
+              0.155,
+              0.174,
+              0.212,
+              0.312,
+              0.346,
+              0.363,
+              0.38,
+              0.447,
+              0.464,
+              0.481,
+              0.498,
+              0.515,
+              0.582,
+              0.601,
+              0.62,
+              0.638,
+              0.657,
+              0.676,
+              0.695,
+              0.713,
+              0.732,
+              0.751,
+              0.77,
+              0.788,
+              0.807,
+              0.844,
+              0.863,
+              0.882,
+              0.919
+            ],
+            [
+              0.092,
+              0.129,
+              0.148,
+              0.241,
+              0.278,
+              0.36,
+              0.369,
+              0.388,
+              0.407,
+              0.417,
+              0.427,
+              0.436,
+              0.446,
+              0.455,
+              0.474,
+              0.5,
+              0.534,
+              0.568,
+              0.636,
+              0.671,
+              0.705,
+              0.773,
+              0.808,
+              0.876,
+              0.91
+            ],
+            [
+              0.065,
+              0.096,
+              0.128,
+              0.262,
+              0.296,
+              0.33,
+              0.398,
+              0.432,
+              0.59,
+              0.627,
+              0.663,
+              0.735,
+              0.772,
+              0.808,
+              0.844
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "audio_base": "https://koreapapa-kim.github.io/worldnews-audio"
+}

@@ -1,0 +1,835 @@
+{
+  "schema": 1,
+  "date": "2026-11-08",
+  "stories": [
+    {
+      "id": "2026-11-08-01",
+      "category": "economy",
+      "region": {
+        "country": "US",
+        "city": "Santa Clara",
+        "lat": 37.35,
+        "lng": -121.96
+      },
+      "headline": {
+        "en": "Nvidia's Board Opens Investigation Into CEO Jensen Huang",
+        "fr": "Le conseil d'administration de Nvidia ouvre une enquête sur son PDG Jensen Huang",
+        "ko": "엔비디아 이사회, CEO 젠슨 황 조사 착수"
+      },
+      "hook": {
+        "en": "Why is Nvidia's board investigating its own CEO?",
+        "fr": "Pourquoi le conseil de Nvidia enquête-t-il sur son propre PDG ?",
+        "ko": "엔비디아 이사회는 왜 자기 회사 CEO를 조사할까?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Nvidia's board will investigate its CEO, Jensen Huang.",
+            "Reports say a foreign spy agency targeted him.",
+            "He will stay CEO during the investigation."
+          ],
+          "easy_ko": [
+            "엔비디아 이사회가 CEO 젠슨 황을 조사할 예정입니다.",
+            "보도에 따르면 외국의 정보기관이 그를 표적으로 삼았다고 합니다.",
+            "그는 조사하는 동안 CEO 자리를 유지합니다."
+          ],
+          "normal": [
+            "Nvidia's board said on Sunday that it will investigate reports that CEO Jensen Huang was the target of a foreign intelligence effort.",
+            "A committee of independent directors will lead the inquiry with the help of outside lawyers.",
+            "The board said it has \"no reason to believe\" that national security or Nvidia's secrets were compromised.",
+            "In an email to staff, Huang admitted that he was unfaithful to his wife and apologised.",
+            "The New York Times reported last month that US intelligence believed the woman, a Chinese citizen who is not related to him, was gathering information for Beijing.",
+            "China's embassy in Washington has denied the spying claims, and the board says Huang will stay as CEO during the inquiry.",
+            "Some US lawmakers have asked Huang to answer questions in Congress."
+          ],
+          "normal_ko": [
+            "엔비디아 이사회는 일요일, CEO 젠슨 황이 외국 정보기관 공작의 표적이 됐다는 보도를 조사하겠다고 밝혔습니다.",
+            "독립 이사들로 이뤄진 위원회가 외부 변호사들의 도움을 받아 조사를 이끕니다.",
+            "이사회는 국가 안보나 엔비디아의 기밀이 침해됐다고 믿을 \"이유가 없다\"고 말했습니다.",
+            "황은 직원들에게 보낸 이메일에서 아내에게 불성실했다고 인정하고 사과했습니다.",
+            "뉴욕타임스는 지난달, 미국 정보당국이 그 여성(황과 친척이 아닌 중국 국적자)이 베이징을 위해 정보를 모으고 있다고 믿었다고 보도했습니다.",
+            "워싱턴의 중국 대사관은 간첩 의혹을 부인했고, 이사회는 조사하는 동안 황이 CEO 자리를 유지할 것이라고 밝혔습니다.",
+            "미국 의원 일부는 황에게 의회에서 질문에 답해 달라고 요구했습니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Le conseil de Nvidia va enquêter sur son PDG, Jensen Huang.",
+            "Selon des informations, un service de renseignement étranger l'aurait visé.",
+            "Il reste PDG pendant l'enquête."
+          ],
+          "easy_ko": [
+            "엔비디아 이사회가 CEO 젠슨 황을 조사할 예정입니다.",
+            "보도에 따르면 외국의 정보기관이 그를 표적으로 삼았다고 합니다.",
+            "그는 조사하는 동안 CEO 자리를 유지합니다."
+          ],
+          "normal": [
+            "Le conseil d'administration de Nvidia a annoncé dimanche qu'il allait enquêter sur des informations selon lesquelles le PDG Jensen Huang aurait été la cible d'une opération de renseignement étrangère.",
+            "Un comité d'administrateurs indépendants dirigera l'enquête avec l'aide d'avocats extérieurs.",
+            "Le conseil dit n'avoir « aucune raison de croire » que la sécurité nationale ou les secrets de Nvidia aient été compromis.",
+            "Dans un e-mail aux employés, Jensen Huang a reconnu avoir été infidèle à sa femme et s'est excusé.",
+            "Le New York Times a rapporté le mois dernier que les services de renseignement américains pensaient que cette femme, une citoyenne chinoise sans lien de parenté avec lui, collectait des informations pour Pékin.",
+            "L'ambassade de Chine à Washington a démenti ces accusations d'espionnage, et le conseil affirme que Jensen Huang restera PDG pendant l'enquête.",
+            "Plusieurs parlementaires américains lui ont demandé de répondre à des questions devant le Congrès."
+          ],
+          "normal_ko": [
+            "엔비디아 이사회는 일요일, CEO 젠슨 황이 외국 정보기관 공작의 표적이 됐다는 보도를 조사하겠다고 밝혔습니다.",
+            "독립 이사들로 이뤄진 위원회가 외부 변호사들의 도움을 받아 조사를 이끕니다.",
+            "이사회는 국가 안보나 엔비디아의 기밀이 침해됐다고 믿을 \"이유가 없다\"고 말했습니다.",
+            "황은 직원들에게 보낸 이메일에서 아내에게 불성실했다고 인정하고 사과했습니다.",
+            "뉴욕타임스는 지난달, 미국 정보당국이 그 여성(황과 친척이 아닌 중국 국적자)이 베이징을 위해 정보를 모으고 있다고 믿었다고 보도했습니다.",
+            "워싱턴의 중국 대사관은 간첩 의혹을 부인했고, 이사회는 조사하는 동안 황이 CEO 자리를 유지할 것이라고 밝혔습니다.",
+            "미국 의원 여러 명이 황에게 의회에서 질문에 답해 달라고 요구했습니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "엔비디아는 AI용 반도체를 만드는 회사로, 세계에서 가장 가치가 큰 기업 중 하나로 꼽힙니다. 이사회는 회사 경영진을 감독하는 모임이고, '독립 이사'는 회사 경영과 이해관계가 없는 이사를 말해요. 이번 의혹은 지난달 29일 뉴욕타임스가 미국 정보당국의 판단이라며 보도한 내용이고, 기사들은 이를 독립적으로 확인하지 못했습니다. 중국 대사관은 간첩 의혹을 부인했고, 이사회는 국가 안보나 기밀이 침해됐다고 믿을 이유가 없다는 입장입니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "board",
+          "pos": "noun",
+          "ko": "이사회",
+          "example": "The board will meet on Monday.",
+          "example_ko": "이사회는 월요일에 모일 거예요.",
+          "note_ko": "회사를 감독하는 이사들의 모임이에요. 같은 철자로 '판자, 탑승하다(on board)'라는 뜻도 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "investigate",
+          "pos": "verb",
+          "ko": "조사하다",
+          "example": "Police are investigating the fire.",
+          "example_ko": "경찰이 화재를 조사하고 있어요.",
+          "note_ko": "명사는 investigation(조사), 같은 뜻의 '수사'도 돼요. look into보다 격식 있는 말이에요."
+        },
+        {
+          "lang": "en",
+          "word": "target",
+          "pos": "noun",
+          "ko": "표적, 목표",
+          "example": "She is the target of the joke.",
+          "example_ko": "그녀가 농담의 대상이에요.",
+          "note_ko": "동사로도 써요(to target = 겨냥하다). 'the target of ~' = ~의 표적이 된 사람/것."
+        },
+        {
+          "lang": "en",
+          "word": "foreign",
+          "pos": "adjective",
+          "ko": "외국의",
+          "example": "He speaks three foreign languages.",
+          "example_ko": "그는 외국어를 세 개 해요.",
+          "note_ko": "g는 소리 나지 않아요(포린). foreigner는 외국인, foreign policy는 외교 정책."
+        },
+        {
+          "lang": "en",
+          "word": "intelligence",
+          "pos": "noun",
+          "ko": "정보(기관), 지능",
+          "example": "Intelligence agencies share information.",
+          "example_ko": "정보기관들이 정보를 공유해요.",
+          "note_ko": "뉴스에서는 '(비밀) 정보, 정보기관'이라는 뜻이 많아요. artificial intelligence의 intelligence는 '지능'."
+        },
+        {
+          "lang": "en",
+          "word": "committee",
+          "pos": "noun",
+          "ko": "위원회",
+          "example": "The committee has five members.",
+          "example_ko": "위원회는 다섯 명으로 이뤄져 있어요.",
+          "note_ko": "철자가 m과 t가 두 번씩 나와 헷갈려요(comMiTTee). 어떤 일을 맡은 소규모 모임."
+        },
+        {
+          "lang": "en",
+          "word": "independent",
+          "pos": "adjective",
+          "ko": "독립적인",
+          "example": "She is an independent thinker.",
+          "example_ko": "그녀는 독립적으로 생각하는 사람이에요.",
+          "note_ko": "반대말은 dependent. 명사는 independence(독립). 다른 곳의 영향을 받지 않는다는 뜻이에요."
+        },
+        {
+          "lang": "en",
+          "word": "compromise",
+          "pos": "verb",
+          "ko": "침해하다, 위태롭게 하다",
+          "example": "The leak compromised our security.",
+          "example_ko": "그 유출이 우리의 보안을 위태롭게 했어요.",
+          "note_ko": "'타협(하다)'이 먼저 떠오르지만, 보안·안전 뉴스에서는 '뚫리다, 위험해지다'는 뜻이에요."
+        },
+        {
+          "lang": "en",
+          "word": "admit",
+          "pos": "verb",
+          "ko": "인정하다",
+          "example": "He admitted that he was wrong.",
+          "example_ko": "그는 자기가 틀렸다고 인정했어요.",
+          "note_ko": "admit that + 문장. 명사는 admission(인정). '입장을 허락하다'라는 뜻도 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "unfaithful",
+          "pos": "adjective",
+          "ko": "불성실한, 부정한",
+          "example": "He was unfaithful to his partner.",
+          "example_ko": "그는 배우자에게 부정했어요.",
+          "note_ko": "faithful(충실한)의 반대말. 연애·결혼 관계에서 쓰면 '바람을 피운'이라는 뜻이에요."
+        },
+        {
+          "lang": "en",
+          "word": "apologise",
+          "pos": "verb",
+          "ko": "사과하다",
+          "example": "I apologise for being late.",
+          "example_ko": "늦어서 죄송해요.",
+          "note_ko": "영국 철자 apologise, 미국은 apologize. 명사는 apology. apologise for + 이유."
+        },
+        {
+          "lang": "en",
+          "word": "gather",
+          "pos": "verb",
+          "ko": "모으다",
+          "example": "They gather information every day.",
+          "example_ko": "그들은 매일 정보를 모아요.",
+          "note_ko": "사람이 모일 때도 써요(People gathered in the square). gather information = 정보를 수집하다."
+        },
+        {
+          "lang": "en",
+          "word": "deny",
+          "pos": "verb",
+          "ko": "부인하다",
+          "example": "She denied the claim.",
+          "example_ko": "그녀는 그 주장을 부인했어요.",
+          "note_ko": "명사는 denial. 반대말은 admit(인정하다). deny + 명사/-ing 형태로 써요."
+        },
+        {
+          "lang": "en",
+          "word": "lawmaker",
+          "pos": "noun",
+          "ko": "국회의원, 입법자",
+          "example": "Lawmakers voted on the new law.",
+          "example_ko": "의원들이 새 법안에 투표했어요.",
+          "note_ko": "law(법)+maker(만드는 사람). 뉴스에서 member of Congress를 짧게 부를 때 많이 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "conseil",
+          "pos": "noun",
+          "ko": "이사회, 조언",
+          "example": "Le conseil se réunit lundi.",
+          "example_ko": "이사회가 월요일에 모여요.",
+          "note_ko": "남성 명사. conseil d'administration = 이사회. 'un conseil'은 '조언'이라는 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "enquêter",
+          "pos": "verb",
+          "ko": "조사하다",
+          "example": "La police enquête sur le vol.",
+          "example_ko": "경찰이 도난 사건을 조사하고 있어요.",
+          "note_ko": "enquêter sur + 대상. 명사 une enquête(조사, 수사)는 여성 명사예요."
+        },
+        {
+          "lang": "fr",
+          "word": "cible",
+          "pos": "noun",
+          "ko": "표적",
+          "example": "Il est la cible de critiques.",
+          "example_ko": "그는 비판의 표적이 됐어요.",
+          "note_ko": "여성 명사. être la cible de ~ = ~의 표적이 되다. 동사는 cibler(겨냥하다)."
+        },
+        {
+          "lang": "fr",
+          "word": "étranger",
+          "pos": "adjective",
+          "ko": "외국의",
+          "example": "Elle apprend une langue étrangère.",
+          "example_ko": "그녀는 외국어를 배워요.",
+          "note_ko": "여성형 étrangère. 명사로는 un étranger(외국인). à l'étranger = 해외에서."
+        },
+        {
+          "lang": "fr",
+          "word": "renseignement",
+          "pos": "noun",
+          "ko": "정보, 정보기관",
+          "example": "Les services de renseignement enquêtent.",
+          "example_ko": "정보기관이 조사하고 있어요.",
+          "note_ko": "남성 명사. les services de renseignement = 정보기관. '문의 사항'(des renseignements)이라는 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "comité",
+          "pos": "noun",
+          "ko": "위원회",
+          "example": "Le comité prend une décision.",
+          "example_ko": "위원회가 결정을 내려요.",
+          "note_ko": "남성 명사. 영어 committee와 철자가 달라요(m, t가 하나씩)."
+        },
+        {
+          "lang": "fr",
+          "word": "indépendant",
+          "pos": "adjective",
+          "ko": "독립적인",
+          "example": "C'est un journaliste indépendant.",
+          "example_ko": "그는 독립 기자예요.",
+          "note_ko": "여성형 indépendante. 명사 indépendance(독립). 반대말은 dépendant."
+        },
+        {
+          "lang": "fr",
+          "word": "compromettre",
+          "pos": "verb",
+          "ko": "위태롭게 하다",
+          "example": "Cette erreur compromet la sécurité.",
+          "example_ko": "이 실수가 안전을 위태롭게 해요.",
+          "note_ko": "본문에는 과거분사 compromis로 나와요. 영어 compromise('타협')와 달리 '위태롭게 하다'가 기본 뜻이에요."
+        },
+        {
+          "lang": "fr",
+          "word": "reconnaître",
+          "pos": "verb",
+          "ko": "인정하다, 알아보다",
+          "example": "Il reconnaît son erreur.",
+          "example_ko": "그는 자기 실수를 인정해요.",
+          "note_ko": "본문에는 reconnu로 나와요. '(잘못을) 인정하다'와 '(얼굴을) 알아보다' 두 뜻이 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "infidèle",
+          "pos": "adjective",
+          "ko": "불성실한, 부정한",
+          "example": "Il a été infidèle à sa femme.",
+          "example_ko": "그는 아내에게 부정했어요.",
+          "note_ko": "남녀 같은 모양. 반대말은 fidèle(충실한). 명사 infidélité."
+        },
+        {
+          "lang": "fr",
+          "word": "s'excuser",
+          "pos": "verb",
+          "ko": "사과하다",
+          "example": "Elle s'excuse pour son retard.",
+          "example_ko": "그녀는 늦은 것을 사과해요.",
+          "note_ko": "대명동사라서 복합 시제는 être와 써요(il s'est excusé). 격식 있는 말은 présenter ses excuses."
+        },
+        {
+          "lang": "fr",
+          "word": "démentir",
+          "pos": "verb",
+          "ko": "부인하다",
+          "example": "Le ministre dément la rumeur.",
+          "example_ko": "장관은 소문을 부인해요.",
+          "note_ko": "뉴스에서 자주 쓰는 말이에요. 명사 un démenti(부인). 반대말은 confirmer(확인하다)."
+        },
+        {
+          "lang": "fr",
+          "word": "rester",
+          "pos": "verb",
+          "ko": "남다, 머무르다",
+          "example": "Elle reste à la maison.",
+          "example_ko": "그녀는 집에 있어요.",
+          "note_ko": "복합 시제는 être와 써요(il est resté). 본문처럼 '계속 ~로 있다'(rester PDG)는 뜻도 돼요."
+        },
+        {
+          "lang": "fr",
+          "word": "parlementaire",
+          "pos": "noun",
+          "ko": "국회의원",
+          "example": "Les parlementaires votent la loi.",
+          "example_ko": "의원들이 법안에 투표해요.",
+          "note_ko": "남녀 같은 모양. 형용사로도 써요(le système parlementaire = 의회 제도)."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "To \"investigate\" something means to…",
+          "choices": [
+            "look into it carefully to find the facts",
+            "ignore it completely",
+            "celebrate it"
+          ],
+          "answer": 0,
+          "explain_ko": "investigate = 사실을 알아내려고 꼼꼼히 조사하다."
+        },
+        {
+          "lang": "fr",
+          "q": "« Démentir », c'est…",
+          "choices": [
+            "dire que quelque chose n'est pas vrai",
+            "confirmer une nouvelle",
+            "oublier une nouvelle"
+          ],
+          "answer": 0,
+          "explain_ko": "démentir = 어떤 말이 사실이 아니라고 부인하다."
+        }
+      ],
+      "sources": [
+        {
+          "name": "France 24 (AP)",
+          "url": "https://www.france24.com/en/technology/20261108-nvidia-jensen-huang-chinese-intelligence-probe",
+          "accessed": "2026-11-09"
+        },
+        {
+          "name": "Al Jazeera (Reuters)",
+          "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair",
+          "accessed": "2026-11-09"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": null,
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-08/44f46f530a5f5a5f.mp3",
+            "2026-11-08/30ec681a35161114.mp3",
+            "2026-11-08/68760b5e6b3169a6.mp3"
+          ],
+          "normal": [
+            "2026-11-08/357530156c49e233.mp3",
+            "2026-11-08/fb5014dfccfe7d1e.mp3",
+            "2026-11-08/57cf6c8efa987e91.mp3",
+            "2026-11-08/2be5f7c436a0748f.mp3",
+            "2026-11-08/0b7e415398106647.mp3",
+            "2026-11-08/c123d01a8876450e.mp3",
+            "2026-11-08/33cb61a2f9cb55cd.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-08/b339a7c763e293df.mp3",
+            "2026-11-08/9d3e7bbae5dd627a.mp3",
+            "2026-11-08/f97ca003f32771bb.mp3"
+          ],
+          "normal": [
+            "2026-11-08/4f55c7e567934862.mp3",
+            "2026-11-08/2987bdbb0b2b7cce.mp3",
+            "2026-11-08/2eac80e114b32249.mp3",
+            "2026-11-08/d5fbd9dc5a532b73.mp3",
+            "2026-11-08/751d55276d837aa8.mp3",
+            "2026-11-08/411cc28c3f59c7ba.mp3",
+            "2026-11-08/a24a17e3279c8588.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-08/511fc07a1d64fabb.mp3",
+          "2026-11-08/2f50c4e485bd14c8.mp3",
+          "2026-11-08/f8e4e5267e9bcbee.mp3",
+          "2026-11-08/2b95c8ff47d2da04.mp3",
+          "2026-11-08/b4edb3ba4d4fa1bf.mp3",
+          "2026-11-08/dbb1aca31e084803.mp3",
+          "2026-11-08/b058f0cfc03c7451.mp3",
+          "2026-11-08/e432db713e0f9e8c.mp3",
+          "2026-11-08/fb0a61d8ff3210b6.mp3",
+          "2026-11-08/c41db8b965598237.mp3",
+          "2026-11-08/f8d9c6b7611cc369.mp3",
+          "2026-11-08/f9602a98feab5806.mp3",
+          "2026-11-08/c001cb2136cdc368.mp3",
+          "2026-11-08/841f2c70abd60d7a.mp3",
+          "2026-11-08/2ad751d18a160cb1.mp3",
+          "2026-11-08/320da45f3f1acaa2.mp3",
+          "2026-11-08/8a7d6e37df5b4935.mp3",
+          "2026-11-08/f2a90a3019b3013b.mp3",
+          "2026-11-08/242b686b0a7d9f6d.mp3",
+          "2026-11-08/f87341595bbb63a8.mp3",
+          "2026-11-08/3cf8cfaa5cd14447.mp3",
+          "2026-11-08/9bdf1eca4b9aadb2.mp3",
+          "2026-11-08/cf59600c9f320fe7.mp3",
+          "2026-11-08/6a544503e0b71aea.mp3",
+          "2026-11-08/b251628e8d1a3d2c.mp3",
+          "2026-11-08/1446909ee64b4009.mp3",
+          "2026-11-08/3d90ed8eb1628fc7.mp3",
+          "2026-11-08/6eaebee3d1a52b88.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.156,
+              0.233,
+              0.272,
+              0.311,
+              0.466,
+              0.505,
+              0.566,
+              0.83
+            ],
+            [
+              0.133,
+              0.258,
+              0.321,
+              0.384,
+              0.509,
+              0.571,
+              0.759,
+              0.884
+            ],
+            [
+              0.041,
+              0.121,
+              0.201,
+              0.281,
+              0.361,
+              0.521,
+              0.601
+            ]
+          ],
+          "normal": [
+            [
+              0.055,
+              0.109,
+              0.136,
+              0.163,
+              0.19,
+              0.244,
+              0.271,
+              0.298,
+              0.325,
+              0.433,
+              0.487,
+              0.514,
+              0.541,
+              0.595,
+              0.622,
+              0.649,
+              0.676,
+              0.73,
+              0.757,
+              0.784,
+              0.838,
+              0.946
+            ],
+            [
+              0.078,
+              0.112,
+              0.214,
+              0.248,
+              0.383,
+              0.485,
+              0.519,
+              0.553,
+              0.587,
+              0.689,
+              0.723,
+              0.756,
+              0.79,
+              0.824,
+              0.892
+            ],
+            [
+              0,
+              0.036,
+              0.071,
+              0.107,
+              0.143,
+              0.179,
+              0.214,
+              0.286,
+              0.321,
+              0.393,
+              0.429,
+              0.536,
+              0.679,
+              0.714,
+              0.786,
+              0.857,
+              0.893
+            ],
+            [
+              0.103,
+              0.133,
+              0.164,
+              0.224,
+              0.255,
+              0.375,
+              0.409,
+              0.478,
+              0.512,
+              0.546,
+              0.58,
+              0.683,
+              0.717,
+              0.752,
+              0.786,
+              0.82
+            ],
+            [
+              0,
+              0.025,
+              0.05,
+              0.074,
+              0.099,
+              0.149,
+              0.174,
+              0.198,
+              0.223,
+              0.248,
+              0.347,
+              0.397,
+              0.421,
+              0.508,
+              0.527,
+              0.564,
+              0.619,
+              0.638,
+              0.656,
+              0.674,
+              0.711,
+              0.73,
+              0.794,
+              0.813,
+              0.869,
+              0.944,
+              0.963
+            ],
+            [
+              0.025,
+              0.081,
+              0.164,
+              0.192,
+              0.275,
+              0.303,
+              0.358,
+              0.386,
+              0.414,
+              0.499,
+              0.532,
+              0.564,
+              0.596,
+              0.628,
+              0.66,
+              0.692,
+              0.724,
+              0.756,
+              0.788,
+              0.853,
+              0.885
+            ],
+            [
+              0,
+              0.063,
+              0.125,
+              0.313,
+              0.375,
+              0.438,
+              0.5,
+              0.563,
+              0.688,
+              0.813,
+              0.875
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.067,
+              0.116,
+              0.215,
+              0.264,
+              0.363,
+              0.412,
+              0.56,
+              0.609,
+              0.659,
+              0.759,
+              0.891
+            ],
+            [
+              0.102,
+              0.175,
+              0.212,
+              0.442,
+              0.48,
+              0.556,
+              0.593,
+              0.707,
+              0.82,
+              0.896
+            ],
+            [
+              0.134,
+              0.246,
+              0.358,
+              0.47,
+              0.694
+            ]
+          ],
+          "normal": [
+            [
+              0.04,
+              0.056,
+              0.089,
+              0.171,
+              0.188,
+              0.221,
+              0.237,
+              0.286,
+              0.319,
+              0.335,
+              0.368,
+              0.417,
+              0.434,
+              0.45,
+              0.516,
+              0.549,
+              0.581,
+              0.598,
+              0.614,
+              0.647,
+              0.663,
+              0.696,
+              0.729,
+              0.746,
+              0.762,
+              0.778,
+              0.844,
+              0.86,
+              0.91
+            ],
+            [
+              0.06,
+              0.091,
+              0.186,
+              0.343,
+              0.469,
+              0.595,
+              0.658,
+              0.721,
+              0.753,
+              0.847
+            ],
+            [
+              0.066,
+              0.09,
+              0.138,
+              0.162,
+              0.211,
+              0.235,
+              0.283,
+              0.331,
+              0.355,
+              0.379,
+              0.459,
+              0.479,
+              0.5,
+              0.582,
+              0.644,
+              0.665,
+              0.685,
+              0.727,
+              0.747,
+              0.788,
+              0.809,
+              0.85
+            ],
+            [
+              0.078,
+              0.111,
+              0.145,
+              0.211,
+              0.245,
+              0.374,
+              0.427,
+              0.454,
+              0.481,
+              0.561,
+              0.615,
+              0.669,
+              0.749,
+              0.776,
+              0.803,
+              0.829,
+              0.856,
+              0.883
+            ],
+            [
+              0.044,
+              0.059,
+              0.075,
+              0.09,
+              0.106,
+              0.121,
+              0.168,
+              0.183,
+              0.199,
+              0.229,
+              0.245,
+              0.26,
+              0.291,
+              0.307,
+              0.353,
+              0.415,
+              0.446,
+              0.461,
+              0.477,
+              0.519,
+              0.537,
+              0.572,
+              0.607,
+              0.624,
+              0.642,
+              0.659,
+              0.712,
+              0.747,
+              0.812,
+              0.854,
+              0.868,
+              0.924,
+              0.938
+            ],
+            [
+              0.05,
+              0.112,
+              0.132,
+              0.153,
+              0.173,
+              0.235,
+              0.255,
+              0.317,
+              0.337,
+              0.419,
+              0.516,
+              0.54,
+              0.563,
+              0.61,
+              0.657,
+              0.68,
+              0.727,
+              0.75,
+              0.82,
+              0.844,
+              0.89
+            ],
+            [
+              0.086,
+              0.151,
+              0.28,
+              0.41,
+              0.442,
+              0.475,
+              0.572,
+              0.604,
+              0.669,
+              0.701,
+              0.733,
+              0.798,
+              0.863,
+              0.895
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "audio_base": "https://koreapapa-kim.github.io/worldnews-audio"
+}
