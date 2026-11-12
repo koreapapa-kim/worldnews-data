@@ -13,11 +13,13 @@
       },
       "headline": {
         "en": "Spain Holds First General Strike in 14 Years Over Housing Costs",
-        "ko": "스페인, 집값·월세에 항의해 14년 만의 총파업"
+        "ko": "스페인, 집값·월세에 항의해 14년 만의 총파업",
+        "fr": "L'Espagne connaît sa première grève générale en 14 ans à cause du coût du logement"
       },
       "hook": {
         "en": "In Spain, rent for a young person is almost their whole salary.",
-        "ko": "스페인에서는 청년의 월세가 전체 월급과 거의 같습니다."
+        "ko": "스페인에서는 청년의 월세가 전체 월급과 거의 같습니다.",
+        "fr": "En Espagne, le loyer d'un jeune représente presque tout son salaire."
       },
       "summary": {
         "en": {
@@ -39,6 +41,41 @@
             "The Bank of Spain says the country is missing about 750,000 homes.",
             "Opposition leaders say the strike is political, and business groups call it an election protest.",
             "Spaniards will vote in a snap election on November 29."
+          ],
+          "normal_ko": [
+            "스페인의 수백만 노동자가 수요일 24시간 총파업에 참여했고, 14년 만입니다.",
+            "가장 큰 두 노조인 CCOO와 UGT가 주택 문제 항의 물결이 이어진 뒤 파업을 요구했습니다.",
+            "노동자들은 정부가 높은 월세와 오르는 생활비에 대응하길 원합니다.",
+            "평균 월세는 한 달에 약 1,170유로이고, 스페인 청년위원회는 이것이 청년이 한 달에 버는 돈과 거의 같다고 말합니다.",
+            "스페인 중앙은행은 이 나라에 집이 약 75만 채 부족하다고 말합니다.",
+            "야당 지도자들은 파업이 정치적이라고 말하고, 경영자 단체는 선거용 항의라고 부릅니다.",
+            "스페인 국민은 11월 29일 조기 총선에서 투표합니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Des millions de travailleurs espagnols ont arrêté de travailler pendant une journée.",
+            "C'était la première grève générale depuis 14 ans.",
+            "Ils sont en colère contre les loyers trop chers."
+          ],
+          "easy_ko": [
+            "스페인의 수백만 노동자가 하루 동안 일을 멈췄습니다.",
+            "14년 만의 총파업이었습니다.",
+            "그들은 높은 월세에 화가 나 있습니다."
+          ],
+          "normal": [
+            "Des millions de travailleurs espagnols ont participé mercredi à une grève générale de 24 heures, la première depuis 14 ans.",
+            "Les deux plus grands syndicats, CCOO et UGT, ont appelé à la grève après une vague de manifestations sur le logement.",
+            "Les salariés veulent que le gouvernement agisse contre les loyers élevés et la hausse du coût de la vie.",
+            "Le loyer moyen est d'environ 1 170 euros par mois, et le Conseil de la jeunesse d'Espagne affirme que cela représente presque le salaire mensuel d'un jeune.",
+            "La Banque d'Espagne estime qu'il manque environ 750 000 logements dans le pays.",
+            "L'opposition juge la grève politique, et le patronat y voit une protestation électorale.",
+            "Les Espagnols voteront lors d'élections anticipées le 29 novembre."
           ],
           "normal_ko": [
             "스페인의 수백만 노동자가 수요일 24시간 총파업에 참여했고, 14년 만입니다.",
@@ -183,6 +220,132 @@
           "example": "People vote on Sunday.",
           "example_ko": "사람들은 일요일에 투표해요.",
           "note_ko": "명사 vote(표), voter(유권자)."
+        },
+        {
+          "lang": "fr",
+          "word": "une grève",
+          "pos": "nom féminin",
+          "ko": "파업",
+          "example": "Les ouvriers font grève aujourd'hui.",
+          "example_ko": "노동자들이 오늘 파업해요.",
+          "note_ko": "faire grève = 파업하다. 영어 strike."
+        },
+        {
+          "lang": "fr",
+          "word": "une grève générale",
+          "pos": "nom féminin",
+          "ko": "총파업",
+          "example": "Une grève générale arrête tout le pays.",
+          "example_ko": "총파업이 온 나라를 멈춰요.",
+          "note_ko": "여러 업종이 함께 하는 파업."
+        },
+        {
+          "lang": "fr",
+          "word": "un salarié",
+          "pos": "nom masculin",
+          "ko": "(임금) 노동자, 직장인",
+          "example": "Les salariés demandent de meilleurs salaires.",
+          "example_ko": "노동자들이 더 나은 임금을 요구해요.",
+          "note_ko": "여성은 une salariée. travailleur보다 '고용된 사람'을 뜻해요."
+        },
+        {
+          "lang": "fr",
+          "word": "un syndicat",
+          "pos": "nom masculin",
+          "ko": "노동조합",
+          "example": "Le syndicat appelle à la grève.",
+          "example_ko": "노조가 파업을 요구해요.",
+          "note_ko": "appeler à la grève = 파업을 호소하다."
+        },
+        {
+          "lang": "fr",
+          "word": "le logement",
+          "pos": "nom masculin",
+          "ko": "주거, 주택",
+          "example": "Le logement coûte très cher.",
+          "example_ko": "주거비가 아주 비싸요.",
+          "note_ko": "la crise du logement = 주택 위기."
+        },
+        {
+          "lang": "fr",
+          "word": "le loyer",
+          "pos": "nom masculin",
+          "ko": "월세, 집세",
+          "example": "Mon loyer est trop élevé.",
+          "example_ko": "내 월세는 너무 비싸요.",
+          "note_ko": "payer le loyer = 월세를 내다. 영어 rent."
+        },
+        {
+          "lang": "fr",
+          "word": "un appartement",
+          "pos": "nom masculin",
+          "ko": "아파트(한 세대의 집)",
+          "example": "Elle loue un petit appartement à Madrid.",
+          "example_ko": "그녀는 마드리드의 작은 아파트를 빌려요.",
+          "note_ko": "영국식 영어 flat에 해당. 한국의 '아파트 단지'가 아니라 한 세대의 집을 뜻해요."
+        },
+        {
+          "lang": "fr",
+          "word": "le salaire",
+          "pos": "nom masculin",
+          "ko": "월급, 급여",
+          "example": "Son salaire est bas.",
+          "example_ko": "그의 월급은 낮아요.",
+          "note_ko": "le salaire mensuel = 월급."
+        },
+        {
+          "lang": "fr",
+          "word": "le coût de la vie",
+          "pos": "nom masculin",
+          "ko": "생활비, 물가",
+          "example": "Le coût de la vie augmente.",
+          "example_ko": "생활비가 오르고 있어요.",
+          "note_ko": "la vie chère도 비슷하게 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "il manque",
+          "pos": "locution",
+          "ko": "~이(가) 부족하다",
+          "example": "Il manque 750 000 logements.",
+          "example_ko": "주택이 75만 채 부족해요.",
+          "note_ko": "manquer의 비인칭 표현. il manque + 명사."
+        },
+        {
+          "lang": "fr",
+          "word": "l'opposition",
+          "pos": "nom féminin",
+          "ko": "야당",
+          "example": "L'opposition critique le plan.",
+          "example_ko": "야당이 그 계획을 비판해요.",
+          "note_ko": "정치 뉴스에서 자주 나와요."
+        },
+        {
+          "lang": "fr",
+          "word": "des élections anticipées",
+          "pos": "nom féminin pluriel",
+          "ko": "조기 선거",
+          "example": "Des élections anticipées auront lieu en novembre.",
+          "example_ko": "조기 선거가 11월에 열려요.",
+          "note_ko": "예정보다 일찍 치르는 선거."
+        },
+        {
+          "lang": "fr",
+          "word": "voter",
+          "pos": "verbe",
+          "ko": "투표하다",
+          "example": "Les Espagnols votent le 29 novembre.",
+          "example_ko": "스페인 사람들은 11월 29일에 투표해요.",
+          "note_ko": "le vote(투표), un électeur(유권자)."
+        },
+        {
+          "lang": "fr",
+          "word": "un jeune",
+          "pos": "nom masculin",
+          "ko": "청년",
+          "example": "Les jeunes ont du mal à se loger.",
+          "example_ko": "청년들은 집 구하기가 어려워요.",
+          "note_ko": "복수 les jeunes = 청년층. 형용사 jeune은 '젊은'."
         }
       ],
       "quiz": [
@@ -196,6 +359,17 @@
           ],
           "answer": 0,
           "explain_ko": "general strike = 여러 업종이 함께 하는 총파업."
+        },
+        {
+          "lang": "fr",
+          "q": "« Le loyer », c'est…",
+          "choices": [
+            "l'argent qu'on paye pour habiter un logement",
+            "un jour de grève",
+            "un type de salaire"
+          ],
+          "answer": 0,
+          "explain_ko": "le loyer = 월세, 집을 빌려 사는 대가로 내는 돈."
         }
       ],
       "sources": [
@@ -234,6 +408,22 @@
             "2026-11-11/30acabc566238294.mp3"
           ]
         },
+        "fr": {
+          "easy": [
+            "2026-11-11/965365d035a169ee.mp3",
+            "2026-11-11/6b4361fb18781787.mp3",
+            "2026-11-11/b8c150cb10ee3a80.mp3"
+          ],
+          "normal": [
+            "2026-11-11/db14775890944215.mp3",
+            "2026-11-11/fd4711d3c7431fc6.mp3",
+            "2026-11-11/5f5df295aa781a02.mp3",
+            "2026-11-11/205011ea4225a639.mp3",
+            "2026-11-11/b56881b5ff46f4b6.mp3",
+            "2026-11-11/fbac761da5002b85.mp3",
+            "2026-11-11/5348dc7fcd538aaa.mp3"
+          ]
+        },
         "vocab": [
           "2026-11-11/c384d1b281f2b900.mp3",
           "2026-11-11/4cf7a157b3e2a91e.mp3",
@@ -248,7 +438,21 @@
           "2026-11-11/9ea652cc340ab495.mp3",
           "2026-11-11/67b5b0352f4a20dd.mp3",
           "2026-11-11/42edbc8d0675b96e.mp3",
-          "2026-11-11/528c5efa4411170c.mp3"
+          "2026-11-11/528c5efa4411170c.mp3",
+          "2026-11-11/2cf9d9602b47fb47.mp3",
+          "2026-11-11/99f63181b6889c59.mp3",
+          "2026-11-11/07e66dacdc0ad925.mp3",
+          "2026-11-11/b246bd7011e911f3.mp3",
+          "2026-11-11/93432aa8001695e8.mp3",
+          "2026-11-11/5cab3ca82c96caef.mp3",
+          "2026-11-11/46347386bf4e8717.mp3",
+          "2026-11-11/e023f9a291972acb.mp3",
+          "2026-11-11/0d455fd05d6f618f.mp3",
+          "2026-11-11/0a6d989699d7da1e.mp3",
+          "2026-11-11/0ca3e432ca52b682.mp3",
+          "2026-11-11/bc4d1417a3aece5d.mp3",
+          "2026-11-11/8293d909d2805754.mp3",
+          "2026-11-11/27d2e35bc5fbab8c.mp3"
         ]
       },
       "timing": {
@@ -417,6 +621,183 @@
               0.833
             ]
           ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.128,
+              0.161,
+              0.227,
+              0.26,
+              0.36,
+              0.46,
+              0.493,
+              0.592,
+              0.626,
+              0.725,
+              0.792,
+              0.825
+            ],
+            [
+              0.162,
+              0.273,
+              0.329,
+              0.44,
+              0.495,
+              0.661,
+              0.772,
+              0.883
+            ],
+            [
+              0.13,
+              0.21,
+              0.291,
+              0.371,
+              0.532,
+              0.612,
+              0.693,
+              0.773,
+              0.854
+            ]
+          ],
+          "normal": [
+            [
+              0.039,
+              0.064,
+              0.113,
+              0.137,
+              0.211,
+              0.284,
+              0.309,
+              0.407,
+              0.48,
+              0.505,
+              0.529,
+              0.554,
+              0.627,
+              0.652,
+              0.701,
+              0.769,
+              0.793,
+              0.841,
+              0.889,
+              0.937
+            ],
+            [
+              0.05,
+              0.073,
+              0.095,
+              0.118,
+              0.141,
+              0.247,
+              0.287,
+              0.326,
+              0.383,
+              0.409,
+              0.487,
+              0.513,
+              0.539,
+              0.565,
+              0.617,
+              0.643,
+              0.695,
+              0.721,
+              0.851,
+              0.877,
+              0.904
+            ],
+            [
+              0.123,
+              0.152,
+              0.241,
+              0.271,
+              0.301,
+              0.33,
+              0.419,
+              0.479,
+              0.508,
+              0.538,
+              0.568,
+              0.657,
+              0.686,
+              0.716,
+              0.746,
+              0.775,
+              0.805,
+              0.835,
+              0.864
+            ],
+            [
+              0.05,
+              0.073,
+              0.097,
+              0.12,
+              0.144,
+              0.214,
+              0.238,
+              0.285,
+              0.332,
+              0.355,
+              0.421,
+              0.441,
+              0.461,
+              0.501,
+              0.52,
+              0.54,
+              0.58,
+              0.62,
+              0.659,
+              0.679,
+              0.719,
+              0.778,
+              0.818,
+              0.838,
+              0.877,
+              0.917,
+              0.937
+            ],
+            [
+              0.083,
+              0.121,
+              0.199,
+              0.276,
+              0.353,
+              0.392,
+              0.469,
+              0.585,
+              0.662,
+              0.739,
+              0.855,
+              0.893,
+              0.932
+            ],
+            [
+              0.073,
+              0.209,
+              0.243,
+              0.277,
+              0.311,
+              0.512,
+              0.539,
+              0.566,
+              0.646,
+              0.673,
+              0.7,
+              0.727,
+              0.834
+            ],
+            [
+              0.07,
+              0.113,
+              0.242,
+              0.371,
+              0.414,
+              0.543,
+              0.715,
+              0.758,
+              0.844
+            ]
+          ]
         }
       }
     },
@@ -431,11 +812,13 @@
       },
       "headline": {
         "en": "Portugal Shuts About 8,000 Schools as Storm Charles Nears",
-        "ko": "포르투갈, 폭풍 찰스 앞두고 전국 학교 약 8,000곳 휴교"
+        "ko": "포르투갈, 폭풍 찰스 앞두고 전국 학교 약 8,000곳 휴교",
+        "fr": "Le Portugal ferme environ 8 000 écoles à l'approche de la tempête Charles"
       },
       "hook": {
         "en": "Portugal closed about 8,000 schools because of one storm.",
-        "ko": "포르투갈이 폭풍 하나 때문에 학교 약 8,000곳의 문을 닫았습니다."
+        "ko": "포르투갈이 폭풍 하나 때문에 학교 약 8,000곳의 문을 닫았습니다.",
+        "fr": "Le Portugal a fermé environ 8 000 écoles à cause d'une seule tempête."
       },
       "summary": {
         "en": {
@@ -457,6 +840,41 @@
             "The Web Summit tech conference in Lisbon cancelled its second day.",
             "Forecasters had warned of winds of up to 140 kilometres an hour.",
             "In the end, the storm was weaker than forecast and did not cause severe damage, but officials said their response was right."
+          ],
+          "normal_ko": [
+            "포르투갈은 수요일 폭풍 찰스 때문에 학교 약 8,000곳의 문을 닫았습니다.",
+            "예보된 폭풍 때문에 전국 학교가 문을 닫은 것은 사람들의 기억에 남는 한 처음입니다.",
+            "정부는 비필수 공공 서비스도 닫고 공무원에게 재택근무를 요청했습니다.",
+            "많은 항공편이 취소됐고, 큰 슈퍼마켓 체인은 매장을 닫았습니다.",
+            "리스본에서 열린 웹 서밋 기술 콘퍼런스는 둘째 날 행사를 취소했습니다.",
+            "기상 예보관들은 시속 최대 140킬로미터의 바람을 경고했습니다.",
+            "결국 폭풍은 예보보다 약했고 큰 피해는 없었지만, 당국은 대응이 옳았다고 말했습니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Le Portugal a fermé ses écoles à cause d'une tempête.",
+            "Des vols et un grand événement technologique ont aussi été annulés.",
+            "Mais la tempête a été plus faible que prévu."
+          ],
+          "easy_ko": [
+            "포르투갈은 폭풍 때문에 학교를 닫았습니다.",
+            "비행기와 큰 기술 행사도 취소됐습니다.",
+            "하지만 폭풍은 예보보다 약했습니다."
+          ],
+          "normal": [
+            "Le Portugal a fermé environ 8 000 écoles mercredi à cause de la tempête Charles.",
+            "C'est la première fois de mémoire d'homme que les écoles ferment dans tout le pays pour une tempête annoncée.",
+            "Le gouvernement a aussi fermé les services publics non essentiels et demandé aux fonctionnaires de travailler à domicile.",
+            "De nombreux vols ont été annulés, et une grande chaîne de supermarchés a fermé ses magasins.",
+            "La conférence technologique Web Summit, à Lisbonne, a annulé sa deuxième journée.",
+            "Les prévisionnistes avaient averti de vents allant jusqu'à 140 kilomètres par heure.",
+            "Finalement, la tempête a été plus faible que prévu et n'a pas fait de gros dégâts, mais les autorités estiment que leur réaction était justifiée."
           ],
           "normal_ko": [
             "포르투갈은 수요일 폭풍 찰스 때문에 학교 약 8,000곳의 문을 닫았습니다.",
@@ -601,6 +1019,132 @@
           "example": "Stay inside to be safe.",
           "example_ko": "안전하려면 안에 있으세요.",
           "note_ko": "명사 safety, 반대 dangerous/unsafe."
+        },
+        {
+          "lang": "fr",
+          "word": "une tempête",
+          "pos": "nom féminin",
+          "ko": "폭풍",
+          "example": "Une grosse tempête arrive ce soir.",
+          "example_ko": "오늘 밤 큰 폭풍이 와요.",
+          "note_ko": "큰 폭풍에는 이름(Charles)이 붙기도 해요."
+        },
+        {
+          "lang": "fr",
+          "word": "fermer",
+          "pos": "verbe",
+          "ko": "닫다, 휴교하다",
+          "example": "L'école ferme à midi.",
+          "example_ko": "학교는 정오에 문을 닫아요.",
+          "note_ko": "반대는 ouvrir. 명사 la fermeture."
+        },
+        {
+          "lang": "fr",
+          "word": "dans tout le pays",
+          "pos": "locution",
+          "ko": "전국에서",
+          "example": "Les écoles ferment dans tout le pays.",
+          "example_ko": "학교들이 전국에서 문을 닫아요.",
+          "note_ko": "tout le pays = 온 나라. 영어 nationwide."
+        },
+        {
+          "lang": "fr",
+          "word": "de mémoire d'homme",
+          "pos": "locution",
+          "ko": "사람들의 기억에 남는 한",
+          "example": "C'est la pire crue de mémoire d'homme.",
+          "example_ko": "기억에 남는 한 가장 심한 홍수예요.",
+          "note_ko": "영어 in living memory와 같은 뉴스 표현."
+        },
+        {
+          "lang": "fr",
+          "word": "un vol",
+          "pos": "nom masculin",
+          "ko": "항공편, 비행",
+          "example": "Mon vol est annulé.",
+          "example_ko": "제 항공편이 취소됐어요.",
+          "note_ko": "un vol에는 '도둑질'이란 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "annuler",
+          "pos": "verbe",
+          "ko": "취소하다",
+          "example": "Ils annulent le match.",
+          "example_ko": "그들은 경기를 취소해요.",
+          "note_ko": "명사 une annulation."
+        },
+        {
+          "lang": "fr",
+          "word": "une conférence",
+          "pos": "nom féminin",
+          "ko": "콘퍼런스, 강연",
+          "example": "Elle parle lors d'une conférence.",
+          "example_ko": "그녀는 콘퍼런스에서 발표해요.",
+          "note_ko": "영어 conference처럼 큰 공식 행사. '회의'는 une réunion."
+        },
+        {
+          "lang": "fr",
+          "word": "une prévision",
+          "pos": "nom féminin",
+          "ko": "예보, 예측",
+          "example": "La prévision annonce de la pluie.",
+          "example_ko": "예보는 비를 알려요.",
+          "note_ko": "les prévisions météo = 일기예보. 동사 prévoir."
+        },
+        {
+          "lang": "fr",
+          "word": "le vent",
+          "pos": "nom masculin",
+          "ko": "바람",
+          "example": "Un vent très fort souffle.",
+          "example_ko": "아주 센 바람이 불어요.",
+          "note_ko": "venter(바람이 불다)와는 별개로 il y a du vent = 바람이 불어요."
+        },
+        {
+          "lang": "fr",
+          "word": "faible",
+          "pos": "adjectif",
+          "ko": "약한",
+          "example": "La tempête est plus faible que prévu.",
+          "example_ko": "폭풍은 예상보다 약해요.",
+          "note_ko": "반대는 fort. 남녀 같은 형태."
+        },
+        {
+          "lang": "fr",
+          "word": "les dégâts",
+          "pos": "nom masculin pluriel",
+          "ko": "피해",
+          "example": "La tempête cause des dégâts.",
+          "example_ko": "폭풍이 피해를 내요.",
+          "note_ko": "보통 복수형. causer des dégâts = 피해를 입히다."
+        },
+        {
+          "lang": "fr",
+          "word": "grave",
+          "pos": "adjectif",
+          "ko": "심각한",
+          "example": "Il n'y a pas de dégâts graves.",
+          "example_ko": "심각한 피해는 없어요.",
+          "note_ko": "남녀 같은 형태. grave는 '낮은 음'이란 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "une réaction",
+          "pos": "nom féminin",
+          "ko": "대응, 반응",
+          "example": "La réaction du gouvernement était rapide.",
+          "example_ko": "정부의 대응이 빨랐어요.",
+          "note_ko": "영어 response와 비슷한 뉴스 단어."
+        },
+        {
+          "lang": "fr",
+          "word": "en sécurité",
+          "pos": "locution",
+          "ko": "안전하게",
+          "example": "Restez à l'intérieur pour être en sécurité.",
+          "example_ko": "안전하게 안에 계세요.",
+          "note_ko": "être en sécurité = 안전하다. 영어 safe."
         }
       ],
       "quiz": [
@@ -614,6 +1158,17 @@
           ],
           "answer": 0,
           "explain_ko": "in living memory = 살아 있는 사람들이 기억하는 한."
+        },
+        {
+          "lang": "fr",
+          "q": "« De mémoire d'homme » signifie…",
+          "choices": [
+            "d'aussi loin que les gens s'en souviennent",
+            "dans un vieux livre",
+            "dans le futur"
+          ],
+          "answer": 0,
+          "explain_ko": "de mémoire d'homme = 사람들이 기억하는 한."
         }
       ],
       "sources": [
@@ -662,6 +1217,22 @@
             "2026-11-11/a41c0c2b6a3af4b1.mp3"
           ]
         },
+        "fr": {
+          "easy": [
+            "2026-11-11/99d0016c2adbe4f7.mp3",
+            "2026-11-11/37528fd0c03e024f.mp3",
+            "2026-11-11/2e788154b2fdd8b2.mp3"
+          ],
+          "normal": [
+            "2026-11-11/fe30613d1ce38351.mp3",
+            "2026-11-11/b48c93bf0afe9817.mp3",
+            "2026-11-11/a2ee7accb5af51fe.mp3",
+            "2026-11-11/e1c5d6fa3696ef26.mp3",
+            "2026-11-11/aa329daa4a016633.mp3",
+            "2026-11-11/e9878dca286a6f01.mp3",
+            "2026-11-11/e454e72dd62685c1.mp3"
+          ]
+        },
         "vocab": [
           "2026-11-11/3f99114bb33b18f9.mp3",
           "2026-11-11/1d41c8c8f0dd93da.mp3",
@@ -676,7 +1247,21 @@
           "2026-11-11/2373d5a787433520.mp3",
           "2026-11-11/f27f441e914bf9fa.mp3",
           "2026-11-11/8f5c8159a15858f7.mp3",
-          "2026-11-11/e4d7e8b13caab188.mp3"
+          "2026-11-11/e4d7e8b13caab188.mp3",
+          "2026-11-11/8afee3dddd924a63.mp3",
+          "2026-11-11/7191e474cd79a76e.mp3",
+          "2026-11-11/ba28553c5a8476db.mp3",
+          "2026-11-11/8a13f5bf6fa20dd6.mp3",
+          "2026-11-11/d892b77f81ca57f2.mp3",
+          "2026-11-11/1bea0108fe50d564.mp3",
+          "2026-11-11/e0e95c4e6e9bfad1.mp3",
+          "2026-11-11/577588d8d578705e.mp3",
+          "2026-11-11/e2acdbe8ce5ae932.mp3",
+          "2026-11-11/dd70a6ce8ec6c5b4.mp3",
+          "2026-11-11/6d5923be33c440d8.mp3",
+          "2026-11-11/25749cfe35b3655b.mp3",
+          "2026-11-11/10067723908623e1.mp3",
+          "2026-11-11/8ebf36410a0cc34d.mp3"
         ]
       },
       "timing": {
@@ -826,6 +1411,179 @@
               0.827,
               0.881,
               0.907
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.105,
+              0.16,
+              0.325,
+              0.38,
+              0.49,
+              0.545,
+              0.655,
+              0.71,
+              0.765,
+              0.82
+            ],
+            [
+              0.077,
+              0.117,
+              0.158,
+              0.198,
+              0.238,
+              0.279,
+              0.4,
+              0.602,
+              0.643,
+              0.724,
+              0.805
+            ],
+            [
+              0.132,
+              0.205,
+              0.277,
+              0.422,
+              0.494,
+              0.639,
+              0.711,
+              0.783,
+              0.855
+            ]
+          ],
+          "normal": [
+            [
+              0.062,
+              0.097,
+              0.2,
+              0.235,
+              0.303,
+              0.407,
+              0.441,
+              0.51,
+              0.579,
+              0.682,
+              0.717,
+              0.751,
+              0.786,
+              0.82,
+              0.889
+            ],
+            [
+              0.065,
+              0.1,
+              0.134,
+              0.203,
+              0.238,
+              0.273,
+              0.342,
+              0.376,
+              0.411,
+              0.445,
+              0.514,
+              0.549,
+              0.583,
+              0.618,
+              0.652,
+              0.687,
+              0.721,
+              0.756,
+              0.825
+            ],
+            [
+              0.09,
+              0.115,
+              0.19,
+              0.215,
+              0.265,
+              0.315,
+              0.34,
+              0.39,
+              0.44,
+              0.465,
+              0.54,
+              0.565,
+              0.64,
+              0.665,
+              0.74,
+              0.765,
+              0.841,
+              0.866
+            ],
+            [
+              0.07,
+              0.102,
+              0.166,
+              0.198,
+              0.23,
+              0.294,
+              0.459,
+              0.491,
+              0.522,
+              0.553,
+              0.584,
+              0.616,
+              0.741,
+              0.772,
+              0.835,
+              0.866
+            ],
+            [
+              0.067,
+              0.103,
+              0.212,
+              0.393,
+              0.429,
+              0.502,
+              0.538,
+              0.664,
+              0.694,
+              0.784,
+              0.814,
+              0.875
+            ],
+            [
+              0.061,
+              0.099,
+              0.25,
+              0.326,
+              0.439,
+              0.476,
+              0.514,
+              0.59,
+              0.665,
+              0.741,
+              0.854,
+              0.891
+            ],
+            [
+              0.083,
+              0.182,
+              0.194,
+              0.217,
+              0.229,
+              0.252,
+              0.264,
+              0.276,
+              0.288,
+              0.311,
+              0.323,
+              0.335,
+              0.347,
+              0.359,
+              0.37,
+              0.382,
+              0.429,
+              0.46,
+              0.492,
+              0.618,
+              0.681,
+              0.713,
+              0.744,
+              0.807,
+              0.87
             ]
           ]
         }
