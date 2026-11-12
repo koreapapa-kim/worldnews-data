@@ -2,6 +2,52 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-11-10",
+      "count": 5,
+      "headlines": [
+        {
+          "id": "2026-11-10-01",
+          "ko": "러시아·우크라이나, 아부다비에서 미국 중재 회담 시작",
+          "en": "Russia and Ukraine Hold US-Mediated Talks in Abu Dhabi",
+          "fr": "Russie et Ukraine reprennent les discussions à Abou Dhabi sous médiation américaine",
+          "category": "world",
+          "country": "AE"
+        },
+        {
+          "id": "2026-11-10-02",
+          "ko": "FDA, 비만·당뇨약 GLP-1에 드문 눈 질환 경고 추가 지시",
+          "en": "FDA Orders Warning on Rare Eye Risk for GLP-1 Weight-Loss Drugs",
+          "fr": "Les médicaments GLP-1 devront mentionner un risque oculaire rare",
+          "category": "health",
+          "country": "US"
+        },
+        {
+          "id": "2026-11-10-03",
+          "ko": "호주, OpenAI 에이전트 침입 사고 뒤 AI 규제 기관 신설",
+          "en": "Australia to Set Up AI Regulator After OpenAI Agent Breach",
+          "fr": "L'Australie va créer un régulateur de l'IA après l'intrusion d'un agent d'OpenAI",
+          "category": "tech",
+          "country": "AU"
+        },
+        {
+          "id": "2026-11-10-04",
+          "ko": "캘리포니아 유권자, 억만장자 1회성 부유세 부결",
+          "en": "California Voters Reject One-Time Tax on Billionaires",
+          "fr": "Les Californiens rejettent un impôt exceptionnel sur les milliardaires",
+          "category": "economy",
+          "country": "US"
+        },
+        {
+          "id": "2026-11-10-05",
+          "ko": "프랑스 학생들, 입시 개편 회의 결렬 뒤에도 학교 봉쇄 계속",
+          "en": "French Students Keep Up School Blockades After Talks Break Down",
+          "fr": "Lycéens et étudiants poursuivent le blocage des lycées après l'échec de la réunion sur Parcoursup",
+          "category": "politics",
+          "country": "FR"
+        }
+      ]
+    },
+    {
       "date": "2026-11-09",
       "count": 5,
       "headlines": [
@@ -546,6 +592,6 @@
       ]
     }
   ],
-  "latest": "2026-11-09",
-  "updated_at": "2026-11-12T09:22:11.030Z"
+  "latest": "2026-11-10",
+  "updated_at": "2026-11-12T09:23:40.392Z"
 }
