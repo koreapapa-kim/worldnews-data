@@ -2,6 +2,26 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-11-11",
+      "count": 2,
+      "headlines": [
+        {
+          "id": "2026-11-11-01",
+          "ko": "스페인, 집값·월세에 항의해 14년 만의 총파업",
+          "en": "Spain Holds First General Strike in 14 Years Over Housing Costs",
+          "category": "economy",
+          "country": "ES"
+        },
+        {
+          "id": "2026-11-11-02",
+          "ko": "포르투갈, 폭풍 찰스 앞두고 전국 학교 약 8,000곳 휴교",
+          "en": "Portugal Shuts About 8,000 Schools as Storm Charles Nears",
+          "category": "environment",
+          "country": "PT"
+        }
+      ]
+    },
+    {
       "date": "2026-11-10",
       "count": 5,
       "headlines": [
@@ -592,6 +612,6 @@
       ]
     }
   ],
-  "latest": "2026-11-10",
-  "updated_at": "2026-11-12T09:23:40.392Z"
+  "latest": "2026-11-11",
+  "updated_at": "2026-11-12T09:24:09.506Z"
 }

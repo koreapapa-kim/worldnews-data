@@ -1,0 +1,836 @@
+{
+  "schema": 1,
+  "date": "2026-11-11",
+  "stories": [
+    {
+      "id": "2026-11-11-01",
+      "category": "economy",
+      "region": {
+        "country": "ES",
+        "city": "Madrid",
+        "lat": 40.42,
+        "lng": -3.7
+      },
+      "headline": {
+        "en": "Spain Holds First General Strike in 14 Years Over Housing Costs",
+        "ko": "스페인, 집값·월세에 항의해 14년 만의 총파업"
+      },
+      "hook": {
+        "en": "In Spain, rent for a young person is almost their whole salary.",
+        "ko": "스페인에서는 청년의 월세가 전체 월급과 거의 같습니다."
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Millions of workers in Spain stopped working for a day.",
+            "It was the first general strike in 14 years.",
+            "They are angry about high rents."
+          ],
+          "easy_ko": [
+            "스페인의 수백만 노동자가 하루 동안 일을 멈췄습니다.",
+            "14년 만의 총파업이었습니다.",
+            "그들은 높은 월세에 화가 나 있습니다."
+          ],
+          "normal": [
+            "Millions of workers in Spain joined a 24-hour general strike on Wednesday, the first in 14 years.",
+            "The two biggest unions, CCOO and UGT, called the strike after a wave of protests about housing.",
+            "Workers want the government to act on high rents and the rising cost of living.",
+            "The average rent is about 1,170 euros a month, and the Youth Council of Spain says it is almost as much as a young person earns in a month.",
+            "The Bank of Spain says the country is missing about 750,000 homes.",
+            "Opposition leaders say the strike is political, and business groups call it an election protest.",
+            "Spaniards will vote in a snap election on November 29."
+          ],
+          "normal_ko": [
+            "스페인의 수백만 노동자가 수요일 24시간 총파업에 참여했고, 14년 만입니다.",
+            "가장 큰 두 노조인 CCOO와 UGT가 주택 문제 항의 물결이 이어진 뒤 파업을 요구했습니다.",
+            "노동자들은 정부가 높은 월세와 오르는 생활비에 대응하길 원합니다.",
+            "평균 월세는 한 달에 약 1,170유로이고, 스페인 청년위원회는 이것이 청년이 한 달에 버는 돈과 거의 같다고 말합니다.",
+            "스페인 중앙은행은 이 나라에 집이 약 75만 채 부족하다고 말합니다.",
+            "야당 지도자들은 파업이 정치적이라고 말하고, 경영자 단체는 선거용 항의라고 부릅니다.",
+            "스페인 국민은 11월 29일 조기 총선에서 투표합니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "스페인은 최근 10년 사이 평균 월세가 거의 두 배로 올랐고, 특히 마드리드·바르셀로나 같은 대도시에서 청년이 혼자 집을 구하기 어렵다고 해요. 총파업은 노조가 전국의 노동자에게 하루 동안 함께 일을 멈추자고 하는 가장 큰 형태의 파업입니다. 파업 참여율은 노조와 경영자 단체의 발표가 크게 달라서 이 뉴스에는 쓰지 않았어요. 월세·소득 숫자는 기사마다 조금씩 다릅니다(Al Jazeera 1,170유로, France 24 1,176유로).",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "strike",
+          "pos": "noun",
+          "ko": "파업",
+          "example": "The workers went on strike for a day.",
+          "example_ko": "노동자들은 하루 동안 파업했어요.",
+          "note_ko": "go on strike = 파업하다. 동사 strike(치다)와 같은 철자."
+        },
+        {
+          "lang": "en",
+          "word": "general strike",
+          "pos": "noun",
+          "ko": "총파업",
+          "example": "A general strike stops many industries.",
+          "example_ko": "총파업은 많은 산업을 멈춰요.",
+          "note_ko": "한 업종이 아니라 여러 업종이 함께 하는 파업."
+        },
+        {
+          "lang": "en",
+          "word": "worker",
+          "pos": "noun",
+          "ko": "노동자",
+          "example": "Workers asked for higher pay.",
+          "example_ko": "노동자들은 더 높은 임금을 요구했어요.",
+          "note_ko": "employee(직원)보다 '일하는 사람' 전반."
+        },
+        {
+          "lang": "en",
+          "word": "union",
+          "pos": "noun",
+          "ko": "노동조합",
+          "example": "The union called a strike.",
+          "example_ko": "노조가 파업을 요구했어요.",
+          "note_ko": "trade union이라고도 해요."
+        },
+        {
+          "lang": "en",
+          "word": "housing",
+          "pos": "noun",
+          "ko": "주택, 주거",
+          "example": "Housing is very expensive here.",
+          "example_ko": "여기는 주거비가 매우 비싸요.",
+          "note_ko": "집 한 채는 a house, 주택 전반이나 주거 문제는 housing(셀 수 없음)."
+        },
+        {
+          "lang": "en",
+          "word": "flat",
+          "pos": "noun",
+          "ko": "아파트 (영국식), 공동주택의 한 세대",
+          "example": "She rents a small flat in London.",
+          "example_ko": "그녀는 런던의 작은 아파트를 빌려 살아요.",
+          "note_ko": "영국식 영어. 미국에서는 apartment라고 해요."
+        },
+        {
+          "lang": "en",
+          "word": "rent",
+          "pos": "noun",
+          "ko": "월세, 집세",
+          "example": "My rent is too high.",
+          "example_ko": "내 월세는 너무 비싸요.",
+          "note_ko": "동사로 '빌리다, 세놓다'. pay the rent = 월세를 내다."
+        },
+        {
+          "lang": "en",
+          "word": "average",
+          "pos": "adjective",
+          "ko": "평균의",
+          "example": "The average rent is high.",
+          "example_ko": "평균 월세가 높아요.",
+          "note_ko": "명사로 '평균'. on average = 평균적으로."
+        },
+        {
+          "lang": "en",
+          "word": "salary",
+          "pos": "noun",
+          "ko": "월급, 급여",
+          "example": "Her salary is low.",
+          "example_ko": "그녀의 월급은 낮아요.",
+          "note_ko": "wage는 시급·주급, salary는 월급·연봉."
+        },
+        {
+          "lang": "en",
+          "word": "cost of living",
+          "pos": "noun",
+          "ko": "생활비, 물가",
+          "example": "The cost of living keeps rising.",
+          "example_ko": "생활비가 계속 올라요.",
+          "note_ko": "뉴스에서 자주 쓰는 표현. living costs도 같은 뜻."
+        },
+        {
+          "lang": "en",
+          "word": "missing",
+          "pos": "adjective",
+          "ko": "부족한, 없는",
+          "example": "The country is missing 750,000 homes.",
+          "example_ko": "그 나라는 집이 75만 채 부족해요.",
+          "note_ko": "원래 '없어진'. 여기서는 '모자란'이라는 뜻으로 쓰였어요."
+        },
+        {
+          "lang": "en",
+          "word": "opposition",
+          "pos": "noun",
+          "ko": "야당, 반대",
+          "example": "The opposition criticised the plan.",
+          "example_ko": "야당이 그 계획을 비판했어요.",
+          "note_ko": "정치 뉴스에서는 '야당'. 일반적으로는 '반대'."
+        },
+        {
+          "lang": "en",
+          "word": "snap election",
+          "pos": "noun",
+          "ko": "조기 총선",
+          "example": "The prime minister called a snap election.",
+          "example_ko": "총리가 조기 총선을 요구했어요.",
+          "note_ko": "예정보다 일찍 치르는 선거."
+        },
+        {
+          "lang": "en",
+          "word": "vote",
+          "pos": "verb",
+          "ko": "투표하다",
+          "example": "People vote on Sunday.",
+          "example_ko": "사람들은 일요일에 투표해요.",
+          "note_ko": "명사 vote(표), voter(유권자)."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "A \"general strike\" is when…",
+          "choices": [
+            "workers in many jobs stop working together",
+            "one factory closes",
+            "a company hires more people"
+          ],
+          "answer": 0,
+          "explain_ko": "general strike = 여러 업종이 함께 하는 총파업."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera (Nov 11)",
+          "url": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins",
+          "accessed": "2026-11-12"
+        },
+        {
+          "name": "Al Jazeera (Nov 10)",
+          "url": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over",
+          "accessed": "2026-11-12"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20261111-spain-general-strike-puts-housing-crisis-centre-upcoming-elections",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": null,
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-11/7d9b6319ff700adf.mp3",
+            "2026-11-11/6e9e058d19ad340e.mp3",
+            "2026-11-11/7e756d4595aeb7d9.mp3"
+          ],
+          "normal": [
+            "2026-11-11/702821ea331ab4ec.mp3",
+            "2026-11-11/6d3fa982156ac761.mp3",
+            "2026-11-11/be47628ddfb87075.mp3",
+            "2026-11-11/46ceee795d09ae2a.mp3",
+            "2026-11-11/0ded39bf6cb49bb8.mp3",
+            "2026-11-11/ffb5f724cecdfd66.mp3",
+            "2026-11-11/30acabc566238294.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-11/c384d1b281f2b900.mp3",
+          "2026-11-11/4cf7a157b3e2a91e.mp3",
+          "2026-11-11/7d893c7ddeb07626.mp3",
+          "2026-11-11/0ada38ff6fa32dbb.mp3",
+          "2026-11-11/519658f4aa020d5c.mp3",
+          "2026-11-11/a7122ea2a3e28b95.mp3",
+          "2026-11-11/9704c44cc25c900b.mp3",
+          "2026-11-11/8fe70def9dbf0858.mp3",
+          "2026-11-11/a86afd48e047752a.mp3",
+          "2026-11-11/97d9a798eb96f3b5.mp3",
+          "2026-11-11/9ea652cc340ab495.mp3",
+          "2026-11-11/67b5b0352f4a20dd.mp3",
+          "2026-11-11/42edbc8d0675b96e.mp3",
+          "2026-11-11/528c5efa4411170c.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0,
+              0.154,
+              0.231,
+              0.385,
+              0.462,
+              0.538,
+              0.615,
+              0.769,
+              0.846,
+              0.923
+            ],
+            [
+              0.139,
+              0.203,
+              0.267,
+              0.331,
+              0.395,
+              0.588,
+              0.652,
+              0.716,
+              0.844
+            ],
+            [
+              0.191,
+              0.283,
+              0.374,
+              0.556,
+              0.738,
+              0.829
+            ]
+          ],
+          "normal": [
+            [
+              0.056,
+              0.125,
+              0.16,
+              0.23,
+              0.264,
+              0.299,
+              0.334,
+              0.369,
+              0.404,
+              0.508,
+              0.543,
+              0.578,
+              0.721,
+              0.762,
+              0.803,
+              0.844,
+              0.926
+            ],
+            [
+              0.053,
+              0.077,
+              0.101,
+              0.149,
+              0.219,
+              0.245,
+              0.271,
+              0.321,
+              0.366,
+              0.412,
+              0.457,
+              0.548,
+              0.594,
+              0.639,
+              0.685,
+              0.776,
+              0.867
+            ],
+            [
+              0,
+              0.096,
+              0.144,
+              0.192,
+              0.336,
+              0.384,
+              0.432,
+              0.48,
+              0.529,
+              0.577,
+              0.625,
+              0.673,
+              0.769,
+              0.817,
+              0.865
+            ],
+            [
+              0.054,
+              0.079,
+              0.151,
+              0.175,
+              0.2,
+              0.248,
+              0.321,
+              0.369,
+              0.394,
+              0.462,
+              0.484,
+              0.505,
+              0.527,
+              0.57,
+              0.591,
+              0.613,
+              0.634,
+              0.656,
+              0.677,
+              0.72,
+              0.742,
+              0.763,
+              0.785,
+              0.807,
+              0.828,
+              0.871,
+              0.893,
+              0.914,
+              0.936
+            ],
+            [
+              0.096,
+              0.144,
+              0.192,
+              0.24,
+              0.288,
+              0.336,
+              0.385,
+              0.481,
+              0.529,
+              0.625,
+              0.722,
+              0.914
+            ],
+            [
+              0,
+              0.123,
+              0.185,
+              0.216,
+              0.247,
+              0.278,
+              0.308,
+              0.516,
+              0.552,
+              0.659,
+              0.695,
+              0.73,
+              0.766,
+              0.802,
+              0.909
+            ],
+            [
+              0,
+              0.119,
+              0.178,
+              0.238,
+              0.297,
+              0.357,
+              0.416,
+              0.595,
+              0.654,
+              0.833
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-11-02",
+      "category": "environment",
+      "region": {
+        "country": "PT",
+        "city": "Lisbon",
+        "lat": 38.72,
+        "lng": -9.14
+      },
+      "headline": {
+        "en": "Portugal Shuts About 8,000 Schools as Storm Charles Nears",
+        "ko": "포르투갈, 폭풍 찰스 앞두고 전국 학교 약 8,000곳 휴교"
+      },
+      "hook": {
+        "en": "Portugal closed about 8,000 schools because of one storm.",
+        "ko": "포르투갈이 폭풍 하나 때문에 학교 약 8,000곳의 문을 닫았습니다."
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Portugal closed its schools because of a storm.",
+            "Flights and a big tech event were cancelled too.",
+            "But the storm was weaker than forecast."
+          ],
+          "easy_ko": [
+            "포르투갈은 폭풍 때문에 학교를 닫았습니다.",
+            "비행기와 큰 기술 행사도 취소됐습니다.",
+            "하지만 폭풍은 예보보다 약했습니다."
+          ],
+          "normal": [
+            "Portugal closed about 8,000 schools on Wednesday because of Storm Charles.",
+            "It was the first time in living memory that schools shut nationwide for a forecast storm.",
+            "The government also closed non-essential public services and asked civil servants to work from home.",
+            "Many flights were cancelled, and a big supermarket chain closed its stores.",
+            "The Web Summit tech conference in Lisbon cancelled its second day.",
+            "Forecasters had warned of winds of up to 140 kilometres an hour.",
+            "In the end, the storm was weaker than forecast and did not cause severe damage, but officials said their response was right."
+          ],
+          "normal_ko": [
+            "포르투갈은 수요일 폭풍 찰스 때문에 학교 약 8,000곳의 문을 닫았습니다.",
+            "예보된 폭풍 때문에 전국 학교가 문을 닫은 것은 사람들의 기억에 남는 한 처음입니다.",
+            "정부는 비필수 공공 서비스도 닫고 공무원에게 재택근무를 요청했습니다.",
+            "많은 항공편이 취소됐고, 큰 슈퍼마켓 체인은 매장을 닫았습니다.",
+            "리스본에서 열린 웹 서밋 기술 콘퍼런스는 둘째 날 행사를 취소했습니다.",
+            "기상 예보관들은 시속 최대 140킬로미터의 바람을 경고했습니다.",
+            "결국 폭풍은 예보보다 약했고 큰 피해는 없었지만, 당국은 대응이 옳았다고 말했습니다."
+          ],
+          "normal_paras": [
+            3,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "포르투갈은 이번 가을 대서양에서 온 폭풍이 연달아 지나가며 이미 피해를 본 상태라, 정부가 예방을 위해 미리 크게 움직였어요. 'in living memory'는 '지금 살아 있는 사람들이 기억하는 한'이라는 뜻의 뉴스 표현입니다. 이번 폭풍은 두 개의 중심으로 나뉘며 예보보다 약해졌습니다. 정부가 선포한 상태를 'state of alert'(경계 상태)로 보도한 곳과 'state of emergency'(비상사태)로 보도한 곳이 달라서 영상에서는 쓰지 않았어요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "storm",
+          "pos": "noun",
+          "ko": "폭풍",
+          "example": "A big storm is coming tonight.",
+          "example_ko": "오늘 밤 큰 폭풍이 와요.",
+          "note_ko": "비바람이 센 날씨. 폭풍에는 이름(Charles)이 붙기도 해요."
+        },
+        {
+          "lang": "en",
+          "word": "close",
+          "pos": "verb",
+          "ko": "닫다, 휴교하다",
+          "example": "The school closed early.",
+          "example_ko": "학교가 일찍 문을 닫았어요.",
+          "note_ko": "발음 [클로우즈]. 형용사 close [클로스]는 '가까운'."
+        },
+        {
+          "lang": "en",
+          "word": "nationwide",
+          "pos": "adverb",
+          "ko": "전국적으로",
+          "example": "Schools shut nationwide.",
+          "example_ko": "학교가 전국적으로 문을 닫았어요.",
+          "note_ko": "형용사로도 써요. a nationwide strike = 전국 파업."
+        },
+        {
+          "lang": "en",
+          "word": "in living memory",
+          "pos": "phrase",
+          "ko": "사람들의 기억에 남는 한",
+          "example": "It was the worst flood in living memory.",
+          "example_ko": "기억에 남는 한 가장 심한 홍수였어요.",
+          "note_ko": "'지금 살아 있는 사람들이 기억하는 한'이란 뜻. 뉴스에서 자주 나와요."
+        },
+        {
+          "lang": "en",
+          "word": "flight",
+          "pos": "noun",
+          "ko": "항공편",
+          "example": "My flight was cancelled.",
+          "example_ko": "제 항공편이 취소됐어요.",
+          "note_ko": "비행 자체도 flight. 항공편 번호도 flight number."
+        },
+        {
+          "lang": "en",
+          "word": "cancel",
+          "pos": "verb",
+          "ko": "취소하다",
+          "example": "They cancelled the match.",
+          "example_ko": "그들은 경기를 취소했어요.",
+          "note_ko": "미국식은 canceled. 명사 cancellation."
+        },
+        {
+          "lang": "en",
+          "word": "conference",
+          "pos": "noun",
+          "ko": "콘퍼런스, 회의",
+          "example": "She spoke at a tech conference.",
+          "example_ko": "그녀는 기술 콘퍼런스에서 발표했어요.",
+          "note_ko": "meeting보다 크고 공식적인 행사."
+        },
+        {
+          "lang": "en",
+          "word": "forecast",
+          "pos": "noun",
+          "ko": "예보, 예측",
+          "example": "The forecast says rain tomorrow.",
+          "example_ko": "예보에 따르면 내일 비가 와요.",
+          "note_ko": "weather forecast = 일기예보. 동사 forecast도 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "wind",
+          "pos": "noun",
+          "ko": "바람",
+          "example": "A strong wind blew all night.",
+          "example_ko": "센 바람이 밤새 불었어요.",
+          "note_ko": "동사 wind [와인드]는 '감다'로 발음이 달라요."
+        },
+        {
+          "lang": "en",
+          "word": "weak",
+          "pos": "adjective",
+          "ko": "약한",
+          "example": "The storm became weak.",
+          "example_ko": "폭풍이 약해졌어요.",
+          "note_ko": "반대는 strong. 비교급 weaker."
+        },
+        {
+          "lang": "en",
+          "word": "damage",
+          "pos": "noun",
+          "ko": "피해, 손상",
+          "example": "The storm caused serious damage.",
+          "example_ko": "폭풍이 심각한 피해를 냈어요.",
+          "note_ko": "셀 수 없는 명사. cause damage = 피해를 입히다."
+        },
+        {
+          "lang": "en",
+          "word": "severe",
+          "pos": "adjective",
+          "ko": "심한, 가혹한",
+          "example": "There was no severe damage.",
+          "example_ko": "심한 피해는 없었어요.",
+          "note_ko": "severe weather = 악천후. serious와 비슷하지만 더 강한 느낌."
+        },
+        {
+          "lang": "en",
+          "word": "response",
+          "pos": "noun",
+          "ko": "대응, 반응",
+          "example": "The government's response was quick.",
+          "example_ko": "정부의 대응은 빨랐어요.",
+          "note_ko": "동사 respond. in response to = ~에 대응해."
+        },
+        {
+          "lang": "en",
+          "word": "safe",
+          "pos": "adjective",
+          "ko": "안전한",
+          "example": "Stay inside to be safe.",
+          "example_ko": "안전하려면 안에 있으세요.",
+          "note_ko": "명사 safety, 반대 dangerous/unsafe."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "\"In living memory\" means…",
+          "choices": [
+            "as far as people alive can remember",
+            "in a very old book",
+            "in the future"
+          ],
+          "answer": 0,
+          "explain_ko": "in living memory = 살아 있는 사람들이 기억하는 한."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/portugal-cancels-300-plus-flights-shuts-schools-ahead-of-storm-charles",
+          "accessed": "2026-11-13"
+        },
+        {
+          "name": "Euronews (Nov 11)",
+          "url": "https://www.euronews.com/2026/11/11/portugal-closes-all-schools-and-non-essential-services-over-storm-charles",
+          "accessed": "2026-11-13"
+        },
+        {
+          "name": "Euronews (Nov 10)",
+          "url": "https://www.euronews.com/2026/11/10/web-summit-lisbon-day-2-cancelled-due-to-storm-charles",
+          "accessed": "2026-11-13"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/portugal-shuts-schools-tech-conference-as-it-braces-for-storm",
+          "accessed": "2026-11-13"
+        },
+        {
+          "name": "Wikipedia Current events (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_11",
+          "accessed": "2026-11-11"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": null,
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-11/fe9118571bf5436f.mp3",
+            "2026-11-11/348d892b09ada15a.mp3",
+            "2026-11-11/b4231f54718c32e1.mp3"
+          ],
+          "normal": [
+            "2026-11-11/fcdb0eb8dd27650c.mp3",
+            "2026-11-11/ccd0b5028cbee337.mp3",
+            "2026-11-11/67d71efb0273837c.mp3",
+            "2026-11-11/2a0105b2bea8d729.mp3",
+            "2026-11-11/7a1470d27693555e.mp3",
+            "2026-11-11/12c31dfc60418c16.mp3",
+            "2026-11-11/a41c0c2b6a3af4b1.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-11/3f99114bb33b18f9.mp3",
+          "2026-11-11/1d41c8c8f0dd93da.mp3",
+          "2026-11-11/5e1da0fe80c258b9.mp3",
+          "2026-11-11/0bd2563d7d0fc22d.mp3",
+          "2026-11-11/a2396d7a6f783390.mp3",
+          "2026-11-11/c6ad423dc2d63df9.mp3",
+          "2026-11-11/5cf3473ee6157b0d.mp3",
+          "2026-11-11/be948fd60e76d41c.mp3",
+          "2026-11-11/085ba21f473b9897.mp3",
+          "2026-11-11/1d6d7e890a7e60bd.mp3",
+          "2026-11-11/2373d5a787433520.mp3",
+          "2026-11-11/f27f441e914bf9fa.mp3",
+          "2026-11-11/8f5c8159a15858f7.mp3",
+          "2026-11-11/e4d7e8b13caab188.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.13,
+              0.351,
+              0.425,
+              0.499,
+              0.572,
+              0.72,
+              0.794,
+              0.868
+            ],
+            [
+              0.066,
+              0.151,
+              0.236,
+              0.321,
+              0.406,
+              0.49,
+              0.66,
+              0.745,
+              0.915
+            ],
+            [
+              0,
+              0.1,
+              0.2,
+              0.3,
+              0.4,
+              0.6,
+              0.7
+            ]
+          ],
+          "normal": [
+            [
+              0.068,
+              0.208,
+              0.254,
+              0.348,
+              0.488,
+              0.534,
+              0.581,
+              0.721,
+              0.814,
+              0.861,
+              0.908
+            ],
+            [
+              0.113,
+              0.15,
+              0.188,
+              0.225,
+              0.262,
+              0.299,
+              0.336,
+              0.41,
+              0.522,
+              0.559,
+              0.596,
+              0.633,
+              0.745,
+              0.782,
+              0.819,
+              0.93
+            ],
+            [
+              0.097,
+              0.132,
+              0.237,
+              0.307,
+              0.341,
+              0.481,
+              0.55,
+              0.62,
+              0.655,
+              0.69,
+              0.76,
+              0.829,
+              0.864,
+              0.899,
+              0.934
+            ],
+            [
+              0.056,
+              0.157,
+              0.207,
+              0.258,
+              0.445,
+              0.496,
+              0.546,
+              0.597,
+              0.798,
+              0.849,
+              0.899,
+              0.95
+            ],
+            [
+              0,
+              0.059,
+              0.118,
+              0.235,
+              0.294,
+              0.471,
+              0.529,
+              0.647,
+              0.765,
+              0.824,
+              0.941
+            ],
+            [
+              0.101,
+              0.291,
+              0.339,
+              0.386,
+              0.434,
+              0.481,
+              0.529,
+              0.576,
+              0.623,
+              0.718,
+              0.861,
+              0.908
+            ],
+            [
+              0.041,
+              0.07,
+              0.098,
+              0.126,
+              0.155,
+              0.183,
+              0.212,
+              0.268,
+              0.297,
+              0.382,
+              0.41,
+              0.439,
+              0.467,
+              0.496,
+              0.552,
+              0.667,
+              0.694,
+              0.774,
+              0.801,
+              0.827,
+              0.881,
+              0.907
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "audio_base": "https://koreapapa-kim.github.io/worldnews-audio"
+}
