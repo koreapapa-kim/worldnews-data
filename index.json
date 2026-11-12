@@ -2,6 +2,52 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-11-09",
+      "count": 5,
+      "headlines": [
+        {
+          "id": "2026-11-09-01",
+          "ko": "프랑스, 슈퍼마켓 냉장고 해킹의 배후로 이란을 지목",
+          "en": "France Blames Iran for Supermarket Fridge Cyberattack",
+          "fr": "La France accuse l'Iran d'avoir piraté les frigos de ses supermarchés",
+          "category": "world",
+          "country": "FR"
+        },
+        {
+          "id": "2026-11-09-02",
+          "ko": "올림픽 유도 스타 테디 리네르, 프랑스 대선 출마 선언",
+          "en": "Olympic Judo Star Teddy Riner Says He Will Run for President",
+          "fr": "Teddy Riner annonce sa candidature à la présidentielle de 2027",
+          "category": "politics",
+          "country": "FR"
+        },
+        {
+          "id": "2026-11-09-03",
+          "ko": "81세 M. 존 해리슨, 부커상 역대 최고령 수상",
+          "en": "M. John Harrison, 81, Wins Booker Prize as Oldest Ever Winner",
+          "fr": "M. John Harrison, 81 ans, remporte le Booker Prize",
+          "category": "culture",
+          "country": "GB"
+        },
+        {
+          "id": "2026-11-09-04",
+          "ko": "트럼프 \"추방 정책 너무 강했을 수도\" 말하면서 스티븐 밀러를 비서실장에",
+          "en": "Trump Says Deportations May Be 'Too Tough' but Promotes Stephen Miller",
+          "fr": "Trump juge ses expulsions peut-être « trop dures » mais promeut Stephen Miller",
+          "category": "politics",
+          "country": "US"
+        },
+        {
+          "id": "2026-11-09-05",
+          "ko": "튀르키예에서 COP31 개막, 2026년은 역대 가장 더운 해 중 하나로",
+          "en": "COP31 Climate Summit Opens in Turkey as 2026 Heads for Near-Record Heat",
+          "fr": "Ouverture de la COP31 en Turquie, alors que 2026 s'annonce parmi les années les plus chaudes",
+          "category": "environment",
+          "country": "TR"
+        }
+      ]
+    },
+    {
       "date": "2026-11-08",
       "count": 1,
       "headlines": [
@@ -500,6 +546,6 @@
       ]
     }
   ],
-  "latest": "2026-11-08",
-  "updated_at": "2026-11-09T02:52:56.589Z"
+  "latest": "2026-11-09",
+  "updated_at": "2026-11-12T09:22:11.030Z"
 }
