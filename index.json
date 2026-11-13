@@ -139,7 +139,7 @@
     },
     {
       "date": "2026-11-08",
-      "count": 1,
+      "count": 4,
       "headlines": [
         {
           "id": "2026-11-08-01",
@@ -148,6 +148,30 @@
           "fr": "Le conseil d'administration de Nvidia ouvre une enquête sur son PDG Jensen Huang",
           "category": "economy",
           "country": "US"
+        },
+        {
+          "id": "2026-11-08-02",
+          "ko": "인도와 세계가 빛의 축제 디왈리를 기념하다",
+          "en": "India and the World Celebrate Diwali, the Festival of Lights",
+          "fr": "L'Inde et le monde célèbrent Diwali, la fête des lumières",
+          "category": "world",
+          "country": "IN"
+        },
+        {
+          "id": "2026-11-08-03",
+          "ko": "일본 중부에서 규모 5.7 지진, 20명 넘게 다쳤다",
+          "en": "Magnitude 5.7 Earthquake Hits Central Japan, Injuring Over 20",
+          "fr": "Un séisme de magnitude 5,7 frappe le centre du Japon et fait plus de 20 blessés",
+          "category": "world",
+          "country": "JP"
+        },
+        {
+          "id": "2026-11-08-04",
+          "ko": "프랑스 요트 선수 톰 라페르슈, 루트 뒤 럼 기록 경신하며 우승",
+          "en": "French Sailor Tom Laperche Wins the Route du Rhum in Record Time",
+          "fr": "Tom Laperche remporte la Route du Rhum avec un temps record",
+          "category": "world",
+          "country": "FR"
         }
       ]
     },
@@ -637,5 +661,5 @@
     }
   ],
   "latest": "2026-11-12",
-  "updated_at": "2026-11-13T01:26:00.789Z"
+  "updated_at": "2026-11-13T01:40:35.956Z"
 }

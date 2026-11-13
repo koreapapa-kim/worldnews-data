@@ -829,6 +829,2175 @@
           ]
         }
       }
+    },
+    {
+      "id": "2026-11-08-02",
+      "category": "world",
+      "region": {
+        "country": "IN",
+        "city": "Ayodhya",
+        "lat": 26.8,
+        "lng": 82.2
+      },
+      "headline": {
+        "en": "India and the World Celebrate Diwali, the Festival of Lights",
+        "ko": "인도와 세계가 빛의 축제 디왈리를 기념하다",
+        "fr": "L'Inde et le monde célèbrent Diwali, la fête des lumières"
+      },
+      "hook": {
+        "en": "A small clay lamp can stand for light over darkness.",
+        "ko": "작은 흙 등잔 하나가 어둠을 이긴 빛을 뜻할 수 있습니다.",
+        "fr": "Une petite lampe en terre peut représenter la lumière qui vainc l'obscurité."
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Diwali is the festival of lights.",
+            "People light small lamps and set off fireworks.",
+            "It celebrates light over darkness."
+          ],
+          "easy_ko": [
+            "디왈리는 빛의 축제입니다.",
+            "사람들은 작은 등잔에 불을 켜고 불꽃놀이를 합니다.",
+            "빛이 어둠을 이긴 것을 기념합니다."
+          ],
+          "normal": [
+            "Diwali, the festival of lights, began on Sunday across India and in Indian communities around the world.",
+            "It follows the Hindu lunar calendar, and many people see it as the victory of good over evil.",
+            "Families light small clay lamps, which stand for light over darkness.",
+            "People also pray, share sweets and gifts, wear new clothes and set off fireworks.",
+            "Sikhs, Jains and Buddhists also observe the festival, each with their own stories.",
+            "In Ayodhya, believed to be the birthplace of Lord Rama, there were light shows, fireworks and drone displays."
+          ],
+          "normal_ko": [
+            "빛의 축제 디왈리가 일요일 인도 전역과 세계의 인도계 공동체에서 시작됐습니다.",
+            "디왈리는 힌두 음력을 따르며, 많은 사람이 선이 악을 이긴 것으로 봅니다.",
+            "가족들은 작은 흙 등잔에 불을 켜는데, 이는 어둠을 이긴 빛을 뜻합니다.",
+            "사람들은 또 기도하고, 단 음식과 선물을 나누고, 새 옷을 입고, 불꽃놀이를 합니다.",
+            "시크교도, 자이나교도, 불교도도 이 명절을 기념하며, 저마다의 이야기가 있습니다.",
+            "라마 신의 탄생지로 여겨지는 아요디아에서는 조명 쇼, 불꽃놀이, 드론 쇼가 펼쳐졌습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Diwali est la fête des lumières.",
+            "Les gens allument de petites lampes et tirent des feux d'artifice.",
+            "On célèbre la lumière qui vainc l'obscurité."
+          ],
+          "normal": [
+            "Diwali, la fête des lumières, a commencé dimanche dans toute l'Inde et dans les communautés indiennes du monde entier.",
+            "Elle suit le calendrier lunaire hindou, et beaucoup y voient la victoire du bien sur le mal.",
+            "Les familles allument de petites lampes en terre, qui représentent la lumière face à l'obscurité.",
+            "Les gens prient aussi, partagent des sucreries et des cadeaux, portent des vêtements neufs et tirent des feux d'artifice.",
+            "Les sikhs, les jaïns et les bouddhistes célèbrent aussi la fête, chacun avec ses propres récits.",
+            "À Ayodhya, considérée comme le lieu de naissance du dieu Rama, il y a eu des spectacles de lumière, des feux d'artifice et des spectacles de drones."
+          ],
+          "easy_ko": [
+            "디왈리는 빛의 축제입니다.",
+            "사람들은 작은 등잔에 불을 켜고 불꽃놀이를 합니다.",
+            "빛이 어둠을 이긴 것을 기념합니다."
+          ],
+          "normal_ko": [
+            "빛의 축제 디왈리가 일요일 인도 전역과 세계의 인도계 공동체에서 시작됐습니다.",
+            "디왈리는 힌두 음력을 따르며, 많은 사람이 선이 악을 이긴 것으로 봅니다.",
+            "가족들은 작은 흙 등잔에 불을 켜는데, 이는 어둠을 이긴 빛을 뜻합니다.",
+            "사람들은 또 기도하고, 단 음식과 선물을 나누고, 새 옷을 입고, 불꽃놀이를 합니다.",
+            "시크교도, 자이나교도, 불교도도 이 명절을 기념하며, 저마다의 이야기가 있습니다.",
+            "라마 신의 탄생지로 여겨지는 아요디아에서는 조명 쇼, 불꽃놀이, 드론 쇼가 펼쳐졌습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "디왈리(Diwali)는 힌두 음력 달력에 따라 해마다 날짜가 달라지는 명절로, 올해는 11월 8일이었어요. 집집마다 등잔(diya)을 켜고 가족이 모여 단 음식을 나눕니다. 보도에 나온 '10억 명 이상 참여'는 어느 기사에도 근거가 없어 쓰지 않았어요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "festival",
+          "pos": "noun",
+          "ko": "축제, 명절",
+          "example": "Diwali is a big festival in India.",
+          "example_ko": "디왈리는 인도의 큰 명절이에요.",
+          "note_ko": "music festival(음악 축제)처럼도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "light",
+          "pos": "noun",
+          "ko": "빛, 불빛",
+          "example": "The room was full of light.",
+          "example_ko": "방이 빛으로 가득했어요.",
+          "note_ko": "동사 light(불을 켜다)는 light - lit - lit."
+        },
+        {
+          "lang": "en",
+          "word": "lamp",
+          "pos": "noun",
+          "ko": "등잔, 램프",
+          "example": "She lit a small lamp.",
+          "example_ko": "그녀는 작은 등잔에 불을 켰어요.",
+          "note_ko": "clay lamp = 흙으로 만든 등잔."
+        },
+        {
+          "lang": "en",
+          "word": "darkness",
+          "pos": "noun",
+          "ko": "어둠",
+          "example": "The lamp shone in the darkness.",
+          "example_ko": "등잔이 어둠 속에서 빛났어요.",
+          "note_ko": "형용사 dark. 반대는 light."
+        },
+        {
+          "lang": "en",
+          "word": "celebrate",
+          "pos": "verb",
+          "ko": "기념하다, 축하하다",
+          "example": "Families celebrate together.",
+          "example_ko": "가족들이 함께 기념해요.",
+          "note_ko": "명사 celebration. 발음 [셀러브레이트]."
+        },
+        {
+          "lang": "en",
+          "word": "victory",
+          "pos": "noun",
+          "ko": "승리",
+          "example": "The festival marks the victory of good over evil.",
+          "example_ko": "이 명절은 선이 악을 이긴 것을 기념해요.",
+          "note_ko": "win(이기다)의 명사 느낌. 동의어 triumph."
+        },
+        {
+          "lang": "en",
+          "word": "evil",
+          "pos": "noun",
+          "ko": "악",
+          "example": "Good wins over evil in the story.",
+          "example_ko": "이야기에서 선이 악을 이겨요.",
+          "note_ko": "형용사로도 써요: an evil plan."
+        },
+        {
+          "lang": "en",
+          "word": "firework",
+          "pos": "noun",
+          "ko": "불꽃놀이, 폭죽",
+          "example": "The fireworks lit up the sky.",
+          "example_ko": "불꽃놀이가 하늘을 밝혔어요.",
+          "note_ko": "보통 복수형 fireworks."
+        },
+        {
+          "lang": "en",
+          "word": "sweets",
+          "pos": "noun",
+          "ko": "단 음식, 사탕",
+          "example": "They shared sweets with neighbors.",
+          "example_ko": "그들은 이웃과 단 음식을 나눴어요.",
+          "note_ko": "영국식 sweets = 사탕·과자. 미국식은 candy."
+        },
+        {
+          "lang": "en",
+          "word": "gift",
+          "pos": "noun",
+          "ko": "선물",
+          "example": "He gave her a small gift.",
+          "example_ko": "그는 그녀에게 작은 선물을 줬어요.",
+          "note_ko": "present와 같은 뜻."
+        },
+        {
+          "lang": "en",
+          "word": "pray",
+          "pos": "verb",
+          "ko": "기도하다",
+          "example": "Many people pray at home.",
+          "example_ko": "많은 사람이 집에서 기도해요.",
+          "note_ko": "명사 prayer [프레어]."
+        },
+        {
+          "lang": "en",
+          "word": "tradition",
+          "pos": "noun",
+          "ko": "전통",
+          "example": "It is an old family tradition.",
+          "example_ko": "그건 오래된 가족 전통이에요.",
+          "note_ko": "형용사 traditional."
+        },
+        {
+          "lang": "en",
+          "word": "stand for",
+          "pos": "phrasal verb",
+          "ko": "~을 뜻하다, 상징하다",
+          "example": "The lamp stands for hope.",
+          "example_ko": "등잔은 희망을 뜻해요.",
+          "note_ko": "symbolize와 비슷한 일상 표현."
+        },
+        {
+          "lang": "en",
+          "word": "community",
+          "pos": "noun",
+          "ko": "공동체, 지역 사회",
+          "example": "The community held a party.",
+          "example_ko": "공동체가 파티를 열었어요.",
+          "note_ko": "Indian community = 인도계 공동체."
+        },
+        {
+          "lang": "fr",
+          "word": "une fête",
+          "pos": "nom féminin",
+          "ko": "축제, 명절",
+          "example": "Diwali est une grande fête en Inde.",
+          "example_ko": "디왈리는 인도의 큰 명절이에요.",
+          "note_ko": "la fête des lumières = 빛의 축제. '파티'라는 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "la lumière",
+          "pos": "nom féminin",
+          "ko": "빛, 조명",
+          "example": "La pièce est pleine de lumière.",
+          "example_ko": "방이 빛으로 가득해요.",
+          "note_ko": "복수 les lumières. allumer = 불을 켜다."
+        },
+        {
+          "lang": "fr",
+          "word": "une lampe",
+          "pos": "nom féminin",
+          "ko": "등잔, 램프",
+          "example": "Elle allume une petite lampe.",
+          "example_ko": "그녀는 작은 등잔에 불을 켜요.",
+          "note_ko": "une lampe en terre = 흙 등잔."
+        },
+        {
+          "lang": "fr",
+          "word": "l'obscurité",
+          "pos": "nom féminin",
+          "ko": "어둠",
+          "example": "La lampe brille dans l'obscurité.",
+          "example_ko": "등잔이 어둠 속에서 빛나요.",
+          "note_ko": "형용사 obscur. 비슷한 말 les ténèbres."
+        },
+        {
+          "lang": "fr",
+          "word": "célébrer",
+          "pos": "verbe",
+          "ko": "기념하다, 축하하다",
+          "example": "Les familles célèbrent ensemble.",
+          "example_ko": "가족들이 함께 기념해요.",
+          "note_ko": "명사 une célébration."
+        },
+        {
+          "lang": "fr",
+          "word": "la victoire",
+          "pos": "nom féminin",
+          "ko": "승리",
+          "example": "C'est la victoire du bien sur le mal.",
+          "example_ko": "이건 선이 악을 이긴 거예요.",
+          "note_ko": "반대는 la défaite."
+        },
+        {
+          "lang": "fr",
+          "word": "le mal",
+          "pos": "nom masculin",
+          "ko": "악, 나쁜 것",
+          "example": "Le bien gagne contre le mal.",
+          "example_ko": "선이 악을 이겨요.",
+          "note_ko": "le bien et le mal = 선과 악. 'mal'은 '아픔'이란 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "un feu d'artifice",
+          "pos": "nom masculin",
+          "ko": "불꽃놀이",
+          "example": "Les feux d'artifice éclairent le ciel.",
+          "example_ko": "불꽃놀이가 하늘을 밝혀요.",
+          "note_ko": "복수는 des feux d'artifice."
+        },
+        {
+          "lang": "fr",
+          "word": "les sucreries",
+          "pos": "nom féminin pluriel",
+          "ko": "단 음식, 사탕류",
+          "example": "Ils partagent des sucreries avec les voisins.",
+          "example_ko": "그들은 이웃과 단 음식을 나눠요.",
+          "note_ko": "sucré = 단. 한 개의 사탕은 un bonbon."
+        },
+        {
+          "lang": "fr",
+          "word": "un cadeau",
+          "pos": "nom masculin",
+          "ko": "선물",
+          "example": "Il offre un petit cadeau.",
+          "example_ko": "그는 작은 선물을 줘요.",
+          "note_ko": "복수 des cadeaux. offrir un cadeau = 선물하다."
+        },
+        {
+          "lang": "fr",
+          "word": "prier",
+          "pos": "verbe",
+          "ko": "기도하다",
+          "example": "Beaucoup de gens prient à la maison.",
+          "example_ko": "많은 사람이 집에서 기도해요.",
+          "note_ko": "명사 une prière."
+        },
+        {
+          "lang": "fr",
+          "word": "une tradition",
+          "pos": "nom féminin",
+          "ko": "전통",
+          "example": "C'est une vieille tradition familiale.",
+          "example_ko": "오래된 가족 전통이에요.",
+          "note_ko": "형용사 traditionnel."
+        },
+        {
+          "lang": "fr",
+          "word": "représenter",
+          "pos": "verbe",
+          "ko": "의미하다, 상징하다",
+          "example": "La lampe représente l'espoir.",
+          "example_ko": "등잔은 희망을 상징해요.",
+          "note_ko": "영어 represent. 비슷한 말 symboliser."
+        },
+        {
+          "lang": "fr",
+          "word": "une communauté",
+          "pos": "nom féminin",
+          "ko": "공동체",
+          "example": "La communauté organise une fête.",
+          "example_ko": "공동체가 축제를 열어요.",
+          "note_ko": "la communauté indienne = 인도계 공동체."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "In Diwali, a clay lamp stands for…",
+          "choices": [
+            "light over darkness",
+            "heavy rain",
+            "a new car"
+          ],
+          "answer": 0,
+          "explain_ko": "stand for = 상징하다. 등잔은 어둠을 이긴 빛을 뜻해요."
+        },
+        {
+          "lang": "fr",
+          "q": "À Diwali, la lampe en terre représente…",
+          "choices": [
+            "la lumière face à l'obscurité",
+            "la pluie forte",
+            "une voiture neuve"
+          ],
+          "answer": 0,
+          "explain_ko": "représenter = 상징하다. 등잔은 어둠을 이기는 빛을 뜻해요."
+        }
+      ],
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/diwali-over-one-billion-people-mark-victory-of-light-over-darkness",
+          "accessed": "2026-11-13"
+        },
+        {
+          "name": "Al Jazeera (photos, AFP/AP)",
+          "url": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-13",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-08/267f82012d4f4caa.mp3",
+            "2026-11-08/695416e28d3e27d5.mp3",
+            "2026-11-08/f730219701ffba14.mp3"
+          ],
+          "normal": [
+            "2026-11-08/f2577dfb21365861.mp3",
+            "2026-11-08/e2ed402b8ba7ac41.mp3",
+            "2026-11-08/18f8af0dc660d5bc.mp3",
+            "2026-11-08/123e1135eed91b7a.mp3",
+            "2026-11-08/480fe6cfb947c8a8.mp3",
+            "2026-11-08/0788ea6883ca130d.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-08/d4c4ab651af30b39.mp3",
+            "2026-11-08/6501d42c354ceb57.mp3",
+            "2026-11-08/11485ecc4468dbbe.mp3"
+          ],
+          "normal": [
+            "2026-11-08/0494e56917f6cf32.mp3",
+            "2026-11-08/c3c628d7e12e534a.mp3",
+            "2026-11-08/bd09afb8d4d6df3d.mp3",
+            "2026-11-08/52c922b0c7aa5620.mp3",
+            "2026-11-08/4e19565f0b48cc97.mp3",
+            "2026-11-08/022c6df88156775a.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-08/dc1c3bf5d32bdb34.mp3",
+          "2026-11-08/521de26a5a6e7e84.mp3",
+          "2026-11-08/335f5f5303464f5a.mp3",
+          "2026-11-08/d8a2a9889b836f95.mp3",
+          "2026-11-08/0c36e7af174e4f9f.mp3",
+          "2026-11-08/26defae229b11b86.mp3",
+          "2026-11-08/438ded24d4062caa.mp3",
+          "2026-11-08/37a37018073e9112.mp3",
+          "2026-11-08/fd06083fc449bc9d.mp3",
+          "2026-11-08/5ccef38e9898927b.mp3",
+          "2026-11-08/a78faecedb0a3fba.mp3",
+          "2026-11-08/0166bf320143e9fa.mp3",
+          "2026-11-08/f87ccb974405964f.mp3",
+          "2026-11-08/0eeb2a21ade99d37.mp3",
+          "2026-11-08/44e7592c23e2bee0.mp3",
+          "2026-11-08/aaae87bba990219b.mp3",
+          "2026-11-08/7ad8ec4955d46a89.mp3",
+          "2026-11-08/21f682f6fb8e8e55.mp3",
+          "2026-11-08/9c8d1d4786e7f746.mp3",
+          "2026-11-08/2ce1f6f5246110db.mp3",
+          "2026-11-08/b161639a5ed14378.mp3",
+          "2026-11-08/5d0941e1902cca84.mp3",
+          "2026-11-08/71a4a27b29db4d1d.mp3",
+          "2026-11-08/ff78f6ce84c15df2.mp3",
+          "2026-11-08/eea1b8413416def6.mp3",
+          "2026-11-08/362424266d5224cb.mp3",
+          "2026-11-08/287c5b0139c8c5cd.mp3",
+          "2026-11-08/a1d0d6da21f48ba2.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0,
+              0.3,
+              0.4,
+              0.5,
+              0.8,
+              0.9
+            ],
+            [
+              0,
+              0.1,
+              0.2,
+              0.3,
+              0.4,
+              0.5,
+              0.6,
+              0.7
+            ],
+            [
+              0.171,
+              0.256,
+              0.511,
+              0.596,
+              0.766
+            ]
+          ],
+          "normal": [
+            [
+              0.036,
+              0.127,
+              0.157,
+              0.249,
+              0.279,
+              0.366,
+              0.427,
+              0.457,
+              0.517,
+              0.578,
+              0.638,
+              0.668,
+              0.698,
+              0.759,
+              0.879,
+              0.94,
+              0.97
+            ],
+            [
+              0.099,
+              0.125,
+              0.178,
+              0.204,
+              0.256,
+              0.308,
+              0.476,
+              0.502,
+              0.554,
+              0.58,
+              0.606,
+              0.632,
+              0.658,
+              0.684,
+              0.763,
+              0.789,
+              0.815,
+              0.867
+            ],
+            [
+              0.108,
+              0.292,
+              0.353,
+              0.414,
+              0.476,
+              0.569,
+              0.62,
+              0.67,
+              0.72,
+              0.771,
+              0.871
+            ],
+            [
+              0.101,
+              0.15,
+              0.249,
+              0.33,
+              0.387,
+              0.444,
+              0.5,
+              0.602,
+              0.637,
+              0.672,
+              0.707,
+              0.742,
+              0.777,
+              0.812
+            ],
+            [
+              0,
+              0.137,
+              0.183,
+              0.229,
+              0.321,
+              0.413,
+              0.505,
+              0.552,
+              0.739,
+              0.783,
+              0.826,
+              0.87,
+              0.913
+            ],
+            [
+              0,
+              0.047,
+              0.165,
+              0.228,
+              0.259,
+              0.29,
+              0.321,
+              0.384,
+              0.415,
+              0.447,
+              0.56,
+              0.597,
+              0.634,
+              0.671,
+              0.734,
+              0.848,
+              0.886,
+              0.924
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.162,
+              0.396,
+              0.474,
+              0.552,
+              0.63,
+              0.708
+            ],
+            [
+              0.131,
+              0.184,
+              0.236,
+              0.341,
+              0.393,
+              0.498,
+              0.55,
+              0.602,
+              0.655,
+              0.707,
+              0.76
+            ],
+            [
+              0.167,
+              0.225,
+              0.341,
+              0.399,
+              0.515,
+              0.572,
+              0.63
+            ]
+          ],
+          "normal": [
+            [
+              0.086,
+              0.205,
+              0.236,
+              0.267,
+              0.298,
+              0.418,
+              0.442,
+              0.513,
+              0.56,
+              0.583,
+              0.607,
+              0.63,
+              0.654,
+              0.678,
+              0.701,
+              0.795,
+              0.843,
+              0.866,
+              0.89
+            ],
+            [
+              0.064,
+              0.098,
+              0.132,
+              0.167,
+              0.27,
+              0.339,
+              0.469,
+              0.504,
+              0.576,
+              0.611,
+              0.647,
+              0.683,
+              0.754,
+              0.79,
+              0.825,
+              0.861,
+              0.897
+            ],
+            [
+              0.066,
+              0.102,
+              0.176,
+              0.249,
+              0.285,
+              0.358,
+              0.395,
+              0.431,
+              0.468,
+              0.504,
+              0.614,
+              0.65,
+              0.724,
+              0.76,
+              0.797
+            ],
+            [
+              0.096,
+              0.126,
+              0.155,
+              0.184,
+              0.291,
+              0.338,
+              0.362,
+              0.432,
+              0.455,
+              0.479,
+              0.58,
+              0.607,
+              0.635,
+              0.718,
+              0.745,
+              0.773,
+              0.8,
+              0.828,
+              0.855
+            ],
+            [
+              0.045,
+              0.09,
+              0.177,
+              0.211,
+              0.245,
+              0.28,
+              0.314,
+              0.383,
+              0.451,
+              0.52,
+              0.555,
+              0.634,
+              0.706,
+              0.778,
+              0.813,
+              0.849
+            ],
+            [
+              0.075,
+              0.095,
+              0.167,
+              0.239,
+              0.257,
+              0.275,
+              0.293,
+              0.311,
+              0.347,
+              0.365,
+              0.383,
+              0.478,
+              0.496,
+              0.514,
+              0.532,
+              0.549,
+              0.567,
+              0.603,
+              0.62,
+              0.707,
+              0.731,
+              0.754,
+              0.824,
+              0.848,
+              0.871,
+              0.918,
+              0.942
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-08-03",
+      "category": "world",
+      "region": {
+        "country": "JP",
+        "city": "Shizuoka",
+        "lat": 34.98,
+        "lng": 138.38
+      },
+      "headline": {
+        "en": "Magnitude 5.7 Earthquake Hits Central Japan, Injuring Over 20",
+        "ko": "일본 중부에서 규모 5.7 지진, 20명 넘게 다쳤다",
+        "fr": "Un séisme de magnitude 5,7 frappe le centre du Japon et fait plus de 20 blessés"
+      },
+      "hook": {
+        "en": "Japan was shaken awake at 1 a.m. by a magnitude 5.7 earthquake.",
+        "ko": "일본이 새벽 1시에 규모 5.7 지진으로 흔들려 잠에서 깼습니다.",
+        "fr": "Le Japon a été réveillé à 1 heure du matin par un séisme de magnitude 5,7."
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "An earthquake hit central Japan early Sunday.",
+            "More than 20 people were hurt.",
+            "There was no tsunami warning."
+          ],
+          "easy_ko": [
+            "일요일 새벽 일본 중부에 지진이 났습니다.",
+            "20명 넘게 다쳤습니다.",
+            "쓰나미 경보는 없었습니다."
+          ],
+          "normal": [
+            "A magnitude 5.7 earthquake hit central Japan at about 1 a.m. on Sunday.",
+            "Its centre was in Shizuoka Prefecture, and it was felt in nearby areas such as Aichi and Gifu.",
+            "More than 20 people were injured, and no deaths were reported.",
+            "No tsunami warning was issued.",
+            "Windows shattered, books fell from shelves, some local trains stopped and bullet trains were delayed.",
+            "Officials warned that strong earthquakes could follow in the next few days."
+          ],
+          "normal_ko": [
+            "일요일 새벽 1시쯤 일본 중부에서 규모 5.7 지진이 일어났습니다.",
+            "진원은 시즈오카현이었고, 아이치현과 기후현 같은 가까운 지역에서도 흔들림을 느꼈습니다.",
+            "20명 넘게 다쳤고, 사망자는 보도되지 않았습니다.",
+            "쓰나미 경보는 나오지 않았습니다.",
+            "창문이 깨지고 책이 선반에서 떨어졌으며, 일부 지역 열차는 멈추고 신칸센은 지연됐습니다.",
+            "당국은 앞으로 며칠 안에 강한 지진이 이어질 수 있다고 경고했습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Un séisme a frappé le centre du Japon tôt dimanche.",
+            "Plus de 20 personnes ont été blessées.",
+            "Il n'y a pas eu d'alerte au tsunami."
+          ],
+          "normal": [
+            "Un séisme de magnitude 5,7 a frappé le centre du Japon vers 1 heure du matin dimanche.",
+            "Son épicentre se trouvait dans la préfecture de Shizuoka, et il a été ressenti dans des régions voisines comme Aichi et Gifu.",
+            "Plus de 20 personnes ont été blessées, et aucun mort n'a été signalé.",
+            "Aucune alerte au tsunami n'a été émise.",
+            "Des vitres se sont brisées, des livres sont tombés des étagères, certains trains locaux se sont arrêtés et des trains à grande vitesse ont été retardés.",
+            "Les autorités ont averti que de fortes secousses pourraient suivre dans les prochains jours."
+          ],
+          "easy_ko": [
+            "일요일 새벽 일본 중부에 지진이 났습니다.",
+            "20명 넘게 다쳤습니다.",
+            "쓰나미 경보는 없었습니다."
+          ],
+          "normal_ko": [
+            "일요일 새벽 1시쯤 일본 중부에서 규모 5.7 지진이 일어났습니다.",
+            "진원은 시즈오카현이었고, 아이치현과 기후현 같은 가까운 지역에서도 흔들림을 느꼈습니다.",
+            "20명 넘게 다쳤고, 사망자는 보도되지 않았습니다.",
+            "쓰나미 경보는 나오지 않았습니다.",
+            "창문이 깨지고 책이 선반에서 떨어졌으며, 일부 지역 열차는 멈추고 신칸센은 지연됐습니다.",
+            "당국은 앞으로 며칠 안에 강한 지진이 이어질 수 있다고 경고했습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "지진의 세기는 '규모(magnitude)'로 말하고, 일본에서는 장소별 흔들림 세기를 '진도(shindo)'로 따로 나타내요. 이번 보도에는 진도가 없어 쓰지 않았어요. 부상자 수는 20명 넘게, 16명, 24명 등 보도마다 달랐고 사망자는 보도되지 않았습니다. 일본기상청은 앞으로 2~3일 동안 강한 지진에 주의하라고 했어요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "earthquake",
+          "pos": "noun",
+          "ko": "지진",
+          "example": "An earthquake hit central Japan.",
+          "example_ko": "지진이 일본 중부를 덮쳤어요.",
+          "note_ko": "줄여서 quake라고도 해요."
+        },
+        {
+          "lang": "en",
+          "word": "magnitude",
+          "pos": "noun",
+          "ko": "(지진의) 규모",
+          "example": "The magnitude was 5.7.",
+          "example_ko": "규모는 5.7이었어요.",
+          "note_ko": "지진 에너지의 크기. 장소별 흔들림은 intensity."
+        },
+        {
+          "lang": "en",
+          "word": "injure",
+          "pos": "verb",
+          "ko": "다치게 하다",
+          "example": "The quake injured more than 20 people.",
+          "example_ko": "지진으로 20명 넘게 다쳤어요.",
+          "note_ko": "be injured = 다치다. 명사 injury."
+        },
+        {
+          "lang": "en",
+          "word": "tsunami",
+          "pos": "noun",
+          "ko": "쓰나미, 지진 해일",
+          "example": "There was no tsunami warning.",
+          "example_ko": "쓰나미 경보는 없었어요.",
+          "note_ko": "일본어에서 온 단어. 발음 [수나미]."
+        },
+        {
+          "lang": "en",
+          "word": "shake",
+          "pos": "verb",
+          "ko": "흔들다, 흔들리다",
+          "example": "The ground began to shake.",
+          "example_ko": "땅이 흔들리기 시작했어요.",
+          "note_ko": "shake - shook - shaken."
+        },
+        {
+          "lang": "en",
+          "word": "shatter",
+          "pos": "verb",
+          "ko": "산산이 부서지다",
+          "example": "The windows shattered.",
+          "example_ko": "창문이 산산이 깨졌어요.",
+          "note_ko": "break보다 더 세게 깨지는 느낌."
+        },
+        {
+          "lang": "en",
+          "word": "shelf",
+          "pos": "noun",
+          "ko": "선반",
+          "example": "Books fell from the shelf.",
+          "example_ko": "책이 선반에서 떨어졌어요.",
+          "note_ko": "복수형은 shelves."
+        },
+        {
+          "lang": "en",
+          "word": "delay",
+          "pos": "verb",
+          "ko": "지연시키다",
+          "example": "Trains were delayed.",
+          "example_ko": "열차가 지연됐어요.",
+          "note_ko": "명사로도 써요: a delay."
+        },
+        {
+          "lang": "en",
+          "word": "warn",
+          "pos": "verb",
+          "ko": "경고하다",
+          "example": "Officials warned about strong quakes.",
+          "example_ko": "당국이 강한 지진을 경고했어요.",
+          "note_ko": "명사 warning."
+        },
+        {
+          "lang": "en",
+          "word": "prefecture",
+          "pos": "noun",
+          "ko": "(일본의) 현",
+          "example": "Shizuoka is a prefecture in Japan.",
+          "example_ko": "시즈오카는 일본의 현이에요.",
+          "note_ko": "한국의 '도'에 해당하는 일본의 행정 구역."
+        },
+        {
+          "lang": "en",
+          "word": "report",
+          "pos": "verb",
+          "ko": "보도하다, 알리다",
+          "example": "No deaths were reported.",
+          "example_ko": "사망자는 보도되지 않았어요.",
+          "note_ko": "명사 report는 '보고서, 보도'."
+        },
+        {
+          "lang": "en",
+          "word": "strong",
+          "pos": "adjective",
+          "ko": "강한",
+          "example": "A strong quake shook the town.",
+          "example_ko": "강한 지진이 마을을 흔들었어요.",
+          "note_ko": "명사 strength. 반대는 weak."
+        },
+        {
+          "lang": "en",
+          "word": "safety check",
+          "pos": "noun",
+          "ko": "안전 점검",
+          "example": "Trains stopped for safety checks.",
+          "example_ko": "열차가 안전 점검 때문에 멈췄어요.",
+          "note_ko": "check는 '확인, 점검'."
+        },
+        {
+          "lang": "en",
+          "word": "bullet train",
+          "pos": "noun",
+          "ko": "고속열차, 신칸센",
+          "example": "The bullet train was late.",
+          "example_ko": "고속열차가 늦었어요.",
+          "note_ko": "일본의 신칸센을 영어로 bullet train이라고 해요."
+        },
+        {
+          "lang": "fr",
+          "word": "un séisme",
+          "pos": "nom masculin",
+          "ko": "지진",
+          "example": "Un séisme a frappé le Japon.",
+          "example_ko": "지진이 일본을 덮쳤어요.",
+          "note_ko": "un tremblement de terre라고도 해요."
+        },
+        {
+          "lang": "fr",
+          "word": "la magnitude",
+          "pos": "nom féminin",
+          "ko": "(지진의) 규모",
+          "example": "La magnitude est de 5,7.",
+          "example_ko": "규모는 5.7이에요.",
+          "note_ko": "프랑스어는 소수점에 쉼표를 써요: 5,7."
+        },
+        {
+          "lang": "fr",
+          "word": "blessé",
+          "pos": "adjectif",
+          "ko": "다친",
+          "example": "Vingt personnes sont blessées.",
+          "example_ko": "스무 명이 다쳤어요.",
+          "note_ko": "un blessé = 부상자. 동사 blesser."
+        },
+        {
+          "lang": "fr",
+          "word": "un tsunami",
+          "pos": "nom masculin",
+          "ko": "쓰나미",
+          "example": "Il n'y a pas d'alerte au tsunami.",
+          "example_ko": "쓰나미 경보는 없어요.",
+          "note_ko": "발음 [쓰나미]. 영어와 같은 단어."
+        },
+        {
+          "lang": "fr",
+          "word": "trembler",
+          "pos": "verbe",
+          "ko": "흔들리다, 떨다",
+          "example": "La terre tremble.",
+          "example_ko": "땅이 흔들려요.",
+          "note_ko": "un tremblement = 흔들림."
+        },
+        {
+          "lang": "fr",
+          "word": "se briser",
+          "pos": "verbe",
+          "ko": "산산이 깨지다",
+          "example": "Les vitres se brisent.",
+          "example_ko": "유리창이 깨져요.",
+          "note_ko": "briser는 '깨뜨리다', se briser는 '깨지다'."
+        },
+        {
+          "lang": "fr",
+          "word": "une étagère",
+          "pos": "nom féminin",
+          "ko": "선반",
+          "example": "Les livres tombent de l'étagère.",
+          "example_ko": "책이 선반에서 떨어져요.",
+          "note_ko": "복수 les étagères."
+        },
+        {
+          "lang": "fr",
+          "word": "retarder",
+          "pos": "verbe",
+          "ko": "지연시키다",
+          "example": "Le train est retardé.",
+          "example_ko": "열차가 지연돼요.",
+          "note_ko": "un retard = 지연. être en retard = 늦다."
+        },
+        {
+          "lang": "fr",
+          "word": "avertir",
+          "pos": "verbe",
+          "ko": "경고하다",
+          "example": "Les autorités avertissent la population.",
+          "example_ko": "당국이 주민에게 경고해요.",
+          "note_ko": "명사 un avertissement."
+        },
+        {
+          "lang": "fr",
+          "word": "une préfecture",
+          "pos": "nom féminin",
+          "ko": "(일본의) 현, 도청 소재지",
+          "example": "Shizuoka est une préfecture japonaise.",
+          "example_ko": "시즈오카는 일본의 현이에요.",
+          "note_ko": "프랑스에서는 도(département)의 중심 도시를 뜻하기도 해요."
+        },
+        {
+          "lang": "fr",
+          "word": "signaler",
+          "pos": "verbe",
+          "ko": "알리다, 보고하다",
+          "example": "Aucun mort n'est signalé.",
+          "example_ko": "사망자는 보고되지 않았어요.",
+          "note_ko": "명사 un signalement."
+        },
+        {
+          "lang": "fr",
+          "word": "fort",
+          "pos": "adjectif",
+          "ko": "강한",
+          "example": "Une forte secousse a lieu.",
+          "example_ko": "강한 흔들림이 일어나요.",
+          "note_ko": "여성형 forte. une secousse = 흔들림."
+        },
+        {
+          "lang": "fr",
+          "word": "un contrôle de sécurité",
+          "pos": "nom masculin",
+          "ko": "안전 점검",
+          "example": "Les trains s'arrêtent pour un contrôle de sécurité.",
+          "example_ko": "열차가 안전 점검 때문에 멈춰요.",
+          "note_ko": "contrôle = 점검, 검사."
+        },
+        {
+          "lang": "fr",
+          "word": "un train à grande vitesse",
+          "pos": "nom masculin",
+          "ko": "고속열차",
+          "example": "Le train à grande vitesse est en retard.",
+          "example_ko": "고속열차가 늦어요.",
+          "note_ko": "줄여서 TGV. 일본 신칸센도 이렇게 불러요."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "\"Magnitude\" tells you…",
+          "choices": [
+            "how big an earthquake is",
+            "what time it happened",
+            "who was hurt"
+          ],
+          "answer": 0,
+          "explain_ko": "magnitude = 지진의 규모."
+        },
+        {
+          "lang": "fr",
+          "q": "« La magnitude » indique…",
+          "choices": [
+            "la taille d'un séisme",
+            "l'heure du séisme",
+            "le nom des blessés"
+          ],
+          "answer": 0,
+          "explain_ko": "la magnitude = 지진의 규모."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people",
+          "accessed": "2026-11-13"
+        },
+        {
+          "name": "Gulf News (AFP)",
+          "url": "https://gulfnews.com/world/asia/magnitude-57-quake-injures-dozens-in-central-japan-1.500740073",
+          "accessed": "2026-11-13"
+        },
+        {
+          "name": "Wikipedia Current events (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_8",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-13",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-08/a466ec7989482f8a.mp3",
+            "2026-11-08/4ea143fb6504deba.mp3",
+            "2026-11-08/d718406e87689b80.mp3"
+          ],
+          "normal": [
+            "2026-11-08/51f2f6a593cff1b3.mp3",
+            "2026-11-08/1dc355bbb662b7f5.mp3",
+            "2026-11-08/245a2e566edfa577.mp3",
+            "2026-11-08/38284f70bb7ed5c2.mp3",
+            "2026-11-08/4f47fa2316e54be3.mp3",
+            "2026-11-08/63b3a040c8f7ea75.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-08/2e62e63ddeb40a8d.mp3",
+            "2026-11-08/ae2b5206f435c89b.mp3",
+            "2026-11-08/23e0f0727b10c8c0.mp3"
+          ],
+          "normal": [
+            "2026-11-08/a1e29cc6144e60b6.mp3",
+            "2026-11-08/af1ad706c2cdd0dd.mp3",
+            "2026-11-08/c24e6040a06441fc.mp3",
+            "2026-11-08/38f502214ae79015.mp3",
+            "2026-11-08/71820a4f190a980b.mp3",
+            "2026-11-08/855c79c7a89e89a6.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-08/cff9d7975f8e3fa0.mp3",
+          "2026-11-08/da09cdad127225bd.mp3",
+          "2026-11-08/abd2e00b8045bfed.mp3",
+          "2026-11-08/c3a0384286757b0c.mp3",
+          "2026-11-08/8c13b636dfd7e385.mp3",
+          "2026-11-08/e03e518479a3065c.mp3",
+          "2026-11-08/c6cc0f7d904708a8.mp3",
+          "2026-11-08/b9a634b6d8627de4.mp3",
+          "2026-11-08/9c93534f698c224c.mp3",
+          "2026-11-08/7c23f4d895ba55d3.mp3",
+          "2026-11-08/6d2fcbb07808eb9b.mp3",
+          "2026-11-08/991ade2a0a4b376b.mp3",
+          "2026-11-08/316771192318080a.mp3",
+          "2026-11-08/3fe3dbec7d487e34.mp3",
+          "2026-11-08/881da052c850ab9e.mp3",
+          "2026-11-08/b3be1c22480a8fb7.mp3",
+          "2026-11-08/f8a4f030f648b881.mp3",
+          "2026-11-08/f2a80d911dd4b567.mp3",
+          "2026-11-08/afd21a28f4896b91.mp3",
+          "2026-11-08/2039ee05c36d0da4.mp3",
+          "2026-11-08/198f9230a7e34ebd.mp3",
+          "2026-11-08/1918b2bad3519c0f.mp3",
+          "2026-11-08/b31d9f70b01adc3b.mp3",
+          "2026-11-08/315e61da8e5cbbaf.mp3",
+          "2026-11-08/62a6182e9e20fab6.mp3",
+          "2026-11-08/847a2726ce11fc6f.mp3",
+          "2026-11-08/fd92d10a2e362252.mp3",
+          "2026-11-08/0ca0e7c1627b88a3.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0,
+              0.083,
+              0.25,
+              0.333,
+              0.5,
+              0.667,
+              0.833
+            ],
+            [
+              0,
+              0.143,
+              0.286,
+              0.571,
+              0.714,
+              0.857
+            ],
+            [
+              0.204,
+              0.289,
+              0.374,
+              0.459,
+              0.714
+            ]
+          ],
+          "normal": [
+            [
+              0.128,
+              0.166,
+              0.281,
+              0.357,
+              0.434,
+              0.472,
+              0.549,
+              0.625,
+              0.663,
+              0.74,
+              0.778,
+              0.816,
+              0.854
+            ],
+            [
+              0.052,
+              0.091,
+              0.129,
+              0.167,
+              0.205,
+              0.32,
+              0.508,
+              0.537,
+              0.567,
+              0.597,
+              0.626,
+              0.656,
+              0.716,
+              0.775,
+              0.805,
+              0.834,
+              0.894,
+              0.924
+            ],
+            [
+              0,
+              0.063,
+              0.125,
+              0.251,
+              0.314,
+              0.376,
+              0.586,
+              0.655,
+              0.724,
+              0.793,
+              0.862
+            ],
+            [
+              0.192,
+              0.275,
+              0.525,
+              0.691,
+              0.775
+            ],
+            [
+              0,
+              0.085,
+              0.219,
+              0.274,
+              0.329,
+              0.383,
+              0.463,
+              0.507,
+              0.597,
+              0.642,
+              0.686,
+              0.731,
+              0.821,
+              0.866,
+              0.91
+            ],
+            [
+              0,
+              0.188,
+              0.25,
+              0.313,
+              0.375,
+              0.5,
+              0.563,
+              0.688,
+              0.75,
+              0.813,
+              0.875,
+              0.938
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.136,
+              0.197,
+              0.258,
+              0.32,
+              0.442,
+              0.503,
+              0.564,
+              0.625,
+              0.748,
+              0.809
+            ],
+            [
+              0.152,
+              0.221,
+              0.291,
+              0.429,
+              0.568,
+              0.637,
+              0.775
+            ],
+            [
+              0.191,
+              0.257,
+              0.323,
+              0.388,
+              0.454,
+              0.52,
+              0.652,
+              0.718
+            ]
+          ],
+          "normal": [
+            [
+              0.096,
+              0.132,
+              0.167,
+              0.203,
+              0.31,
+              0.381,
+              0.416,
+              0.488,
+              0.523,
+              0.559,
+              0.594,
+              0.665,
+              0.701,
+              0.737,
+              0.772,
+              0.808,
+              0.879
+            ],
+            [
+              0.091,
+              0.113,
+              0.18,
+              0.202,
+              0.247,
+              0.269,
+              0.291,
+              0.358,
+              0.38,
+              0.497,
+              0.519,
+              0.54,
+              0.561,
+              0.604,
+              0.668,
+              0.689,
+              0.711,
+              0.753,
+              0.796,
+              0.817,
+              0.86,
+              0.881
+            ],
+            [
+              0.15,
+              0.185,
+              0.22,
+              0.291,
+              0.361,
+              0.396,
+              0.466,
+              0.537,
+              0.572,
+              0.642,
+              0.677,
+              0.713,
+              0.783
+            ],
+            [
+              0.156,
+              0.269,
+              0.381,
+              0.437,
+              0.605,
+              0.661,
+              0.773
+            ],
+            [
+              0.055,
+              0.077,
+              0.099,
+              0.121,
+              0.143,
+              0.227,
+              0.248,
+              0.268,
+              0.289,
+              0.33,
+              0.35,
+              0.454,
+              0.496,
+              0.516,
+              0.558,
+              0.578,
+              0.599,
+              0.661,
+              0.681,
+              0.702,
+              0.722,
+              0.743,
+              0.764,
+              0.805,
+              0.825,
+              0.867
+            ],
+            [
+              0.096,
+              0.135,
+              0.292,
+              0.332,
+              0.45,
+              0.489,
+              0.528,
+              0.568,
+              0.646,
+              0.725,
+              0.764,
+              0.803,
+              0.843,
+              0.921
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-08-04",
+      "category": "world",
+      "region": {
+        "country": "FR",
+        "city": "Pointe-à-Pitre",
+        "lat": 16.24,
+        "lng": -61.53
+      },
+      "headline": {
+        "en": "French Sailor Tom Laperche Wins the Route du Rhum in Record Time",
+        "ko": "프랑스 요트 선수 톰 라페르슈, 루트 뒤 럼 기록 경신하며 우승",
+        "fr": "Tom Laperche remporte la Route du Rhum avec un temps record"
+      },
+      "hook": {
+        "en": "A sailor crossed the Atlantic alone in about six and a half days.",
+        "ko": "한 선수가 혼자서 약 6일 반 만에 대서양을 건넜습니다.",
+        "fr": "Un navigateur a traversé l'Atlantique en solitaire en environ six jours et demi."
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "A French sailor won a big race across the Atlantic.",
+            "He sailed alone and set a new record.",
+            "He finished in Guadeloupe."
+          ],
+          "easy_ko": [
+            "프랑스 선수가 대서양을 건너는 큰 경주에서 우승했습니다.",
+            "그는 혼자 항해했고 새 기록을 세웠습니다.",
+            "그는 과들루프에서 결승선을 통과했습니다."
+          ],
+          "normal": [
+            "French sailor Tom Laperche won the Route du Rhum, a solo race across the Atlantic Ocean.",
+            "He is 29 years old and won in his first Route du Rhum.",
+            "He sailed an Ultim trimaran called SVR Lazartigue, a very large and fast racing boat.",
+            "He finished in Guadeloupe, in the Caribbean, in 6 days, 13 hours and 27 minutes.",
+            "That is about six hours faster than the old record, set in 2022 by Charles Caudrelier.",
+            "It was the 13th edition of the race."
+          ],
+          "normal_ko": [
+            "프랑스 선수 톰 라페르슈가 대서양을 혼자 건너는 요트 경주 루트 뒤 럼에서 우승했습니다.",
+            "그는 29세로, 처음 출전한 루트 뒤 럼에서 우승했습니다.",
+            "그는 SVR 라자르티그라는 울팀 삼동선을 몰았습니다. 아주 크고 빠른 경주용 배입니다.",
+            "그는 카리브해의 과들루프에 6일 13시간 27분 만에 도착했습니다.",
+            "이는 2022년 샤를 코드리에가 세운 종전 기록보다 약 여섯 시간 빠릅니다.",
+            "이번이 이 대회의 13번째 대회였습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Un navigateur français a gagné une grande course à travers l'Atlantique.",
+            "Il a navigué seul et a battu un record.",
+            "Il a terminé en Guadeloupe."
+          ],
+          "normal": [
+            "Le navigateur français Tom Laperche a remporté la Route du Rhum, une course en solitaire à travers l'océan Atlantique.",
+            "Il a 29 ans et a gagné dès sa première Route du Rhum.",
+            "Il barrait un trimaran Ultim, le SVR Lazartigue, un bateau de course très grand et très rapide.",
+            "Il a terminé en Guadeloupe, dans les Caraïbes, en 6 jours, 13 heures et 27 minutes.",
+            "C'est environ six heures de moins que l'ancien record, établi en 2022 par Charles Caudrelier.",
+            "C'était la 13e édition de la course."
+          ],
+          "easy_ko": [
+            "프랑스 선수가 대서양을 건너는 큰 경주에서 우승했습니다.",
+            "그는 혼자 항해했고 새 기록을 세웠습니다.",
+            "그는 과들루프에서 결승선을 통과했습니다."
+          ],
+          "normal_ko": [
+            "프랑스 선수 톰 라페르슈가 대서양을 혼자 건너는 요트 경주 루트 뒤 럼에서 우승했습니다.",
+            "그는 29세로, 처음 출전한 루트 뒤 럼에서 우승했습니다.",
+            "그는 SVR 라자르티그라는 울팀 삼동선을 몰았습니다. 아주 크고 빠른 경주용 배입니다.",
+            "그는 카리브해의 과들루프에 6일 13시간 27분 만에 도착했습니다.",
+            "이는 2022년 샤를 코드리에가 세운 종전 기록보다 약 여섯 시간 빠릅니다.",
+            "이번이 이 대회의 13번째 대회였습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "루트 뒤 럼은 4년마다 열리는 대서양 단독 횡단 요트 경주로, 도착지는 카리브해의 프랑스령 과들루프예요. '울팀(Ultim)'은 가장 크고 빠른 급의 삼동선(배 몸체가 셋인 배) 부문이에요. 도착 시각은 France 24와 franceinfo가 3분 달라 영상·본문에서는 쓰지 않았어요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "sailor",
+          "pos": "noun",
+          "ko": "선원, 요트 선수",
+          "example": "The sailor crossed the ocean alone.",
+          "example_ko": "그 선수는 혼자 바다를 건넜어요.",
+          "note_ko": "sail(항해하다)에 -or를 붙인 말."
+        },
+        {
+          "lang": "en",
+          "word": "race",
+          "pos": "noun",
+          "ko": "경주, 레이스",
+          "example": "It is a famous boat race.",
+          "example_ko": "유명한 요트 경주예요.",
+          "note_ko": "'인종'이라는 뜻도 있지만 뉴스에서는 대부분 경주."
+        },
+        {
+          "lang": "en",
+          "word": "solo",
+          "pos": "adjective",
+          "ko": "단독의, 혼자 하는",
+          "example": "She made a solo trip.",
+          "example_ko": "그녀는 혼자 여행을 했어요.",
+          "note_ko": "이탈리아어에서 온 말. solo race = 단독 경주."
+        },
+        {
+          "lang": "en",
+          "word": "cross",
+          "pos": "verb",
+          "ko": "건너다",
+          "example": "He crossed the Atlantic.",
+          "example_ko": "그는 대서양을 건넜어요.",
+          "note_ko": "cross the road = 길을 건너다."
+        },
+        {
+          "lang": "en",
+          "word": "ocean",
+          "pos": "noun",
+          "ko": "대양, 바다",
+          "example": "The Atlantic is a big ocean.",
+          "example_ko": "대서양은 큰 바다예요.",
+          "note_ko": "sea보다 훨씬 큰 바다."
+        },
+        {
+          "lang": "en",
+          "word": "trimaran",
+          "pos": "noun",
+          "ko": "삼동선(배 몸체가 셋인 배)",
+          "example": "A trimaran is fast on the water.",
+          "example_ko": "삼동선은 물 위에서 빨라요.",
+          "note_ko": "tri-는 '셋'. catamaran은 몸체가 둘."
+        },
+        {
+          "lang": "en",
+          "word": "record",
+          "pos": "noun",
+          "ko": "기록",
+          "example": "He broke the world record.",
+          "example_ko": "그는 세계 기록을 깼어요.",
+          "note_ko": "break a record = 기록을 깨다. 동사는 [리코드]."
+        },
+        {
+          "lang": "en",
+          "word": "finish",
+          "pos": "verb",
+          "ko": "끝내다, 결승선을 통과하다",
+          "example": "She finished first.",
+          "example_ko": "그녀는 1등으로 들어왔어요.",
+          "note_ko": "finish line = 결승선."
+        },
+        {
+          "lang": "en",
+          "word": "edition",
+          "pos": "noun",
+          "ko": "(대회의) 회, 판",
+          "example": "This is the 13th edition.",
+          "example_ko": "이번이 13번째 대회예요.",
+          "note_ko": "책의 '판'에도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "win",
+          "pos": "verb",
+          "ko": "이기다, 우승하다",
+          "example": "He won the race.",
+          "example_ko": "그가 경주에서 우승했어요.",
+          "note_ko": "win - won - won."
+        },
+        {
+          "lang": "en",
+          "word": "fast",
+          "pos": "adjective",
+          "ko": "빠른",
+          "example": "The boat is very fast.",
+          "example_ko": "그 배는 아주 빨라요.",
+          "note_ko": "비교급 faster, 최상급 fastest."
+        },
+        {
+          "lang": "en",
+          "word": "boat",
+          "pos": "noun",
+          "ko": "배",
+          "example": "They sailed a big boat.",
+          "example_ko": "그들은 큰 배를 몰았어요.",
+          "note_ko": "ship보다 작은 배."
+        },
+        {
+          "lang": "en",
+          "word": "Caribbean",
+          "pos": "proper noun",
+          "ko": "카리브해",
+          "example": "Guadeloupe is in the Caribbean.",
+          "example_ko": "과들루프는 카리브해에 있어요.",
+          "note_ko": "[캐리비언] 또는 [커리비언]."
+        },
+        {
+          "lang": "en",
+          "word": "first try",
+          "pos": "phrase",
+          "ko": "첫 도전, 한 번에",
+          "example": "He won on his first try.",
+          "example_ko": "그는 첫 도전에서 우승했어요.",
+          "note_ko": "on the first try = 처음 시도에."
+        },
+        {
+          "lang": "fr",
+          "word": "un navigateur",
+          "pos": "nom masculin",
+          "ko": "(요트) 선수, 항해사",
+          "example": "Le navigateur traverse l'océan seul.",
+          "example_ko": "선수가 혼자 바다를 건너요.",
+          "note_ko": "여성은 une navigatrice. 동사 naviguer = 항해하다."
+        },
+        {
+          "lang": "fr",
+          "word": "une course",
+          "pos": "nom féminin",
+          "ko": "경주",
+          "example": "C'est une célèbre course en mer.",
+          "example_ko": "유명한 해상 경주예요.",
+          "note_ko": "faire les courses = 장을 보다 (같은 단어)."
+        },
+        {
+          "lang": "fr",
+          "word": "en solitaire",
+          "pos": "locution",
+          "ko": "혼자서, 단독으로",
+          "example": "Il navigue en solitaire.",
+          "example_ko": "그는 혼자 항해해요.",
+          "note_ko": "une course en solitaire = 단독 경주."
+        },
+        {
+          "lang": "fr",
+          "word": "traverser",
+          "pos": "verbe",
+          "ko": "건너다",
+          "example": "Il traverse l'Atlantique.",
+          "example_ko": "그는 대서양을 건너요.",
+          "note_ko": "traverser la rue = 길을 건너다."
+        },
+        {
+          "lang": "fr",
+          "word": "l'océan",
+          "pos": "nom masculin",
+          "ko": "대양",
+          "example": "L'Atlantique est un grand océan.",
+          "example_ko": "대서양은 큰 대양이에요.",
+          "note_ko": "la mer보다 훨씬 큰 바다."
+        },
+        {
+          "lang": "fr",
+          "word": "un trimaran",
+          "pos": "nom masculin",
+          "ko": "삼동선",
+          "example": "Un trimaran va très vite.",
+          "example_ko": "삼동선은 아주 빨라요.",
+          "note_ko": "tri-는 '셋'. 몸체가 둘이면 un catamaran."
+        },
+        {
+          "lang": "fr",
+          "word": "un record",
+          "pos": "nom masculin",
+          "ko": "기록",
+          "example": "Il bat le record de l'épreuve.",
+          "example_ko": "그는 대회 기록을 깨요.",
+          "note_ko": "battre un record = 기록을 깨다."
+        },
+        {
+          "lang": "fr",
+          "word": "terminer",
+          "pos": "verbe",
+          "ko": "끝내다, 도착하다",
+          "example": "Elle termine en premier.",
+          "example_ko": "그녀는 1등으로 들어와요.",
+          "note_ko": "la ligne d'arrivée = 결승선."
+        },
+        {
+          "lang": "fr",
+          "word": "une édition",
+          "pos": "nom féminin",
+          "ko": "(대회의) 회",
+          "example": "C'est la 13e édition.",
+          "example_ko": "이번이 13번째 대회예요.",
+          "note_ko": "la 13e = la treizième."
+        },
+        {
+          "lang": "fr",
+          "word": "remporter",
+          "pos": "verbe",
+          "ko": "(승리·상을) 차지하다",
+          "example": "Il remporte la course.",
+          "example_ko": "그가 경주에서 우승해요.",
+          "note_ko": "gagner보다 격식 있는 뉴스 표현."
+        },
+        {
+          "lang": "fr",
+          "word": "rapide",
+          "pos": "adjectif",
+          "ko": "빠른",
+          "example": "Le bateau est très rapide.",
+          "example_ko": "그 배는 아주 빨라요.",
+          "note_ko": "남녀 같은 형태. 반대는 lent."
+        },
+        {
+          "lang": "fr",
+          "word": "un bateau",
+          "pos": "nom masculin",
+          "ko": "배",
+          "example": "Ils naviguent sur un grand bateau.",
+          "example_ko": "그들은 큰 배로 항해해요.",
+          "note_ko": "복수 des bateaux."
+        },
+        {
+          "lang": "fr",
+          "word": "les Caraïbes",
+          "pos": "nom féminin pluriel",
+          "ko": "카리브해",
+          "example": "La Guadeloupe est dans les Caraïbes.",
+          "example_ko": "과들루프는 카리브해에 있어요.",
+          "note_ko": "항상 복수형 les Caraïbes."
+        },
+        {
+          "lang": "fr",
+          "word": "dès sa première fois",
+          "pos": "locution",
+          "ko": "처음부터, 첫 도전에서",
+          "example": "Il gagne dès sa première fois.",
+          "example_ko": "그는 첫 도전에서 우승해요.",
+          "note_ko": "dès = ~부터 곧바로."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "\"Solo\" in \"a solo race\" means…",
+          "choices": [
+            "alone",
+            "very long",
+            "in the rain"
+          ],
+          "answer": 0,
+          "explain_ko": "solo = 혼자, 단독의."
+        },
+        {
+          "lang": "fr",
+          "q": "« En solitaire » signifie…",
+          "choices": [
+            "tout seul",
+            "très vite",
+            "sous la pluie"
+          ],
+          "answer": 0,
+          "explain_ko": "en solitaire = 혼자서."
+        }
+      ],
+      "sources": [
+        {
+          "name": "France 24 (EN)",
+          "url": "https://www.france24.com/en/live-news/20261108-laperche-wins-route-du-rhum-in-record-time",
+          "accessed": "2026-11-13"
+        },
+        {
+          "name": "France 24 (FR)",
+          "url": "https://www.france24.com/fr/info-en-continu/20261108-route-du-rhum-tom-laperche-triomphe-avec-un-chrono-record",
+          "accessed": "2026-11-13"
+        },
+        {
+          "name": "franceinfo",
+          "url": "https://www.franceinfo.fr/sports/voile/route-du-rhum/tom-laperche-remporte-la-route-du-rhum-2026-et-s-empare-du-record-de-l-epreuve_8272415.html",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-13",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-08/2961e6b7ad5afc35.mp3",
+            "2026-11-08/8cff6384be7de91a.mp3",
+            "2026-11-08/a62bd66722d83596.mp3"
+          ],
+          "normal": [
+            "2026-11-08/4c8b8b27ae7a8a4c.mp3",
+            "2026-11-08/82a368eb97666014.mp3",
+            "2026-11-08/dda574f18e363316.mp3",
+            "2026-11-08/c7a064cd950e7bd9.mp3",
+            "2026-11-08/106f18b70d41f982.mp3",
+            "2026-11-08/6ddc30e079fafbbe.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-08/bb47094566bcd51f.mp3",
+            "2026-11-08/62be920799e5029c.mp3",
+            "2026-11-08/4e7a20126b76b576.mp3"
+          ],
+          "normal": [
+            "2026-11-08/d66eceffdb4c2d37.mp3",
+            "2026-11-08/6dc7132d674ad0b7.mp3",
+            "2026-11-08/35a03e4c1c0aba3d.mp3",
+            "2026-11-08/742f07986accea18.mp3",
+            "2026-11-08/2d8c70011691c60b.mp3",
+            "2026-11-08/13a8c16482141003.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-08/175fb58af0733967.mp3",
+          "2026-11-08/78d8d86d606cb19c.mp3",
+          "2026-11-08/a9e4a96cbccf1492.mp3",
+          "2026-11-08/ebfd0a614147bd95.mp3",
+          "2026-11-08/6832a558440a6f00.mp3",
+          "2026-11-08/66e5037b42b9860a.mp3",
+          "2026-11-08/ff9fdeda45e3329c.mp3",
+          "2026-11-08/d8e494bc3ba99a74.mp3",
+          "2026-11-08/4fd0027f7b43ab3e.mp3",
+          "2026-11-08/071dee7e877c72b7.mp3",
+          "2026-11-08/947faaea6ff535c7.mp3",
+          "2026-11-08/8cddd4d9776652ea.mp3",
+          "2026-11-08/2eee7a66457b533f.mp3",
+          "2026-11-08/94b3ce409c604612.mp3",
+          "2026-11-08/b591b4863873700b.mp3",
+          "2026-11-08/89833c02f4ec21c3.mp3",
+          "2026-11-08/c5de232d823ca6d6.mp3",
+          "2026-11-08/db66d61e3273adf2.mp3",
+          "2026-11-08/f0a1ac61445a87b1.mp3",
+          "2026-11-08/99eb1d062ff74f04.mp3",
+          "2026-11-08/0b2fbd2eb3596485.mp3",
+          "2026-11-08/bd22637dfa398f59.mp3",
+          "2026-11-08/2b1850b989ae15cb.mp3",
+          "2026-11-08/6aa2c66915b57ada.mp3",
+          "2026-11-08/375c7177190f7002.mp3",
+          "2026-11-08/423a04fb6e2c3e7c.mp3",
+          "2026-11-08/830a2f226cdf914b.mp3",
+          "2026-11-08/0be3b58c4e2af2da.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.14,
+              0.197,
+              0.255,
+              0.369,
+              0.426,
+              0.483,
+              0.541,
+              0.598,
+              0.712,
+              0.769
+            ],
+            [
+              0.233,
+              0.302,
+              0.371,
+              0.509,
+              0.579,
+              0.648,
+              0.717,
+              0.786
+            ],
+            [
+              0.284,
+              0.386,
+              0.591,
+              0.693
+            ]
+          ],
+          "normal": [
+            [
+              0.082,
+              0.125,
+              0.211,
+              0.254,
+              0.34,
+              0.383,
+              0.426,
+              0.469,
+              0.512,
+              0.592,
+              0.623,
+              0.685,
+              0.716,
+              0.778,
+              0.809,
+              0.901
+            ],
+            [
+              0.111,
+              0.172,
+              0.234,
+              0.356,
+              0.417,
+              0.478,
+              0.539,
+              0.601,
+              0.662,
+              0.723,
+              0.784,
+              0.845,
+              0.906
+            ],
+            [
+              0.115,
+              0.153,
+              0.19,
+              0.228,
+              0.303,
+              0.415,
+              0.453,
+              0.49,
+              0.693,
+              0.722,
+              0.782,
+              0.812,
+              0.841,
+              0.871,
+              0.931
+            ],
+            [
+              0.061,
+              0.088,
+              0.143,
+              0.17,
+              0.252,
+              0.279,
+              0.307,
+              0.446,
+              0.491,
+              0.537,
+              0.626,
+              0.696,
+              0.732,
+              0.767,
+              0.838
+            ],
+            [
+              0.057,
+              0.088,
+              0.119,
+              0.182,
+              0.213,
+              0.244,
+              0.307,
+              0.338,
+              0.369,
+              0.4,
+              0.516,
+              0.56,
+              0.604,
+              0.735,
+              0.778,
+              0.822
+            ],
+            [
+              0.219,
+              0.29,
+              0.362,
+              0.434,
+              0.505,
+              0.72,
+              0.792,
+              0.863
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.137,
+              0.174,
+              0.32,
+              0.393,
+              0.43,
+              0.503,
+              0.54,
+              0.576,
+              0.613,
+              0.65,
+              0.723
+            ],
+            [
+              0.126,
+              0.187,
+              0.247,
+              0.429,
+              0.49,
+              0.55,
+              0.611,
+              0.732,
+              0.793
+            ],
+            [
+              0.209,
+              0.269,
+              0.329,
+              0.508,
+              0.567
+            ]
+          ],
+          "normal": [
+            [
+              0.066,
+              0.094,
+              0.206,
+              0.262,
+              0.29,
+              0.346,
+              0.375,
+              0.459,
+              0.487,
+              0.515,
+              0.543,
+              0.612,
+              0.635,
+              0.659,
+              0.682,
+              0.752,
+              0.775,
+              0.821,
+              0.868
+            ],
+            [
+              0.118,
+              0.169,
+              0.22,
+              0.322,
+              0.373,
+              0.424,
+              0.475,
+              0.577,
+              0.628,
+              0.679,
+              0.782,
+              0.833,
+              0.884
+            ],
+            [
+              0.078,
+              0.106,
+              0.16,
+              0.188,
+              0.27,
+              0.352,
+              0.386,
+              0.421,
+              0.616,
+              0.644,
+              0.701,
+              0.729,
+              0.758,
+              0.786,
+              0.814,
+              0.843,
+              0.871
+            ],
+            [
+              0.077,
+              0.102,
+              0.127,
+              0.203,
+              0.228,
+              0.39,
+              0.411,
+              0.432,
+              0.474,
+              0.494,
+              0.515,
+              0.563,
+              0.658,
+              0.705,
+              0.753,
+              0.848
+            ],
+            [
+              0.128,
+              0.157,
+              0.245,
+              0.274,
+              0.304,
+              0.333,
+              0.362,
+              0.392,
+              0.45,
+              0.555,
+              0.651,
+              0.684,
+              0.78,
+              0.813,
+              0.845
+            ],
+            [
+              0.133,
+              0.282,
+              0.356,
+              0.431,
+              0.654,
+              0.728,
+              0.803
+            ]
+          ]
+        }
+      }
     }
   ],
   "audio_base": "https://koreapapa-kim.github.io/worldnews-audio"
