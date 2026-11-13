@@ -2,6 +2,28 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-11-12",
+      "count": 2,
+      "headlines": [
+        {
+          "id": "2026-11-12-01",
+          "ko": "미국 특사들이 푸틴·젤렌스키와 만난 뒤 유럽 정상들이 더블린에 모였다",
+          "en": "Europe Meets in Dublin After US Envoys Talk With Putin and Zelensky",
+          "fr": "L'Europe se réunit à Dublin après les entretiens des émissaires américains avec Poutine et Zelensky",
+          "category": "politics",
+          "country": "IE"
+        },
+        {
+          "id": "2026-11-12-02",
+          "ko": "이스라엘, 프랑스 정치인 멜랑숑 입국 금지",
+          "en": "Israel Bans French Politician Jean-Luc Mélenchon From Entering",
+          "fr": "Israël interdit l'entrée sur son territoire à Jean-Luc Mélenchon",
+          "category": "politics",
+          "country": "IL"
+        }
+      ]
+    },
+    {
       "date": "2026-11-11",
       "count": 2,
       "headlines": [
@@ -614,6 +636,6 @@
       ]
     }
   ],
-  "latest": "2026-11-11",
-  "updated_at": "2026-11-12T09:37:36.701Z"
+  "latest": "2026-11-12",
+  "updated_at": "2026-11-13T01:22:14.065Z"
 }

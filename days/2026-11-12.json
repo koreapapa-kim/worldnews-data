@@ -1,0 +1,1539 @@
+{
+  "schema": 1,
+  "date": "2026-11-12",
+  "stories": [
+    {
+      "id": "2026-11-12-01",
+      "category": "politics",
+      "region": {
+        "country": "IE",
+        "city": "Dublin",
+        "lat": 53.35,
+        "lng": -6.26
+      },
+      "headline": {
+        "en": "Europe Meets in Dublin After US Envoys Talk With Putin and Zelensky",
+        "ko": "미국 특사들이 푸틴·젤렌스키와 만난 뒤 유럽 정상들이 더블린에 모였다",
+        "fr": "L'Europe se réunit à Dublin après les entretiens des émissaires américains avec Poutine et Zelensky"
+      },
+      "hook": {
+        "en": "Talks about Europe's security were held without Europe at the table.",
+        "ko": "유럽의 안보를 논의하는 회담에 정작 유럽은 자리에 없었습니다.",
+        "fr": "On a discuté de la sécurité de l'Europe sans l'Europe à la table."
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "European leaders met in Dublin, Ireland.",
+            "US envoys talked with Putin and Zelensky.",
+            "Zelensky said Europe will have a voice in the next talks."
+          ],
+          "easy_ko": [
+            "유럽 정상들이 아일랜드 더블린에서 만났습니다.",
+            "미국 특사들이 푸틴, 젤렌스키와 이야기했습니다.",
+            "젤렌스키는 다음 협상에서 유럽도 발언권을 갖게 될 것이라고 말했습니다."
+          ],
+          "normal": [
+            "European leaders met in Dublin on Thursday for a summit hosted by Ireland.",
+            "It came after US-brokered talks between Russia and Ukraine in Abu Dhabi, where Europeans were not at the table.",
+            "US envoys Steve Witkoff and Jared Kushner met Vladimir Putin in the Kremlin, then met Volodymyr Zelensky near Dublin.",
+            "Zelensky said Russia had accepted a prisoner exchange, the biggest so far.",
+            "He also said the US made progress on bringing Europeans into the next talks: \"They will have a voice.\"",
+            "Irish leader Micheál Martin called the exchange \"significant\" and said Europe needs \"clear, coherent leadership.\""
+          ],
+          "normal_ko": [
+            "유럽 정상들은 목요일 아일랜드가 주최한 정상회의를 위해 더블린에 모였습니다.",
+            "이 회의는 아부다비에서 미국이 중재한 러시아·우크라이나 협상 뒤에 열렸고, 그 협상에 유럽은 참여하지 못했습니다.",
+            "미국 특사 스티브 위트코프와 재러드 쿠슈너는 크렘린에서 푸틴을 만난 뒤 더블린 인근에서 젤렌스키를 만났습니다.",
+            "젤렌스키는 러시아가 지금까지 가장 큰 포로 교환에 동의했다고 말했습니다.",
+            "그는 또 미국이 다음 협상에 유럽을 참여시키는 데 진전이 있었다며 \"유럽도 발언권을 갖게 될 것\"이라고 말했습니다.",
+            "아일랜드 총리 미할 마틴은 이번 교환이 \"의미 있다\"고 평가하며 유럽에 \"분명하고 일관된 리더십\"이 필요하다고 말했습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Les dirigeants européens se sont réunis à Dublin, en Irlande.",
+            "Des émissaires américains ont parlé avec Poutine et Zelensky.",
+            "Zelensky a dit que l'Europe aura son mot à dire dans les prochaines négociations."
+          ],
+          "easy_ko": [
+            "유럽 정상들이 아일랜드 더블린에서 만났습니다.",
+            "미국 특사들이 푸틴, 젤렌스키와 이야기했습니다.",
+            "젤렌스키는 다음 협상에서 유럽도 발언권을 갖게 될 것이라고 말했습니다."
+          ],
+          "normal": [
+            "Les dirigeants européens se sont réunis jeudi à Dublin pour un sommet organisé par l'Irlande.",
+            "Il a eu lieu après les négociations russo-ukrainiennes d'Abou Dabi, parrainées par les États-Unis, auxquelles les Européens n'ont pas participé.",
+            "Les émissaires américains Steve Witkoff et Jared Kushner ont rencontré Vladimir Poutine au Kremlin, puis Volodymyr Zelensky près de Dublin.",
+            "Zelensky a dit que la Russie avait accepté un échange de prisonniers, le plus important à ce jour.",
+            "Il a aussi dit que les États-Unis avaient progressé pour associer les Européens aux prochaines négociations : « Ils auront leur mot à dire. »",
+            "Le Premier ministre irlandais Micheál Martin a jugé l'échange « important » et a affirmé que l'Europe a besoin d'un « leadership clair et cohérent »."
+          ],
+          "normal_ko": [
+            "유럽 정상들은 목요일 아일랜드가 주최한 정상회의를 위해 더블린에 모였습니다.",
+            "이 회의는 아부다비에서 미국이 중재한 러시아·우크라이나 협상 뒤에 열렸고, 그 협상에 유럽은 참여하지 못했습니다.",
+            "미국 특사 스티브 위트코프와 재러드 쿠슈너는 크렘린에서 푸틴을 만난 뒤 더블린 인근에서 젤렌스키를 만났습니다.",
+            "젤렌스키는 러시아가 지금까지 가장 큰 포로 교환에 동의했다고 말했습니다.",
+            "그는 또 미국이 다음 협상에 유럽을 참여시키는 데 진전이 있었다며 \"유럽도 발언권을 갖게 될 것\"이라고 말했습니다.",
+            "아일랜드 총리 미할 마틴은 이번 교환이 \"의미 있다\"고 평가하며 유럽에 \"분명하고 일관된 리더십\"이 필요하다고 말했습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "'at the table'은 '협상 자리에 앉아 있다'는 뜻으로, 결정 과정에 참여한다는 의미로 뉴스에 자주 나와요. 이번 정상회의는 유럽정치공동체(EPC)라는 유럽 국가들의 모임이고, 미국 특사들은 회의장이 아니라 따로 젤렌스키를 만났어요. 참석 국가 수는 보도마다 달라 영상에서는 쓰지 않았습니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "summit",
+          "pos": "noun",
+          "ko": "정상회의",
+          "example": "The leaders met at a summit in Dublin.",
+          "example_ko": "정상들이 더블린 정상회의에서 만났어요.",
+          "note_ko": "산꼭대기라는 뜻도 있어요. 뉴스에서는 정상들의 회의."
+        },
+        {
+          "lang": "en",
+          "word": "envoy",
+          "pos": "noun",
+          "ko": "특사",
+          "example": "The US sent an envoy to Moscow.",
+          "example_ko": "미국이 모스크바에 특사를 보냈어요.",
+          "note_ko": "대사보다 임시로 보내는 대표. 발음 [엔보이]."
+        },
+        {
+          "lang": "en",
+          "word": "talks",
+          "pos": "noun",
+          "ko": "협상, 회담",
+          "example": "The talks lasted two hours.",
+          "example_ko": "회담은 두 시간 동안 이어졌어요.",
+          "note_ko": "항상 복수형 talks로 써요. peace talks = 평화 협상."
+        },
+        {
+          "lang": "en",
+          "word": "at the table",
+          "pos": "phrase",
+          "ko": "협상 자리에서, 결정에 참여하는",
+          "example": "Everyone wants a seat at the table.",
+          "example_ko": "모두가 협상 자리에 앉기를 원해요.",
+          "note_ko": "a seat at the table = 결정에 참여할 자격."
+        },
+        {
+          "lang": "en",
+          "word": "prisoner exchange",
+          "pos": "noun",
+          "ko": "포로 교환",
+          "example": "Both sides agreed to a prisoner exchange.",
+          "example_ko": "양측이 포로 교환에 합의했어요.",
+          "note_ko": "prisoner swap이라고도 해요."
+        },
+        {
+          "lang": "en",
+          "word": "voice",
+          "pos": "noun",
+          "ko": "발언권, 목소리",
+          "example": "Young people want a voice in politics.",
+          "example_ko": "젊은 사람들은 정치에서 발언권을 원해요.",
+          "note_ko": "뉴스에서 have a voice = 의견을 낼 수 있다."
+        },
+        {
+          "lang": "en",
+          "word": "accept",
+          "pos": "verb",
+          "ko": "받아들이다, 동의하다",
+          "example": "She accepted the offer.",
+          "example_ko": "그녀는 그 제안을 받아들였어요.",
+          "note_ko": "except [익셉트]와 헷갈리지 않게 주의."
+        },
+        {
+          "lang": "en",
+          "word": "progress",
+          "pos": "noun",
+          "ko": "진전, 발전",
+          "example": "We made progress today.",
+          "example_ko": "우리는 오늘 진전을 이뤘어요.",
+          "note_ko": "셀 수 없는 명사. 동사는 [프러그레스]로 강세가 달라요."
+        },
+        {
+          "lang": "en",
+          "word": "leadership",
+          "pos": "noun",
+          "ko": "리더십, 지도부",
+          "example": "The country needs strong leadership.",
+          "example_ko": "나라에는 강한 리더십이 필요해요.",
+          "note_ko": "leader(지도자)의 명사형."
+        },
+        {
+          "lang": "en",
+          "word": "significant",
+          "pos": "adjective",
+          "ko": "의미 있는, 상당한",
+          "example": "It is a significant step.",
+          "example_ko": "이건 의미 있는 한 걸음이에요.",
+          "note_ko": "뉴스에서 '중요한, 상당한'이라는 뜻으로 자주 나와요."
+        },
+        {
+          "lang": "en",
+          "word": "host",
+          "pos": "verb",
+          "ko": "주최하다",
+          "example": "Ireland hosted the summit.",
+          "example_ko": "아일랜드가 정상회의를 주최했어요.",
+          "note_ko": "명사 host는 '주최자, 진행자'."
+        },
+        {
+          "lang": "en",
+          "word": "security",
+          "pos": "noun",
+          "ko": "안보, 보안",
+          "example": "Leaders talked about Europe's security.",
+          "example_ko": "정상들은 유럽의 안보를 논의했어요.",
+          "note_ko": "national security = 국가 안보."
+        },
+        {
+          "lang": "en",
+          "word": "meet",
+          "pos": "verb",
+          "ko": "만나다",
+          "example": "They met on Thursday.",
+          "example_ko": "그들은 목요일에 만났어요.",
+          "note_ko": "meet - met - met로 변해요."
+        },
+        {
+          "lang": "en",
+          "word": "include",
+          "pos": "verb",
+          "ko": "포함시키다",
+          "example": "Europe wants to be included in the talks.",
+          "example_ko": "유럽은 협상에 포함되기를 원해요.",
+          "note_ko": "반대는 exclude. 명사 inclusion."
+        },
+        {
+          "lang": "fr",
+          "word": "un sommet",
+          "pos": "nom masculin",
+          "ko": "정상회의",
+          "example": "Les dirigeants se retrouvent à un sommet à Dublin.",
+          "example_ko": "정상들이 더블린 정상회의에서 만나요.",
+          "note_ko": "'산꼭대기'라는 뜻도 있어요. 뉴스에서는 정상들의 회의."
+        },
+        {
+          "lang": "fr",
+          "word": "un émissaire",
+          "pos": "nom masculin",
+          "ko": "특사",
+          "example": "Les États-Unis envoient un émissaire à Moscou.",
+          "example_ko": "미국이 모스크바에 특사를 보내요.",
+          "note_ko": "여성도 un émissaire. 외교에서 임시로 파견하는 대표."
+        },
+        {
+          "lang": "fr",
+          "word": "les négociations",
+          "pos": "nom féminin pluriel",
+          "ko": "협상",
+          "example": "Les négociations durent deux heures.",
+          "example_ko": "협상은 두 시간 동안 이어져요.",
+          "note_ko": "뉴스에서는 거의 복수형. 동사 négocier."
+        },
+        {
+          "lang": "fr",
+          "word": "à la table",
+          "pos": "locution",
+          "ko": "협상 자리에",
+          "example": "Tout le monde veut être à la table.",
+          "example_ko": "모두가 협상 자리에 있고 싶어 해요.",
+          "note_ko": "être à la table des négociations = 협상 자리에 앉다."
+        },
+        {
+          "lang": "fr",
+          "word": "un échange de prisonniers",
+          "pos": "nom masculin",
+          "ko": "포로 교환",
+          "example": "Les deux camps acceptent un échange de prisonniers.",
+          "example_ko": "양측이 포로 교환에 동의해요.",
+          "note_ko": "un prisonnier = 포로, 수감자."
+        },
+        {
+          "lang": "fr",
+          "word": "avoir son mot à dire",
+          "pos": "locution",
+          "ko": "발언권이 있다",
+          "example": "Les jeunes veulent avoir leur mot à dire.",
+          "example_ko": "젊은이들은 발언권을 갖고 싶어 해요.",
+          "note_ko": "직역하면 '자기 말을 할 권리'. 영어 have a voice."
+        },
+        {
+          "lang": "fr",
+          "word": "accepter",
+          "pos": "verbe",
+          "ko": "받아들이다, 동의하다",
+          "example": "Elle accepte la proposition.",
+          "example_ko": "그녀는 그 제안을 받아들여요.",
+          "note_ko": "반대는 refuser."
+        },
+        {
+          "lang": "fr",
+          "word": "un progrès",
+          "pos": "nom masculin",
+          "ko": "진전, 발전",
+          "example": "Nous faisons des progrès.",
+          "example_ko": "우리는 진전을 이뤄요.",
+          "note_ko": "faire des progrès = 진전을 이루다. 복수로 자주 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "le leadership",
+          "pos": "nom masculin",
+          "ko": "리더십",
+          "example": "Le pays a besoin d'un leadership fort.",
+          "example_ko": "나라에는 강한 리더십이 필요해요.",
+          "note_ko": "영어에서 온 단어. 같은 뜻으로 la direction도 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "important",
+          "pos": "adjectif",
+          "ko": "중요한, 상당한",
+          "example": "C'est un pas important.",
+          "example_ko": "이건 중요한 한 걸음이에요.",
+          "note_ko": "남녀 같은 형태 아님: importante(여). 뉴스에서 significatif도 비슷해요."
+        },
+        {
+          "lang": "fr",
+          "word": "accueillir",
+          "pos": "verbe",
+          "ko": "(행사를) 개최하다, 맞이하다",
+          "example": "L'Irlande accueille le sommet.",
+          "example_ko": "아일랜드가 정상회의를 개최해요.",
+          "note_ko": "accueillir un sommet = 정상회의를 열다."
+        },
+        {
+          "lang": "fr",
+          "word": "la sécurité",
+          "pos": "nom féminin",
+          "ko": "안보, 안전",
+          "example": "Les dirigeants parlent de la sécurité de l'Europe.",
+          "example_ko": "정상들이 유럽의 안보를 논의해요.",
+          "note_ko": "la sécurité nationale = 국가 안보."
+        },
+        {
+          "lang": "fr",
+          "word": "rencontrer",
+          "pos": "verbe",
+          "ko": "만나다",
+          "example": "Il rencontre le président jeudi.",
+          "example_ko": "그는 목요일에 대통령을 만나요.",
+          "note_ko": "처음 만나거나 공식적으로 만날 때. se rencontrer = 서로 만나다."
+        },
+        {
+          "lang": "fr",
+          "word": "associer",
+          "pos": "verbe",
+          "ko": "참여시키다, 함께하게 하다",
+          "example": "On veut associer les Européens aux négociations.",
+          "example_ko": "유럽인들을 협상에 참여시키려 해요.",
+          "note_ko": "associer A à B = A를 B에 함께하게 하다."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "\"At the table\" in the news means…",
+          "choices": [
+            "taking part in the talks",
+            "eating dinner",
+            "being very far away"
+          ],
+          "answer": 0,
+          "explain_ko": "at the table = 협상·결정 자리에 참여하고 있는."
+        },
+        {
+          "lang": "fr",
+          "q": "« Avoir son mot à dire », c'est…",
+          "choices": [
+            "pouvoir donner son avis dans une décision",
+            "ne rien dire du tout",
+            "parler très fort"
+          ],
+          "answer": 0,
+          "explain_ko": "avoir son mot à dire = 결정에 의견을 낼 수 있다, 발언권이 있다."
+        }
+      ],
+      "sources": [
+        {
+          "name": "France 24 (live)",
+          "url": "https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks",
+          "accessed": "2026-11-13"
+        },
+        {
+          "name": "France 24 (video, page may not load)",
+          "url": "https://www.france24.com/en/video/20261112-european-leaders-gather-in-dublin-to-discuss-ukraine-s-security-and-their-own",
+          "accessed": "2026-11-13"
+        },
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/politics/2026/11/12/eu-meetings-dublin-road-closures-traffic-disruption-latest/",
+          "accessed": "2026-11-13"
+        },
+        {
+          "name": "Wikipedia Current events (CC BY-SA 4.0)",
+          "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_12",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-13",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-12/4aabb34a788cac01.mp3",
+            "2026-11-12/32368c7270d34897.mp3",
+            "2026-11-12/f80afdbb1fd26a85.mp3"
+          ],
+          "normal": [
+            "2026-11-12/89a89c6b9430271d.mp3",
+            "2026-11-12/aa97d0649f554cce.mp3",
+            "2026-11-12/4cad34efa1e37373.mp3",
+            "2026-11-12/f3fef693a152c242.mp3",
+            "2026-11-12/242217ec00b332ac.mp3",
+            "2026-11-12/9d9447a810f3347a.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-12/3f5be7790e64ccf9.mp3",
+            "2026-11-12/ebe9d68a14f7ae31.mp3",
+            "2026-11-12/d6230d6846ed9556.mp3"
+          ],
+          "normal": [
+            "2026-11-12/2a5342839106eeec.mp3",
+            "2026-11-12/b434672576b456e8.mp3",
+            "2026-11-12/a834d73953097fd1.mp3",
+            "2026-11-12/4c93475d4ddd178e.mp3",
+            "2026-11-12/94ec4f763de98a59.mp3",
+            "2026-11-12/7f0c172d95ba1a5e.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-12/7e9930d96646eb48.mp3",
+          "2026-11-12/0d56933918726207.mp3",
+          "2026-11-12/3bb9185f02c43906.mp3",
+          "2026-11-12/32db3be9030b214b.mp3",
+          "2026-11-12/62f7e9521a601576.mp3",
+          "2026-11-12/fbc84133fb6284ca.mp3",
+          "2026-11-12/a0b74cf3ad762de1.mp3",
+          "2026-11-12/7eb015936d466164.mp3",
+          "2026-11-12/d389041dc4666143.mp3",
+          "2026-11-12/88e29971d48c91e5.mp3",
+          "2026-11-12/65dedc5e3de83531.mp3",
+          "2026-11-12/f1e066769b3fe667.mp3",
+          "2026-11-12/f4ab618a0baa915d.mp3",
+          "2026-11-12/ccf923c66c49d3e0.mp3",
+          "2026-11-12/515873edb4b033dc.mp3",
+          "2026-11-12/109d682d806370f0.mp3",
+          "2026-11-12/3c5faf659ac34ffd.mp3",
+          "2026-11-12/3f21d735ac69085c.mp3",
+          "2026-11-12/e1c7f965e2d3089f.mp3",
+          "2026-11-12/9842a49f787151c1.mp3",
+          "2026-11-12/5d328e7b31afdbad.mp3",
+          "2026-11-12/0374c3092e80f419.mp3",
+          "2026-11-12/5ffab2b42b5bb35c.mp3",
+          "2026-11-12/082bd4ddb05edb56.mp3",
+          "2026-11-12/1faa7131629eecb7.mp3",
+          "2026-11-12/c64a294634b4d6de.mp3",
+          "2026-11-12/ade98461ffd1f8f0.mp3",
+          "2026-11-12/0e927b376569e4b1.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0,
+              0.236,
+              0.393,
+              0.471,
+              0.55,
+              0.707
+            ],
+            [
+              0,
+              0.087,
+              0.261,
+              0.349,
+              0.436,
+              0.61,
+              0.697
+            ],
+            [
+              0,
+              0.214,
+              0.286,
+              0.429,
+              0.5,
+              0.571,
+              0.643,
+              0.714,
+              0.786,
+              0.857,
+              0.929
+            ]
+          ],
+          "normal": [
+            [
+              0,
+              0.143,
+              0.238,
+              0.286,
+              0.333,
+              0.429,
+              0.476,
+              0.571,
+              0.619,
+              0.667,
+              0.762,
+              0.81,
+              0.857
+            ],
+            [
+              0.029,
+              0.06,
+              0.091,
+              0.153,
+              0.246,
+              0.277,
+              0.339,
+              0.401,
+              0.432,
+              0.494,
+              0.525,
+              0.587,
+              0.701,
+              0.732,
+              0.823,
+              0.854,
+              0.884,
+              0.915,
+              0.945
+            ],
+            [
+              0.068,
+              0.096,
+              0.152,
+              0.18,
+              0.237,
+              0.265,
+              0.293,
+              0.349,
+              0.377,
+              0.461,
+              0.517,
+              0.545,
+              0.573,
+              0.683,
+              0.709,
+              0.736,
+              0.841,
+              0.921,
+              0.947
+            ],
+            [
+              0,
+              0.143,
+              0.191,
+              0.287,
+              0.335,
+              0.43,
+              0.478,
+              0.622,
+              0.766,
+              0.813,
+              0.906,
+              0.953
+            ],
+            [
+              0.077,
+              0.109,
+              0.174,
+              0.206,
+              0.239,
+              0.271,
+              0.304,
+              0.368,
+              0.401,
+              0.465,
+              0.562,
+              0.627,
+              0.66,
+              0.692,
+              0.785,
+              0.823,
+              0.861,
+              0.9,
+              0.938
+            ],
+            [
+              0.053,
+              0.102,
+              0.152,
+              0.201,
+              0.25,
+              0.275,
+              0.299,
+              0.348,
+              0.447,
+              0.472,
+              0.496,
+              0.545,
+              0.57,
+              0.607,
+              0.803
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.09,
+              0.132,
+              0.261,
+              0.389,
+              0.432,
+              0.474,
+              0.56,
+              0.603,
+              0.779,
+              0.828
+            ],
+            [
+              0.201,
+              0.241,
+              0.363,
+              0.524,
+              0.565,
+              0.646,
+              0.727,
+              0.807,
+              0.848
+            ],
+            [
+              0.131,
+              0.235,
+              0.269,
+              0.304,
+              0.339,
+              0.408,
+              0.477,
+              0.512,
+              0.547,
+              0.581,
+              0.616,
+              0.65,
+              0.685,
+              0.754
+            ]
+          ],
+          "normal": [
+            [
+              0.068,
+              0.101,
+              0.199,
+              0.297,
+              0.33,
+              0.362,
+              0.427,
+              0.493,
+              0.525,
+              0.591,
+              0.623,
+              0.656,
+              0.721,
+              0.852,
+              0.884
+            ],
+            [
+              0.032,
+              0.053,
+              0.074,
+              0.095,
+              0.115,
+              0.157,
+              0.178,
+              0.261,
+              0.344,
+              0.385,
+              0.477,
+              0.531,
+              0.549,
+              0.567,
+              0.672,
+              0.713,
+              0.733,
+              0.794,
+              0.814,
+              0.835
+            ],
+            [
+              0.057,
+              0.081,
+              0.152,
+              0.246,
+              0.27,
+              0.318,
+              0.341,
+              0.389,
+              0.436,
+              0.46,
+              0.531,
+              0.602,
+              0.649,
+              0.673,
+              0.742,
+              0.761,
+              0.839,
+              0.897,
+              0.917,
+              0.936
+            ],
+            [
+              0.067,
+              0.154,
+              0.183,
+              0.212,
+              0.242,
+              0.271,
+              0.329,
+              0.387,
+              0.475,
+              0.504,
+              0.562,
+              0.591,
+              0.742,
+              0.774,
+              0.806,
+              0.903,
+              0.935,
+              0.968
+            ],
+            [
+              0.086,
+              0.106,
+              0.126,
+              0.167,
+              0.187,
+              0.208,
+              0.228,
+              0.309,
+              0.35,
+              0.411,
+              0.431,
+              0.492,
+              0.512,
+              0.573,
+              0.594,
+              0.634,
+              0.716,
+              0.795,
+              0.813,
+              0.831,
+              0.867,
+              0.885,
+              0.903,
+              0.921,
+              0.939
+            ],
+            [
+              0.054,
+              0.068,
+              0.096,
+              0.125,
+              0.167,
+              0.196,
+              0.224,
+              0.238,
+              0.266,
+              0.295,
+              0.309,
+              0.352,
+              0.389,
+              0.416,
+              0.443,
+              0.524,
+              0.551,
+              0.605,
+              0.632,
+              0.687,
+              0.714,
+              0.741,
+              0.822,
+              0.849,
+              0.876,
+              0.93
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-12-02",
+      "category": "politics",
+      "region": {
+        "country": "IL",
+        "city": "Jerusalem",
+        "lat": 31.77,
+        "lng": 35.21
+      },
+      "headline": {
+        "en": "Israel Bans French Politician Jean-Luc Mélenchon From Entering",
+        "ko": "이스라엘, 프랑스 정치인 멜랑숑 입국 금지",
+        "fr": "Israël interdit l'entrée sur son territoire à Jean-Luc Mélenchon"
+      },
+      "hook": {
+        "en": "Imagine being banned from a country you never planned to visit.",
+        "ko": "가려고 한 적도 없는 나라에서 입국을 금지당했다고 상상해 보세요.",
+        "fr": "Imaginez qu'on vous interdise d'entrer dans un pays où vous n'avez jamais voulu aller."
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Israel banned a French politician from entering.",
+            "His name is Jean-Luc Mélenchon.",
+            "France's foreign minister called the decision \"demagogic.\""
+          ],
+          "easy_ko": [
+            "이스라엘이 프랑스 정치인의 입국을 금지했습니다.",
+            "그의 이름은 장뤼크 멜랑숑입니다.",
+            "프랑스 외무장관은 이 결정을 '선동적'이라고 비판했습니다."
+          ],
+          "normal": [
+            "On Thursday, Israel's foreign ministry banned French politician Jean-Luc Mélenchon from entering the country.",
+            "It also banned Mathilde Panot, who leads his party's group in the French National Assembly.",
+            "Mélenchon founded the party La France insoumise and is a candidate in the 2027 presidential election.",
+            "Israel said his party's position toward Israel is \"extremely hostile\" and objected to his call for French navy escorts for Gaza aid boats.",
+            "France's foreign minister, Jean-Noël Barrot, called the decision \"demagogic.\"",
+            "The ban came right after France banned Yossi Dagan, a West Bank settler leader."
+          ],
+          "normal_ko": [
+            "목요일 이스라엘 외무부는 프랑스 정치인 장뤼크 멜랑숑의 입국을 금지했습니다.",
+            "또 그의 정당 소속으로 프랑스 국민의회 원내 대표인 마틸드 파노도 금지했습니다.",
+            "멜랑숑은 '불복하는 프랑스'(LFI) 정당을 만들었고, 2027년 대선 후보입니다.",
+            "이스라엘은 그의 정당이 이스라엘에 '극도로 적대적'이라고 밝혔고, 가자 구호 선박에 프랑스 해군이 호위해야 한다는 그의 주장에 반대했습니다.",
+            "프랑스 외무장관 장노엘 바로는 이 결정을 '선동적'이라고 비판했습니다.",
+            "이번 금지는 프랑스가 서안지구 정착민 지도자 요시 다간의 입국을 금지한 직후에 나왔습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Israël a interdit l'entrée à un homme politique français.",
+            "Il s'appelle Jean-Luc Mélenchon.",
+            "Le ministre français des Affaires étrangères a jugé cette décision « démagogique »."
+          ],
+          "easy_ko": [
+            "이스라엘이 프랑스 정치인의 입국을 금지했습니다.",
+            "그의 이름은 장뤼크 멜랑숑입니다.",
+            "프랑스 외무장관은 이 결정을 '선동적'이라고 비판했습니다."
+          ],
+          "normal": [
+            "Jeudi, le ministère israélien des Affaires étrangères a interdit à l'homme politique français Jean-Luc Mélenchon d'entrer dans le pays.",
+            "Il a aussi interdit l'entrée à Mathilde Panot, qui préside le groupe de son parti à l'Assemblée nationale.",
+            "Jean-Luc Mélenchon a fondé La France insoumise et il est candidat à l'élection présidentielle de 2027.",
+            "Israël juge la position de son parti envers Israël « extrêmement hostile » et s'oppose à sa demande d'escorte de la marine française pour les bateaux d'aide vers Gaza.",
+            "Le ministre français des Affaires étrangères, Jean-Noël Barrot, a qualifié la décision de « démagogique ».",
+            "Cette interdiction est intervenue juste après celle de la France visant Yossi Dagan, un dirigeant des colons de Cisjordanie."
+          ],
+          "normal_ko": [
+            "목요일 이스라엘 외무부는 프랑스 정치인 장뤼크 멜랑숑의 입국을 금지했습니다.",
+            "또 그의 정당 소속으로 프랑스 국민의회 원내 대표인 마틸드 파노도 금지했습니다.",
+            "멜랑숑은 '불복하는 프랑스'(LFI) 정당을 만들었고, 2027년 대선 후보입니다.",
+            "이스라엘은 그의 정당이 이스라엘에 '극도로 적대적'이라고 밝혔고, 가자 구호 선박에 프랑스 해군이 호위해야 한다는 그의 주장에 반대했습니다.",
+            "프랑스 외무장관 장노엘 바로는 이 결정을 '선동적'이라고 비판했습니다.",
+            "이번 금지는 프랑스가 서안지구 정착민 지도자 요시 다간의 입국을 금지한 직후에 나왔습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "이스라엘은 멜랑숑이 가자 지구 구호 선박을 프랑스 해군이 호위해야 한다고 한 말 등을 이유로 들었고, 프랑스 외무장관은 '선동적(demagogic)'이라고 비판했어요. 영상은 양쪽 말을 '누가 그렇게 말했다'로만 전합니다. 프랑스어판에만 있는 UN 위원회 언급과 다간 금지 시점은 출처마다 달라 쓰지 않았어요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "ban",
+          "pos": "verb",
+          "ko": "금지하다",
+          "example": "The school banned phones.",
+          "example_ko": "학교는 휴대폰을 금지했어요.",
+          "note_ko": "ban - banned - banned. 명사로도 써요: a ban on phones."
+        },
+        {
+          "lang": "en",
+          "word": "politician",
+          "pos": "noun",
+          "ko": "정치인",
+          "example": "The politician gave a speech.",
+          "example_ko": "그 정치인이 연설을 했어요.",
+          "note_ko": "politics(정치), political(정치적인)과 같은 뿌리."
+        },
+        {
+          "lang": "en",
+          "word": "enter",
+          "pos": "verb",
+          "ko": "들어가다, 입국하다",
+          "example": "He was not allowed to enter the country.",
+          "example_ko": "그는 그 나라에 입국이 허용되지 않았어요.",
+          "note_ko": "enter 뒤에 into를 붙이지 않아요."
+        },
+        {
+          "lang": "en",
+          "word": "party",
+          "pos": "noun",
+          "ko": "정당",
+          "example": "She joined a political party.",
+          "example_ko": "그녀는 한 정당에 가입했어요.",
+          "note_ko": "'파티'라는 뜻도 있지만 뉴스에서는 대부분 정당."
+        },
+        {
+          "lang": "en",
+          "word": "stance",
+          "pos": "noun",
+          "ko": "입장, 태도",
+          "example": "The party has a clear stance on this.",
+          "example_ko": "그 정당은 이 문제에 분명한 입장이 있어요.",
+          "note_ko": "position과 비슷하지만 더 공식적인 느낌."
+        },
+        {
+          "lang": "en",
+          "word": "hostile",
+          "pos": "adjective",
+          "ko": "적대적인",
+          "example": "He gave a hostile look.",
+          "example_ko": "그는 적대적인 눈빛을 보냈어요.",
+          "note_ko": "발음 [호스틀]. 명사 hostility(적대감)."
+        },
+        {
+          "lang": "en",
+          "word": "escort",
+          "pos": "noun",
+          "ko": "호위",
+          "example": "The ship had a navy escort.",
+          "example_ko": "그 배는 해군 호위를 받았어요.",
+          "note_ko": "동사는 [이스코트]. 명사는 [에스코트]로 강세가 달라요."
+        },
+        {
+          "lang": "en",
+          "word": "decision",
+          "pos": "noun",
+          "ko": "결정",
+          "example": "It was a hard decision.",
+          "example_ko": "그건 어려운 결정이었어요.",
+          "note_ko": "동사 decide, make a decision."
+        },
+        {
+          "lang": "en",
+          "word": "demagogic",
+          "pos": "adjective",
+          "ko": "선동적인, 인기영합적인",
+          "example": "Critics called the speech demagogic.",
+          "example_ko": "비판하는 사람들은 그 연설을 선동적이라고 했어요.",
+          "note_ko": "감정을 자극해 지지를 얻으려는 태도. 명사 demagogue."
+        },
+        {
+          "lang": "en",
+          "word": "foreign minister",
+          "pos": "noun",
+          "ko": "외무장관",
+          "example": "The foreign minister spoke on social media.",
+          "example_ko": "외무장관이 소셜미디어에 글을 올렸어요.",
+          "note_ko": "미국의 secretary of state에 해당해요."
+        },
+        {
+          "lang": "en",
+          "word": "candidate",
+          "pos": "noun",
+          "ko": "후보",
+          "example": "He is a candidate for president.",
+          "example_ko": "그는 대통령 후보예요.",
+          "note_ko": "run as a candidate = 후보로 출마하다."
+        },
+        {
+          "lang": "en",
+          "word": "criticize",
+          "pos": "verb",
+          "ko": "비판하다",
+          "example": "Many people criticized the plan.",
+          "example_ko": "많은 사람이 그 계획을 비판했어요.",
+          "note_ko": "영국식 철자 criticise. 명사 criticism."
+        },
+        {
+          "lang": "en",
+          "word": "announce",
+          "pos": "verb",
+          "ko": "발표하다",
+          "example": "The ministry announced the ban.",
+          "example_ko": "외무부가 금지를 발표했어요.",
+          "note_ko": "명사 announcement."
+        },
+        {
+          "lang": "en",
+          "word": "reason",
+          "pos": "noun",
+          "ko": "이유",
+          "example": "What was the reason for the ban?",
+          "example_ko": "금지의 이유가 뭐였어요?",
+          "note_ko": "for this reason = 이런 이유로."
+        },
+        {
+          "lang": "fr",
+          "word": "interdire",
+          "pos": "verbe",
+          "ko": "금지하다",
+          "example": "L'école interdit les téléphones.",
+          "example_ko": "학교는 휴대폰을 금지해요.",
+          "note_ko": "interdire à quelqu'un de + 동사. 명사 une interdiction."
+        },
+        {
+          "lang": "fr",
+          "word": "un homme politique",
+          "pos": "nom masculin",
+          "ko": "정치인",
+          "example": "Cet homme politique fait un discours.",
+          "example_ko": "그 정치인이 연설을 해요.",
+          "note_ko": "여성은 une femme politique. un responsable politique도 같은 뜻."
+        },
+        {
+          "lang": "fr",
+          "word": "entrer",
+          "pos": "verbe",
+          "ko": "들어가다, 입국하다",
+          "example": "Il n'a pas le droit d'entrer dans le pays.",
+          "example_ko": "그는 그 나라에 입국할 권리가 없어요.",
+          "note_ko": "être interdit d'entrée = 입국 금지를 당하다."
+        },
+        {
+          "lang": "fr",
+          "word": "un parti",
+          "pos": "nom masculin",
+          "ko": "정당",
+          "example": "Elle rejoint un parti politique.",
+          "example_ko": "그녀는 한 정당에 가입해요.",
+          "note_ko": "'파티'가 아니라 정당. 파티는 une fête."
+        },
+        {
+          "lang": "fr",
+          "word": "une position",
+          "pos": "nom féminin",
+          "ko": "입장, 태도",
+          "example": "Le parti a une position claire.",
+          "example_ko": "그 정당은 분명한 입장이 있어요.",
+          "note_ko": "prendre position = 입장을 밝히다."
+        },
+        {
+          "lang": "fr",
+          "word": "hostile",
+          "pos": "adjectif",
+          "ko": "적대적인",
+          "example": "Il a un regard hostile.",
+          "example_ko": "그는 적대적인 눈빛을 해요.",
+          "note_ko": "남녀 같은 형태. 명사 l'hostilité."
+        },
+        {
+          "lang": "fr",
+          "word": "une escorte",
+          "pos": "nom féminin",
+          "ko": "호위",
+          "example": "Le navire a une escorte de la marine.",
+          "example_ko": "그 배는 해군 호위를 받아요.",
+          "note_ko": "동사 escorter."
+        },
+        {
+          "lang": "fr",
+          "word": "une décision",
+          "pos": "nom féminin",
+          "ko": "결정",
+          "example": "C'est une décision difficile.",
+          "example_ko": "이건 어려운 결정이에요.",
+          "note_ko": "prendre une décision = 결정을 내리다."
+        },
+        {
+          "lang": "fr",
+          "word": "démagogique",
+          "pos": "adjectif",
+          "ko": "선동적인, 인기영합적인",
+          "example": "Ce discours est démagogique.",
+          "example_ko": "이 연설은 선동적이에요.",
+          "note_ko": "감정을 자극해 지지를 얻으려는. 명사 la démagogie."
+        },
+        {
+          "lang": "fr",
+          "word": "le ministre des Affaires étrangères",
+          "pos": "nom masculin",
+          "ko": "외무장관",
+          "example": "Le ministre des Affaires étrangères réagit sur X.",
+          "example_ko": "외무장관이 X에서 반응해요.",
+          "note_ko": "줄여서 le chef de la diplomatie라고도 해요."
+        },
+        {
+          "lang": "fr",
+          "word": "un candidat",
+          "pos": "nom masculin",
+          "ko": "후보",
+          "example": "Il est candidat à la présidentielle.",
+          "example_ko": "그는 대선 후보예요.",
+          "note_ko": "여성은 une candidate. la présidentielle = 대통령 선거."
+        },
+        {
+          "lang": "fr",
+          "word": "critiquer",
+          "pos": "verbe",
+          "ko": "비판하다",
+          "example": "Beaucoup de gens critiquent ce plan.",
+          "example_ko": "많은 사람이 이 계획을 비판해요.",
+          "note_ko": "명사 la critique."
+        },
+        {
+          "lang": "fr",
+          "word": "annoncer",
+          "pos": "verbe",
+          "ko": "발표하다",
+          "example": "Le ministère annonce l'interdiction.",
+          "example_ko": "외무부가 금지를 발표해요.",
+          "note_ko": "명사 une annonce."
+        },
+        {
+          "lang": "fr",
+          "word": "une raison",
+          "pos": "nom féminin",
+          "ko": "이유",
+          "example": "Quelle est la raison de cette interdiction ?",
+          "example_ko": "이 금지의 이유가 뭐예요?",
+          "note_ko": "pour cette raison = 이런 이유로."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "\"Demagogic\" describes someone who…",
+          "choices": [
+            "stirs up emotions to win support",
+            "speaks very quietly",
+            "always tells the truth"
+          ],
+          "answer": 0,
+          "explain_ko": "demagogic = 감정을 자극해 지지를 얻으려는, 선동적인."
+        },
+        {
+          "lang": "fr",
+          "q": "« Démagogique » décrit quelqu'un qui…",
+          "choices": [
+            "excite les émotions pour gagner des soutiens",
+            "parle très doucement",
+            "dit toujours la vérité"
+          ],
+          "answer": 0,
+          "explain_ko": "démagogique = 감정을 자극해 지지를 얻으려는, 선동적인."
+        }
+      ],
+      "sources": [
+        {
+          "name": "France 24 (EN)",
+          "url": "https://www.france24.com/en/middle-east/20261112-israel-to-ban-far-left-french-politician-jean-luc-m%C3%A9lenchon-from-entry",
+          "accessed": "2026-11-13"
+        },
+        {
+          "name": "France 24 (FR)",
+          "url": "https://www.france24.com/fr/france/20261112-isra%C3%ABl-interdit-entr%C3%A9e-territoire-jean-luc-m%C3%A9lenchon-lfi-gauche-radicale-gaza-colonies",
+          "accessed": "2026-11-13"
+        },
+        {
+          "name": "Atlasinfo",
+          "url": "https://atlasinfo.fr/israel-interdit-lentree-sur-son-territoire-a-jean-luc-melenchon-et-mathilde-panot",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-13",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-12/5873e0557f26bb35.mp3",
+            "2026-11-12/3ef159503cac112e.mp3",
+            "2026-11-12/8cfc3fe740ffa7b9.mp3"
+          ],
+          "normal": [
+            "2026-11-12/8c50682328fb3acc.mp3",
+            "2026-11-12/f67637c60e0179bc.mp3",
+            "2026-11-12/42dc86e6891fcb41.mp3",
+            "2026-11-12/075237e63869987c.mp3",
+            "2026-11-12/021539345d4ef14e.mp3",
+            "2026-11-12/697da1e8dacf0061.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-12/29d08a8828dd6150.mp3",
+            "2026-11-12/f6b29daaff6866c0.mp3",
+            "2026-11-12/551ca3a136fb2d80.mp3"
+          ],
+          "normal": [
+            "2026-11-12/dc0be7ed5f167787.mp3",
+            "2026-11-12/b5e64d12cfbbb3b7.mp3",
+            "2026-11-12/e92bca01cf509c24.mp3",
+            "2026-11-12/a480b01d01cfcc47.mp3",
+            "2026-11-12/9344512cf1bcff7f.mp3",
+            "2026-11-12/12ea1d45ad4bd94b.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-12/749478aefd2a8ab1.mp3",
+          "2026-11-12/db48c7284991721d.mp3",
+          "2026-11-12/fd176ea4d9db471b.mp3",
+          "2026-11-12/3949b098a9bde39c.mp3",
+          "2026-11-12/bef635dedd4c4fbc.mp3",
+          "2026-11-12/bcc538f07b246525.mp3",
+          "2026-11-12/25e006dc5814de89.mp3",
+          "2026-11-12/aa92c0f7d27df5d9.mp3",
+          "2026-11-12/b3964cc974f3fe29.mp3",
+          "2026-11-12/1b7248e1397cdb10.mp3",
+          "2026-11-12/380377b378d326ec.mp3",
+          "2026-11-12/f00ba9f807c701f1.mp3",
+          "2026-11-12/dd99987226ef4d17.mp3",
+          "2026-11-12/3d5492b0bb81fd40.mp3",
+          "2026-11-12/e295b29e61f64fb8.mp3",
+          "2026-11-12/a81c40ea2ab0adf7.mp3",
+          "2026-11-12/3065b2668305b839.mp3",
+          "2026-11-12/50dc0ca81ed59209.mp3",
+          "2026-11-12/c3a4b383103f5bed.mp3",
+          "2026-11-12/3564af043ed7be68.mp3",
+          "2026-11-12/00fc05675ad520fe.mp3",
+          "2026-11-12/98f5b5755b056e87.mp3",
+          "2026-11-12/08523333b9229292.mp3",
+          "2026-11-12/37aff64d3c099b45.mp3",
+          "2026-11-12/99487e61835fe7e4.mp3",
+          "2026-11-12/0df19cdc333bdf33.mp3",
+          "2026-11-12/73013f69ad6fd651.mp3",
+          "2026-11-12/de1f3cfb4653dcd0.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.072,
+              0.215,
+              0.286,
+              0.358,
+              0.429,
+              0.714,
+              0.786
+            ],
+            [
+              0,
+              0.125,
+              0.25,
+              0.375,
+              0.625
+            ],
+            [
+              0.159,
+              0.212,
+              0.317,
+              0.475,
+              0.528,
+              0.581,
+              0.739
+            ]
+          ],
+          "normal": [
+            [
+              0.135,
+              0.168,
+              0.275,
+              0.331,
+              0.387,
+              0.471,
+              0.499,
+              0.527,
+              0.639,
+              0.695,
+              0.779,
+              0.807,
+              0.891,
+              0.919
+            ],
+            [
+              0.135,
+              0.173,
+              0.25,
+              0.289,
+              0.366,
+              0.51,
+              0.539,
+              0.569,
+              0.598,
+              0.657,
+              0.686,
+              0.716,
+              0.745,
+              0.775,
+              0.863
+            ],
+            [
+              0,
+              0.1,
+              0.133,
+              0.167,
+              0.233,
+              0.267,
+              0.3,
+              0.4,
+              0.433,
+              0.467,
+              0.5,
+              0.6,
+              0.633,
+              0.667,
+              0.767,
+              0.9
+            ],
+            [
+              0.068,
+              0.118,
+              0.143,
+              0.167,
+              0.217,
+              0.291,
+              0.34,
+              0.39,
+              0.415,
+              0.514,
+              0.563,
+              0.588,
+              0.637,
+              0.662,
+              0.687,
+              0.712,
+              0.736,
+              0.761,
+              0.81,
+              0.86,
+              0.885,
+              0.934,
+              0.959
+            ],
+            [
+              0,
+              0.015,
+              0.046,
+              0.113,
+              0.29,
+              0.546,
+              0.597,
+              0.647,
+              0.798
+            ],
+            [
+              0,
+              0.05,
+              0.101,
+              0.151,
+              0.201,
+              0.302,
+              0.352,
+              0.402,
+              0.503,
+              0.674,
+              0.721,
+              0.767,
+              0.814,
+              0.907
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.11,
+              0.207,
+              0.255,
+              0.399,
+              0.496,
+              0.544,
+              0.592,
+              0.64,
+              0.833
+            ],
+            [
+              0.338,
+              0.421,
+              0.587,
+              0.752
+            ],
+            [
+              0.072,
+              0.107,
+              0.177,
+              0.247,
+              0.282,
+              0.352,
+              0.457,
+              0.491,
+              0.561,
+              0.596,
+              0.701,
+              0.736,
+              0.911
+            ]
+          ],
+          "normal": [
+            [
+              0.085,
+              0.171,
+              0.194,
+              0.261,
+              0.329,
+              0.352,
+              0.397,
+              0.464,
+              0.487,
+              0.554,
+              0.577,
+              0.6,
+              0.69,
+              0.735,
+              0.78,
+              0.847,
+              0.893,
+              0.915,
+              0.938
+            ],
+            [
+              0.063,
+              0.091,
+              0.119,
+              0.175,
+              0.26,
+              0.316,
+              0.344,
+              0.4,
+              0.501,
+              0.529,
+              0.586,
+              0.615,
+              0.643,
+              0.672,
+              0.7,
+              0.757,
+              0.786,
+              0.871
+            ],
+            [
+              0.097,
+              0.153,
+              0.237,
+              0.264,
+              0.32,
+              0.348,
+              0.376,
+              0.46,
+              0.488,
+              0.515,
+              0.543,
+              0.627,
+              0.655,
+              0.739,
+              0.85,
+              0.878
+            ],
+            [
+              0.047,
+              0.086,
+              0.105,
+              0.125,
+              0.183,
+              0.203,
+              0.222,
+              0.261,
+              0.3,
+              0.338,
+              0.358,
+              0.416,
+              0.455,
+              0.511,
+              0.528,
+              0.564,
+              0.582,
+              0.599,
+              0.635,
+              0.67,
+              0.688,
+              0.706,
+              0.741,
+              0.777,
+              0.795,
+              0.813,
+              0.848,
+              0.866,
+              0.884
+            ],
+            [
+              0.089,
+              0.115,
+              0.167,
+              0.22,
+              0.246,
+              0.298,
+              0.422,
+              0.476,
+              0.601,
+              0.622,
+              0.684,
+              0.705,
+              0.768,
+              0.788,
+              0.809,
+              0.914
+            ],
+            [
+              0.078,
+              0.103,
+              0.205,
+              0.23,
+              0.332,
+              0.357,
+              0.408,
+              0.434,
+              0.459,
+              0.484,
+              0.51,
+              0.561,
+              0.611,
+              0.687,
+              0.708,
+              0.771,
+              0.792,
+              0.834,
+              0.855
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "audio_base": "https://koreapapa-kim.github.io/worldnews-audio"
+}
