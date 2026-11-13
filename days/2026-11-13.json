@@ -1,0 +1,1423 @@
+{
+  "schema": 1,
+  "date": "2026-11-13",
+  "stories": [
+    {
+      "id": "2026-11-13-01",
+      "category": "technology",
+      "region": {
+        "country": "US",
+        "city": "Redmond",
+        "lat": 47.67,
+        "lng": -122.12
+      },
+      "headline": {
+        "en": "Microsoft Outage Hits Outlook and Teams Worldwide",
+        "ko": "마이크로소프트 장애, 전 세계 Outlook·Teams 먹통",
+        "fr": "Panne géante chez Microsoft : Outlook et Teams touchés dans le monde"
+      },
+      "hook": {
+        "en": "Imagine your work email stops working in the middle of the day.",
+        "ko": "근무 중에 업무용 이메일이 갑자기 먹통이 된다고 상상해 보세요.",
+        "fr": "Imaginez que votre messagerie professionnelle tombe en panne en pleine journée."
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Microsoft email stopped working for many people.",
+            "It happened all around the world on Thursday.",
+            "Microsoft is working to fix it."
+          ],
+          "easy_ko": [
+            "마이크로소프트 이메일이 많은 사람에게 먹통이 됐습니다.",
+            "목요일에 전 세계에서 일어난 일입니다.",
+            "마이크로소프트는 문제를 고치는 중입니다."
+          ],
+          "normal": [
+            "A big Microsoft outage hit users around the world on Thursday.",
+            "Outlook was hit hardest: at the peak, about 130,000 problem reports were filed on the tracking site Downdetector.",
+            "Teams and the AI assistant Copilot were also affected.",
+            "Microsoft has not confirmed the cause of the outage.",
+            "The company said it was working to fix the problem.",
+            "Recovery has been slow and was still not complete on Friday."
+          ],
+          "normal_ko": [
+            "목요일에 마이크로소프트의 큰 장애가 전 세계 사용자들을 덮쳤습니다.",
+            "Outlook이 가장 큰 영향을 받았고, 정점에는 추적 사이트 다운디텍터에 문제 신고가 약 13만 건 올라왔습니다.",
+            "Teams와 AI 비서 Copilot도 영향을 받았습니다.",
+            "마이크로소프트는 장애의 원인을 확정하지 않았습니다.",
+            "회사는 문제를 고치는 중이라고 밝혔습니다.",
+            "복구는 더뎠고 금요일에도 완전히 끝나지 않았습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "La messagerie de Microsoft a cessé de fonctionner pour beaucoup de gens.",
+            "Cela s'est produit partout dans le monde, jeudi.",
+            "Microsoft travaille à régler le problème."
+          ],
+          "easy_ko": [
+            "마이크로소프트 이메일이 많은 사람에게 먹통이 됐습니다.",
+            "목요일에 전 세계에서 일어난 일입니다.",
+            "마이크로소프트는 문제를 고치는 중입니다."
+          ],
+          "normal": [
+            "Une grande panne de Microsoft a touché des utilisateurs dans le monde entier jeudi.",
+            "Outlook a été le plus touché : au pic, environ 130 000 signalements de problèmes ont été déposés sur le site de suivi Downdetector.",
+            "Teams et l'assistant d'intelligence artificielle Copilot ont aussi été affectés.",
+            "Microsoft n'a pas confirmé la cause de la panne.",
+            "L'entreprise a dit qu'elle travaillait à régler le problème.",
+            "La reprise a été lente et n'était toujours pas complète vendredi."
+          ],
+          "normal_ko": [
+            "목요일에 마이크로소프트의 큰 장애가 전 세계 사용자들을 덮쳤습니다.",
+            "Outlook이 가장 큰 영향을 받았고, 정점에는 추적 사이트 다운디텍터에 문제 신고가 약 13만 건 올라왔습니다.",
+            "Teams와 AI 비서 Copilot도 영향을 받았습니다.",
+            "마이크로소프트는 장애의 원인을 확정하지 않았습니다.",
+            "회사는 문제를 고치는 중이라고 밝혔습니다.",
+            "복구는 더뎠고 금요일에도 완전히 끝나지 않았습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "Downdetector는 사용자들이 서비스 문제를 신고하면 그 수를 보여 주는 사이트예요. 신고 수가 곧 피해자 수는 아니라서 '신고 약 13만 건'이라고 썼습니다. 원인은 출처마다 설명이 달랐고(서버 과부하, 서버 상태 점검 실패 등) 마이크로소프트가 확정하지 않아서 영상에서는 쓰지 않았어요. 복구 상황은 금요일 호주 ABC 보도 기준입니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "outage",
+          "pos": "noun",
+          "ko": "(서비스) 장애, 중단",
+          "example": "The outage lasted two hours.",
+          "example_ko": "장애는 두 시간 동안 이어졌어요.",
+          "note_ko": "power outage = 정전. 서비스나 전기가 끊기는 일."
+        },
+        {
+          "lang": "en",
+          "word": "user",
+          "pos": "noun",
+          "ko": "사용자",
+          "example": "Millions of users were affected.",
+          "example_ko": "수백만 명의 사용자가 영향을 받았어요.",
+          "note_ko": "동사 use, 명사 use와 같은 뿌리."
+        },
+        {
+          "lang": "en",
+          "word": "hit",
+          "pos": "verb",
+          "ko": "타격을 주다, 덮치다",
+          "example": "The storm hit the coast.",
+          "example_ko": "폭풍이 해안을 덮쳤어요.",
+          "note_ko": "hit - hit - hit. 뉴스에서는 '영향을 주다, 덮치다'로 자주 써요."
+        },
+        {
+          "lang": "en",
+          "word": "peak",
+          "pos": "noun",
+          "ko": "정점, 최고점",
+          "example": "Reports reached a peak at noon.",
+          "example_ko": "신고가 정오에 정점에 달했어요.",
+          "note_ko": "at the peak = 정점에. 산꼭대기라는 뜻도 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "report",
+          "pos": "noun",
+          "ko": "신고, 보고",
+          "example": "There were many reports of problems.",
+          "example_ko": "문제 신고가 많았어요.",
+          "note_ko": "동사로도 써요: People reported problems."
+        },
+        {
+          "lang": "en",
+          "word": "affect",
+          "pos": "verb",
+          "ko": "영향을 주다",
+          "example": "The outage affected thousands of people.",
+          "example_ko": "장애는 수천 명에게 영향을 줬어요.",
+          "note_ko": "명사 effect와 철자 구분. affect는 동사."
+        },
+        {
+          "lang": "en",
+          "word": "cause",
+          "pos": "noun",
+          "ko": "원인",
+          "example": "The cause is still unknown.",
+          "example_ko": "원인은 아직 알려지지 않았어요.",
+          "note_ko": "동사로는 '일으키다'. cause damage = 피해를 일으키다."
+        },
+        {
+          "lang": "en",
+          "word": "confirm",
+          "pos": "verb",
+          "ko": "확인해 주다, 확정하다",
+          "example": "The company did not confirm the cause.",
+          "example_ko": "회사는 원인을 확정하지 않았어요.",
+          "note_ko": "명사 confirmation. 반대 느낌은 deny(부인하다)."
+        },
+        {
+          "lang": "en",
+          "word": "fix",
+          "pos": "verb",
+          "ko": "고치다",
+          "example": "Engineers are working to fix it.",
+          "example_ko": "엔지니어들이 고치려고 작업 중이에요.",
+          "note_ko": "fix a problem = 문제를 해결하다."
+        },
+        {
+          "lang": "en",
+          "word": "restore",
+          "pos": "verb",
+          "ko": "복구하다, 되살리다",
+          "example": "They restored the service.",
+          "example_ko": "그들은 서비스를 복구했어요.",
+          "note_ko": "restore power = 전기를 복구하다. 명사 restoration."
+        },
+        {
+          "lang": "en",
+          "word": "recovery",
+          "pos": "noun",
+          "ko": "복구, 회복",
+          "example": "The recovery is slow.",
+          "example_ko": "복구가 더뎌요.",
+          "note_ko": "동사 recover. 건강 회복에도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "partial",
+          "pos": "adjective",
+          "ko": "부분적인",
+          "example": "Recovery is only partial.",
+          "example_ko": "복구는 부분적일 뿐이에요.",
+          "note_ko": "반대는 complete(완전한). partially = 부분적으로."
+        },
+        {
+          "lang": "en",
+          "word": "service",
+          "pos": "noun",
+          "ko": "서비스, 운영",
+          "example": "The service stopped for hours.",
+          "example_ko": "서비스가 몇 시간 동안 멈췄어요.",
+          "note_ko": "online service = 온라인 서비스. 식당 서비스에도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "slow",
+          "pos": "adjective",
+          "ko": "느린, 더딘",
+          "example": "The progress is slow.",
+          "example_ko": "진전이 더뎌요.",
+          "note_ko": "반대는 fast. 부사형은 slowly."
+        },
+        {
+          "lang": "fr",
+          "word": "une panne",
+          "pos": "nom féminin",
+          "ko": "(서비스) 장애, 고장",
+          "example": "La panne a duré deux heures.",
+          "example_ko": "장애는 두 시간 동안 이어졌어요.",
+          "note_ko": "une panne d'électricité = 정전. tomber en panne = 고장 나다."
+        },
+        {
+          "lang": "fr",
+          "word": "un utilisateur",
+          "pos": "nom masculin",
+          "ko": "사용자",
+          "example": "Des millions d'utilisateurs sont touchés.",
+          "example_ko": "수백만 명의 사용자가 영향을 받아요.",
+          "note_ko": "여성은 une utilisatrice. 동사 utiliser."
+        },
+        {
+          "lang": "fr",
+          "word": "toucher",
+          "pos": "verbe",
+          "ko": "영향을 주다, 타격을 주다",
+          "example": "La tempête touche la côte.",
+          "example_ko": "폭풍이 해안을 덮쳐요.",
+          "note_ko": "être touché par = ~의 영향을 받다. 원래 뜻은 '만지다'."
+        },
+        {
+          "lang": "fr",
+          "word": "le pic",
+          "pos": "nom masculin",
+          "ko": "정점, 최고점",
+          "example": "Le pic a eu lieu à midi.",
+          "example_ko": "정점은 정오에 있었어요.",
+          "note_ko": "au pic de = ~이 절정일 때. 산봉우리라는 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "un signalement",
+          "pos": "nom masculin",
+          "ko": "신고",
+          "example": "Il y a eu beaucoup de signalements.",
+          "example_ko": "신고가 많았어요.",
+          "note_ko": "동사 signaler(알리다, 신고하다)."
+        },
+        {
+          "lang": "fr",
+          "word": "affecter",
+          "pos": "verbe",
+          "ko": "영향을 주다",
+          "example": "La panne affecte des milliers de gens.",
+          "example_ko": "장애가 수천 명에게 영향을 줘요.",
+          "note_ko": "être affecté par = ~의 영향을 받다."
+        },
+        {
+          "lang": "fr",
+          "word": "la cause",
+          "pos": "nom féminin",
+          "ko": "원인",
+          "example": "La cause reste inconnue.",
+          "example_ko": "원인은 아직 알려지지 않았어요.",
+          "note_ko": "동사 causer(일으키다)도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "confirmer",
+          "pos": "verbe",
+          "ko": "확인해 주다, 확정하다",
+          "example": "L'entreprise ne confirme pas la cause.",
+          "example_ko": "회사는 원인을 확정하지 않아요.",
+          "note_ko": "명사 une confirmation. 반대 느낌은 démentir."
+        },
+        {
+          "lang": "fr",
+          "word": "régler",
+          "pos": "verbe",
+          "ko": "해결하다, 처리하다",
+          "example": "Les ingénieurs travaillent à régler le problème.",
+          "example_ko": "엔지니어들이 문제를 해결하려고 작업 중이에요.",
+          "note_ko": "régler un problème = 문제를 해결하다. 요금을 '내다'라는 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "rétablir",
+          "pos": "verbe",
+          "ko": "복구하다",
+          "example": "Microsoft rétablit peu à peu le service.",
+          "example_ko": "마이크로소프트는 서비스를 조금씩 복구해요.",
+          "note_ko": "rétablir le courant = 전기를 복구하다."
+        },
+        {
+          "lang": "fr",
+          "word": "la reprise",
+          "pos": "nom féminin",
+          "ko": "재개, 복구",
+          "example": "La reprise est lente.",
+          "example_ko": "복구가 더뎌요.",
+          "note_ko": "경제 뉴스에서는 '경기 회복'. 동사 reprendre."
+        },
+        {
+          "lang": "fr",
+          "word": "partiel",
+          "pos": "adjectif",
+          "ko": "부분적인",
+          "example": "La reprise n'est que partielle.",
+          "example_ko": "복구는 부분적일 뿐이에요.",
+          "note_ko": "여성형 partielle. 반대는 complet."
+        },
+        {
+          "lang": "fr",
+          "word": "lent",
+          "pos": "adjectif",
+          "ko": "느린, 더딘",
+          "example": "Le progrès est lent.",
+          "example_ko": "진전이 더뎌요.",
+          "note_ko": "여성형 lente. 부사 lentement."
+        },
+        {
+          "lang": "fr",
+          "word": "la messagerie",
+          "pos": "nom féminin",
+          "ko": "메일(메시지) 서비스",
+          "example": "La messagerie ne marche plus.",
+          "example_ko": "메일 서비스가 작동하지 않아요.",
+          "note_ko": "la messagerie professionnelle = 업무용 메일. 이메일 자체는 un e-mail / un courriel."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "An \"outage\" is when…",
+          "choices": [
+            "a service stops working",
+            "a service gets cheaper",
+            "a new product is released"
+          ],
+          "answer": 0,
+          "explain_ko": "outage = 서비스나 전기가 끊기는 장애, 중단."
+        },
+        {
+          "lang": "fr",
+          "q": "« Une panne », c'est quand…",
+          "choices": [
+            "un service ne fonctionne plus",
+            "un service devient moins cher",
+            "on lance un nouveau produit"
+          ],
+          "answer": 0,
+          "explain_ko": "une panne = 서비스나 기계가 작동하지 않는 장애, 고장."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users",
+          "accessed": "2026-11-13"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/12/microsoft-outage-hits-outlook-teams-and-copilot-disrupting-thousands",
+          "accessed": "2026-11-13"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/live-news/20261113-global-outage-hits-microsoft-outlook",
+          "accessed": "2026-11-13"
+        },
+        {
+          "name": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affects-users-worldwide/107381050",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-13",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-13/57e61204b1d111c2.mp3",
+            "2026-11-13/239fc1fe34673063.mp3",
+            "2026-11-13/4907443851bcc99b.mp3"
+          ],
+          "normal": [
+            "2026-11-13/5c5360bc8d51afd6.mp3",
+            "2026-11-13/cd5be75c4de5fdbb.mp3",
+            "2026-11-13/b82565c9e83bcf64.mp3",
+            "2026-11-13/98ca212e2bee3df9.mp3",
+            "2026-11-13/0871d171baeb341d.mp3",
+            "2026-11-13/5f132204aa3123a6.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-13/a71842d0326765f9.mp3",
+            "2026-11-13/c10cfede345e6bef.mp3",
+            "2026-11-13/0c229a8777a29525.mp3"
+          ],
+          "normal": [
+            "2026-11-13/0b6b5ee2ae4a69c7.mp3",
+            "2026-11-13/7907c0bbf630970e.mp3",
+            "2026-11-13/cbfbc2763a9b93a7.mp3",
+            "2026-11-13/fa8aac82f534f71d.mp3",
+            "2026-11-13/d65b3350ede84468.mp3",
+            "2026-11-13/228ee6951837c79d.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-13/a4adead40d150a4c.mp3",
+          "2026-11-13/03e5c8ce735f6e93.mp3",
+          "2026-11-13/12e639d5ca99ca94.mp3",
+          "2026-11-13/5de49c256518efa2.mp3",
+          "2026-11-13/f9c633049cdddb2d.mp3",
+          "2026-11-13/afe84a5564ff8e03.mp3",
+          "2026-11-13/13a86c216c1f9b0b.mp3",
+          "2026-11-13/b4bbbf0b8cabf756.mp3",
+          "2026-11-13/589e4c6aa448fda4.mp3",
+          "2026-11-13/629e2e161291e7a8.mp3",
+          "2026-11-13/9792a1b9c10726c0.mp3",
+          "2026-11-13/4deaee3f877dabf4.mp3",
+          "2026-11-13/9ddd6a67be645951.mp3",
+          "2026-11-13/5c3506dd36a4b4db.mp3",
+          "2026-11-13/996c428e80462518.mp3",
+          "2026-11-13/1ed329f8bfce78cb.mp3",
+          "2026-11-13/ad470e50dfc6ac7a.mp3",
+          "2026-11-13/55c7d0708b194aa8.mp3",
+          "2026-11-13/715f48e37d2336fc.mp3",
+          "2026-11-13/bd2cadf2d91164ae.mp3",
+          "2026-11-13/f4ef166f31948ff3.mp3",
+          "2026-11-13/c8bdbbba26a89995.mp3",
+          "2026-11-13/5acde32fddabdf87.mp3",
+          "2026-11-13/f3589055b6c3e575.mp3",
+          "2026-11-13/eda825f0f44a30bb.mp3",
+          "2026-11-13/1dbe06663f24835d.mp3",
+          "2026-11-13/f480793f22c57e8a.mp3",
+          "2026-11-13/eae406d1f5cb951d.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0,
+              0.237,
+              0.395,
+              0.474,
+              0.633,
+              0.712,
+              0.87
+            ],
+            [
+              0,
+              0.091,
+              0.273,
+              0.364,
+              0.545,
+              0.636,
+              0.727,
+              0.818
+            ],
+            [
+              0,
+              0.314,
+              0.418,
+              0.627,
+              0.732,
+              0.836
+            ]
+          ],
+          "normal": [
+            [
+              0.176,
+              0.222,
+              0.268,
+              0.406,
+              0.498,
+              0.544,
+              0.636,
+              0.728,
+              0.774,
+              0.82,
+              0.866
+            ],
+            [
+              0,
+              0.039,
+              0.058,
+              0.078,
+              0.133,
+              0.156,
+              0.179,
+              0.258,
+              0.327,
+              0.464,
+              0.533,
+              0.601,
+              0.636,
+              0.67,
+              0.705,
+              0.739,
+              0.808,
+              0.842
+            ],
+            [
+              0,
+              0.067,
+              0.133,
+              0.2,
+              0.267,
+              0.467,
+              0.667,
+              0.733,
+              0.867
+            ],
+            [
+              0,
+              0.231,
+              0.308,
+              0.385,
+              0.538,
+              0.615,
+              0.692,
+              0.769,
+              0.846
+            ],
+            [
+              0,
+              0.071,
+              0.286,
+              0.357,
+              0.429,
+              0.5,
+              0.643,
+              0.714,
+              0.786,
+              0.857
+            ],
+            [
+              0.11,
+              0.318,
+              0.37,
+              0.423,
+              0.475,
+              0.527,
+              0.579,
+              0.631,
+              0.683,
+              0.788,
+              0.84
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.165,
+              0.202,
+              0.347,
+              0.384,
+              0.493,
+              0.529,
+              0.602,
+              0.638,
+              0.747,
+              0.784,
+              0.856,
+              0.893
+            ],
+            [
+              0.111,
+              0.239,
+              0.303,
+              0.432,
+              0.56,
+              0.624,
+              0.689,
+              0.833
+            ],
+            [
+              0.146,
+              0.353,
+              0.491,
+              0.56,
+              0.698,
+              0.767
+            ]
+          ],
+          "normal": [
+            [
+              0.093,
+              0.129,
+              0.165,
+              0.2,
+              0.236,
+              0.344,
+              0.38,
+              0.452,
+              0.487,
+              0.667,
+              0.703,
+              0.739,
+              0.775,
+              0.846
+            ],
+            [
+              0.032,
+              0.07,
+              0.088,
+              0.126,
+              0.145,
+              0.164,
+              0.201,
+              0.274,
+              0.303,
+              0.376,
+              0.435,
+              0.475,
+              0.514,
+              0.593,
+              0.613,
+              0.652,
+              0.672,
+              0.711,
+              0.77,
+              0.79,
+              0.81,
+              0.829,
+              0.849,
+              0.888
+            ],
+            [
+              0.073,
+              0.111,
+              0.15,
+              0.266,
+              0.42,
+              0.575,
+              0.691,
+              0.73,
+              0.807,
+              0.884
+            ],
+            [
+              0.188,
+              0.36,
+              0.418,
+              0.475,
+              0.648,
+              0.705,
+              0.763,
+              0.82,
+              0.878
+            ],
+            [
+              0.153,
+              0.297,
+              0.345,
+              0.393,
+              0.441,
+              0.585,
+              0.633,
+              0.729,
+              0.777
+            ],
+            [
+              0.074,
+              0.118,
+              0.206,
+              0.25,
+              0.338,
+              0.382,
+              0.426,
+              0.514,
+              0.602,
+              0.646,
+              0.734
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-13-02",
+      "category": "society",
+      "region": {
+        "country": "PE",
+        "city": "Lima",
+        "lat": -12.05,
+        "lng": -77.04
+      },
+      "headline": {
+        "en": "Pope Leo Tells Peru's Bishops the Church Must Make Amends to Abuse Victims",
+        "ko": "교황 레오 14세, 페루 주교들에게 '교회가 학대 피해자에게 잘못을 바로잡아야'",
+        "fr": "Le pape Léon XIV aux évêques du Pérou : l'Église doit réparer ses torts envers les victimes d'abus"
+      },
+      "hook": {
+        "en": "What should an institution do after it hurts people?",
+        "ko": "사람들에게 상처를 준 기관은 그 뒤에 무엇을 해야 할까요?",
+        "fr": "Que doit faire une institution après avoir blessé des gens ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "The Pope is visiting Peru.",
+            "He talked about abuse by members of the Church.",
+            "He said the Church must make amends to the victims."
+          ],
+          "easy_ko": [
+            "교황이 페루를 방문 중입니다.",
+            "그는 교회 구성원들의 학대 문제를 이야기했습니다.",
+            "교회가 피해자들에게 잘못을 바로잡아야 한다고 말했습니다."
+          ],
+          "normal": [
+            "Pope Leo XIV spoke to bishops in Peru on Thursday.",
+            "He said the Church must make amends to the victims of abuse.",
+            "He said abuse must be faced with truth, justice and accountability.",
+            "He also called for stronger safeguards to protect people.",
+            "France 24 reported that he also met abuse victims, and the Vatican said they talked about listening, truth and healing.",
+            "Abuse by members of the clergy has hurt many people, and victims have long asked the Church to take responsibility."
+          ],
+          "normal_ko": [
+            "교황 레오 14세는 목요일 페루 주교들에게 연설했습니다.",
+            "그는 교회가 학대 피해자들에게 잘못을 바로잡아야 한다고 말했습니다.",
+            "학대는 진실, 정의, 책임으로 마주해야 한다고 말했습니다.",
+            "또 사람들을 보호할 안전장치를 강화하라고 촉구했습니다.",
+            "France 24는 그가 학대 피해자들도 만났고, 바티칸이 경청, 진실, 치유를 이야기했다고 밝혔다고 전했습니다.",
+            "성직자들의 학대는 많은 사람에게 상처를 줬고, 피해자들은 오래전부터 교회에 책임을 지라고 요구해 왔습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Le pape est au Pérou.",
+            "Il a parlé des abus commis par des membres de l'Église.",
+            "Il a dit que l'Église doit réparer ses torts envers les victimes."
+          ],
+          "easy_ko": [
+            "교황이 페루를 방문 중입니다.",
+            "그는 교회 구성원들의 학대 문제를 이야기했습니다.",
+            "교회가 피해자들에게 잘못을 바로잡아야 한다고 말했습니다."
+          ],
+          "normal": [
+            "Le pape Léon XIV s'est adressé aux évêques du Pérou jeudi.",
+            "Il a dit que l'Église doit réparer ses torts envers les victimes d'abus.",
+            "Il a affirmé qu'il faut affronter les abus avec vérité, justice et responsabilité.",
+            "Il a aussi appelé à renforcer la protection des personnes.",
+            "Selon France 24, il a aussi rencontré des victimes, et le Vatican a parlé d'échanges sur l'écoute, la vérité et la guérison.",
+            "Les abus commis par des membres du clergé ont fait souffrir beaucoup de gens, et les victimes demandent depuis longtemps à l'Église d'assumer ses responsabilités."
+          ],
+          "normal_ko": [
+            "교황 레오 14세는 목요일 페루 주교들에게 연설했습니다.",
+            "그는 교회가 학대 피해자들에게 잘못을 바로잡아야 한다고 말했습니다.",
+            "학대는 진실, 정의, 책임으로 마주해야 한다고 말했습니다.",
+            "또 사람들을 보호할 안전장치를 강화하라고 촉구했습니다.",
+            "France 24는 그가 학대 피해자들도 만났고, 바티칸이 경청, 진실, 치유를 이야기했다고 밝혔다고 전했습니다.",
+            "성직자들의 학대는 많은 사람에게 상처를 줬고, 피해자들은 오래전부터 교회에 책임을 지라고 요구해 왔습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "'make amends'는 잘못을 저지른 쪽이 그 피해를 바로잡고 보상하려 한다는 뜻의 표현이에요. 이 기사는 France 24와 Al Jazeera 2곳으로 확인했지만 둘 다 AFP 통신 기사일 수 있어 완전히 독립된 출처라고는 보기 어렵습니다. 피해자 면담은 France 24만 전해서 영상에는 쓰지 않았고, 앱 본문에서도 출처를 밝혔어요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "pope",
+          "pos": "noun",
+          "ko": "교황",
+          "example": "The pope visited Peru.",
+          "example_ko": "교황이 페루를 방문했어요.",
+          "note_ko": "대문자 Pope Leo처럼 이름 앞에는 대문자."
+        },
+        {
+          "lang": "en",
+          "word": "church",
+          "pos": "noun",
+          "ko": "교회",
+          "example": "The church is old.",
+          "example_ko": "그 교회는 오래됐어요.",
+          "note_ko": "the Church(대문자)는 가톨릭교회 같은 조직 전체를 뜻하기도 해요."
+        },
+        {
+          "lang": "en",
+          "word": "bishop",
+          "pos": "noun",
+          "ko": "주교",
+          "example": "The bishops met on Thursday.",
+          "example_ko": "주교들이 목요일에 만났어요.",
+          "note_ko": "가톨릭 성직자의 직위. 여러 명은 bishops."
+        },
+        {
+          "lang": "en",
+          "word": "institution",
+          "pos": "noun",
+          "ko": "기관, 조직",
+          "example": "A big institution must be honest.",
+          "example_ko": "큰 기관은 정직해야 해요.",
+          "note_ko": "학교, 병원, 교회 같은 조직. 발음 [인스티튜션]."
+        },
+        {
+          "lang": "en",
+          "word": "victim",
+          "pos": "noun",
+          "ko": "피해자",
+          "example": "The victims want justice.",
+          "example_ko": "피해자들은 정의를 원해요.",
+          "note_ko": "범죄나 사고의 피해를 입은 사람."
+        },
+        {
+          "lang": "en",
+          "word": "abuse",
+          "pos": "noun",
+          "ko": "학대, 성폭력",
+          "example": "The report is about abuse.",
+          "example_ko": "그 보고서는 학대에 관한 거예요.",
+          "note_ko": "명사 [어뷰스], 동사 [어뷰즈]로 발음이 달라요."
+        },
+        {
+          "lang": "en",
+          "word": "make amends",
+          "pos": "phrase",
+          "ko": "잘못을 바로잡다, 보상하다",
+          "example": "He wants to make amends.",
+          "example_ko": "그는 잘못을 바로잡고 싶어 해요.",
+          "note_ko": "make amends to + 사람 = ~에게 보상하다. amends는 보통 복수형."
+        },
+        {
+          "lang": "en",
+          "word": "truth",
+          "pos": "noun",
+          "ko": "진실",
+          "example": "Everyone wants the truth.",
+          "example_ko": "모두가 진실을 원해요.",
+          "note_ko": "형용사 true, 반대는 lie."
+        },
+        {
+          "lang": "en",
+          "word": "justice",
+          "pos": "noun",
+          "ko": "정의, 공정함",
+          "example": "They are asking for justice.",
+          "example_ko": "그들은 정의를 요구해요.",
+          "note_ko": "형용사 just, 법정에서는 '재판, 사법'."
+        },
+        {
+          "lang": "en",
+          "word": "accountability",
+          "pos": "noun",
+          "ko": "책임을 지는 것",
+          "example": "People want accountability.",
+          "example_ko": "사람들은 책임지는 모습을 원해요.",
+          "note_ko": "자기 행동의 결과를 책임지는 것. 형용사 accountable."
+        },
+        {
+          "lang": "en",
+          "word": "safeguard",
+          "pos": "noun",
+          "ko": "안전장치, 보호 조치",
+          "example": "The school has strong safeguards.",
+          "example_ko": "그 학교는 안전장치가 탄탄해요.",
+          "note_ko": "동사로는 '보호하다'. safeguarding = 보호 체계."
+        },
+        {
+          "lang": "en",
+          "word": "protect",
+          "pos": "verb",
+          "ko": "보호하다",
+          "example": "We must protect children.",
+          "example_ko": "우리는 아이들을 보호해야 해요.",
+          "note_ko": "명사 protection."
+        },
+        {
+          "lang": "en",
+          "word": "clergy",
+          "pos": "noun",
+          "ko": "성직자(집합)",
+          "example": "Members of the clergy were involved.",
+          "example_ko": "성직자들이 관련돼 있었어요.",
+          "note_ko": "개인은 a priest. clergy는 보통 복수 취급."
+        },
+        {
+          "lang": "en",
+          "word": "face",
+          "pos": "verb",
+          "ko": "마주하다, 직시하다",
+          "example": "We must face the problem.",
+          "example_ko": "우리는 문제를 직시해야 해요.",
+          "note_ko": "face a problem = 문제를 정면으로 마주하다."
+        },
+        {
+          "lang": "fr",
+          "word": "le pape",
+          "pos": "nom masculin",
+          "ko": "교황",
+          "example": "Le pape est au Pérou.",
+          "example_ko": "교황이 페루에 있어요.",
+          "note_ko": "Pape는 직함이라 이름 앞에서는 소문자: le pape Léon XIV."
+        },
+        {
+          "lang": "fr",
+          "word": "l'Église",
+          "pos": "nom féminin",
+          "ko": "교회(조직)",
+          "example": "L'Église doit changer.",
+          "example_ko": "교회는 변해야 해요.",
+          "note_ko": "대문자 Église는 조직, 소문자 église는 건물."
+        },
+        {
+          "lang": "fr",
+          "word": "un évêque",
+          "pos": "nom masculin",
+          "ko": "주교",
+          "example": "Les évêques se réunissent jeudi.",
+          "example_ko": "주교들이 목요일에 모여요.",
+          "note_ko": "가톨릭 성직자의 직위."
+        },
+        {
+          "lang": "fr",
+          "word": "une institution",
+          "pos": "nom féminin",
+          "ko": "기관, 조직",
+          "example": "Une grande institution doit être honnête.",
+          "example_ko": "큰 기관은 정직해야 해요.",
+          "note_ko": "영어 institution과 철자가 거의 같아요."
+        },
+        {
+          "lang": "fr",
+          "word": "une victime",
+          "pos": "nom féminin",
+          "ko": "피해자",
+          "example": "Les victimes demandent justice.",
+          "example_ko": "피해자들은 정의를 요구해요.",
+          "note_ko": "남자여도 une victime(여성형 명사)."
+        },
+        {
+          "lang": "fr",
+          "word": "un abus",
+          "pos": "nom masculin",
+          "ko": "학대, 남용",
+          "example": "Le rapport parle d'abus.",
+          "example_ko": "보고서는 학대를 다뤄요.",
+          "note_ko": "abus de pouvoir = 권력 남용. 뉴스에서는 복수 les abus."
+        },
+        {
+          "lang": "fr",
+          "word": "réparer",
+          "pos": "verbe",
+          "ko": "바로잡다, 수리하다",
+          "example": "Il veut réparer ses torts.",
+          "example_ko": "그는 자기 잘못을 바로잡고 싶어 해요.",
+          "note_ko": "réparer ses torts = 잘못을 바로잡다. 물건을 '고치다'라는 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "la vérité",
+          "pos": "nom féminin",
+          "ko": "진실",
+          "example": "Tout le monde veut la vérité.",
+          "example_ko": "모두가 진실을 원해요.",
+          "note_ko": "형용사 vrai."
+        },
+        {
+          "lang": "fr",
+          "word": "la justice",
+          "pos": "nom féminin",
+          "ko": "정의, 사법",
+          "example": "Ils demandent justice.",
+          "example_ko": "그들은 정의를 요구해요.",
+          "note_ko": "la justice는 '사법 체계'도 가리켜요."
+        },
+        {
+          "lang": "fr",
+          "word": "la responsabilité",
+          "pos": "nom féminin",
+          "ko": "책임",
+          "example": "Il faut assumer ses responsabilités.",
+          "example_ko": "자기 책임을 져야 해요.",
+          "note_ko": "assumer ses responsabilités = 책임을 지다."
+        },
+        {
+          "lang": "fr",
+          "word": "la protection",
+          "pos": "nom féminin",
+          "ko": "보호",
+          "example": "La protection des enfants est essentielle.",
+          "example_ko": "아동 보호는 필수예요.",
+          "note_ko": "동사 protéger."
+        },
+        {
+          "lang": "fr",
+          "word": "protéger",
+          "pos": "verbe",
+          "ko": "보호하다",
+          "example": "Nous devons protéger les enfants.",
+          "example_ko": "우리는 아이들을 보호해야 해요.",
+          "note_ko": "se protéger = 자신을 보호하다."
+        },
+        {
+          "lang": "fr",
+          "word": "le clergé",
+          "pos": "nom masculin",
+          "ko": "성직자(집합)",
+          "example": "Des membres du clergé sont accusés.",
+          "example_ko": "성직자들이 고발됐어요.",
+          "note_ko": "개인은 un prêtre."
+        },
+        {
+          "lang": "fr",
+          "word": "affronter",
+          "pos": "verbe",
+          "ko": "정면으로 마주하다",
+          "example": "Il faut affronter le problème.",
+          "example_ko": "문제를 정면으로 마주해야 해요.",
+          "note_ko": "'맞서 싸우다'에도 써요."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "\"Make amends\" means…",
+          "choices": [
+            "try to repair the harm you caused",
+            "ask for more money",
+            "leave your job"
+          ],
+          "answer": 0,
+          "explain_ko": "make amends = 자신이 끼친 피해를 바로잡고 보상하려 하다."
+        },
+        {
+          "lang": "fr",
+          "q": "« Réparer ses torts », c'est…",
+          "choices": [
+            "corriger le mal qu'on a fait",
+            "demander plus d'argent",
+            "quitter son travail"
+          ],
+          "answer": 0,
+          "explain_ko": "réparer ses torts = 자신이 끼친 피해를 바로잡다."
+        }
+      ],
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/live-news/20261112-pope-in-peru-says-church-must-make-amends-to-abuse-victims",
+          "accessed": "2026-11-13"
+        },
+        {
+          "name": "Al Jazeera (video page)",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/pope-leo-calls-for-church-to-make-amends-to-sex-abuse-victims",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-13",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-13/11014040207de58d.mp3",
+            "2026-11-13/76aa4704f3e52813.mp3",
+            "2026-11-13/f7d50cf7ed197fdf.mp3"
+          ],
+          "normal": [
+            "2026-11-13/8061a37c44e32b20.mp3",
+            "2026-11-13/325e14845e8fd4e4.mp3",
+            "2026-11-13/0e456cda41859d30.mp3",
+            "2026-11-13/2b1196e7eab7ccda.mp3",
+            "2026-11-13/c265f12cad2d1497.mp3",
+            "2026-11-13/c1401479e5dc5f10.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-13/ecc3a119c7b708bc.mp3",
+            "2026-11-13/9f729d10edba07ff.mp3",
+            "2026-11-13/b41f50534e6f6be0.mp3"
+          ],
+          "normal": [
+            "2026-11-13/4026ccac68e0dca2.mp3",
+            "2026-11-13/0fd97b673e0d85f5.mp3",
+            "2026-11-13/ba43d11aa2440fca.mp3",
+            "2026-11-13/4cdbe33eea8f833d.mp3",
+            "2026-11-13/dd0bbf261b8fdcd4.mp3",
+            "2026-11-13/a04444595bcc444c.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-13/1ba8a6450c24abe0.mp3",
+          "2026-11-13/054831f4d30aff8a.mp3",
+          "2026-11-13/8efc55648ccb476b.mp3",
+          "2026-11-13/939d4fae4335c5da.mp3",
+          "2026-11-13/71486034beccc511.mp3",
+          "2026-11-13/6736bd38ea0271c9.mp3",
+          "2026-11-13/f86583476d345a78.mp3",
+          "2026-11-13/a0a46c82905ffbe2.mp3",
+          "2026-11-13/836591e76c90046c.mp3",
+          "2026-11-13/9d2dd573f280936c.mp3",
+          "2026-11-13/aa29cb64ddc0ac1c.mp3",
+          "2026-11-13/79218fd797e80a40.mp3",
+          "2026-11-13/6072deddcdc4b8d9.mp3",
+          "2026-11-13/ea1811b4efe5b700.mp3",
+          "2026-11-13/4b98d64f5e951e80.mp3",
+          "2026-11-13/176fa54dca608880.mp3",
+          "2026-11-13/45d0434095541aaf.mp3",
+          "2026-11-13/68b9d9dfcb1bd8ed.mp3",
+          "2026-11-13/87e8bf71670709d0.mp3",
+          "2026-11-13/ed049087c132dd8f.mp3",
+          "2026-11-13/13315872b95edec7.mp3",
+          "2026-11-13/aecda06bb4d71feb.mp3",
+          "2026-11-13/d2e5fbe29e0d3854.mp3",
+          "2026-11-13/134c369ec37b2c4e.mp3",
+          "2026-11-13/05663f40a2575c3a.mp3",
+          "2026-11-13/1cc064b86da19302.mp3",
+          "2026-11-13/5fd85aeb969fd8fc.mp3",
+          "2026-11-13/798c1ea839c0915d.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.207,
+              0.306,
+              0.406,
+              0.505,
+              0.802
+            ],
+            [
+              0,
+              0.083,
+              0.167,
+              0.333,
+              0.5,
+              0.583,
+              0.75,
+              0.833,
+              0.917
+            ],
+            [
+              0,
+              0.083,
+              0.167,
+              0.25,
+              0.333,
+              0.417,
+              0.5,
+              0.667,
+              0.75,
+              0.833
+            ]
+          ],
+          "normal": [
+            [
+              0.034,
+              0.104,
+              0.175,
+              0.245,
+              0.316,
+              0.387,
+              0.528,
+              0.598,
+              0.74,
+              0.81
+            ],
+            [
+              0,
+              0.067,
+              0.133,
+              0.2,
+              0.267,
+              0.333,
+              0.4,
+              0.533,
+              0.6,
+              0.667,
+              0.8,
+              0.867
+            ],
+            [
+              0,
+              0.061,
+              0.122,
+              0.244,
+              0.305,
+              0.366,
+              0.427,
+              0.488,
+              0.655,
+              0.731,
+              0.77
+            ],
+            [
+              0,
+              0.071,
+              0.214,
+              0.286,
+              0.357,
+              0.5,
+              0.714,
+              0.786,
+              0.929
+            ],
+            [
+              0.054,
+              0.082,
+              0.14,
+              0.197,
+              0.226,
+              0.254,
+              0.311,
+              0.34,
+              0.397,
+              0.502,
+              0.52,
+              0.538,
+              0.592,
+              0.609,
+              0.627,
+              0.645,
+              0.681,
+              0.789,
+              0.833,
+              0.876
+            ],
+            [
+              0.071,
+              0.126,
+              0.153,
+              0.208,
+              0.236,
+              0.263,
+              0.318,
+              0.346,
+              0.373,
+              0.428,
+              0.521,
+              0.549,
+              0.606,
+              0.635,
+              0.663,
+              0.692,
+              0.721,
+              0.749,
+              0.778,
+              0.806
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.256,
+              0.353,
+              0.451,
+              0.549,
+              0.647
+            ],
+            [
+              0.079,
+              0.137,
+              0.196,
+              0.313,
+              0.372,
+              0.489,
+              0.607,
+              0.665,
+              0.724,
+              0.782,
+              0.841
+            ],
+            [
+              0.156,
+              0.2,
+              0.244,
+              0.288,
+              0.332,
+              0.42,
+              0.464,
+              0.595,
+              0.639,
+              0.683,
+              0.771,
+              0.815
+            ]
+          ],
+          "normal": [
+            [
+              0.178,
+              0.219,
+              0.259,
+              0.3,
+              0.341,
+              0.381,
+              0.503,
+              0.544,
+              0.666,
+              0.707,
+              0.788
+            ],
+            [
+              0.092,
+              0.135,
+              0.179,
+              0.222,
+              0.266,
+              0.353,
+              0.397,
+              0.528,
+              0.571,
+              0.615,
+              0.702,
+              0.746,
+              0.833
+            ],
+            [
+              0.078,
+              0.106,
+              0.134,
+              0.216,
+              0.244,
+              0.272,
+              0.355,
+              0.382,
+              0.437,
+              0.493,
+              0.651,
+              0.717,
+              0.749
+            ],
+            [
+              0.106,
+              0.154,
+              0.201,
+              0.295,
+              0.436,
+              0.483,
+              0.625,
+              0.672,
+              0.813,
+              0.86
+            ],
+            [
+              0.074,
+              0.115,
+              0.136,
+              0.217,
+              0.232,
+              0.246,
+              0.276,
+              0.32,
+              0.335,
+              0.4,
+              0.41,
+              0.42,
+              0.449,
+              0.459,
+              0.479,
+              0.498,
+              0.508,
+              0.569,
+              0.61,
+              0.734,
+              0.775,
+              0.816
+            ],
+            [
+              0.033,
+              0.054,
+              0.095,
+              0.137,
+              0.158,
+              0.179,
+              0.2,
+              0.22,
+              0.262,
+              0.283,
+              0.304,
+              0.345,
+              0.387,
+              0.408,
+              0.479,
+              0.5,
+              0.521,
+              0.564,
+              0.606,
+              0.649,
+              0.691,
+              0.712,
+              0.755,
+              0.818,
+              0.84
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "audio_base": "https://koreapapa-kim.github.io/worldnews-audio"
+}

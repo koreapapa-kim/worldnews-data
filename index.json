@@ -2,6 +2,28 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-11-13",
+      "count": 2,
+      "headlines": [
+        {
+          "id": "2026-11-13-01",
+          "ko": "마이크로소프트 장애, 전 세계 Outlook·Teams 먹통",
+          "en": "Microsoft Outage Hits Outlook and Teams Worldwide",
+          "fr": "Panne géante chez Microsoft : Outlook et Teams touchés dans le monde",
+          "category": "technology",
+          "country": "US"
+        },
+        {
+          "id": "2026-11-13-02",
+          "ko": "교황 레오 14세, 페루 주교들에게 '교회가 학대 피해자에게 잘못을 바로잡아야'",
+          "en": "Pope Leo Tells Peru's Bishops the Church Must Make Amends to Abuse Victims",
+          "fr": "Le pape Léon XIV aux évêques du Pérou : l'Église doit réparer ses torts envers les victimes d'abus",
+          "category": "society",
+          "country": "PE"
+        }
+      ]
+    },
+    {
       "date": "2026-11-12",
       "count": 2,
       "headlines": [
@@ -660,6 +682,6 @@
       ]
     }
   ],
-  "latest": "2026-11-12",
-  "updated_at": "2026-11-13T01:40:35.956Z"
+  "latest": "2026-11-13",
+  "updated_at": "2026-11-13T03:53:31.470Z"
 }
