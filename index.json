@@ -2,6 +2,36 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-11-14",
+      "count": 3,
+      "headlines": [
+        {
+          "id": "2026-11-14-01",
+          "ko": "미국 전역 항공편, 4시간 동안 이륙 전면 중단",
+          "en": "A Rare Nationwide Ground Stop Halts US Flights",
+          "fr": "États-Unis : tous les vols cloués au sol pendant des heures",
+          "category": "technology",
+          "country": "US"
+        },
+        {
+          "id": "2026-11-14-02",
+          "ko": "스페이스X, 스타십 우주선을 공중에서 붙잡다",
+          "en": "SpaceX Catches Its Starship Spaceship in Mid-Air",
+          "fr": "SpaceX rattrape en plein vol son vaisseau Starship",
+          "category": "science",
+          "country": "US"
+        },
+        {
+          "id": "2026-11-14-03",
+          "ko": "웨일스 럭비, 73년 만에 뉴질랜드 올블랙스 꺾다",
+          "en": "Wales Beat the All Blacks for the First Time Since 1953",
+          "fr": "Rugby : le pays de Galles bat les All Blacks pour la première fois depuis 1953",
+          "category": "sports",
+          "country": "GB"
+        }
+      ]
+    },
+    {
       "date": "2026-11-13",
       "count": 2,
       "headlines": [
@@ -682,6 +712,6 @@
       ]
     }
   ],
-  "latest": "2026-11-13",
-  "updated_at": "2026-11-13T03:53:31.470Z"
+  "latest": "2026-11-14",
+  "updated_at": "2026-11-15T01:02:56.215Z"
 }
