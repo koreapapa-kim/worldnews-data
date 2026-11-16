@@ -1,0 +1,2872 @@
+{
+  "schema": 1,
+  "date": "2026-11-15",
+  "stories": [
+    {
+      "id": "2026-11-15-01",
+      "category": "technology",
+      "region": {
+        "country": "KR",
+        "city": "Seoul",
+        "lat": 37.57,
+        "lng": 126.98
+      },
+      "headline": {
+        "en": "South Korea's Top Tax Exam Scorer Admits Cheating With AI",
+        "ko": "한국 세무사 시험 수석, AI로 부정행위 했다고 자백",
+        "fr": "Corée du Sud : le major d'un examen fiscal avoue avoir triché avec une IA"
+      },
+      "hook": {
+        "en": "Imagine the top score on a big exam was a lie.",
+        "ko": "큰 시험의 최고 점수가 거짓이었다고 상상해 보세요.",
+        "fr": "Et si la meilleure note d'un grand examen était un mensonge ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "A man came first in a big exam in South Korea.",
+            "Now he says he cheated with AI.",
+            "Police are looking into the case."
+          ],
+          "easy_ko": [
+            "한 남성이 한국의 큰 시험에서 1등을 했습니다.",
+            "이제 그는 AI로 부정행위를 했다고 말합니다.",
+            "경찰이 사건을 살펴보고 있습니다."
+          ],
+          "normal": [
+            "The top scorer in South Korea's certified tax accountant exam has admitted that he cheated.",
+            "He said he used electronic devices and artificial intelligence.",
+            "He photographed the questions with a tiny camera, sent them to an AI tool and checked the answers on his phone.",
+            "He had scored 397.5 out of 400 points in the first round, which made many people suspicious.",
+            "He had denied cheating at first, but then sent a written confession to Seoul police, who have started an investigation.",
+            "The scandal comes days before the national college entrance exam, and the presidential office said it was preparing countermeasures."
+          ],
+          "normal_ko": [
+            "한국 세무사 시험의 수석 합격자가 부정행위를 했다고 인정했습니다.",
+            "그는 전자기기와 인공지능을 썼다고 말했습니다.",
+            "작은 카메라로 문제를 찍어 AI에 보내고, 휴대폰으로 답을 확인했다고 합니다.",
+            "그는 1차 시험에서 400점 만점에 397.5점을 받아 많은 사람의 의심을 샀습니다.",
+            "처음에는 부정행위를 부인했지만, 서울 경찰에 자백서를 냈고 경찰이 수사를 시작했습니다.",
+            "이 사건은 대학수학능력시험을 며칠 앞두고 터졌고, 대통령실은 대책을 준비하고 있다고 밝혔습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Un homme a fini premier à un grand examen en Corée du Sud.",
+            "Il dit maintenant avoir triché avec une IA.",
+            "La police étudie l'affaire."
+          ],
+          "easy_ko": [
+            "한 남성이 한국의 큰 시험에서 1등을 했습니다.",
+            "이제 그는 AI로 부정행위를 했다고 말합니다.",
+            "경찰이 사건을 살펴보고 있습니다."
+          ],
+          "normal": [
+            "Le major de l'examen sud-coréen d'expert en fiscalité a avoué avoir triché.",
+            "Il dit avoir utilisé des appareils électroniques et l'intelligence artificielle.",
+            "Il a photographié les questions avec une minuscule caméra, les a envoyées à un outil d'IA et a vérifié les réponses sur son téléphone.",
+            "Il avait obtenu 397,5 points sur 400 au premier tour, ce qui avait éveillé les soupçons.",
+            "Il avait d'abord nié, puis il a remis des aveux écrits à la police de Séoul, qui a ouvert une enquête.",
+            "L'affaire éclate quelques jours avant l'examen national d'entrée à l'université, et la présidence dit préparer des mesures."
+          ],
+          "normal_ko": [
+            "한국 세무사 시험의 수석 합격자가 부정행위를 했다고 인정했습니다.",
+            "그는 전자기기와 인공지능을 썼다고 말했습니다.",
+            "작은 카메라로 문제를 찍어 AI에 보내고, 휴대폰으로 답을 확인했다고 합니다.",
+            "그는 1차 시험에서 400점 만점에 397.5점을 받아 많은 사람의 의심을 샀습니다.",
+            "처음에는 부정행위를 부인했지만, 서울 경찰에 자백서를 냈고 경찰이 수사를 시작했습니다.",
+            "이 사건은 대학수학능력시험을 며칠 앞두고 터졌고, 대통령실은 대책을 준비하고 있다고 밝혔습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "한국의 '공인 세무사 시험'에 해당하는 시험입니다(기사 표현: certified tax accountant exam). 사건 당사자는 이름이 보도됐지만 앱에는 쓰지 않았어요. 수능 시기와 겹쳐 대통령실이 대책을 언급했습니다. 아직 경찰 수사 중이라 앞으로 달라질 수 있습니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "exam",
+          "pos": "noun",
+          "ko": "시험",
+          "example": "He passed the exam.",
+          "example_ko": "그는 시험에 합격했어요.",
+          "note_ko": "examination의 줄임말. take an exam = 시험을 치르다."
+        },
+        {
+          "lang": "en",
+          "word": "top scorer",
+          "pos": "noun",
+          "ko": "최고 득점자",
+          "example": "The top scorer got 397.5 points.",
+          "example_ko": "최고 득점자는 397.5점을 받았어요.",
+          "note_ko": "score(점수, 득점하다) + -er. 수석은 '1등'(first place)으로도 말해요."
+        },
+        {
+          "lang": "en",
+          "word": "admit",
+          "pos": "verb",
+          "ko": "인정하다, 털어놓다",
+          "example": "He admitted that he cheated.",
+          "example_ko": "그는 부정행위를 했다고 인정했어요.",
+          "note_ko": "admit + that절 / -ing. 명사 admission."
+        },
+        {
+          "lang": "en",
+          "word": "cheat",
+          "pos": "verb",
+          "ko": "부정행위를 하다, 속이다",
+          "example": "She never cheats on tests.",
+          "example_ko": "그녀는 시험에서 절대 부정행위를 하지 않아요.",
+          "note_ko": "cheat on a test = 시험에서 커닝하다. cheat on someone = 바람을 피우다."
+        },
+        {
+          "lang": "en",
+          "word": "electronic",
+          "pos": "adjective",
+          "ko": "전자의",
+          "example": "Electronic devices are banned.",
+          "example_ko": "전자기기는 금지돼요.",
+          "note_ko": "명사 electronics. an electronic device = 전자기기."
+        },
+        {
+          "lang": "en",
+          "word": "artificial intelligence",
+          "pos": "noun",
+          "ko": "인공지능",
+          "example": "Artificial intelligence can answer questions.",
+          "example_ko": "인공지능은 질문에 답할 수 있어요.",
+          "note_ko": "줄여서 AI [에이아이]."
+        },
+        {
+          "lang": "en",
+          "word": "tiny",
+          "pos": "adjective",
+          "ko": "아주 작은",
+          "example": "He used a tiny camera.",
+          "example_ko": "그는 아주 작은 카메라를 썼어요.",
+          "note_ko": "small보다 더 작은 느낌. 반대는 huge."
+        },
+        {
+          "lang": "en",
+          "word": "photograph",
+          "pos": "verb",
+          "ko": "사진을 찍다",
+          "example": "He photographed the questions.",
+          "example_ko": "그는 문제를 사진으로 찍었어요.",
+          "note_ko": "명사로 '사진'. 강세: [포토그래프], 동사 photograph."
+        },
+        {
+          "lang": "en",
+          "word": "suspicious",
+          "pos": "adjective",
+          "ko": "의심스러운",
+          "example": "The score made people suspicious.",
+          "example_ko": "그 점수는 사람들의 의심을 샀어요.",
+          "note_ko": "명사 suspicion. be suspicious of = ~을 의심하다."
+        },
+        {
+          "lang": "en",
+          "word": "deny",
+          "pos": "verb",
+          "ko": "부인하다",
+          "example": "He denied the claim at first.",
+          "example_ko": "그는 처음에 그 주장을 부인했어요.",
+          "note_ko": "반대는 admit. 명사 denial."
+        },
+        {
+          "lang": "en",
+          "word": "confession",
+          "pos": "noun",
+          "ko": "자백",
+          "example": "He sent a written confession.",
+          "example_ko": "그는 서면 자백서를 보냈어요.",
+          "note_ko": "동사 confess. 발음 [컨페션]."
+        },
+        {
+          "lang": "en",
+          "word": "investigation",
+          "pos": "noun",
+          "ko": "수사, 조사",
+          "example": "Police opened an investigation.",
+          "example_ko": "경찰이 수사를 시작했어요.",
+          "note_ko": "동사 investigate. open an investigation = 수사를 시작하다."
+        },
+        {
+          "lang": "en",
+          "word": "countermeasure",
+          "pos": "noun",
+          "ko": "대책",
+          "example": "The government prepared countermeasures.",
+          "example_ko": "정부가 대책을 준비했어요.",
+          "note_ko": "counter(맞서는) + measure(조치). 보통 복수형 countermeasures."
+        },
+        {
+          "lang": "fr",
+          "word": "un examen",
+          "pos": "nom masculin",
+          "ko": "시험",
+          "example": "Il a réussi l'examen.",
+          "example_ko": "그는 시험에 합격했어요.",
+          "note_ko": "passer un examen = 시험을 치르다(합격이 아님!). réussir = 합격하다."
+        },
+        {
+          "lang": "fr",
+          "word": "le major",
+          "pos": "nom masculin",
+          "ko": "수석",
+          "example": "Le major de l'examen a avoué.",
+          "example_ko": "시험 수석이 자백했어요.",
+          "note_ko": "le major de promotion = 수석 졸업자. 군대의 '소령'과는 다른 뜻."
+        },
+        {
+          "lang": "fr",
+          "word": "avouer",
+          "pos": "verbe",
+          "ko": "자백하다, 인정하다",
+          "example": "Il avoue avoir triché.",
+          "example_ko": "그는 부정행위를 했다고 인정해요.",
+          "note_ko": "un aveu = 자백(복수 aveux). 반대는 nier."
+        },
+        {
+          "lang": "fr",
+          "word": "tricher",
+          "pos": "verbe",
+          "ko": "부정행위를 하다",
+          "example": "Il a triché à l'examen.",
+          "example_ko": "그는 시험에서 부정행위를 했어요.",
+          "note_ko": "un tricheur = 부정행위자. tricher aux cartes = 카드게임에서 속이다."
+        },
+        {
+          "lang": "fr",
+          "word": "électronique",
+          "pos": "adjectif",
+          "ko": "전자의",
+          "example": "Les appareils électroniques sont interdits.",
+          "example_ko": "전자기기는 금지돼요.",
+          "note_ko": "남녀 형태가 같아요. un appareil = 기기."
+        },
+        {
+          "lang": "fr",
+          "word": "l'intelligence artificielle",
+          "pos": "nom féminin",
+          "ko": "인공지능",
+          "example": "L'intelligence artificielle répond aux questions.",
+          "example_ko": "인공지능이 질문에 답해요.",
+          "note_ko": "줄여서 l'IA [이아]."
+        },
+        {
+          "lang": "fr",
+          "word": "minuscule",
+          "pos": "adjectif",
+          "ko": "아주 작은",
+          "example": "Il a utilisé une minuscule caméra.",
+          "example_ko": "그는 아주 작은 카메라를 썼어요.",
+          "note_ko": "남녀 형태가 같아요. 반대는 énorme."
+        },
+        {
+          "lang": "fr",
+          "word": "photographier",
+          "pos": "verbe",
+          "ko": "사진을 찍다",
+          "example": "Il a photographié les questions.",
+          "example_ko": "그는 문제를 사진으로 찍었어요.",
+          "note_ko": "une photo = 사진. 발음에서 ph = [f]."
+        },
+        {
+          "lang": "fr",
+          "word": "éveiller les soupçons",
+          "pos": "locution",
+          "ko": "의심을 사다",
+          "example": "Sa note a éveillé les soupçons.",
+          "example_ko": "그의 점수가 의심을 샀어요.",
+          "note_ko": "un soupçon = 의심. soupçonner = 의심하다."
+        },
+        {
+          "lang": "fr",
+          "word": "nier",
+          "pos": "verbe",
+          "ko": "부인하다",
+          "example": "Il a d'abord nié les faits.",
+          "example_ko": "그는 처음에 사실을 부인했어요.",
+          "note_ko": "반대는 avouer. 명사 un déni."
+        },
+        {
+          "lang": "fr",
+          "word": "des aveux",
+          "pos": "nom masculin pluriel",
+          "ko": "자백",
+          "example": "Il a remis des aveux écrits.",
+          "example_ko": "그는 서면 자백을 제출했어요.",
+          "note_ko": "보통 복수로 써요. faire des aveux = 자백하다."
+        },
+        {
+          "lang": "fr",
+          "word": "une enquête",
+          "pos": "nom féminin",
+          "ko": "수사, 조사",
+          "example": "La police a ouvert une enquête.",
+          "example_ko": "경찰이 수사를 시작했어요.",
+          "note_ko": "ouvrir une enquête = 수사를 시작하다. 설문조사도 une enquête."
+        },
+        {
+          "lang": "fr",
+          "word": "une mesure",
+          "pos": "nom féminin",
+          "ko": "조치, 대책",
+          "example": "La présidence prépare des mesures.",
+          "example_ko": "대통령실이 대책을 준비해요.",
+          "note_ko": "prendre des mesures = 조치를 취하다. 길이·치수의 '측정'도 mesure."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "To \"cheat\" on an exam means…",
+          "choices": [
+            "to break the rules to get a better score",
+            "to study very hard",
+            "to arrive early"
+          ],
+          "answer": 0,
+          "explain_ko": "cheat = 규칙을 어기고 더 높은 점수를 얻으려 하다."
+        },
+        {
+          "lang": "fr",
+          "q": "« Tricher » à un examen, c'est…",
+          "choices": [
+            "ne pas respecter les règles pour avoir une meilleure note",
+            "réviser beaucoup",
+            "arriver en avance"
+          ],
+          "answer": 0,
+          "explain_ko": "tricher = 규칙을 어겨 더 좋은 점수를 얻으려 하다."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o",
+          "accessed": "2026-11-16"
+        },
+        {
+          "name": "The Guardian (Reuters)",
+          "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+          "accessed": "2026-11-16"
+        },
+        {
+          "name": "CBC News (Reuters)",
+          "url": "https://www.cbc.ca/news/world/south-korea-tax-accounting-exam-ai-cheating-9.7423029",
+          "accessed": "2026-11-16"
+        },
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/15/asia-pacific/south-korea-ai-test-cheating/",
+          "accessed": "2026-11-16"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-16",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-15/4c2f03e767d68b53.mp3",
+            "2026-11-15/fd7d7b067663fe13.mp3",
+            "2026-11-15/ba2e316b7bfe8cac.mp3"
+          ],
+          "normal": [
+            "2026-11-15/c23927c5b87c1c00.mp3",
+            "2026-11-15/6255d8703c501823.mp3",
+            "2026-11-15/7aaff69d9e0d3d80.mp3",
+            "2026-11-15/2cd50a2c99101fc0.mp3",
+            "2026-11-15/adbd2428b2831499.mp3",
+            "2026-11-15/2878867900cc04a2.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-15/33256d740c51d927.mp3",
+            "2026-11-15/87c5f1d700b909a0.mp3",
+            "2026-11-15/30658cada4013f55.mp3"
+          ],
+          "normal": [
+            "2026-11-15/03cd85c39eed1e2b.mp3",
+            "2026-11-15/d99286463df865f3.mp3",
+            "2026-11-15/5303d81fb73b2115.mp3",
+            "2026-11-15/603f61b203b58b13.mp3",
+            "2026-11-15/20aedaf8739b01c4.mp3",
+            "2026-11-15/1f18ce0e087d3480.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-15/328266969c83a7f8.mp3",
+          "2026-11-15/c9832b2dda6c93ec.mp3",
+          "2026-11-15/fa0908a773228714.mp3",
+          "2026-11-15/76877545e82354af.mp3",
+          "2026-11-15/858d5aeb24d1a151.mp3",
+          "2026-11-15/3c6609df2bc548b2.mp3",
+          "2026-11-15/896cc34023fbd2e8.mp3",
+          "2026-11-15/a429a2c00239fbb0.mp3",
+          "2026-11-15/9f1bdd5cff34d577.mp3",
+          "2026-11-15/aa83a2027eb74aee.mp3",
+          "2026-11-15/f9853f2ab3a65975.mp3",
+          "2026-11-15/c63f9c2b37786ac8.mp3",
+          "2026-11-15/d303a491d0a907d6.mp3",
+          "2026-11-15/a97cc21ff5a255cb.mp3",
+          "2026-11-15/04ab82b03398a0a8.mp3",
+          "2026-11-15/922b4021c2bf6682.mp3",
+          "2026-11-15/369e3c38ed96928f.mp3",
+          "2026-11-15/55fdee01d4256950.mp3",
+          "2026-11-15/87b9b3f971ec93b4.mp3",
+          "2026-11-15/0b17e62779b6c838.mp3",
+          "2026-11-15/616625f6924cce69.mp3",
+          "2026-11-15/a23b0e33f5ec2526.mp3",
+          "2026-11-15/0e3d4b1a1fa229f7.mp3",
+          "2026-11-15/5221d4a2ac5bbc0d.mp3",
+          "2026-11-15/e613adf89a9cacbe.mp3",
+          "2026-11-15/0ce2b2330d3c8f90.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0,
+              0.077,
+              0.154,
+              0.231,
+              0.308,
+              0.385,
+              0.462,
+              0.538,
+              0.692,
+              0.769,
+              0.846
+            ],
+            [
+              0,
+              0.143,
+              0.286,
+              0.429,
+              0.571,
+              0.714,
+              0.857
+            ],
+            [
+              0,
+              0.222,
+              0.333,
+              0.556,
+              0.778,
+              0.889
+            ]
+          ],
+          "normal": [
+            [
+              0.109,
+              0.146,
+              0.183,
+              0.258,
+              0.295,
+              0.332,
+              0.407,
+              0.519,
+              0.556,
+              0.668,
+              0.743,
+              0.78,
+              0.854,
+              0.892,
+              0.929
+            ],
+            [
+              0.16,
+              0.201,
+              0.242,
+              0.283,
+              0.324,
+              0.487,
+              0.569,
+              0.61,
+              0.774
+            ],
+            [
+              0.12,
+              0.144,
+              0.215,
+              0.239,
+              0.287,
+              0.311,
+              0.335,
+              0.383,
+              0.509,
+              0.543,
+              0.577,
+              0.611,
+              0.645,
+              0.679,
+              0.712,
+              0.746,
+              0.78,
+              0.814,
+              0.882,
+              0.916,
+              0.949
+            ],
+            [
+              0,
+              0.045,
+              0.091,
+              0.136,
+              0.273,
+              0.318,
+              0.363,
+              0.454,
+              0.5,
+              0.545,
+              0.59,
+              0.636,
+              0.739,
+              0.772,
+              0.805,
+              0.87,
+              0.902
+            ],
+            [
+              0.016,
+              0.034,
+              0.052,
+              0.087,
+              0.123,
+              0.141,
+              0.181,
+              0.22,
+              0.26,
+              0.3,
+              0.339,
+              0.419,
+              0.538,
+              0.577,
+              0.617,
+              0.753,
+              0.78,
+              0.808,
+              0.835,
+              0.863
+            ],
+            [
+              0.063,
+              0.09,
+              0.145,
+              0.172,
+              0.199,
+              0.254,
+              0.281,
+              0.363,
+              0.418,
+              0.472,
+              0.579,
+              0.602,
+              0.625,
+              0.719,
+              0.766,
+              0.789,
+              0.813,
+              0.836,
+              0.906
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.094,
+              0.14,
+              0.187,
+              0.233,
+              0.326,
+              0.419,
+              0.466,
+              0.512,
+              0.559,
+              0.698,
+              0.745,
+              0.838,
+              0.884
+            ],
+            [
+              0.131,
+              0.191,
+              0.25,
+              0.429,
+              0.549,
+              0.668,
+              0.787,
+              0.847
+            ],
+            [
+              0.164,
+              0.253,
+              0.431,
+              0.698
+            ]
+          ],
+          "normal": [
+            [
+              0.105,
+              0.136,
+              0.2,
+              0.232,
+              0.328,
+              0.423,
+              0.487,
+              0.519,
+              0.646,
+              0.678,
+              0.742,
+              0.806
+            ],
+            [
+              0.13,
+              0.16,
+              0.191,
+              0.251,
+              0.373,
+              0.403,
+              0.494,
+              0.645,
+              0.676,
+              0.797
+            ],
+            [
+              0.052,
+              0.071,
+              0.09,
+              0.167,
+              0.186,
+              0.224,
+              0.262,
+              0.281,
+              0.338,
+              0.446,
+              0.469,
+              0.492,
+              0.538,
+              0.561,
+              0.584,
+              0.63,
+              0.653,
+              0.677,
+              0.7,
+              0.769,
+              0.792,
+              0.838,
+              0.861,
+              0.884
+            ],
+            [
+              0.058,
+              0.094,
+              0.165,
+              0.272,
+              0.378,
+              0.414,
+              0.45,
+              0.521,
+              0.556,
+              0.627,
+              0.701,
+              0.723,
+              0.744,
+              0.787,
+              0.851,
+              0.872
+            ],
+            [
+              0.06,
+              0.088,
+              0.146,
+              0.203,
+              0.294,
+              0.321,
+              0.347,
+              0.374,
+              0.428,
+              0.455,
+              0.509,
+              0.563,
+              0.59,
+              0.617,
+              0.671,
+              0.698,
+              0.773,
+              0.798,
+              0.824,
+              0.874,
+              0.899
+            ],
+            [
+              0.062,
+              0.109,
+              0.156,
+              0.203,
+              0.226,
+              0.273,
+              0.344,
+              0.414,
+              0.461,
+              0.485,
+              0.649,
+              0.67,
+              0.692,
+              0.757,
+              0.778,
+              0.843,
+              0.865
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-15-02",
+      "category": "science",
+      "region": {
+        "country": "US",
+        "city": "Pasadena",
+        "lat": 34.15,
+        "lng": -118.14
+      },
+      "headline": {
+        "en": "Voyager 1 Is About to Reach One Light-Day From Earth",
+        "ko": "보이저 1호, 곧 지구에서 '1광일' 거리에 도달",
+        "fr": "Voyager 1 s'apprête à atteindre un jour-lumière de la Terre"
+      },
+      "hook": {
+        "en": "How far has humanity sent a spacecraft?",
+        "ko": "인류는 우주선을 얼마나 멀리 보냈을까요?",
+        "fr": "Jusqu'où l'humanité a-t-elle envoyé une sonde ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Voyager 1 is very far from Earth.",
+            "It is nearly one light-day away.",
+            "NASA launched it in 1977."
+          ],
+          "easy_ko": [
+            "보이저 1호는 지구에서 아주 멀리 있습니다.",
+            "곧 1광일 거리에 이릅니다.",
+            "NASA는 1977년에 발사했습니다."
+          ],
+          "normal": [
+            "NASA's Voyager 1 is the farthest human-made object from Earth.",
+            "On Wednesday it is expected to be one light-day away from us.",
+            "A light-day is the distance light travels in 24 hours, which is more than 16 billion miles.",
+            "The probe was launched in 1977 and has been traveling for nearly 50 years.",
+            "It flew past Jupiter and Saturn, and in 1998 it became the most distant human-made object.",
+            "NASA is marking the milestone with a symbolic celebration and invites the public to join in."
+          ],
+          "normal_ko": [
+            "NASA의 보이저 1호는 지구에서 가장 멀리 있는 인간이 만든 물체입니다.",
+            "수요일에 지구에서 1광일 거리에 이를 것으로 예상됩니다.",
+            "1광일은 빛이 24시간 동안 가는 거리로, 160억 마일이 넘습니다.",
+            "이 탐사선은 1977년에 발사돼 거의 50년째 날아가고 있습니다.",
+            "목성과 토성 곁을 지나갔고, 1998년에는 인간이 만든 가장 먼 물체가 됐습니다.",
+            "NASA는 상징적인 기념행사로 이 이정표를 기념하며 대중의 참여를 요청했습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Voyager 1 est très loin de la Terre.",
+            "Elle est presque à un jour-lumière.",
+            "La NASA l'a lancée en 1977."
+          ],
+          "easy_ko": [
+            "보이저 1호는 지구에서 아주 멀리 있습니다.",
+            "곧 1광일 거리에 이릅니다.",
+            "NASA는 1977년에 발사했습니다."
+          ],
+          "normal": [
+            "La sonde Voyager 1 de la NASA est l'objet fabriqué par l'humanité le plus éloigné de la Terre.",
+            "Mercredi, elle devrait se trouver à un jour-lumière de nous.",
+            "Un jour-lumière est la distance que parcourt la lumière en 24 heures, soit plus de 16 milliards de miles.",
+            "La sonde a été lancée en 1977 et voyage depuis presque 50 ans.",
+            "Elle a survolé Jupiter et Saturne, et en 1998 elle est devenue l'objet humain le plus lointain.",
+            "La NASA marque cette étape par une célébration symbolique et invite le public à y participer."
+          ],
+          "normal_ko": [
+            "NASA의 보이저 1호는 지구에서 가장 멀리 있는 인간이 만든 물체입니다.",
+            "수요일에 지구에서 1광일 거리에 이를 것으로 예상됩니다.",
+            "1광일은 빛이 24시간 동안 가는 거리로, 160억 마일이 넘습니다.",
+            "이 탐사선은 1977년에 발사돼 거의 50년째 날아가고 있습니다.",
+            "목성과 토성 곁을 지나갔고, 1998년에는 인간이 만든 가장 먼 물체가 됐습니다.",
+            "NASA는 상징적인 기념행사로 이 이정표를 기념하며 대중의 참여를 요청했습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "'광일(light-day)'은 빛이 하루(24시간) 동안 가는 거리로, 약 259억 km(160억 마일 이상)예요. 기사의 마일 표기를 그대로 옮겼습니다. 이 이야기는 NPR 본문 한 곳을 중심으로 썼고 NASA·CNET 등은 기사 제목으로만 확인했어요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "farthest",
+          "pos": "adjective",
+          "ko": "가장 먼",
+          "example": "It is the farthest object from Earth.",
+          "example_ko": "그건 지구에서 가장 먼 물체예요.",
+          "note_ko": "far - farther - farthest. further/furthest도 같은 뜻으로 써요."
+        },
+        {
+          "lang": "en",
+          "word": "human-made",
+          "pos": "adjective",
+          "ko": "인간이 만든",
+          "example": "A human-made object is far away.",
+          "example_ko": "인간이 만든 물체가 멀리 있어요.",
+          "note_ko": "man-made와 같은 뜻. 요즘은 human-made를 더 많이 써요."
+        },
+        {
+          "lang": "en",
+          "word": "object",
+          "pos": "noun",
+          "ko": "물체",
+          "example": "The object is very small.",
+          "example_ko": "그 물체는 아주 작아요.",
+          "note_ko": "동사 object([어브젝트])는 '반대하다'로 뜻이 달라요."
+        },
+        {
+          "lang": "en",
+          "word": "light-day",
+          "pos": "noun",
+          "ko": "광일(빛이 하루 가는 거리)",
+          "example": "It is one light-day away.",
+          "example_ko": "1광일 떨어져 있어요.",
+          "note_ko": "light-year(광년)보다 훨씬 짧은 거리."
+        },
+        {
+          "lang": "en",
+          "word": "distance",
+          "pos": "noun",
+          "ko": "거리",
+          "example": "The distance is huge.",
+          "example_ko": "거리가 어마어마해요.",
+          "note_ko": "형용사 distant(먼). in the distance = 멀리에."
+        },
+        {
+          "lang": "en",
+          "word": "travel",
+          "pos": "verb",
+          "ko": "이동하다, 나아가다",
+          "example": "Light travels very fast.",
+          "example_ko": "빛은 아주 빠르게 이동해요.",
+          "note_ko": "travel은 여행뿐 아니라 '(빛·소리가) 이동하다'에도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "billion",
+          "pos": "noun",
+          "ko": "10억",
+          "example": "It is 16 billion miles away.",
+          "example_ko": "160억 마일 떨어져 있어요.",
+          "note_ko": "million(100만) × 1,000. 숫자 뒤에서는 복수 s를 붙이지 않아요."
+        },
+        {
+          "lang": "en",
+          "word": "launch",
+          "pos": "verb",
+          "ko": "발사하다",
+          "example": "NASA launched it in 1977.",
+          "example_ko": "NASA는 1977년에 그것을 발사했어요.",
+          "note_ko": "명사로 '발사'. 제품 '출시하다'도 launch."
+        },
+        {
+          "lang": "en",
+          "word": "probe",
+          "pos": "noun",
+          "ko": "탐사선",
+          "example": "The probe is still working.",
+          "example_ko": "탐사선은 아직 작동 중이에요.",
+          "note_ko": "동사로는 '캐묻다, 조사하다'."
+        },
+        {
+          "lang": "en",
+          "word": "fly past",
+          "pos": "phrasal verb",
+          "ko": "~ 곁을 지나가다",
+          "example": "It flew past Jupiter.",
+          "example_ko": "그것은 목성 곁을 지나갔어요.",
+          "note_ko": "flyby(근접 통과)라는 명사도 있어요. fly - flew - flown."
+        },
+        {
+          "lang": "en",
+          "word": "milestone",
+          "pos": "noun",
+          "ko": "이정표, 중요한 단계",
+          "example": "This is a big milestone.",
+          "example_ko": "이건 큰 이정표예요.",
+          "note_ko": "원래 길가의 거리 표시 돌. reach a milestone = 이정표에 이르다."
+        },
+        {
+          "lang": "en",
+          "word": "symbolic",
+          "pos": "adjective",
+          "ko": "상징적인",
+          "example": "It is a symbolic celebration.",
+          "example_ko": "그건 상징적인 기념행사예요.",
+          "note_ko": "명사 symbol(상징). 부사 symbolically."
+        },
+        {
+          "lang": "en",
+          "word": "invite",
+          "pos": "verb",
+          "ko": "초대하다, 참여를 요청하다",
+          "example": "NASA invites the public to join.",
+          "example_ko": "NASA는 대중의 참여를 요청해요.",
+          "note_ko": "명사 invitation. invite A to join = A에게 참여해 달라고 청하다."
+        },
+        {
+          "lang": "fr",
+          "word": "le plus éloigné",
+          "pos": "locution",
+          "ko": "가장 먼",
+          "example": "C'est l'objet le plus éloigné de la Terre.",
+          "example_ko": "그건 지구에서 가장 먼 물체예요.",
+          "note_ko": "le plus + 형용사 = 최상급. 동사 éloigner(멀리하다)."
+        },
+        {
+          "lang": "fr",
+          "word": "un objet",
+          "pos": "nom masculin",
+          "ko": "물체",
+          "example": "L'objet est très petit.",
+          "example_ko": "그 물체는 아주 작아요.",
+          "note_ko": "un objet volant = 비행체. 'objet'는 남성이에요."
+        },
+        {
+          "lang": "fr",
+          "word": "fabriqué",
+          "pos": "adjectif",
+          "ko": "만들어진",
+          "example": "Un objet fabriqué par l'humanité.",
+          "example_ko": "인류가 만든 물체예요.",
+          "note_ko": "동사 fabriquer(제조하다). 인공의 느낌은 artificiel."
+        },
+        {
+          "lang": "fr",
+          "word": "un jour-lumière",
+          "pos": "nom masculin",
+          "ko": "광일",
+          "example": "Elle est à un jour-lumière.",
+          "example_ko": "1광일 거리에 있어요.",
+          "note_ko": "une année-lumière(광년)와 구조가 같아요."
+        },
+        {
+          "lang": "fr",
+          "word": "une distance",
+          "pos": "nom féminin",
+          "ko": "거리",
+          "example": "La distance est énorme.",
+          "example_ko": "거리가 어마어마해요.",
+          "note_ko": "à distance = 원격으로. 영어 distance와 철자가 같아요."
+        },
+        {
+          "lang": "fr",
+          "word": "parcourir",
+          "pos": "verbe",
+          "ko": "(거리를) 가다, 이동하다",
+          "example": "La lumière parcourt un jour-lumière.",
+          "example_ko": "빛은 1광일을 가요.",
+          "note_ko": "parcourir 100 km = 100km를 가다. 명사 un parcours(경로)."
+        },
+        {
+          "lang": "fr",
+          "word": "un milliard",
+          "pos": "nom masculin",
+          "ko": "10억",
+          "example": "Seize milliards de miles.",
+          "example_ko": "160억 마일이에요.",
+          "note_ko": "영어 billion(10억)과 같아요. 100만 = un million."
+        },
+        {
+          "lang": "fr",
+          "word": "lancer",
+          "pos": "verbe",
+          "ko": "발사하다",
+          "example": "La NASA l'a lancée en 1977.",
+          "example_ko": "NASA는 1977년에 그것을 발사했어요.",
+          "note_ko": "un lancement = 발사. 목적어가 여성(la sonde)이라 lancée."
+        },
+        {
+          "lang": "fr",
+          "word": "une sonde",
+          "pos": "nom féminin",
+          "ko": "탐사선",
+          "example": "La sonde fonctionne encore.",
+          "example_ko": "탐사선은 아직 작동해요.",
+          "note_ko": "une sonde spatiale = 우주 탐사선. 의료용 '관'도 une sonde."
+        },
+        {
+          "lang": "fr",
+          "word": "survoler",
+          "pos": "verbe",
+          "ko": "~ 위를 지나가다",
+          "example": "Elle a survolé Jupiter.",
+          "example_ko": "그것은 목성 곁을 지나갔어요.",
+          "note_ko": "sur(위) + voler(날다). 명사 un survol."
+        },
+        {
+          "lang": "fr",
+          "word": "une étape",
+          "pos": "nom féminin",
+          "ko": "단계, 이정표",
+          "example": "C'est une étape importante.",
+          "example_ko": "이건 중요한 단계예요.",
+          "note_ko": "franchir une étape = 단계를 넘다. 여행의 '기착지'도 une étape."
+        },
+        {
+          "lang": "fr",
+          "word": "symbolique",
+          "pos": "adjectif",
+          "ko": "상징적인",
+          "example": "Une célébration symbolique.",
+          "example_ko": "상징적인 기념행사예요.",
+          "note_ko": "남녀 형태가 같아요. un symbole = 상징."
+        },
+        {
+          "lang": "fr",
+          "word": "inviter",
+          "pos": "verbe",
+          "ko": "초대하다",
+          "example": "La NASA invite le public à participer.",
+          "example_ko": "NASA는 대중에게 참여를 요청해요.",
+          "note_ko": "inviter qqn à + 동사원형. 명사 une invitation."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "A \"light-day\" is the distance that…",
+          "choices": [
+            "light travels in 24 hours",
+            "a plane flies in one hour",
+            "a car drives in one day"
+          ],
+          "answer": 0,
+          "explain_ko": "light-day = 빛이 24시간 동안 가는 거리."
+        },
+        {
+          "lang": "fr",
+          "q": "Un « jour-lumière », c'est la distance que…",
+          "choices": [
+            "parcourt la lumière en 24 heures",
+            "parcourt un avion en une heure",
+            "parcourt une voiture en un jour"
+          ],
+          "answer": 0,
+          "explain_ko": "jour-lumière = 빛이 24시간 동안 가는 거리."
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
+          "accessed": "2026-11-16"
+        },
+        {
+          "name": "NASA (event announcement, seen as search headline)",
+          "url": "https://science.nasa.gov/blogs/voyager/",
+          "accessed": "2026-11-16"
+        },
+        {
+          "name": "CNET (seen as search headline)",
+          "url": "https://www.cnet.com/",
+          "accessed": "2026-11-16"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-16",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-15/559525ac11e7a114.mp3",
+            "2026-11-15/43e32313405f8eab.mp3",
+            "2026-11-15/b712915c7df0916a.mp3"
+          ],
+          "normal": [
+            "2026-11-15/eeb7704779fddea3.mp3",
+            "2026-11-15/a440ec70792bd776.mp3",
+            "2026-11-15/c7322424c3008fdf.mp3",
+            "2026-11-15/a6ba24ec132cbb14.mp3",
+            "2026-11-15/365a7ccdac48a605.mp3",
+            "2026-11-15/26fa8049504ea48c.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-15/cdc61620ecb7ddd9.mp3",
+            "2026-11-15/edb00eb2c7a094e1.mp3",
+            "2026-11-15/1d3584e7472a4a4c.mp3"
+          ],
+          "normal": [
+            "2026-11-15/78139bb8621b5f49.mp3",
+            "2026-11-15/4d5efcb8126304b8.mp3",
+            "2026-11-15/fd7676cd4943a5c5.mp3",
+            "2026-11-15/1c69164e98eb79a5.mp3",
+            "2026-11-15/e5c40a4f32a538d9.mp3",
+            "2026-11-15/c2bc23171fb2b41d.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-15/3f18ef678a9591ea.mp3",
+          "2026-11-15/00d92fd703a4ada6.mp3",
+          "2026-11-15/ce00aa70ac412adf.mp3",
+          "2026-11-15/55ff2891ce15396b.mp3",
+          "2026-11-15/59ba87e80e382013.mp3",
+          "2026-11-15/308d9ef73744282c.mp3",
+          "2026-11-15/0d443db3be04acc9.mp3",
+          "2026-11-15/47223d8c938ca812.mp3",
+          "2026-11-15/6be8c9cb5b557a97.mp3",
+          "2026-11-15/58c326948dfbb2e9.mp3",
+          "2026-11-15/6ccd3fb65ec0f9a3.mp3",
+          "2026-11-15/c9826813128c831f.mp3",
+          "2026-11-15/139908e4793c1b67.mp3",
+          "2026-11-15/359f6936186f8aef.mp3",
+          "2026-11-15/eae35e764ba51fde.mp3",
+          "2026-11-15/b6289e691daa379e.mp3",
+          "2026-11-15/00a51b2ad0b30d8d.mp3",
+          "2026-11-15/3ce0127455d968af.mp3",
+          "2026-11-15/fa28a0cde0546798.mp3",
+          "2026-11-15/f478108c7b84aa12.mp3",
+          "2026-11-15/836b08de23d2a1f9.mp3",
+          "2026-11-15/4f9e9d1221e65cba.mp3",
+          "2026-11-15/854f8aac9dc2353b.mp3",
+          "2026-11-15/9db9c46643f216bc.mp3",
+          "2026-11-15/1fdfdd5504a8a562.mp3",
+          "2026-11-15/fe4961cfc0c07ef6.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0,
+              0.206,
+              0.309,
+              0.412,
+              0.619,
+              0.722,
+              0.825
+            ],
+            [
+              0.293,
+              0.364,
+              0.435,
+              0.578,
+              0.649,
+              0.791
+            ],
+            [
+              0,
+              0.234,
+              0.352,
+              0.469,
+              0.586
+            ]
+          ],
+          "normal": [
+            [
+              0,
+              0.118,
+              0.237,
+              0.296,
+              0.355,
+              0.414,
+              0.532,
+              0.71,
+              0.828,
+              0.887
+            ],
+            [
+              0.119,
+              0.168,
+              0.316,
+              0.365,
+              0.415,
+              0.513,
+              0.562,
+              0.612,
+              0.661,
+              0.759,
+              0.858,
+              0.907
+            ],
+            [
+              0.072,
+              0.111,
+              0.189,
+              0.228,
+              0.267,
+              0.345,
+              0.384,
+              0.461,
+              0.5,
+              0.578,
+              0.642,
+              0.677,
+              0.712,
+              0.747,
+              0.782,
+              0.853,
+              0.923
+            ],
+            [
+              0.105,
+              0.147,
+              0.19,
+              0.232,
+              0.275,
+              0.318,
+              0.445,
+              0.488,
+              0.53,
+              0.573,
+              0.701,
+              0.743,
+              0.829,
+              0.914
+            ],
+            [
+              0.049,
+              0.082,
+              0.114,
+              0.147,
+              0.246,
+              0.279,
+              0.368,
+              0.402,
+              0.436,
+              0.539,
+              0.573,
+              0.642,
+              0.676,
+              0.71,
+              0.779,
+              0.882
+            ],
+            [
+              0.111,
+              0.174,
+              0.205,
+              0.268,
+              0.3,
+              0.394,
+              0.426,
+              0.457,
+              0.551,
+              0.677,
+              0.709,
+              0.772,
+              0.803,
+              0.866,
+              0.898,
+              0.929
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.274,
+              0.41,
+              0.478,
+              0.545,
+              0.613,
+              0.681,
+              0.749,
+              0.817
+            ],
+            [
+              0.335,
+              0.397,
+              0.458,
+              0.581,
+              0.643,
+              0.705
+            ],
+            [
+              0.225,
+              0.289,
+              0.415,
+              0.479,
+              0.605,
+              0.669
+            ]
+          ],
+          "normal": [
+            [
+              0.082,
+              0.112,
+              0.143,
+              0.203,
+              0.233,
+              0.264,
+              0.294,
+              0.355,
+              0.385,
+              0.446,
+              0.536,
+              0.567,
+              0.688,
+              0.718,
+              0.749,
+              0.839,
+              0.87,
+              0.9
+            ],
+            [
+              0.099,
+              0.426,
+              0.466,
+              0.547,
+              0.587,
+              0.667,
+              0.707,
+              0.747,
+              0.867,
+              0.907
+            ],
+            [
+              0.091,
+              0.12,
+              0.206,
+              0.235,
+              0.264,
+              0.321,
+              0.35,
+              0.408,
+              0.436,
+              0.494,
+              0.523,
+              0.58,
+              0.677,
+              0.706,
+              0.734,
+              0.763,
+              0.82,
+              0.877,
+              0.906
+            ],
+            [
+              0.064,
+              0.108,
+              0.152,
+              0.196,
+              0.284,
+              0.372,
+              0.416,
+              0.549,
+              0.593,
+              0.637,
+              0.725,
+              0.813,
+              0.901
+            ],
+            [
+              0.098,
+              0.123,
+              0.147,
+              0.221,
+              0.294,
+              0.318,
+              0.439,
+              0.467,
+              0.496,
+              0.58,
+              0.608,
+              0.636,
+              0.72,
+              0.776,
+              0.832,
+              0.86,
+              0.888
+            ],
+            [
+              0.076,
+              0.105,
+              0.163,
+              0.221,
+              0.249,
+              0.307,
+              0.336,
+              0.365,
+              0.48,
+              0.596,
+              0.625,
+              0.683,
+              0.711,
+              0.769,
+              0.798,
+              0.827
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-15-03",
+      "category": "politics",
+      "region": {
+        "country": "CZ",
+        "city": "Prague",
+        "lat": 50.08,
+        "lng": 14.44
+      },
+      "headline": {
+        "en": "Hundreds of Thousands Rally in Prague to Defend Public Media",
+        "ko": "프라하에서 수십만 명, 공영방송 수신료 폐지 반대 시위",
+        "fr": "Prague : des centaines de milliers de manifestants pour défendre l'audiovisuel public"
+      },
+      "hook": {
+        "en": "Who should pay for public TV and radio?",
+        "ko": "공영 TV와 라디오 비용은 누가 내야 할까요?",
+        "fr": "Qui doit payer la télé et la radio publiques ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Many people marched in Prague on Sunday.",
+            "They want to keep public TV and radio free from the government.",
+            "The government wants to change how they are paid for."
+          ],
+          "easy_ko": [
+            "일요일에 프라하에서 많은 사람이 행진했습니다.",
+            "그들은 공영 TV와 라디오가 정부로부터 독립적이길 바랍니다.",
+            "정부는 운영 비용을 내는 방식을 바꾸려 합니다."
+          ],
+          "normal": [
+            "Hundreds of thousands of people protested in Prague on Sunday, according to the organisers.",
+            "They are against a government plan to scrap the licence fee and pay for public TV and radio from the state budget.",
+            "Critics say this would let politicians put pressure on journalists and weaken media freedom.",
+            "The government says editorial independence will not change, but it wants the broadcasters to cut costs.",
+            "Parliament passed a first draft of the plan in late October, and protests have been held ever since.",
+            "Many protesters wore paper hats of a children's TV character, which has become a symbol of the movement."
+          ],
+          "normal_ko": [
+            "주최 측에 따르면 일요일 프라하에서 수십만 명이 시위했습니다.",
+            "이들은 수신료를 없애고 공영 TV·라디오를 국가 예산으로 운영하려는 정부 계획에 반대합니다.",
+            "비판자들은 이렇게 되면 정치인들이 언론인을 압박하고 언론 자유가 약해질 수 있다고 말합니다.",
+            "정부는 편집의 독립성은 달라지지 않는다면서도 방송사에 비용 절감을 원합니다.",
+            "의회는 10월 말 이 계획의 초안을 통과시켰고, 그 뒤로 시위가 이어져 왔습니다.",
+            "많은 시위자가 어린이 TV 캐릭터의 종이 모자를 썼고, 이 모자는 운동의 상징이 됐습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Beaucoup de gens ont manifesté à Prague dimanche.",
+            "Ils veulent garder une télé et une radio publiques libres.",
+            "Le gouvernement veut changer la façon de les financer."
+          ],
+          "easy_ko": [
+            "일요일에 프라하에서 많은 사람이 행진했습니다.",
+            "그들은 공영 TV와 라디오가 정부로부터 독립적이길 바랍니다.",
+            "정부는 운영 비용을 내는 방식을 바꾸려 합니다."
+          ],
+          "normal": [
+            "Des centaines de milliers de personnes ont manifesté dimanche à Prague, selon les organisateurs.",
+            "Elles s'opposent au projet du gouvernement de supprimer la redevance et de financer l'audiovisuel public par le budget de l'État.",
+            "Les détracteurs estiment que les politiques pourraient ainsi faire pression sur les journalistes et affaiblir la liberté de la presse.",
+            "Le gouvernement assure que l'indépendance éditoriale ne changera pas, mais veut que les chaînes réduisent leurs coûts.",
+            "Le Parlement a adopté une première version du texte fin octobre, et les manifestations se succèdent depuis.",
+            "Beaucoup de manifestants portaient le chapeau en papier d'un personnage de télévision pour enfants, devenu un symbole du mouvement."
+          ],
+          "normal_ko": [
+            "주최 측에 따르면 일요일 프라하에서 수십만 명이 시위했습니다.",
+            "이들은 수신료를 없애고 공영 TV·라디오를 국가 예산으로 운영하려는 정부 계획에 반대합니다.",
+            "비판자들은 이렇게 되면 정치인들이 언론인을 압박하고 언론 자유가 약해질 수 있다고 말합니다.",
+            "정부는 편집의 독립성은 달라지지 않는다면서도 방송사에 비용 절감을 원합니다.",
+            "의회는 10월 말 이 계획의 초안을 통과시켰고, 그 뒤로 시위가 이어져 왔습니다.",
+            "많은 시위자가 어린이 TV 캐릭터의 종이 모자를 썼고, 이 모자는 운동의 상징이 됐습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "영국·체코 등은 TV 시청자에게 '수신료(licence fee)'를 걷어 공영방송을 운영해요. 체코 정부는 이를 없애고 국가 예산으로 대신하려 하고, 반대하는 쪽은 정부가 예산으로 방송을 흔들 수 있다고 걱정합니다. 참가 인원은 주최 측 추산이고 출처마다 숫자가 달라 '수십만 명'이라고만 썼어요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "protest",
+          "pos": "verb",
+          "ko": "항의하다, 시위하다",
+          "example": "People protested in Prague.",
+          "example_ko": "사람들이 프라하에서 시위했어요.",
+          "note_ko": "명사 protest는 [프로테스트]로 앞 강세, 동사는 뒤 강세예요."
+        },
+        {
+          "lang": "en",
+          "word": "according to",
+          "pos": "phrase",
+          "ko": "~에 따르면",
+          "example": "According to the organisers, it was huge.",
+          "example_ko": "주최 측에 따르면 엄청났어요.",
+          "note_ko": "뒤에 사람·자료가 와요. according to me는 어색해요."
+        },
+        {
+          "lang": "en",
+          "word": "organiser",
+          "pos": "noun",
+          "ko": "주최자",
+          "example": "The organisers gave a number.",
+          "example_ko": "주최 측이 숫자를 밝혔어요.",
+          "note_ko": "영국식 organiser, 미국식 organizer. 동사 organise."
+        },
+        {
+          "lang": "en",
+          "word": "scrap",
+          "pos": "verb",
+          "ko": "폐지하다, 없애다",
+          "example": "They want to scrap the fee.",
+          "example_ko": "그들은 수수료를 폐지하려 해요.",
+          "note_ko": "명사로는 '조각, 고철'. scrap a plan = 계획을 취소하다."
+        },
+        {
+          "lang": "en",
+          "word": "licence fee",
+          "pos": "noun",
+          "ko": "수신료",
+          "example": "Households pay a licence fee.",
+          "example_ko": "가구들이 수신료를 내요.",
+          "note_ko": "영국식 licence(명사), 미국식 license. fee = 요금."
+        },
+        {
+          "lang": "en",
+          "word": "public",
+          "pos": "adjective",
+          "ko": "공공의, 공영의",
+          "example": "Public TV is paid by everyone.",
+          "example_ko": "공영방송은 모두가 비용을 내요.",
+          "note_ko": "public media = 공영 매체. 반대는 private."
+        },
+        {
+          "lang": "en",
+          "word": "state budget",
+          "pos": "noun",
+          "ko": "국가 예산",
+          "example": "The state budget will pay for it.",
+          "example_ko": "국가 예산으로 비용을 대요.",
+          "note_ko": "budget [버짓]. fund from the state budget = 국가 예산으로 지원하다."
+        },
+        {
+          "lang": "en",
+          "word": "critic",
+          "pos": "noun",
+          "ko": "비판자, 평론가",
+          "example": "Critics say it is risky.",
+          "example_ko": "비판하는 사람들은 위험하다고 말해요.",
+          "note_ko": "동사 criticise, 명사 criticism."
+        },
+        {
+          "lang": "en",
+          "word": "pressure",
+          "pos": "noun",
+          "ko": "압력",
+          "example": "Politicians may put pressure on reporters.",
+          "example_ko": "정치인이 기자들에게 압력을 넣을 수 있어요.",
+          "note_ko": "put pressure on = ~에 압박을 가하다."
+        },
+        {
+          "lang": "en",
+          "word": "media freedom",
+          "pos": "noun",
+          "ko": "언론의 자유",
+          "example": "They fight for media freedom.",
+          "example_ko": "그들은 언론의 자유를 위해 싸워요.",
+          "note_ko": "press freedom도 같은 뜻. freedom of the press."
+        },
+        {
+          "lang": "en",
+          "word": "independence",
+          "pos": "noun",
+          "ko": "독립(성)",
+          "example": "Editorial independence matters.",
+          "example_ko": "편집의 독립성이 중요해요.",
+          "note_ko": "형용사 independent. 반대는 dependence."
+        },
+        {
+          "lang": "en",
+          "word": "cut costs",
+          "pos": "phrase",
+          "ko": "비용을 줄이다",
+          "example": "The company must cut costs.",
+          "example_ko": "그 회사는 비용을 줄여야 해요.",
+          "note_ko": "cut + 명사: cut jobs, cut prices. cost는 불가산이 아니라 복수 costs로."
+        },
+        {
+          "lang": "en",
+          "word": "symbol",
+          "pos": "noun",
+          "ko": "상징",
+          "example": "The hat became a symbol.",
+          "example_ko": "그 모자는 상징이 됐어요.",
+          "note_ko": "형용사 symbolic. 발음 [심벌]."
+        },
+        {
+          "lang": "fr",
+          "word": "manifester",
+          "pos": "verbe",
+          "ko": "시위하다",
+          "example": "Ils manifestent à Prague.",
+          "example_ko": "그들은 프라하에서 시위해요.",
+          "note_ko": "une manifestation = 시위, un manifestant = 시위자. 줄여서 une manif."
+        },
+        {
+          "lang": "fr",
+          "word": "selon",
+          "pos": "préposition",
+          "ko": "~에 따르면",
+          "example": "Selon les organisateurs, c'était énorme.",
+          "example_ko": "주최 측에 따르면 엄청났어요.",
+          "note_ko": "d'après와 비슷해요. selon moi = 내 생각엔."
+        },
+        {
+          "lang": "fr",
+          "word": "un organisateur",
+          "pos": "nom masculin",
+          "ko": "주최자",
+          "example": "Les organisateurs donnent un chiffre.",
+          "example_ko": "주최 측이 숫자를 밝혀요.",
+          "note_ko": "여성형 une organisatrice. 동사 organiser."
+        },
+        {
+          "lang": "fr",
+          "word": "supprimer",
+          "pos": "verbe",
+          "ko": "폐지하다, 없애다",
+          "example": "Ils veulent supprimer la redevance.",
+          "example_ko": "그들은 수신료를 폐지하려 해요.",
+          "note_ko": "une suppression = 폐지. 파일 '삭제'도 supprimer."
+        },
+        {
+          "lang": "fr",
+          "word": "la redevance",
+          "pos": "nom féminin",
+          "ko": "수신료",
+          "example": "Les foyers paient la redevance.",
+          "example_ko": "가구들이 수신료를 내요.",
+          "note_ko": "la redevance audiovisuelle = 방송 수신료. 프랑스는 2022년에 폐지."
+        },
+        {
+          "lang": "fr",
+          "word": "public",
+          "pos": "adjectif",
+          "ko": "공공의",
+          "example": "L'audiovisuel public.",
+          "example_ko": "공영 방송이에요.",
+          "note_ko": "여성형 publique. l'audiovisuel public = 공영 방송 전체."
+        },
+        {
+          "lang": "fr",
+          "word": "le budget de l'État",
+          "pos": "locution",
+          "ko": "국가 예산",
+          "example": "Le budget de l'État paie tout.",
+          "example_ko": "국가 예산이 모두 지불해요.",
+          "note_ko": "le budget = 예산. 발음 [뷔제]."
+        },
+        {
+          "lang": "fr",
+          "word": "un détracteur",
+          "pos": "nom masculin",
+          "ko": "비판자",
+          "example": "Les détracteurs sont inquiets.",
+          "example_ko": "비판하는 사람들이 걱정해요.",
+          "note_ko": "여성형 une détractrice. critique(비평)와 달리 반대 쪽이에요."
+        },
+        {
+          "lang": "fr",
+          "word": "faire pression",
+          "pos": "locution",
+          "ko": "압력을 가하다",
+          "example": "Ils font pression sur les journalistes.",
+          "example_ko": "그들은 기자들에게 압력을 가해요.",
+          "note_ko": "une pression = 압력. faire pression sur qqn."
+        },
+        {
+          "lang": "fr",
+          "word": "la liberté de la presse",
+          "pos": "locution",
+          "ko": "언론의 자유",
+          "example": "Ils défendent la liberté de la presse.",
+          "example_ko": "그들은 언론의 자유를 지켜요.",
+          "note_ko": "la liberté = 자유. 줄여서 la liberté des médias도 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "l'indépendance",
+          "pos": "nom féminin",
+          "ko": "독립(성)",
+          "example": "L'indépendance éditoriale compte.",
+          "example_ko": "편집의 독립성이 중요해요.",
+          "note_ko": "형용사 indépendant. la fête de l'indépendance = 독립기념일."
+        },
+        {
+          "lang": "fr",
+          "word": "réduire les coûts",
+          "pos": "locution",
+          "ko": "비용을 줄이다",
+          "example": "L'entreprise doit réduire les coûts.",
+          "example_ko": "그 회사는 비용을 줄여야 해요.",
+          "note_ko": "réduire = 줄이다(불규칙). un coût = 비용."
+        },
+        {
+          "lang": "fr",
+          "word": "un symbole",
+          "pos": "nom masculin",
+          "ko": "상징",
+          "example": "Le chapeau est devenu un symbole.",
+          "example_ko": "그 모자는 상징이 됐어요.",
+          "note_ko": "형용사 symbolique. 영어와 철자가 비슷해요."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "To \"scrap\" a plan means to…",
+          "choices": [
+            "cancel it",
+            "start it",
+            "celebrate it"
+          ],
+          "answer": 0,
+          "explain_ko": "scrap = 없애다, 폐지하다."
+        },
+        {
+          "lang": "fr",
+          "q": "« Supprimer » la redevance, c'est…",
+          "choices": [
+            "l'abolir",
+            "la créer",
+            "la fêter"
+          ],
+          "answer": 0,
+          "explain_ko": "supprimer = 없애다, 폐지하다."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o",
+          "accessed": "2026-11-16"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
+          "accessed": "2026-11-16"
+        },
+        {
+          "name": "France 24 (seen as headline)",
+          "url": "https://www.france24.com/en/tv-shows/spotlight/20261115-pragues-s-fight-for-public-tv-why-renowned-presenter-will-leave-czech-tv-over-reforms",
+          "accessed": "2026-11-16"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-16",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-15/5d0aa76fe2b9cb97.mp3",
+            "2026-11-15/c6a406ea56b2c705.mp3",
+            "2026-11-15/1e5659a0f0ce8b6f.mp3"
+          ],
+          "normal": [
+            "2026-11-15/bf2912e391c238d7.mp3",
+            "2026-11-15/2f593e11bc691242.mp3",
+            "2026-11-15/8eb56ec90370fdbc.mp3",
+            "2026-11-15/f5fc3cf8b812e495.mp3",
+            "2026-11-15/35b6f1e30f4cf51d.mp3",
+            "2026-11-15/94a9446fa594f773.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-15/40bf674c04d58c86.mp3",
+            "2026-11-15/f89a3a656e15abbe.mp3",
+            "2026-11-15/444e3de9937e2baf.mp3"
+          ],
+          "normal": [
+            "2026-11-15/886112e570a5ab62.mp3",
+            "2026-11-15/d09cfa27c2843317.mp3",
+            "2026-11-15/b303e27108475d8f.mp3",
+            "2026-11-15/dae393917336299e.mp3",
+            "2026-11-15/cd5fd75ea7c26cdd.mp3",
+            "2026-11-15/7c1a2658287862c4.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-15/e81c1cad186e8676.mp3",
+          "2026-11-15/181845363f333720.mp3",
+          "2026-11-15/c9f8bae7b6a166a1.mp3",
+          "2026-11-15/242704a83d4e2cb1.mp3",
+          "2026-11-15/d8b8fdac7825afa0.mp3",
+          "2026-11-15/d4e3c4bc4c2052e1.mp3",
+          "2026-11-15/f584b94edbf3e6d7.mp3",
+          "2026-11-15/bde394d52b3715f5.mp3",
+          "2026-11-15/906a458fa68adfc4.mp3",
+          "2026-11-15/4a8e0d9e5d8fd0c4.mp3",
+          "2026-11-15/5f26274793590ea7.mp3",
+          "2026-11-15/6586bc3f27a7036f.mp3",
+          "2026-11-15/7a1f2e3f0332db51.mp3",
+          "2026-11-15/6e62f0a5c5aace62.mp3",
+          "2026-11-15/597d4fca959f014f.mp3",
+          "2026-11-15/3c4320500d9ba8e3.mp3",
+          "2026-11-15/ce90fb746ccf1847.mp3",
+          "2026-11-15/8da315256336d7bc.mp3",
+          "2026-11-15/2757624989fd8d68.mp3",
+          "2026-11-15/346032592ab70d9c.mp3",
+          "2026-11-15/cce2c0e6cfc0b6a4.mp3",
+          "2026-11-15/4f4ca039cd954175.mp3",
+          "2026-11-15/db9e605ff3692d99.mp3",
+          "2026-11-15/c9d29bbdf2419478.mp3",
+          "2026-11-15/33bc6e947eb5ac2b.mp3",
+          "2026-11-15/720edce7b19f1d7a.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.112,
+              0.281,
+              0.365,
+              0.449,
+              0.534,
+              0.703,
+              0.787
+            ],
+            [
+              0,
+              0.063,
+              0.125,
+              0.188,
+              0.25,
+              0.375,
+              0.438,
+              0.5,
+              0.625,
+              0.688,
+              0.75,
+              0.813
+            ],
+            [
+              0.042,
+              0.118,
+              0.346,
+              0.422,
+              0.498,
+              0.574,
+              0.65,
+              0.726,
+              0.802,
+              0.878
+            ]
+          ],
+          "normal": [
+            [
+              0.055,
+              0.135,
+              0.175,
+              0.256,
+              0.296,
+              0.336,
+              0.416,
+              0.456,
+              0.536,
+              0.576,
+              0.722,
+              0.804,
+              0.831,
+              0.859
+            ],
+            [
+              0.064,
+              0.096,
+              0.129,
+              0.193,
+              0.225,
+              0.322,
+              0.355,
+              0.387,
+              0.419,
+              0.451,
+              0.516,
+              0.548,
+              0.58,
+              0.613,
+              0.645,
+              0.71,
+              0.742,
+              0.774,
+              0.839,
+              0.871,
+              0.903,
+              0.935
+            ],
+            [
+              0.101,
+              0.172,
+              0.208,
+              0.244,
+              0.28,
+              0.316,
+              0.459,
+              0.495,
+              0.566,
+              0.602,
+              0.71,
+              0.745,
+              0.817,
+              0.889
+            ],
+            [
+              0,
+              0.034,
+              0.134,
+              0.168,
+              0.302,
+              0.437,
+              0.47,
+              0.504,
+              0.626,
+              0.664,
+              0.701,
+              0.738,
+              0.776,
+              0.888,
+              0.925,
+              0.963
+            ],
+            [
+              0.046,
+              0.149,
+              0.184,
+              0.218,
+              0.252,
+              0.287,
+              0.321,
+              0.355,
+              0.39,
+              0.424,
+              0.458,
+              0.617,
+              0.656,
+              0.734,
+              0.774,
+              0.813,
+              0.852,
+              0.93
+            ],
+            [
+              0.064,
+              0.131,
+              0.231,
+              0.265,
+              0.332,
+              0.365,
+              0.399,
+              0.432,
+              0.5,
+              0.533,
+              0.68,
+              0.702,
+              0.724,
+              0.768,
+              0.79,
+              0.834,
+              0.856,
+              0.878
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.133,
+              0.244,
+              0.3,
+              0.356,
+              0.412,
+              0.635,
+              0.69,
+              0.802
+            ],
+            [
+              0.107,
+              0.162,
+              0.218,
+              0.328,
+              0.383,
+              0.494,
+              0.549,
+              0.604,
+              0.715,
+              0.88
+            ],
+            [
+              0.115,
+              0.169,
+              0.33,
+              0.384,
+              0.492,
+              0.546,
+              0.653,
+              0.707,
+              0.761
+            ]
+          ],
+          "normal": [
+            [
+              0.132,
+              0.161,
+              0.218,
+              0.247,
+              0.304,
+              0.332,
+              0.389,
+              0.418,
+              0.532,
+              0.589,
+              0.618,
+              0.714,
+              0.764,
+              0.789
+            ],
+            [
+              0.057,
+              0.081,
+              0.131,
+              0.155,
+              0.204,
+              0.229,
+              0.303,
+              0.327,
+              0.401,
+              0.426,
+              0.5,
+              0.524,
+              0.549,
+              0.623,
+              0.721,
+              0.77,
+              0.795,
+              0.819,
+              0.869,
+              0.893
+            ],
+            [
+              0.104,
+              0.127,
+              0.197,
+              0.243,
+              0.266,
+              0.289,
+              0.381,
+              0.427,
+              0.474,
+              0.497,
+              0.543,
+              0.566,
+              0.589,
+              0.658,
+              0.681,
+              0.75,
+              0.774,
+              0.843,
+              0.866,
+              0.889
+            ],
+            [
+              0.078,
+              0.105,
+              0.186,
+              0.239,
+              0.266,
+              0.373,
+              0.48,
+              0.507,
+              0.587,
+              0.684,
+              0.714,
+              0.743,
+              0.773,
+              0.803,
+              0.832,
+              0.891,
+              0.921
+            ],
+            [
+              0.079,
+              0.109,
+              0.169,
+              0.199,
+              0.289,
+              0.319,
+              0.379,
+              0.439,
+              0.468,
+              0.498,
+              0.528,
+              0.622,
+              0.648,
+              0.673,
+              0.799,
+              0.825,
+              0.875
+            ],
+            [
+              0.063,
+              0.11,
+              0.133,
+              0.226,
+              0.273,
+              0.296,
+              0.342,
+              0.366,
+              0.412,
+              0.435,
+              0.505,
+              0.528,
+              0.621,
+              0.644,
+              0.759,
+              0.827,
+              0.85,
+              0.895,
+              0.917
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-15-04",
+      "category": "politics",
+      "region": {
+        "country": "GB",
+        "city": "Helensburgh",
+        "lat": 56,
+        "lng": -4.73
+      },
+      "headline": {
+        "en": "British Nuclear Submarine Returns After Record 217 Days Underwater",
+        "ko": "영국 핵잠수함, 기록적인 217일 잠항 순찰 마치고 귀환",
+        "fr": "Un sous-marin nucléaire britannique rentre après un record de 217 jours sous l'eau"
+      },
+      "hook": {
+        "en": "Could you live underwater for 217 days?",
+        "ko": "217일 동안 물속에서 살 수 있나요?",
+        "fr": "Pourriez-vous vivre 217 jours sous l'eau ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "A British submarine came home on Sunday.",
+            "It spent 217 days under the sea.",
+            "That is a new record."
+          ],
+          "easy_ko": [
+            "영국 잠수함이 일요일에 돌아왔습니다.",
+            "217일 동안 바닷속에 있었습니다.",
+            "새로운 기록입니다."
+          ],
+          "normal": [
+            "A Royal Navy submarine called HMS Vengeance returned to its base in Scotland on Sunday.",
+            "It had spent 217 days underwater on patrol, a new record for a British submarine.",
+            "The old record was 205 days.",
+            "About 140 crew members lived almost cut off from the outside world.",
+            "Patrols used to last about three months, but six months is now normal because there are not enough seaworthy submarines.",
+            "The defence secretary welcomed the crew home, while experts asked how long old submarines and their crews can keep doing this."
+          ],
+          "normal_ko": [
+            "영국 해군 잠수함 HMS 뱅전스가 일요일 스코틀랜드 기지로 돌아왔습니다.",
+            "순찰하며 217일 동안 물속에 있었고, 영국 잠수함으로는 신기록입니다.",
+            "종전 기록은 205일이었습니다.",
+            "승조원 약 140명은 바깥세상과 거의 단절된 채 지냈습니다.",
+            "순찰은 예전에는 3개월쯤이었지만, 운항 가능한 잠수함이 부족해 지금은 6개월이 보통입니다.",
+            "국방장관은 승조원들을 환영했고, 전문가들은 낡은 잠수함과 승조원이 이 일을 얼마나 더 할 수 있을지 물었습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Un sous-marin britannique est rentré dimanche.",
+            "Il est resté 217 jours sous la mer.",
+            "C'est un nouveau record."
+          ],
+          "easy_ko": [
+            "영국 잠수함이 일요일에 돌아왔습니다.",
+            "217일 동안 바닷속에 있었습니다.",
+            "새로운 기록입니다."
+          ],
+          "normal": [
+            "Le sous-marin de la Royal Navy HMS Vengeance est rentré dimanche à sa base en Écosse.",
+            "Il avait passé 217 jours sous l'eau en patrouille, un nouveau record pour un sous-marin britannique.",
+            "L'ancien record était de 205 jours.",
+            "Environ 140 membres d'équipage ont vécu presque coupés du monde extérieur.",
+            "Les patrouilles duraient autrefois environ trois mois, mais six mois est devenu la norme, faute de sous-marins en état de naviguer.",
+            "Le ministre de la Défense a accueilli l'équipage, tandis que des experts se demandent combien de temps de vieux sous-marins et leurs équipages peuvent tenir ainsi."
+          ],
+          "normal_ko": [
+            "영국 해군 잠수함 HMS 뱅전스가 일요일 스코틀랜드 기지로 돌아왔습니다.",
+            "순찰하며 217일 동안 물속에 있었고, 영국 잠수함으로는 신기록입니다.",
+            "종전 기록은 205일이었습니다.",
+            "승조원 약 140명은 바깥세상과 거의 단절된 채 지냈습니다.",
+            "순찰은 예전에는 3개월쯤이었지만, 운항 가능한 잠수함이 부족해 지금은 6개월이 보통입니다.",
+            "국방장관은 승조원들을 환영했고, 전문가들은 낡은 잠수함과 승조원이 이 일을 얼마나 더 할 수 있을지 물었습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "트라이던트 핵미사일을 싣는 영국 잠수함은 항상 한 척이 바다 어딘가에 있어요. 길게 물속에 있을수록 정비할 배가 부족하다는 뜻이라 영국에서 논쟁거리입니다. 영상·앱에서는 사실(217일 기록)만 전하고 정치적 책임 공방은 뺐어요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "submarine",
+          "pos": "noun",
+          "ko": "잠수함",
+          "example": "The submarine came home.",
+          "example_ko": "잠수함이 돌아왔어요.",
+          "note_ko": "sub로 줄여 말해요. 강세 [서브머린] 또는 [서브머린]."
+        },
+        {
+          "lang": "en",
+          "word": "return",
+          "pos": "verb",
+          "ko": "돌아오다",
+          "example": "It returned on Sunday.",
+          "example_ko": "그것은 일요일에 돌아왔어요.",
+          "note_ko": "return to base = 기지로 복귀하다."
+        },
+        {
+          "lang": "en",
+          "word": "base",
+          "pos": "noun",
+          "ko": "기지",
+          "example": "The base is in Scotland.",
+          "example_ko": "그 기지는 스코틀랜드에 있어요.",
+          "note_ko": "naval base = 해군 기지. 일반적으로 '토대'라는 뜻도."
+        },
+        {
+          "lang": "en",
+          "word": "submerged",
+          "pos": "adjective",
+          "ko": "물속에 잠긴",
+          "example": "It stayed submerged for 217 days.",
+          "example_ko": "그것은 217일 동안 물속에 있었어요.",
+          "note_ko": "동사 submerge. sub(아래) + merge."
+        },
+        {
+          "lang": "en",
+          "word": "patrol",
+          "pos": "noun",
+          "ko": "순찰",
+          "example": "The patrol lasted 217 days.",
+          "example_ko": "순찰은 217일 동안 이어졌어요.",
+          "note_ko": "on patrol = 순찰 중. 동사로도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "record",
+          "pos": "noun",
+          "ko": "기록",
+          "example": "It set a new record.",
+          "example_ko": "그것은 신기록을 세웠어요.",
+          "note_ko": "명사 [레커드], 동사 record [리코드]. break a record = 기록을 깨다."
+        },
+        {
+          "lang": "en",
+          "word": "previous",
+          "pos": "adjective",
+          "ko": "이전의",
+          "example": "The previous record was 205 days.",
+          "example_ko": "이전 기록은 205일이었어요.",
+          "note_ko": "반대는 next. previously = 이전에."
+        },
+        {
+          "lang": "en",
+          "word": "crew",
+          "pos": "noun",
+          "ko": "승무원들",
+          "example": "The crew is about 140 people.",
+          "example_ko": "승무원은 약 140명이에요.",
+          "note_ko": "집합명사. a crew member = 승무원 한 명."
+        },
+        {
+          "lang": "en",
+          "word": "isolation",
+          "pos": "noun",
+          "ko": "고립",
+          "example": "They lived in almost total isolation.",
+          "example_ko": "그들은 거의 완전히 고립돼 지냈어요.",
+          "note_ko": "형용사 isolated. self-isolation = 자가격리."
+        },
+        {
+          "lang": "en",
+          "word": "last",
+          "pos": "verb",
+          "ko": "지속되다",
+          "example": "Patrols used to last three months.",
+          "example_ko": "순찰은 예전에 석 달 정도 이어졌어요.",
+          "note_ko": "last는 형용사(마지막의)로도 써요. 동사는 '계속되다'."
+        },
+        {
+          "lang": "en",
+          "word": "routine",
+          "pos": "adjective",
+          "ko": "일상적인",
+          "example": "Six-month patrols are now routine.",
+          "example_ko": "6개월 순찰이 이제는 일상이에요.",
+          "note_ko": "명사 routine = 일과. 발음 [루틴]."
+        },
+        {
+          "lang": "en",
+          "word": "shortage",
+          "pos": "noun",
+          "ko": "부족",
+          "example": "There is a shortage of submarines.",
+          "example_ko": "잠수함이 부족해요.",
+          "note_ko": "a shortage of + 명사. 동사 형태 short(부족한)."
+        },
+        {
+          "lang": "en",
+          "word": "welcome",
+          "pos": "verb",
+          "ko": "환영하다",
+          "example": "The minister welcomed the crew home.",
+          "example_ko": "장관이 승조원들을 환영했어요.",
+          "note_ko": "welcome A home = 돌아온 A를 환영하다."
+        },
+        {
+          "lang": "fr",
+          "word": "un sous-marin",
+          "pos": "nom masculin",
+          "ko": "잠수함",
+          "example": "Le sous-marin est rentré.",
+          "example_ko": "잠수함이 돌아왔어요.",
+          "note_ko": "sous(아래) + marin(바다의). 복수 les sous-marins."
+        },
+        {
+          "lang": "fr",
+          "word": "rentrer",
+          "pos": "verbe",
+          "ko": "돌아오다",
+          "example": "Il est rentré dimanche.",
+          "example_ko": "그것은 일요일에 돌아왔어요.",
+          "note_ko": "rentrer à la base = 기지로 복귀하다. 조동사는 être."
+        },
+        {
+          "lang": "fr",
+          "word": "une base",
+          "pos": "nom féminin",
+          "ko": "기지",
+          "example": "La base est en Écosse.",
+          "example_ko": "그 기지는 스코틀랜드에 있어요.",
+          "note_ko": "une base navale = 해군 기지."
+        },
+        {
+          "lang": "fr",
+          "word": "immergé",
+          "pos": "adjectif",
+          "ko": "물속에 잠긴",
+          "example": "Il est resté immergé 217 jours.",
+          "example_ko": "그것은 217일 동안 물속에 있었어요.",
+          "note_ko": "동사 immerger. 반대는 émergé."
+        },
+        {
+          "lang": "fr",
+          "word": "une patrouille",
+          "pos": "nom féminin",
+          "ko": "순찰",
+          "example": "La patrouille a duré 217 jours.",
+          "example_ko": "순찰은 217일 동안 이어졌어요.",
+          "note_ko": "동사 patrouiller. 발음 [파트루이]."
+        },
+        {
+          "lang": "fr",
+          "word": "un record",
+          "pos": "nom masculin",
+          "ko": "기록",
+          "example": "C'est un nouveau record.",
+          "example_ko": "새로운 기록이에요.",
+          "note_ko": "battre un record = 기록을 깨다. 영어와 철자가 같아요."
+        },
+        {
+          "lang": "fr",
+          "word": "précédent",
+          "pos": "adjectif",
+          "ko": "이전의",
+          "example": "Le précédent record était de 205 jours.",
+          "example_ko": "이전 기록은 205일이었어요.",
+          "note_ko": "여성형 précédente. 반대는 suivant."
+        },
+        {
+          "lang": "fr",
+          "word": "un équipage",
+          "pos": "nom masculin",
+          "ko": "승무원들",
+          "example": "L'équipage compte 140 personnes.",
+          "example_ko": "승무원은 140명이에요.",
+          "note_ko": "un membre d'équipage = 승무원 한 명."
+        },
+        {
+          "lang": "fr",
+          "word": "coupé du monde",
+          "pos": "locution",
+          "ko": "세상과 단절된",
+          "example": "Ils vivent coupés du monde.",
+          "example_ko": "그들은 세상과 단절된 채 살아요.",
+          "note_ko": "couper = 자르다. être coupé de = ~와 단절되다."
+        },
+        {
+          "lang": "fr",
+          "word": "durer",
+          "pos": "verbe",
+          "ko": "지속되다",
+          "example": "Les patrouilles duraient trois mois.",
+          "example_ko": "순찰은 석 달 정도 이어졌어요.",
+          "note_ko": "la durée = 지속 시간. 'Ça dure combien de temps ?'"
+        },
+        {
+          "lang": "fr",
+          "word": "devenir la norme",
+          "pos": "locution",
+          "ko": "표준이 되다",
+          "example": "Six mois est devenu la norme.",
+          "example_ko": "6개월이 표준이 됐어요.",
+          "note_ko": "une norme = 기준. devenir의 과거분사는 devenu."
+        },
+        {
+          "lang": "fr",
+          "word": "un manque de",
+          "pos": "locution",
+          "ko": "~의 부족",
+          "example": "Il y a un manque de sous-marins.",
+          "example_ko": "잠수함이 부족해요.",
+          "note_ko": "manquer de = ~이 부족하다. 같은 뜻으로 une pénurie."
+        },
+        {
+          "lang": "fr",
+          "word": "accueillir",
+          "pos": "verbe",
+          "ko": "맞이하다, 환영하다",
+          "example": "Le ministre accueille l'équipage.",
+          "example_ko": "장관이 승조원들을 맞이해요.",
+          "note_ko": "불규칙 동사. un accueil = 환영, 접대."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "A \"submerged\" submarine is…",
+          "choices": [
+            "under the water",
+            "on the beach",
+            "in the sky"
+          ],
+          "answer": 0,
+          "explain_ko": "submerged = 물속에 잠긴."
+        },
+        {
+          "lang": "fr",
+          "q": "Un sous-marin « immergé » est…",
+          "choices": [
+            "sous l'eau",
+            "sur la plage",
+            "dans le ciel"
+          ],
+          "answer": 0,
+          "explain_ko": "immergé = 물속에 잠긴."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c32l5ny1r7x9o",
+          "accessed": "2026-11-16"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour",
+          "accessed": "2026-11-16"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-16",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-15/8994596ab61df279.mp3",
+            "2026-11-15/c66eed84f1c30538.mp3",
+            "2026-11-15/5ce349fe460fb3e9.mp3"
+          ],
+          "normal": [
+            "2026-11-15/6ce0486153005294.mp3",
+            "2026-11-15/3ab8af957b8bd478.mp3",
+            "2026-11-15/d46dc42c672602ee.mp3",
+            "2026-11-15/6b419f945146a98b.mp3",
+            "2026-11-15/d08398d04bb3a8b8.mp3",
+            "2026-11-15/05ac71bd03310fba.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-15/e0f6b3afaa1623bd.mp3",
+            "2026-11-15/461cca98e68a2d8c.mp3",
+            "2026-11-15/0e56c6140a79ecd0.mp3"
+          ],
+          "normal": [
+            "2026-11-15/c09a47e1c4d33792.mp3",
+            "2026-11-15/87012f1dae666bd0.mp3",
+            "2026-11-15/bfaf7de351ef78a5.mp3",
+            "2026-11-15/a22943c50f8f16e8.mp3",
+            "2026-11-15/3cebe55a6121e8bc.mp3",
+            "2026-11-15/e798c4fbe9672451.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-15/8a1a430fc8486465.mp3",
+          "2026-11-15/e0773475b554fd1b.mp3",
+          "2026-11-15/b2e13081a08f0b74.mp3",
+          "2026-11-15/a764a1cfdf209791.mp3",
+          "2026-11-15/6ea510f47a620bf4.mp3",
+          "2026-11-15/85b47ce35d8a30bd.mp3",
+          "2026-11-15/f797bcf10802383f.mp3",
+          "2026-11-15/f344806d6f696f78.mp3",
+          "2026-11-15/bc0b461ac67703f2.mp3",
+          "2026-11-15/865cee159a6ef3ae.mp3",
+          "2026-11-15/7bc86db1dc18dffe.mp3",
+          "2026-11-15/413c1a07dad62601.mp3",
+          "2026-11-15/b0c2c05dc1ddd511.mp3",
+          "2026-11-15/0eceb03db83fb95e.mp3",
+          "2026-11-15/748277ef822a7556.mp3",
+          "2026-11-15/453f13cb33ed4da6.mp3",
+          "2026-11-15/0eb2f31247fcb97b.mp3",
+          "2026-11-15/4654730da01c46d1.mp3",
+          "2026-11-15/0d8876d366aaa25a.mp3",
+          "2026-11-15/71c9306afff55279.mp3",
+          "2026-11-15/dc117647df42657c.mp3",
+          "2026-11-15/2102e1a929e3c52f.mp3",
+          "2026-11-15/39ae5c6ccedbb54c.mp3",
+          "2026-11-15/a39d48606c87d3bd.mp3",
+          "2026-11-15/f0bbf596712f5c09.mp3",
+          "2026-11-15/407bf509ac3a6427.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.174,
+              0.241,
+              0.376,
+              0.579,
+              0.646,
+              0.714,
+              0.781
+            ],
+            [
+              0.202,
+              0.284,
+              0.367,
+              0.533,
+              0.615,
+              0.781,
+              0.864
+            ],
+            [
+              0.241,
+              0.368,
+              0.494,
+              0.621,
+              0.747
+            ]
+          ],
+          "normal": [
+            [
+              0.075,
+              0.114,
+              0.154,
+              0.232,
+              0.35,
+              0.389,
+              0.428,
+              0.506,
+              0.585,
+              0.624,
+              0.663,
+              0.702,
+              0.742,
+              0.82,
+              0.859
+            ],
+            [
+              0.081,
+              0.121,
+              0.161,
+              0.201,
+              0.281,
+              0.322,
+              0.482,
+              0.523,
+              0.668,
+              0.694,
+              0.719,
+              0.771,
+              0.796,
+              0.822,
+              0.873
+            ],
+            [
+              0.212,
+              0.299,
+              0.386,
+              0.559,
+              0.646,
+              0.82
+            ],
+            [
+              0.088,
+              0.184,
+              0.279,
+              0.327,
+              0.422,
+              0.47,
+              0.565,
+              0.613,
+              0.661,
+              0.709,
+              0.756,
+              0.852
+            ],
+            [
+              0.06,
+              0.107,
+              0.131,
+              0.155,
+              0.178,
+              0.225,
+              0.249,
+              0.289,
+              0.324,
+              0.358,
+              0.392,
+              0.427,
+              0.461,
+              0.53,
+              0.599,
+              0.633,
+              0.667,
+              0.702,
+              0.77,
+              0.874
+            ],
+            [
+              0.062,
+              0.088,
+              0.14,
+              0.244,
+              0.296,
+              0.321,
+              0.347,
+              0.438,
+              0.468,
+              0.53,
+              0.56,
+              0.591,
+              0.622,
+              0.653,
+              0.745,
+              0.776,
+              0.806,
+              0.837,
+              0.868,
+              0.898,
+              0.929
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.13,
+              0.182,
+              0.34,
+              0.551,
+              0.604,
+              0.709
+            ],
+            [
+              0.272,
+              0.337,
+              0.402,
+              0.532,
+              0.662,
+              0.727,
+              0.792,
+              0.857
+            ],
+            [
+              0.372,
+              0.455,
+              0.538,
+              0.704
+            ]
+          ],
+          "normal": [
+            [
+              0.118,
+              0.154,
+              0.261,
+              0.297,
+              0.333,
+              0.369,
+              0.44,
+              0.476,
+              0.547,
+              0.583,
+              0.655,
+              0.726,
+              0.762,
+              0.797,
+              0.833,
+              0.869
+            ],
+            [
+              0.112,
+              0.144,
+              0.207,
+              0.271,
+              0.335,
+              0.367,
+              0.399,
+              0.43,
+              0.462,
+              0.591,
+              0.617,
+              0.669,
+              0.721,
+              0.747,
+              0.773,
+              0.85
+            ],
+            [
+              0.265,
+              0.385,
+              0.505,
+              0.625,
+              0.685,
+              0.805
+            ],
+            [
+              0.082,
+              0.205,
+              0.287,
+              0.328,
+              0.451,
+              0.492,
+              0.574,
+              0.656,
+              0.738,
+              0.779,
+              0.82
+            ],
+            [
+              0.06,
+              0.085,
+              0.134,
+              0.184,
+              0.258,
+              0.332,
+              0.357,
+              0.441,
+              0.463,
+              0.486,
+              0.508,
+              0.531,
+              0.598,
+              0.621,
+              0.69,
+              0.712,
+              0.734,
+              0.8,
+              0.822,
+              0.865,
+              0.887
+            ],
+            [
+              0.066,
+              0.079,
+              0.104,
+              0.117,
+              0.13,
+              0.155,
+              0.168,
+              0.206,
+              0.257,
+              0.305,
+              0.329,
+              0.353,
+              0.402,
+              0.426,
+              0.474,
+              0.523,
+              0.547,
+              0.571,
+              0.595,
+              0.62,
+              0.692,
+              0.716,
+              0.741,
+              0.813,
+              0.837,
+              0.886
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "audio_base": "https://koreapapa-kim.github.io/worldnews-audio"
+}

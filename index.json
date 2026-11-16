@@ -2,6 +2,44 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-11-15",
+      "count": 4,
+      "headlines": [
+        {
+          "id": "2026-11-15-01",
+          "ko": "한국 세무사 시험 수석, AI로 부정행위 했다고 자백",
+          "en": "South Korea's Top Tax Exam Scorer Admits Cheating With AI",
+          "fr": "Corée du Sud : le major d'un examen fiscal avoue avoir triché avec une IA",
+          "category": "technology",
+          "country": "KR"
+        },
+        {
+          "id": "2026-11-15-02",
+          "ko": "보이저 1호, 곧 지구에서 '1광일' 거리에 도달",
+          "en": "Voyager 1 Is About to Reach One Light-Day From Earth",
+          "fr": "Voyager 1 s'apprête à atteindre un jour-lumière de la Terre",
+          "category": "science",
+          "country": "US"
+        },
+        {
+          "id": "2026-11-15-03",
+          "ko": "프라하에서 수십만 명, 공영방송 수신료 폐지 반대 시위",
+          "en": "Hundreds of Thousands Rally in Prague to Defend Public Media",
+          "fr": "Prague : des centaines de milliers de manifestants pour défendre l'audiovisuel public",
+          "category": "politics",
+          "country": "CZ"
+        },
+        {
+          "id": "2026-11-15-04",
+          "ko": "영국 핵잠수함, 기록적인 217일 잠항 순찰 마치고 귀환",
+          "en": "British Nuclear Submarine Returns After Record 217 Days Underwater",
+          "fr": "Un sous-marin nucléaire britannique rentre après un record de 217 jours sous l'eau",
+          "category": "politics",
+          "country": "GB"
+        }
+      ]
+    },
+    {
       "date": "2026-11-14",
       "count": 3,
       "headlines": [
@@ -712,6 +750,6 @@
       ]
     }
   ],
-  "latest": "2026-11-14",
-  "updated_at": "2026-11-15T01:02:56.215Z"
+  "latest": "2026-11-15",
+  "updated_at": "2026-11-16T00:28:35.226Z"
 }
