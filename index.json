@@ -2,6 +2,44 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-11-16",
+      "count": 4,
+      "headlines": [
+        {
+          "id": "2026-11-16-01",
+          "ko": "유엔, '킬러 로봇' 규제 협상…AI 무기 확산 우려",
+          "en": "UN Talks Seek to Rein In 'Killer Robots' as AI Weapons Spread",
+          "fr": "L'ONU tente d'encadrer les « robots tueurs » face à la montée des armes dotées d'IA",
+          "category": "technology",
+          "country": "CH"
+        },
+        {
+          "id": "2026-11-16-02",
+          "ko": "EU 5개국, 르완다에 이주민 송환 센터 추진",
+          "en": "Five EU Countries Plan a Migrant Return Hub in Rwanda",
+          "fr": "Cinq pays de l'UE annoncent un centre de retour pour migrants au Rwanda",
+          "category": "politics",
+          "country": "RW"
+        },
+        {
+          "id": "2026-11-16-03",
+          "ko": "잉글랜드·웨일스, 낙태 관련 여성 범죄 기록 삭제",
+          "en": "England and Wales Wipe Abortion Offences From Women's Records",
+          "fr": "Angleterre et pays de Galles : les condamnations pour avortement effacées",
+          "category": "politics",
+          "country": "GB"
+        },
+        {
+          "id": "2026-11-16-04",
+          "ko": "미국, 캐나다 6-2 꺾고 여자 아이스하키 세계선수권 우승",
+          "en": "USA Beat Canada 6-2 to Win Women's Hockey Worlds",
+          "fr": "Hockey féminin : les États-Unis battent le Canada 6-2 et sont sacrés champions du monde",
+          "category": "sports",
+          "country": "DK"
+        }
+      ]
+    },
+    {
       "date": "2026-11-15",
       "count": 4,
       "headlines": [
@@ -750,6 +788,6 @@
       ]
     }
   ],
-  "latest": "2026-11-15",
-  "updated_at": "2026-11-16T00:28:35.226Z"
+  "latest": "2026-11-16",
+  "updated_at": "2026-11-16T23:54:54.836Z"
 }
