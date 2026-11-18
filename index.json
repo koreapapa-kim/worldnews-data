@@ -2,6 +2,44 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-11-18",
+      "count": 4,
+      "headlines": [
+        {
+          "id": "2026-11-18-01",
+          "ko": "선전 정상회의 개막…시진핑이 트럼프 영접, 트럼프·푸틴은 악수",
+          "en": "Xi Greets Trump on the Tarmac as Shenzhen Summit Opens; Trump and Putin Shake Hands",
+          "fr": "Sommet de Shenzhen : Xi accueille Trump sur le tarmac, Trump et Poutine se serrent la main",
+          "category": "politics",
+          "country": "CN"
+        },
+        {
+          "id": "2026-11-18-02",
+          "ko": "EU, 우크라이나에 450억 유로 대출 제안…러시아가 배상할 때만 상환",
+          "en": "EU Proposes €45bn Loan for Ukraine, Repayable Only if Russia Pays for the Damage",
+          "fr": "L'UE propose un nouveau prêt de 45 milliards d'euros à l'Ukraine, remboursable seulement si la Russie paie",
+          "category": "economy",
+          "country": "BE"
+        },
+        {
+          "id": "2026-11-18-03",
+          "ko": "일본 다카이치·중국 시진핑, 선전서 악수…하지만 냉각은 여전",
+          "en": "Japan's Takaichi and China's Xi Shake Hands in Shenzhen, but the Freeze Lingers",
+          "fr": "À Shenzhen, la Première ministre japonaise et Xi se serrent la main, mais le froid persiste",
+          "category": "politics",
+          "country": "CN"
+        },
+        {
+          "id": "2026-11-18-04",
+          "ko": "나라가 조용해지는 날: AI 부정행위 경계 속에 한국 수능 D-1",
+          "en": "The Day a Nation Goes Quiet: South Korea Braces for Its Exam Under AI-Cheating Alarm",
+          "fr": "Le jour où un pays se tait : la Corée du Sud aborde son examen sous la menace de la triche par l'IA",
+          "category": "society",
+          "country": "KR"
+        }
+      ]
+    },
+    {
       "date": "2026-11-17",
       "count": 4,
       "headlines": [
@@ -826,6 +864,6 @@
       ]
     }
   ],
-  "latest": "2026-11-17",
-  "updated_at": "2026-11-18T00:24:39.583Z"
+  "latest": "2026-11-18",
+  "updated_at": "2026-11-18T14:49:13.018Z"
 }
