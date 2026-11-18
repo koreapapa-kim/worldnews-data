@@ -1,0 +1,3230 @@
+{
+  "schema": 1,
+  "date": "2026-11-17",
+  "stories": [
+    {
+      "id": "2026-11-17-01",
+      "category": "society",
+      "region": {
+        "country": "KR",
+        "city": "Seoul",
+        "lat": 37.57,
+        "lng": 126.98
+      },
+      "headline": {
+        "en": "South Korea to Inspect Students' Collars and Glasses at College Entrance Exam",
+        "ko": "한국, 수능에서 학생 옷깃과 안경까지 검사한다",
+        "fr": "La Corée du Sud va inspecter cols et lunettes des candidats à l'examen d'entrée à l'université"
+      },
+      "hook": {
+        "en": "Imagine officials checking your collar for a hidden camera.",
+        "ko": "시험장에서 옷깃에 숨긴 카메라가 있는지 검사받는다고 상상해 보세요.",
+        "fr": "Imaginez qu'on inspecte votre col à la recherche d'une caméra cachée."
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "South Korea will check students before a big exam.",
+            "Someone cheated on another test with a hidden camera and AI.",
+            "Now the government wants to stop cheating."
+          ],
+          "easy_ko": [
+            "한국은 큰 시험 전에 학생들을 검사합니다.",
+            "누군가 다른 시험에서 숨긴 카메라와 AI로 부정행위를 했어요.",
+            "이제 정부는 부정행위를 막으려 합니다."
+          ],
+          "normal": [
+            "South Korea will tighten security at this week's national university entrance exam, known as the Suneung.",
+            "The move follows a confession by the top scorer on the national tax accountant exam, who said he photographed the questions and sent them to an AI tool that returned the answers to his smartphone.",
+            "Officials will cover clothing buttons with stickers to block hidden miniature cameras, check collars, use metal detectors and inspect glasses to make sure they are not smart glasses.",
+            "Thousands more inspectors than planned will be deployed, and the prime minister called the checks a minimum level of protection for fair competition.",
+            "President Lee Jae Myung said cheating with advanced equipment is no different from the theft of other students' hard work.",
+            "The stakes are high, because the Suneung can shape a young person's career and social mobility, and some critics say the pressure harms teenagers' mental health."
+          ],
+          "normal_ko": [
+            "한국은 이번 주 치러지는 대학수학능력시험, 수능의 보안을 강화합니다.",
+            "국가 세무사 시험 수석 합격자가 문제를 사진으로 찍어 AI에 보내고, 답을 스마트폰으로 받았다고 털어놓은 뒤에 나온 조치입니다.",
+            "관계자들은 숨겨진 초소형 카메라를 막으려고 옷 단추를 스티커로 덮고, 옷깃을 검사하고, 금속 탐지기를 쓰며, 안경이 스마트 안경이 아닌지 살펴봅니다.",
+            "계획보다 수천 명 더 많은 감독관이 배치되고, 총리는 이번 검사를 공정한 경쟁을 위한 최소한의 보호 조치라고 말했습니다.",
+            "이재명 대통령은 첨단 장비를 쓴 부정행위는 다른 학생들의 노력을 훔치는 것과 다르지 않다고 말했습니다.",
+            "수능은 젊은이의 진로와 사회적 이동에 영향을 줄 수 있어 걸린 것이 크고, 일부 비판자들은 그 압박이 청소년의 정신 건강을 해친다고 말합니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "La Corée du Sud va contrôler les élèves avant un grand examen.",
+            "Quelqu'un a triché à un autre examen avec une caméra cachée et l'IA.",
+            "Le gouvernement veut maintenant empêcher la triche."
+          ],
+          "easy_ko": [
+            "한국은 큰 시험 전에 학생들을 검사합니다.",
+            "누군가 다른 시험에서 숨긴 카메라와 AI로 부정행위를 했어요.",
+            "이제 정부는 부정행위를 막으려 합니다."
+          ],
+          "normal": [
+            "La Corée du Sud va durcir la sécurité lors de l'examen national d'entrée à l'université, appelé Suneung, qui a lieu cette semaine.",
+            "Cette décision fait suite aux aveux du major de l'examen national de conseiller fiscal, qui dit avoir photographié les questions et les avoir envoyées à une IA, laquelle lui renvoyait les réponses sur son smartphone.",
+            "Les autorités vont couvrir les boutons des vêtements avec des autocollants pour bloquer les caméras miniatures, vérifier les cols, utiliser des détecteurs de métaux et inspecter les lunettes pour s'assurer qu'il ne s'agit pas de lunettes connectées.",
+            "Des milliers de surveillants de plus que prévu seront déployés, et, selon le gouvernement, ces contrôles sont un niveau minimal de protection pour une concurrence équitable.",
+            "Le président Lee Jae Myung a déclaré que tricher avec du matériel sophistiqué revient à voler le travail des autres élèves.",
+            "Les enjeux sont élevés, car le Suneung peut peser sur la carrière et la mobilité sociale d'un jeune, et certains critiques estiment que la pression nuit à la santé mentale des adolescents."
+          ],
+          "normal_ko": [
+            "한국은 이번 주 치러지는 대학수학능력시험, 수능의 보안을 강화합니다.",
+            "국가 세무사 시험 수석 합격자가 문제를 사진으로 찍어 AI에 보내고, 답을 스마트폰으로 받았다고 털어놓은 뒤에 나온 조치입니다.",
+            "관계자들은 숨겨진 초소형 카메라를 막으려고 옷 단추를 스티커로 덮고, 옷깃을 검사하고, 금속 탐지기를 쓰며, 안경이 스마트 안경이 아닌지 살펴봅니다.",
+            "계획보다 수천 명 더 많은 감독관이 배치되고, 총리는 이번 검사를 공정한 경쟁을 위한 최소한의 보호 조치라고 말했습니다.",
+            "이재명 대통령은 첨단 장비를 쓴 부정행위는 다른 학생들의 노력을 훔치는 것과 다르지 않다고 말했습니다.",
+            "수능은 젊은이의 진로와 사회적 이동에 영향을 줄 수 있어 걸린 것이 크고, 일부 비판자들은 그 압박이 청소년의 정신 건강을 해친다고 말합니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "수능은 올해 11월 19일(목요일)에 치러지고, 응시생은 약 55만 명이라고 코리아중앙데일리가 전했습니다. 총리 이름은 기사마다 로마자 표기가 달라 적지 않았어요. 세무사 시험 수석 합격자의 부정행위는 본인 자백이며 수사는 아직 진행 중입니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "high-stakes",
+          "pos": "adjective",
+          "ko": "걸린 것이 큰",
+          "example": "It is a high-stakes exam.",
+          "example_ko": "그것은 걸린 것이 큰 시험이에요.",
+          "note_ko": "stakes = 판돈. high-stakes test = 결과가 인생에 영향을 주는 시험."
+        },
+        {
+          "lang": "en",
+          "word": "confess",
+          "pos": "verb",
+          "ko": "자백하다, 털어놓다",
+          "example": "He confessed to cheating.",
+          "example_ko": "그는 부정행위를 자백했어요.",
+          "note_ko": "명사 confession. admit보다 죄·잘못에 쓰는 느낌이 강해요."
+        },
+        {
+          "lang": "en",
+          "word": "conceal",
+          "pos": "verb",
+          "ko": "숨기다",
+          "example": "Cameras can be concealed in buttons.",
+          "example_ko": "카메라는 단추에 숨겨질 수 있어요.",
+          "note_ko": "hide보다 격식. 형용사 concealed(숨겨진)."
+        },
+        {
+          "lang": "en",
+          "word": "inspect",
+          "pos": "verb",
+          "ko": "검사하다",
+          "example": "Officials will inspect students' glasses.",
+          "example_ko": "관계자들이 학생 안경을 검사할 거예요.",
+          "note_ko": "명사 inspector(감독관), inspection(검사)."
+        },
+        {
+          "lang": "en",
+          "word": "crackdown",
+          "pos": "noun",
+          "ko": "강력 단속",
+          "example": "The government ordered a crackdown.",
+          "example_ko": "정부는 강력 단속을 지시했어요.",
+          "note_ko": "crack down on ~ = ~을 엄하게 단속하다."
+        },
+        {
+          "lang": "en",
+          "word": "deploy",
+          "pos": "verb",
+          "ko": "배치하다",
+          "example": "More inspectors will be deployed.",
+          "example_ko": "감독관이 더 많이 배치될 거예요.",
+          "note_ko": "군대·인력·소프트웨어 모두에 써요. 명사 deployment."
+        },
+        {
+          "lang": "en",
+          "word": "scandal",
+          "pos": "noun",
+          "ko": "스캔들, 물의",
+          "example": "The confession sparked a national scandal.",
+          "example_ko": "그 자백이 전국적 스캔들을 일으켰어요.",
+          "note_ko": "spark a scandal = 스캔들을 촉발하다."
+        },
+        {
+          "lang": "en",
+          "word": "credibility",
+          "pos": "noun",
+          "ko": "신뢰성",
+          "example": "It raised questions over the exam's credibility.",
+          "example_ko": "그것은 시험의 신뢰성에 의문을 낳았어요.",
+          "note_ko": "형용사 credible(믿을 만한). credit(신용)과 같은 뿌리."
+        },
+        {
+          "lang": "en",
+          "word": "tighten",
+          "pos": "verb",
+          "ko": "강화하다",
+          "example": "They will tighten security.",
+          "example_ko": "그들은 보안을 강화할 거예요.",
+          "note_ko": "tight(꽉 찬). tighten the rules = 규정을 조이다."
+        },
+        {
+          "lang": "en",
+          "word": "abandon",
+          "pos": "verb",
+          "ko": "포기하다",
+          "example": "Abandon the idea of cheating.",
+          "example_ko": "부정행위할 생각은 버리세요.",
+          "note_ko": "abandon ship = 배를 버리다. 명사 abandonment."
+        },
+        {
+          "lang": "en",
+          "word": "theft",
+          "pos": "noun",
+          "ko": "절도, 도둑질",
+          "example": "Cheating is a theft of others' effort.",
+          "example_ko": "부정행위는 남의 노력을 훔치는 일이에요.",
+          "note_ko": "동사 steal, 도둑은 thief. 복수 thefts."
+        },
+        {
+          "lang": "en",
+          "word": "social mobility",
+          "pos": "noun",
+          "ko": "사회적 이동(계층 상승)",
+          "example": "The exam affects social mobility.",
+          "example_ko": "그 시험은 사회적 이동에 영향을 줘요.",
+          "note_ko": "upward mobility = 계층 상승."
+        },
+        {
+          "lang": "en",
+          "word": "miniature",
+          "pos": "adjective",
+          "ko": "초소형의",
+          "example": "A miniature camera was hidden.",
+          "example_ko": "초소형 카메라가 숨겨져 있었어요.",
+          "note_ko": "발음 [미니어처/미니처]. 명사로 '축소 모형'도."
+        },
+        {
+          "lang": "fr",
+          "word": "à forts enjeux",
+          "pos": "locution",
+          "ko": "걸린 것이 큰",
+          "example": "C'est un examen à forts enjeux.",
+          "example_ko": "걸린 것이 큰 시험이에요.",
+          "note_ko": "un enjeu = 걸린 것·쟁점. les enjeux = 이해관계."
+        },
+        {
+          "lang": "fr",
+          "word": "avouer",
+          "pos": "verbe",
+          "ko": "자백하다",
+          "example": "Il a avoué avoir triché.",
+          "example_ko": "그는 부정행위를 자백했어요.",
+          "note_ko": "un aveu = 자백. avouer + 동사원형 passé."
+        },
+        {
+          "lang": "fr",
+          "word": "dissimuler",
+          "pos": "verbe",
+          "ko": "숨기다",
+          "example": "Des caméras peuvent être dissimulées dans les boutons.",
+          "example_ko": "카메라가 단추에 숨겨질 수 있어요.",
+          "note_ko": "cacher보다 격식. 명사 la dissimulation."
+        },
+        {
+          "lang": "fr",
+          "word": "inspecter",
+          "pos": "verbe",
+          "ko": "검사하다",
+          "example": "Les autorités vont inspecter les lunettes.",
+          "example_ko": "당국이 안경을 검사할 거예요.",
+          "note_ko": "un inspecteur = 감독관·검사관."
+        },
+        {
+          "lang": "fr",
+          "word": "un tour de vis",
+          "pos": "nom masculin",
+          "ko": "(규제의) 강화",
+          "example": "Le gouvernement donne un tour de vis.",
+          "example_ko": "정부가 규제를 강화해요.",
+          "note_ko": "원래 '나사 한 바퀴'. donner un tour de vis = 조이다."
+        },
+        {
+          "lang": "fr",
+          "word": "déployer",
+          "pos": "verbe",
+          "ko": "배치하다",
+          "example": "Plus de surveillants seront déployés.",
+          "example_ko": "더 많은 감독관이 배치될 거예요.",
+          "note_ko": "déployer = 펼치다. un déploiement = 배치."
+        },
+        {
+          "lang": "fr",
+          "word": "un scandale",
+          "pos": "nom masculin",
+          "ko": "스캔들",
+          "example": "Ses aveux ont déclenché un scandale.",
+          "example_ko": "그의 자백이 스캔들을 일으켰어요.",
+          "note_ko": "déclencher un scandale. 영어와 철자 거의 같아요."
+        },
+        {
+          "lang": "fr",
+          "word": "la crédibilité",
+          "pos": "nom féminin",
+          "ko": "신뢰성",
+          "example": "La crédibilité de l'examen est en jeu.",
+          "example_ko": "시험의 신뢰성이 걸려 있어요.",
+          "note_ko": "형용사 crédible. être en jeu = 걸려 있다."
+        },
+        {
+          "lang": "fr",
+          "word": "durcir",
+          "pos": "verbe",
+          "ko": "강화하다",
+          "example": "Le pays va durcir les contrôles.",
+          "example_ko": "나라가 검사를 강화할 거예요.",
+          "note_ko": "dur(단단한)에서. un durcissement = 강화."
+        },
+        {
+          "lang": "fr",
+          "word": "renoncer à",
+          "pos": "verbe",
+          "ko": "~을 포기하다",
+          "example": "Renoncez à l'idée de tricher.",
+          "example_ko": "부정행위할 생각은 포기하세요.",
+          "note_ko": "renoncer à + 명사·동사원형. 명사 la renonciation."
+        },
+        {
+          "lang": "fr",
+          "word": "un vol",
+          "pos": "nom masculin",
+          "ko": "절도, 도둑질",
+          "example": "Tricher, c'est un vol du travail des autres.",
+          "example_ko": "부정행위는 남의 노력을 훔치는 거예요.",
+          "note_ko": "un vol은 '비행'이라는 뜻도(vol Paris-Séoul). 문맥으로 구분."
+        },
+        {
+          "lang": "fr",
+          "word": "la mobilité sociale",
+          "pos": "nom féminin",
+          "ko": "사회적 이동",
+          "example": "L'examen pèse sur la mobilité sociale.",
+          "example_ko": "그 시험은 사회적 이동에 영향을 줘요.",
+          "note_ko": "l'ascenseur social = 사회적 상승 통로(비유)."
+        },
+        {
+          "lang": "fr",
+          "word": "miniature",
+          "pos": "adjectif",
+          "ko": "초소형의",
+          "example": "Une caméra miniature était cachée.",
+          "example_ko": "초소형 카메라가 숨겨져 있었어요.",
+          "note_ko": "남녀 같은 형태. 명사 une miniature(세밀화)도."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "To \"conceal\" a camera means to…",
+          "choices": [
+            "hide it",
+            "buy it",
+            "break it"
+          ],
+          "answer": 0,
+          "explain_ko": "conceal = 숨기다."
+        },
+        {
+          "lang": "fr",
+          "q": "« Dissimuler » une caméra, c'est…",
+          "choices": [
+            "la cacher",
+            "l'acheter",
+            "la casser"
+          ],
+          "answer": 0,
+          "explain_ko": "dissimuler = 감추다, 숨기다."
+        }
+      ],
+      "sources": [
+        {
+          "name": "CBC News (Thomson Reuters)",
+          "url": "https://www.cbc.ca/news/world/south-korea-exam-anti-cheating-measures-9.7424889",
+          "accessed": "2026-11-18"
+        },
+        {
+          "name": "Korea JoongAng Daily (government vows zero tolerance)",
+          "url": "https://www.koreajoongangdaily.com/korea/government-vows-zero-tolerance-against-cheating-with-ai-glasses/12971738",
+          "accessed": "2026-11-18"
+        },
+        {
+          "name": "Korea JoongAng Daily (editorial)",
+          "url": "https://www.koreajoongangdaily.com/opinion/tinycamera-cheating-incident-raises-concerns-ahead-of-csat/12973637",
+          "accessed": "2026-11-18"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-18",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-17/1b7db1eddc9a1f76.mp3",
+            "2026-11-17/503da65f3b1153e8.mp3",
+            "2026-11-17/eac13b6c0fc6d3e8.mp3"
+          ],
+          "normal": [
+            "2026-11-17/7b2e5253345229de.mp3",
+            "2026-11-17/9b2fd328bdf90c88.mp3",
+            "2026-11-17/4c17db9f37ee40c1.mp3",
+            "2026-11-17/4d845616d4f785a4.mp3",
+            "2026-11-17/463f5c571f56039c.mp3",
+            "2026-11-17/35f08de2bb3ef282.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-17/7e45f1d13491949f.mp3",
+            "2026-11-17/e1808a1b32354e14.mp3",
+            "2026-11-17/42ee878499dcb5a7.mp3"
+          ],
+          "normal": [
+            "2026-11-17/248d42e066fadf3a.mp3",
+            "2026-11-17/0774cb80a2982e18.mp3",
+            "2026-11-17/8da435634566128d.mp3",
+            "2026-11-17/f5924cc078bf8de7.mp3",
+            "2026-11-17/e6c13e4647fee62d.mp3",
+            "2026-11-17/dcbac257712c2c13.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-17/e39e838afd6fec2a.mp3",
+          "2026-11-17/c06ea9e003a0a83c.mp3",
+          "2026-11-17/77292b1e98a72536.mp3",
+          "2026-11-17/ed46e79467479717.mp3",
+          "2026-11-17/bc57448bd6a5b0ff.mp3",
+          "2026-11-17/d8870a34e6de78e1.mp3",
+          "2026-11-17/2c625fd6f7af830b.mp3",
+          "2026-11-17/2e99960f8314a880.mp3",
+          "2026-11-17/8dbf07efa413913e.mp3",
+          "2026-11-17/be430c09b65aac8c.mp3",
+          "2026-11-17/13673f66ab5f95a7.mp3",
+          "2026-11-17/ec376418b0d11b10.mp3",
+          "2026-11-17/c94d7b2055fc3470.mp3",
+          "2026-11-17/e2a52f6fe7dfe00e.mp3",
+          "2026-11-17/302f3bce3180125a.mp3",
+          "2026-11-17/12b4e24e87400f9b.mp3",
+          "2026-11-17/6c7aeae1d89e23cd.mp3",
+          "2026-11-17/ccb4a00bf95493f7.mp3",
+          "2026-11-17/9c16627e0848aa77.mp3",
+          "2026-11-17/32ad8a1424e216db.mp3",
+          "2026-11-17/3e41bee51c498a41.mp3",
+          "2026-11-17/2b6610dcb965603e.mp3",
+          "2026-11-17/a1ef1b54dde5e15a.mp3",
+          "2026-11-17/f9def9cbbc30b2a1.mp3",
+          "2026-11-17/392e62adf07db23d.mp3",
+          "2026-11-17/bc7fdb2a5fbee996.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0,
+              0.074,
+              0.223,
+              0.297,
+              0.371,
+              0.52,
+              0.668,
+              0.743,
+              0.817
+            ],
+            [
+              0,
+              0.114,
+              0.171,
+              0.229,
+              0.4,
+              0.457,
+              0.514,
+              0.571,
+              0.686,
+              0.857,
+              0.914
+            ],
+            [
+              0,
+              0.1,
+              0.2,
+              0.5,
+              0.6,
+              0.7,
+              0.8
+            ]
+          ],
+          "normal": [
+            [
+              0.071,
+              0.098,
+              0.152,
+              0.18,
+              0.234,
+              0.343,
+              0.37,
+              0.398,
+              0.425,
+              0.506,
+              0.643,
+              0.697,
+              0.801,
+              0.837,
+              0.872,
+              0.907
+            ],
+            [
+              0.074,
+              0.09,
+              0.106,
+              0.139,
+              0.155,
+              0.204,
+              0.22,
+              0.237,
+              0.253,
+              0.286,
+              0.302,
+              0.318,
+              0.367,
+              0.383,
+              0.432,
+              0.501,
+              0.52,
+              0.538,
+              0.557,
+              0.612,
+              0.631,
+              0.668,
+              0.686,
+              0.705,
+              0.723,
+              0.742,
+              0.76,
+              0.779,
+              0.797,
+              0.816,
+              0.853,
+              0.871,
+              0.908,
+              0.927,
+              0.945
+            ],
+            [
+              0.048,
+              0.094,
+              0.11,
+              0.141,
+              0.172,
+              0.203,
+              0.219,
+              0.25,
+              0.265,
+              0.281,
+              0.312,
+              0.359,
+              0.441,
+              0.446,
+              0.465,
+              0.493,
+              0.549,
+              0.633,
+              0.661,
+              0.717,
+              0.745,
+              0.773,
+              0.8,
+              0.828,
+              0.856,
+              0.884,
+              0.912,
+              0.94
+            ],
+            [
+              0.055,
+              0.111,
+              0.138,
+              0.221,
+              0.249,
+              0.276,
+              0.304,
+              0.332,
+              0.437,
+              0.459,
+              0.482,
+              0.504,
+              0.572,
+              0.595,
+              0.617,
+              0.64,
+              0.662,
+              0.73,
+              0.775,
+              0.797,
+              0.865,
+              0.887,
+              0.91
+            ],
+            [
+              0.113,
+              0.201,
+              0.231,
+              0.261,
+              0.29,
+              0.32,
+              0.379,
+              0.409,
+              0.468,
+              0.556,
+              0.586,
+              0.616,
+              0.704,
+              0.734,
+              0.763,
+              0.793,
+              0.823,
+              0.882,
+              0.941,
+              0.97
+            ],
+            [
+              0.082,
+              0.103,
+              0.124,
+              0.146,
+              0.193,
+              0.233,
+              0.252,
+              0.292,
+              0.311,
+              0.331,
+              0.351,
+              0.371,
+              0.41,
+              0.449,
+              0.469,
+              0.509,
+              0.62,
+              0.643,
+              0.666,
+              0.712,
+              0.735,
+              0.758,
+              0.804,
+              0.827,
+              0.895,
+              0.941
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.097,
+              0.14,
+              0.225,
+              0.268,
+              0.311,
+              0.353,
+              0.482,
+              0.524,
+              0.61,
+              0.695,
+              0.738,
+              0.781
+            ],
+            [
+              0.087,
+              0.166,
+              0.206,
+              0.286,
+              0.325,
+              0.365,
+              0.405,
+              0.524,
+              0.604,
+              0.643,
+              0.763,
+              0.842,
+              0.882
+            ],
+            [
+              0.131,
+              0.191,
+              0.369,
+              0.428,
+              0.606,
+              0.783,
+              0.843
+            ]
+          ],
+          "normal": [
+            [
+              0.055,
+              0.075,
+              0.115,
+              0.136,
+              0.156,
+              0.176,
+              0.217,
+              0.237,
+              0.318,
+              0.338,
+              0.358,
+              0.419,
+              0.48,
+              0.52,
+              0.541,
+              0.684,
+              0.756,
+              0.841,
+              0.863,
+              0.884,
+              0.905,
+              0.927
+            ],
+            [
+              0.041,
+              0.056,
+              0.099,
+              0.114,
+              0.128,
+              0.142,
+              0.171,
+              0.186,
+              0.214,
+              0.229,
+              0.272,
+              0.315,
+              0.33,
+              0.373,
+              0.431,
+              0.445,
+              0.46,
+              0.489,
+              0.547,
+              0.562,
+              0.591,
+              0.605,
+              0.62,
+              0.649,
+              0.678,
+              0.693,
+              0.707,
+              0.752,
+              0.79,
+              0.808,
+              0.846,
+              0.864,
+              0.902,
+              0.92,
+              0.939
+            ],
+            [
+              0.039,
+              0.052,
+              0.102,
+              0.115,
+              0.14,
+              0.153,
+              0.178,
+              0.191,
+              0.228,
+              0.254,
+              0.266,
+              0.317,
+              0.329,
+              0.355,
+              0.367,
+              0.405,
+              0.461,
+              0.506,
+              0.521,
+              0.558,
+              0.609,
+              0.622,
+              0.66,
+              0.673,
+              0.698,
+              0.711,
+              0.75,
+              0.762,
+              0.788,
+              0.801,
+              0.839,
+              0.852,
+              0.865,
+              0.89,
+              0.903,
+              0.916,
+              0.942
+            ],
+            [
+              0.042,
+              0.061,
+              0.098,
+              0.116,
+              0.172,
+              0.19,
+              0.209,
+              0.227,
+              0.264,
+              0.301,
+              0.379,
+              0.414,
+              0.452,
+              0.47,
+              0.56,
+              0.578,
+              0.613,
+              0.631,
+              0.648,
+              0.684,
+              0.737,
+              0.754,
+              0.808,
+              0.825,
+              0.843,
+              0.896
+            ],
+            [
+              0.087,
+              0.112,
+              0.162,
+              0.187,
+              0.212,
+              0.237,
+              0.262,
+              0.338,
+              0.363,
+              0.413,
+              0.463,
+              0.488,
+              0.563,
+              0.663,
+              0.713,
+              0.739,
+              0.789,
+              0.814,
+              0.864,
+              0.889,
+              0.914
+            ],
+            [
+              0.026,
+              0.042,
+              0.073,
+              0.088,
+              0.165,
+              0.183,
+              0.201,
+              0.237,
+              0.255,
+              0.291,
+              0.309,
+              0.327,
+              0.363,
+              0.381,
+              0.399,
+              0.47,
+              0.506,
+              0.524,
+              0.59,
+              0.606,
+              0.639,
+              0.688,
+              0.72,
+              0.736,
+              0.753,
+              0.785,
+              0.801,
+              0.818,
+              0.834,
+              0.866,
+              0.899,
+              0.915
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-17-02",
+      "category": "conflict",
+      "region": {
+        "country": "UA",
+        "city": "Kerch Strait",
+        "lat": 45.31,
+        "lng": 36.51
+      },
+      "headline": {
+        "en": "Ukraine Cripples Putin's Crimean Bridge in an 'Unprecedented' Strike",
+        "ko": "우크라이나, 푸틴의 크림대교를 '전례 없는' 공격으로 크게 파괴",
+        "fr": "L'Ukraine met hors d'usage le pont de Crimée de Poutine lors d'une frappe « sans précédent »"
+      },
+      "hook": {
+        "en": "A bridge Putin once drove across has just partly collapsed.",
+        "ko": "푸틴이 직접 트럭을 몰고 건넜던 다리가 일부 무너졌습니다.",
+        "fr": "Un pont que Poutine a un jour traversé au volant vient de s'effondrer en partie."
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Ukraine attacked a big bridge.",
+            "The bridge connects Russia and Crimea.",
+            "Part of the bridge fell into the water."
+          ],
+          "easy_ko": [
+            "우크라이나가 큰 다리를 공격했습니다.",
+            "그 다리는 러시아와 크림반도를 잇습니다.",
+            "다리 일부가 물에 떨어졌어요."
+          ],
+          "normal": [
+            "Ukraine has severely damaged the Crimean Bridge, which links Russia to the peninsula it annexed in 2014.",
+            "Images show part of the road span collapsed into the water, and Crimea's Russian-installed governor said two people were killed.",
+            "President Volodymyr Zelensky called the attack an unprecedented operation that took weeks to prepare, destroying air defences and radar systems first.",
+            "The Kremlin says it will rebuild the bridge better than before, but Russian military bloggers say repairs will be exceptionally difficult.",
+            "The 19-kilometre bridge, which Vladimir Putin opened in 2018 by driving a truck across, is a symbol of his rule, although Russian forces now rely more on a land corridor.",
+            "The timing is awkward for Putin, who is about to meet Xi Jinping and Donald Trump in China."
+          ],
+          "normal_ko": [
+            "우크라이나가 러시아와, 러시아가 2014년에 병합한 크림반도를 잇는 크림대교를 크게 파괴했습니다.",
+            "사진에는 도로 구간 일부가 물속으로 무너진 모습이 보이고, 러시아가 임명한 크림 총독은 두 명이 숨졌다고 밝혔습니다.",
+            "볼로디미르 젤렌스키 대통령은 이 공격을 준비에 몇 주가 걸린 전례 없는 작전이라고 했고, 먼저 방공망과 레이더를 파괴했다고 말했습니다.",
+            "크렘린은 다리를 전보다 더 좋게 다시 짓겠다고 하지만, 러시아 군사 블로거들은 복구가 매우 어려울 것이라고 말합니다.",
+            "푸틴이 2018년에 직접 트럭을 몰고 건너며 개통한 19킬로미터 길이의 이 다리는 그의 통치의 상징이지만, 지금 러시아군은 육상 통로에 더 많이 의존합니다.",
+            "푸틴이 곧 중국에서 시진핑, 트럼프와 만날 예정이라 시기가 그에게 곤혹스럽습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "L'Ukraine a attaqué un grand pont.",
+            "Ce pont relie la Russie et la Crimée.",
+            "Une partie du pont est tombée dans l'eau."
+          ],
+          "easy_ko": [
+            "우크라이나가 큰 다리를 공격했습니다.",
+            "그 다리는 러시아와 크림반도를 잇습니다.",
+            "다리 일부가 물에 떨어졌어요."
+          ],
+          "normal": [
+            "L'Ukraine a gravement endommagé le pont de Crimée, qui relie la Russie à la péninsule qu'elle a annexée en 2014.",
+            "Des images montrent une partie de la route effondrée dans l'eau, et le gouverneur de Crimée nommé par la Russie fait état de deux morts.",
+            "Le président Volodymyr Zelensky parle d'une opération sans précédent, préparée pendant des semaines, qui a d'abord détruit défenses aériennes et radars.",
+            "Le Kremlin assure qu'il reconstruira le pont en mieux, mais des blogueurs militaires russes jugent la réparation extrêmement difficile.",
+            "Long de 19 kilomètres, ce pont, que Vladimir Poutine a inauguré en 2018 en le traversant au volant d'un camion, symbolise son pouvoir, même si l'armée russe s'appuie désormais davantage sur un corridor terrestre.",
+            "Le moment est délicat pour Poutine, qui doit bientôt rencontrer Xi Jinping et Donald Trump en Chine."
+          ],
+          "normal_ko": [
+            "우크라이나가 러시아와, 러시아가 2014년에 병합한 크림반도를 잇는 크림대교를 크게 파괴했습니다.",
+            "사진에는 도로 구간 일부가 물속으로 무너진 모습이 보이고, 러시아가 임명한 크림 총독은 두 명이 숨졌다고 밝혔습니다.",
+            "볼로디미르 젤렌스키 대통령은 이 공격을 준비에 몇 주가 걸린 전례 없는 작전이라고 했고, 먼저 방공망과 레이더를 파괴했다고 말했습니다.",
+            "크렘린은 다리를 전보다 더 좋게 다시 짓겠다고 하지만, 러시아 군사 블로거들은 복구가 매우 어려울 것이라고 말합니다.",
+            "푸틴이 2018년에 직접 트럭을 몰고 건너며 개통한 19킬로미터 길이의 이 다리는 그의 통치의 상징이지만, 지금 러시아군은 육상 통로에 더 많이 의존합니다.",
+            "푸틴이 곧 중국에서 시진핑, 트럼프와 만날 예정이라 시기가 그에게 곤혹스럽습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "크림대교는 케르치 해협 위의 다리로, '케르치 다리'라고도 불러요. 사망자 수 2명은 러시아가 임명한 크림 총독의 발표라 우크라이나나 독립 기관의 확인은 없습니다. 공격 방식(드론·미사일)과 피해 정도는 우크라이나 측 영상과 발표에 많이 의존하니 이후 보도로 달라질 수 있어요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "unprecedented",
+          "pos": "adjective",
+          "ko": "전례 없는",
+          "example": "Zelensky called it an unprecedented operation.",
+          "example_ko": "젤렌스키는 그것을 전례 없는 작전이라고 했어요.",
+          "note_ko": "precedent(선례)+un-. unprecedented scale = 전례 없는 규모."
+        },
+        {
+          "lang": "en",
+          "word": "collapse",
+          "pos": "verb",
+          "ko": "무너지다",
+          "example": "Part of the bridge collapsed into the water.",
+          "example_ko": "다리 일부가 물속으로 무너졌어요.",
+          "note_ko": "명사도 collapse. economic collapse = 경제 붕괴."
+        },
+        {
+          "lang": "en",
+          "word": "annex",
+          "pos": "verb",
+          "ko": "병합하다",
+          "example": "Russia annexed Crimea in 2014.",
+          "example_ko": "러시아는 2014년에 크림을 병합했어요.",
+          "note_ko": "명사 annexation. 국제법상 무력 병합은 불법으로 봐요."
+        },
+        {
+          "lang": "en",
+          "word": "peninsula",
+          "pos": "noun",
+          "ko": "반도",
+          "example": "Crimea is a peninsula.",
+          "example_ko": "크림은 반도예요.",
+          "note_ko": "한반도 = the Korean Peninsula."
+        },
+        {
+          "lang": "en",
+          "word": "logistical",
+          "pos": "adjective",
+          "ko": "물류의, 보급의",
+          "example": "The damage is a logistical blow.",
+          "example_ko": "그 피해는 보급상의 타격이에요.",
+          "note_ko": "명사 logistics. 군사·배송 뉴스에 모두 나와요."
+        },
+        {
+          "lang": "en",
+          "word": "symbolic",
+          "pos": "adjective",
+          "ko": "상징적인",
+          "example": "The bridge is a symbolic target.",
+          "example_ko": "그 다리는 상징적 표적이에요.",
+          "note_ko": "symbol(상징)에서. symbolic gesture = 상징적 제스처."
+        },
+        {
+          "lang": "en",
+          "word": "supply route",
+          "pos": "noun",
+          "ko": "보급로",
+          "example": "It was a key supply route.",
+          "example_ko": "그것은 핵심 보급로였어요.",
+          "note_ko": "route는 '루트/라우트' 둘 다 발음. supply chain = 공급망."
+        },
+        {
+          "lang": "en",
+          "word": "cripple",
+          "pos": "verb",
+          "ko": "(기능을) 마비시키다",
+          "example": "The strike crippled the bridge.",
+          "example_ko": "그 공격이 다리를 마비시켰어요.",
+          "note_ko": "원래 '불구로 만들다'. crippling debt = 숨통 조이는 빚."
+        },
+        {
+          "lang": "en",
+          "word": "methodically",
+          "pos": "adverb",
+          "ko": "체계적으로",
+          "example": "They methodically destroyed the defences.",
+          "example_ko": "그들은 체계적으로 방어망을 파괴했어요.",
+          "note_ko": "형용사 methodical. method(방법)에서."
+        },
+        {
+          "lang": "en",
+          "word": "air defences",
+          "pos": "noun",
+          "ko": "방공망",
+          "example": "Air defences were knocked out first.",
+          "example_ko": "방공망이 먼저 무력화됐어요.",
+          "note_ko": "영국식 defences, 미국식 defenses."
+        },
+        {
+          "lang": "en",
+          "word": "a blow",
+          "pos": "noun",
+          "ko": "타격, 충격",
+          "example": "It is a blow to Moscow.",
+          "example_ko": "그것은 모스크바에 대한 타격이에요.",
+          "note_ko": "deal a blow = 타격을 주다. 원래 '주먹질'."
+        },
+        {
+          "lang": "en",
+          "word": "repair",
+          "pos": "verb",
+          "ko": "수리하다, 복구하다",
+          "example": "Repairs will be exceptionally difficult.",
+          "example_ko": "복구는 매우 어려울 거예요.",
+          "note_ko": "명사 repair(s). beyond repair = 수리 불가능한."
+        },
+        {
+          "lang": "en",
+          "word": "awkward",
+          "pos": "adjective",
+          "ko": "곤란한, 어색한",
+          "example": "The timing is awkward for the Kremlin.",
+          "example_ko": "시기가 크렘린에는 곤혹스러워요.",
+          "note_ko": "awkward silence = 어색한 침묵. 사람·상황 모두에 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "sans précédent",
+          "pos": "locution",
+          "ko": "전례 없는",
+          "example": "Une opération sans précédent.",
+          "example_ko": "전례 없는 작전이에요.",
+          "note_ko": "un précédent = 선례. créer un précédent = 선례를 만들다."
+        },
+        {
+          "lang": "fr",
+          "word": "s'effondrer",
+          "pos": "verbe pronominal",
+          "ko": "무너지다",
+          "example": "Une partie du pont s'est effondrée.",
+          "example_ko": "다리 일부가 무너졌어요.",
+          "note_ko": "명사 un effondrement. 경제 붕괴에도 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "annexer",
+          "pos": "verbe",
+          "ko": "병합하다",
+          "example": "La Russie a annexé la Crimée en 2014.",
+          "example_ko": "러시아는 2014년에 크림을 병합했어요.",
+          "note_ko": "명사 l'annexion. annexe(별관·부록)와 같은 뿌리."
+        },
+        {
+          "lang": "fr",
+          "word": "une péninsule",
+          "pos": "nom féminin",
+          "ko": "반도",
+          "example": "La Crimée est une péninsule.",
+          "example_ko": "크림은 반도예요.",
+          "note_ko": "la péninsule coréenne = 한반도."
+        },
+        {
+          "lang": "fr",
+          "word": "logistique",
+          "pos": "adjectif",
+          "ko": "물류의, 보급의",
+          "example": "C'est un coup logistique.",
+          "example_ko": "그건 보급상의 타격이에요.",
+          "note_ko": "명사로 la logistique(물류)도 많이 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "symbolique",
+          "pos": "adjectif",
+          "ko": "상징적인",
+          "example": "C'est une cible symbolique.",
+          "example_ko": "그건 상징적 표적이에요.",
+          "note_ko": "un geste symbolique = 상징적 제스처."
+        },
+        {
+          "lang": "fr",
+          "word": "une voie d'approvisionnement",
+          "pos": "nom féminin",
+          "ko": "보급로",
+          "example": "C'était une voie d'approvisionnement clé.",
+          "example_ko": "그것은 핵심 보급로였어요.",
+          "note_ko": "approvisionner = 공급하다. 장보기에도 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "paralyser",
+          "pos": "verbe",
+          "ko": "마비시키다",
+          "example": "La frappe a paralysé le pont.",
+          "example_ko": "공격이 다리를 마비시켰어요.",
+          "note_ko": "paralysie = 마비. 파업으로 교통이 마비될 때도 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "méthodiquement",
+          "pos": "adverbe",
+          "ko": "체계적으로",
+          "example": "Ils ont méthodiquement détruit les défenses.",
+          "example_ko": "그들은 체계적으로 방어망을 파괴했어요.",
+          "note_ko": "형용사 méthodique. 부사 어미 -ment."
+        },
+        {
+          "lang": "fr",
+          "word": "la défense aérienne",
+          "pos": "nom féminin",
+          "ko": "방공망",
+          "example": "La défense aérienne a été détruite.",
+          "example_ko": "방공망이 파괴됐어요.",
+          "note_ko": "défense antiaérienne라고도 해요."
+        },
+        {
+          "lang": "fr",
+          "word": "un coup dur",
+          "pos": "nom masculin",
+          "ko": "큰 타격",
+          "example": "C'est un coup dur pour Moscou.",
+          "example_ko": "모스크바에 큰 타격이에요.",
+          "note_ko": "원래 '단단한 일격'. un coup = 타격·한 번."
+        },
+        {
+          "lang": "fr",
+          "word": "réparer",
+          "pos": "verbe",
+          "ko": "수리하다",
+          "example": "Réparer le pont sera très difficile.",
+          "example_ko": "다리를 복구하기는 매우 어려울 거예요.",
+          "note_ko": "une réparation = 수리. 비유로 '관계를 바로잡다'도."
+        },
+        {
+          "lang": "fr",
+          "word": "délicat",
+          "pos": "adjectif",
+          "ko": "곤란한, 미묘한",
+          "example": "Le moment est délicat pour le Kremlin.",
+          "example_ko": "시기가 크렘린에는 곤란해요.",
+          "note_ko": "원래 '섬세한'. une situation délicate = 미묘한 상황."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "An \"unprecedented\" operation is one that…",
+          "choices": [
+            "has never happened before",
+            "happens every day",
+            "was cancelled"
+          ],
+          "answer": 0,
+          "explain_ko": "unprecedented = 전례가 없는, 처음 있는."
+        },
+        {
+          "lang": "fr",
+          "q": "Une opération « sans précédent » est une opération…",
+          "choices": [
+            "qui n'a jamais eu lieu",
+            "qui a lieu chaque jour",
+            "qui a été annulée"
+          ],
+          "answer": 0,
+          "explain_ko": "sans précédent = 전례 없는."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
+          "accessed": "2026-11-18"
+        },
+        {
+          "name": "CBC News",
+          "url": "https://www.cbc.ca/news/world/ukraine-drones-russia-crimea-bridge-9.7425197",
+          "accessed": "2026-11-18"
+        },
+        {
+          "name": "Wikipedia: Current events (cites Reuters, Türkiye Today)",
+          "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_17",
+          "accessed": "2026-11-18"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-18",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-17/41a988b3361ed3cb.mp3",
+            "2026-11-17/5bc877c3b3e1cac3.mp3",
+            "2026-11-17/fb1ea3f44a21b958.mp3"
+          ],
+          "normal": [
+            "2026-11-17/81e0b8313b3d6267.mp3",
+            "2026-11-17/7e9f680a5908c468.mp3",
+            "2026-11-17/46ec0ac00427c780.mp3",
+            "2026-11-17/bc3ebf01b575601e.mp3",
+            "2026-11-17/d213c930cdc9c81d.mp3",
+            "2026-11-17/c3f4dd6efaa51402.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-17/52f5909d11d19767.mp3",
+            "2026-11-17/4194b4bb2c892274.mp3",
+            "2026-11-17/10db74accc2737d0.mp3"
+          ],
+          "normal": [
+            "2026-11-17/983e402ad17bb86e.mp3",
+            "2026-11-17/a8d68043f4b6ced2.mp3",
+            "2026-11-17/91421a22c9f38965.mp3",
+            "2026-11-17/7f79d3d54f24882a.mp3",
+            "2026-11-17/4f7ca2655f5da808.mp3",
+            "2026-11-17/c02fed0cdf97740c.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-17/987aa818355d3c8c.mp3",
+          "2026-11-17/a410bb06b0f49be3.mp3",
+          "2026-11-17/6b11745170f7cd45.mp3",
+          "2026-11-17/b54913dee4a6abff.mp3",
+          "2026-11-17/4eb7ca24799a19cb.mp3",
+          "2026-11-17/5eb8a0c2b73022cf.mp3",
+          "2026-11-17/e897db5edc780f23.mp3",
+          "2026-11-17/4d51f2b1ee97c97d.mp3",
+          "2026-11-17/494ff414307a7c0b.mp3",
+          "2026-11-17/7462c9161630bf4c.mp3",
+          "2026-11-17/9fa390357a065f0a.mp3",
+          "2026-11-17/b8e9872e8e2a113f.mp3",
+          "2026-11-17/c598915c30c65e71.mp3",
+          "2026-11-17/1f5d2b964641103e.mp3",
+          "2026-11-17/cbac412945978b30.mp3",
+          "2026-11-17/76e642921941e1b6.mp3",
+          "2026-11-17/68b167e712051877.mp3",
+          "2026-11-17/c42cf31d8c1b3b77.mp3",
+          "2026-11-17/a1fa4b18b10ce33c.mp3",
+          "2026-11-17/70ce809fd6191ba9.mp3",
+          "2026-11-17/2eb1fc7c0c65662c.mp3",
+          "2026-11-17/72858cbf922a493b.mp3",
+          "2026-11-17/4691de6444a22b8a.mp3",
+          "2026-11-17/bfeb085ecda78dd8.mp3",
+          "2026-11-17/c59714959b7f76a0.mp3",
+          "2026-11-17/0f7aa3001507ee3b.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0,
+              0.266,
+              0.531,
+              0.664,
+              0.797
+            ],
+            [
+              0,
+              0.111,
+              0.222,
+              0.444,
+              0.667,
+              0.778
+            ],
+            [
+              0.288,
+              0.359,
+              0.43,
+              0.502,
+              0.573,
+              0.644,
+              0.786,
+              0.858
+            ]
+          ],
+          "normal": [
+            [
+              0,
+              0.064,
+              0.097,
+              0.226,
+              0.29,
+              0.322,
+              0.387,
+              0.47,
+              0.502,
+              0.533,
+              0.595,
+              0.626,
+              0.657,
+              0.782,
+              0.813,
+              0.875,
+              0.907
+            ],
+            [
+              0,
+              0.062,
+              0.093,
+              0.125,
+              0.156,
+              0.187,
+              0.218,
+              0.249,
+              0.312,
+              0.374,
+              0.405,
+              0.493,
+              0.527,
+              0.594,
+              0.73,
+              0.831,
+              0.865,
+              0.899,
+              0.932,
+              0.966
+            ],
+            [
+              0,
+              0.066,
+              0.154,
+              0.22,
+              0.242,
+              0.264,
+              0.308,
+              0.33,
+              0.418,
+              0.507,
+              0.529,
+              0.551,
+              0.573,
+              0.595,
+              0.681,
+              0.739,
+              0.768,
+              0.826,
+              0.855,
+              0.913,
+              0.971
+            ],
+            [
+              0,
+              0.027,
+              0.081,
+              0.108,
+              0.135,
+              0.162,
+              0.216,
+              0.243,
+              0.27,
+              0.324,
+              0.351,
+              0.462,
+              0.486,
+              0.535,
+              0.633,
+              0.682,
+              0.706,
+              0.755,
+              0.78,
+              0.804,
+              0.927
+            ],
+            [
+              0,
+              0.03,
+              0.118,
+              0.158,
+              0.178,
+              0.235,
+              0.274,
+              0.312,
+              0.332,
+              0.389,
+              0.408,
+              0.447,
+              0.466,
+              0.485,
+              0.564,
+              0.579,
+              0.593,
+              0.622,
+              0.636,
+              0.65,
+              0.701,
+              0.739,
+              0.777,
+              0.796,
+              0.815,
+              0.852,
+              0.871,
+              0.89,
+              0.909,
+              0.928
+            ],
+            [
+              0,
+              0.04,
+              0.12,
+              0.16,
+              0.239,
+              0.279,
+              0.425,
+              0.461,
+              0.497,
+              0.569,
+              0.605,
+              0.641,
+              0.677,
+              0.749,
+              0.784,
+              0.856,
+              0.892,
+              0.928
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.214,
+              0.366,
+              0.443,
+              0.672,
+              0.748,
+              0.825
+            ],
+            [
+              0.139,
+              0.209,
+              0.279,
+              0.418,
+              0.488,
+              0.627,
+              0.697,
+              0.766
+            ],
+            [
+              0.17,
+              0.232,
+              0.356,
+              0.419,
+              0.481,
+              0.543,
+              0.668,
+              0.73
+            ]
+          ],
+          "normal": [
+            [
+              0.076,
+              0.126,
+              0.15,
+              0.2,
+              0.298,
+              0.323,
+              0.348,
+              0.372,
+              0.488,
+              0.51,
+              0.554,
+              0.576,
+              0.62,
+              0.642,
+              0.664,
+              0.73,
+              0.752,
+              0.773,
+              0.839,
+              0.861
+            ],
+            [
+              0.059,
+              0.083,
+              0.13,
+              0.154,
+              0.178,
+              0.225,
+              0.249,
+              0.273,
+              0.296,
+              0.367,
+              0.391,
+              0.472,
+              0.495,
+              0.518,
+              0.587,
+              0.61,
+              0.656,
+              0.702,
+              0.725,
+              0.748,
+              0.794,
+              0.817,
+              0.863,
+              0.886,
+              0.909
+            ],
+            [
+              0.056,
+              0.076,
+              0.115,
+              0.195,
+              0.255,
+              0.275,
+              0.294,
+              0.374,
+              0.394,
+              0.48,
+              0.538,
+              0.576,
+              0.595,
+              0.674,
+              0.693,
+              0.712,
+              0.75,
+              0.788,
+              0.826,
+              0.864,
+              0.883
+            ],
+            [
+              0.083,
+              0.106,
+              0.151,
+              0.196,
+              0.219,
+              0.31,
+              0.332,
+              0.355,
+              0.378,
+              0.464,
+              0.49,
+              0.516,
+              0.567,
+              0.644,
+              0.67,
+              0.695,
+              0.721,
+              0.824,
+              0.901
+            ],
+            [
+              0.019,
+              0.034,
+              0.05,
+              0.08,
+              0.145,
+              0.165,
+              0.21,
+              0.223,
+              0.262,
+              0.288,
+              0.301,
+              0.354,
+              0.367,
+              0.406,
+              0.419,
+              0.433,
+              0.472,
+              0.485,
+              0.511,
+              0.524,
+              0.572,
+              0.622,
+              0.639,
+              0.698,
+              0.712,
+              0.726,
+              0.754,
+              0.768,
+              0.795,
+              0.837,
+              0.879,
+              0.893,
+              0.907,
+              0.949
+            ],
+            [
+              0.067,
+              0.098,
+              0.129,
+              0.161,
+              0.254,
+              0.286,
+              0.399,
+              0.431,
+              0.464,
+              0.529,
+              0.626,
+              0.659,
+              0.724,
+              0.756,
+              0.821,
+              0.854,
+              0.886
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-17-03",
+      "category": "politics",
+      "region": {
+        "country": "CN",
+        "city": "Shenzhen",
+        "lat": 22.54,
+        "lng": 114.06
+      },
+      "headline": {
+        "en": "Trump, Xi and Putin Set for a First-Ever Three-Way Summit in Shenzhen",
+        "ko": "트럼프·시진핑·푸틴, 선전서 사상 첫 3자 정상회담 앞두고",
+        "fr": "Trump, Xi et Putin attendus à Shenzhen pour un premier sommet à trois"
+      },
+      "hook": {
+        "en": "Three of the world's most powerful leaders are about to share one room.",
+        "ko": "세계에서 가장 영향력 있는 세 정상이 한자리에 모입니다.",
+        "fr": "Trois des dirigeants les plus puissants du monde vont se retrouver dans la même salle."
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Three world leaders will meet in China.",
+            "They are the leaders of the US, China and Russia.",
+            "It is the first time the three of them meet together."
+          ],
+          "easy_ko": [
+            "세 나라 정상이 중국에서 만납니다.",
+            "미국, 중국, 러시아의 정상이에요.",
+            "세 사람이 함께 만나는 것은 처음입니다."
+          ],
+          "normal": [
+            "US president Donald Trump is travelling to Shenzhen, China, where he will meet Chinese leader Xi Jinping and Russian president Vladimir Putin.",
+            "It will be the first joint summit of the three men, held on the sidelines of the APEC summit that Xi is hosting.",
+            "A year ago in Busan, Trump and Xi agreed an economic truce, and this week's talks are expected to extend it before it expires in January.",
+            "Trump says he wants to discuss denuclearization and the war in Iran, and he has called Ukraine his favorite subject, which worries Europe and Kyiv.",
+            "Ukrainian president Volodymyr Zelensky will not be there.",
+            "For Xi, the tightly controlled summit in high-tech Shenzhen is a showcase of China's rise as a defender of multilateralism against protectionism."
+          ],
+          "normal_ko": [
+            "미국 도널드 트럼프 대통령이 중국 선전으로 가서 시진핑 중국 국가주석, 블라디미르 푸틴 러시아 대통령과 만납니다.",
+            "세 사람이 함께하는 첫 정상회담이며, 시진핑이 주최하는 APEC 정상회의의 별도 일정으로 열립니다.",
+            "1년 전 부산에서 트럼프와 시진핑은 경제 휴전에 합의했고, 이번 회담에서는 1월에 끝나는 이 휴전을 연장하는 것이 기대됩니다.",
+            "트럼프는 비핵화와 이란 전쟁을 논의하고 싶다고 하며, 우크라이나를 '가장 좋아하는 주제'라고 불러 유럽과 키이우를 걱정시키고 있습니다.",
+            "볼로디미르 젤렌스키 우크라이나 대통령은 참석하지 않습니다.",
+            "시진핑에게 첨단 도시 선전에서 엄격히 통제되는 이번 회의는, 보호무역에 맞서 다자주의를 지키는 나라로서 중국의 부상을 보여 주는 무대입니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Trois chefs d'État vont se rencontrer en Chine.",
+            "Ce sont les dirigeants des États-Unis, de la Chine et de la Russie.",
+            "C'est la première fois qu'ils se réunissent tous les trois."
+          ],
+          "easy_ko": [
+            "세 나라 정상이 중국에서 만납니다.",
+            "미국, 중국, 러시아의 정상이에요.",
+            "세 사람이 함께 만나는 것은 처음입니다."
+          ],
+          "normal": [
+            "Le président américain Donald Trump se rend à Shenzhen, en Chine, où il rencontrera le dirigeant chinois Xi Jinping et le président russe Vladimir Poutine.",
+            "Ce sera le premier sommet à trois, organisé en marge du sommet de l'APEC que Xi accueille.",
+            "Il y a un an à Busan, Trump et Xi ont conclu une trêve économique, et les discussions de cette semaine devraient la prolonger avant son expiration en janvier.",
+            "Trump dit vouloir parler de dénucléarisation et de la guerre en Iran, et il a qualifié l'Ukraine de son « sujet préféré », ce qui inquiète l'Europe et Kiev.",
+            "Le président ukrainien Volodymyr Zelensky ne sera pas présent.",
+            "Pour Xi, ce sommet strictement encadré, dans la ville high-tech de Shenzhen, est une vitrine de l'essor de la Chine, qui se présente en défenseur du multilatéralisme face au protectionnisme."
+          ],
+          "normal_ko": [
+            "미국 도널드 트럼프 대통령이 중국 선전으로 가서 시진핑 중국 국가주석, 블라디미르 푸틴 러시아 대통령과 만납니다.",
+            "세 사람이 함께하는 첫 정상회담이며, 시진핑이 주최하는 APEC 정상회의의 별도 일정으로 열립니다.",
+            "1년 전 부산에서 트럼프와 시진핑은 경제 휴전에 합의했고, 이번 회담에서는 1월에 끝나는 이 휴전을 연장하는 것이 기대됩니다.",
+            "트럼프는 비핵화와 이란 전쟁을 논의하고 싶다고 하며, 우크라이나를 '가장 좋아하는 주제'라고 불러 유럽과 키이우를 걱정시키고 있습니다.",
+            "볼로디미르 젤렌스키 우크라이나 대통령은 참석하지 않습니다.",
+            "시진핑에게 첨단 도시 선전에서 엄격히 통제되는 이번 회의는, 보호무역에 맞서 다자주의를 지키는 나라로서 중국의 부상을 보여 주는 무대입니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "APEC(아시아태평양경제협력체) 정상회의는 올해 중국 선전에서 열립니다. 세 정상의 회담은 아직 열리지 않았고, 날짜는 이번 주 후반이라고만 확인했어요(매체마다 표현이 조금 달라 날짜는 적지 않았습니다). 우크라이나가 의제인지는 백악관 설명이 바뀌어 불확실하다고 NPR이 전했습니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "trilateral",
+          "pos": "adjective",
+          "ko": "3자간의",
+          "example": "They will hold a trilateral summit.",
+          "example_ko": "그들은 3자 정상회담을 열어요.",
+          "note_ko": "tri(셋)+lateral(측면). 둘 사이는 bilateral."
+        },
+        {
+          "lang": "en",
+          "word": "bilateral",
+          "pos": "adjective",
+          "ko": "양자간의",
+          "example": "The two leaders held a bilateral meeting.",
+          "example_ko": "두 정상이 양자 회담을 가졌어요.",
+          "note_ko": "bilateral talks = 양자 회담. multilateral = 다자간."
+        },
+        {
+          "lang": "en",
+          "word": "on the sidelines",
+          "pos": "phrase",
+          "ko": "(본 행사) 부대 일정으로",
+          "example": "They met on the sidelines of the summit.",
+          "example_ko": "그들은 정상회의 부대 일정으로 만났어요.",
+          "note_ko": "원래 '경기장 옆 라인'. on the sidelines of ~."
+        },
+        {
+          "lang": "en",
+          "word": "truce",
+          "pos": "noun",
+          "ko": "휴전, 일시적 합의",
+          "example": "The two sides agreed to a trade truce.",
+          "example_ko": "양측은 무역 휴전에 합의했어요.",
+          "note_ko": "ceasefire보다 비공식적일 수 있음. extend a truce = 휴전 연장."
+        },
+        {
+          "lang": "en",
+          "word": "expire",
+          "pos": "verb",
+          "ko": "만료되다",
+          "example": "The agreement will expire in January.",
+          "example_ko": "그 합의는 1월에 만료돼요.",
+          "note_ko": "명사 expiry/expiration. expiration date = 유통기한."
+        },
+        {
+          "lang": "en",
+          "word": "showcase",
+          "pos": "noun",
+          "ko": "과시의 장, 전시",
+          "example": "Shenzhen is a showcase of China's tech power.",
+          "example_ko": "선전은 중국 기술력을 보여 주는 무대예요.",
+          "note_ko": "동사로도: showcase talent = 재능을 선보이다."
+        },
+        {
+          "lang": "en",
+          "word": "multilateralism",
+          "pos": "noun",
+          "ko": "다자주의",
+          "example": "China defends multilateralism.",
+          "example_ko": "중국은 다자주의를 옹호해요.",
+          "note_ko": "여러 나라가 함께 해결한다는 입장. 반대는 unilateralism."
+        },
+        {
+          "lang": "en",
+          "word": "protectionism",
+          "pos": "noun",
+          "ko": "보호무역주의",
+          "example": "Leaders warned against protectionism.",
+          "example_ko": "정상들은 보호무역주의를 경계했어요.",
+          "note_ko": "protect(보호하다)에서. 관세 장벽이 대표적 수단."
+        },
+        {
+          "lang": "en",
+          "word": "denuclearization",
+          "pos": "noun",
+          "ko": "비핵화",
+          "example": "Trump wants to discuss denuclearization.",
+          "example_ko": "트럼프는 비핵화를 논의하고 싶어 해요.",
+          "note_ko": "동사 denuclearize. 한반도 뉴스에도 자주 나와요."
+        },
+        {
+          "lang": "en",
+          "word": "lenient",
+          "pos": "adjective",
+          "ko": "관대한, 너그러운",
+          "example": "He has been lenient toward Russia.",
+          "example_ko": "그는 러시아에 관대했어요.",
+          "note_ko": "비난 섞인 뉘앙스일 때가 많음. 명사 leniency."
+        },
+        {
+          "lang": "en",
+          "word": "stopover",
+          "pos": "noun",
+          "ko": "도중 기착(경유)",
+          "example": "He made a stopover in the Philippines.",
+          "example_ko": "그는 필리핀에 잠시 들렀어요.",
+          "note_ko": "layover(항공 환승 대기)와 비슷. 동사구 stop over."
+        },
+        {
+          "lang": "en",
+          "word": "tightly controlled",
+          "pos": "phrase",
+          "ko": "엄격히 통제된",
+          "example": "The summit is tightly controlled.",
+          "example_ko": "그 회의는 엄격히 통제돼요.",
+          "note_ko": "tightly(꽉)+controlled. 비슷한 말 heavily regulated."
+        },
+        {
+          "lang": "en",
+          "word": "agenda",
+          "pos": "noun",
+          "ko": "의제, 안건",
+          "example": "Ukraine is not on the agenda.",
+          "example_ko": "우크라이나는 의제에 없어요.",
+          "note_ko": "hidden agenda = 숨은 의도. 복수형 agendas."
+        },
+        {
+          "lang": "fr",
+          "word": "trilatéral",
+          "pos": "adjectif",
+          "ko": "3자간의",
+          "example": "Ils tiennent un sommet trilatéral.",
+          "example_ko": "그들은 3자 정상회담을 열어요.",
+          "note_ko": "여성형 trilatérale. 둘 사이는 bilatéral."
+        },
+        {
+          "lang": "fr",
+          "word": "bilatéral",
+          "pos": "adjectif",
+          "ko": "양자간의",
+          "example": "Les deux dirigeants ont tenu une rencontre bilatérale.",
+          "example_ko": "두 정상이 양자 회담을 가졌어요.",
+          "note_ko": "multilatéral = 다자간. 외교 뉴스의 단골 형용사."
+        },
+        {
+          "lang": "fr",
+          "word": "en marge de",
+          "pos": "locution",
+          "ko": "~의 부대 일정으로",
+          "example": "Ils se rencontrent en marge du sommet.",
+          "example_ko": "그들은 정상회의 부대 일정으로 만나요.",
+          "note_ko": "la marge = 여백, 가장자리. en marge = 곁에서."
+        },
+        {
+          "lang": "fr",
+          "word": "une trêve",
+          "pos": "nom féminin",
+          "ko": "휴전, 일시적 합의",
+          "example": "Les deux camps ont conclu une trêve commerciale.",
+          "example_ko": "양측은 무역 휴전을 맺었어요.",
+          "note_ko": "prolonger une trêve = 휴전을 연장하다."
+        },
+        {
+          "lang": "fr",
+          "word": "expirer",
+          "pos": "verbe",
+          "ko": "만료되다",
+          "example": "L'accord expire en janvier.",
+          "example_ko": "그 합의는 1월에 만료돼요.",
+          "note_ko": "명사 l'expiration. 숨을 내쉬다는 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "une vitrine",
+          "pos": "nom féminin",
+          "ko": "쇼윈도, 과시의 장",
+          "example": "Shenzhen est une vitrine de la puissance chinoise.",
+          "example_ko": "선전은 중국 힘을 보여 주는 쇼윈도예요.",
+          "note_ko": "원래 가게 진열창. 비유로 '대표 얼굴'."
+        },
+        {
+          "lang": "fr",
+          "word": "le multilatéralisme",
+          "pos": "nom masculin",
+          "ko": "다자주의",
+          "example": "La Chine défend le multilatéralisme.",
+          "example_ko": "중국은 다자주의를 옹호해요.",
+          "note_ko": "형용사 multilatéral. 반대는 l'unilatéralisme."
+        },
+        {
+          "lang": "fr",
+          "word": "le protectionnisme",
+          "pos": "nom masculin",
+          "ko": "보호무역주의",
+          "example": "Les dirigeants dénoncent le protectionnisme.",
+          "example_ko": "정상들은 보호무역주의를 비판해요.",
+          "note_ko": "protectionniste(형용사·명사)도 같이 익혀요."
+        },
+        {
+          "lang": "fr",
+          "word": "la dénucléarisation",
+          "pos": "nom féminin",
+          "ko": "비핵화",
+          "example": "Trump veut parler de dénucléarisation.",
+          "example_ko": "트럼프는 비핵화를 말하고 싶어 해요.",
+          "note_ko": "nucléaire(핵)에 dé-(제거)를 붙인 말."
+        },
+        {
+          "lang": "fr",
+          "word": "indulgent",
+          "pos": "adjectif",
+          "ko": "관대한",
+          "example": "Il est indulgent envers la Russie.",
+          "example_ko": "그는 러시아에 관대해요.",
+          "note_ko": "여성형 indulgente. 명사 l'indulgence(관용)."
+        },
+        {
+          "lang": "fr",
+          "word": "une escale",
+          "pos": "nom féminin",
+          "ko": "기착, 경유",
+          "example": "Il fait escale aux Philippines.",
+          "example_ko": "그는 필리핀에 기착해요.",
+          "note_ko": "faire escale = 경유하다. vol sans escale = 직항."
+        },
+        {
+          "lang": "fr",
+          "word": "strictement encadré",
+          "pos": "locution",
+          "ko": "엄격히 통제된",
+          "example": "Le sommet est strictement encadré.",
+          "example_ko": "그 회의는 엄격히 통제돼요.",
+          "note_ko": "encadrer = 틀을 잡다·통제하다(규제 뉴스에도 자주)."
+        },
+        {
+          "lang": "fr",
+          "word": "un ordre du jour",
+          "pos": "nom masculin",
+          "ko": "의제",
+          "example": "L'Ukraine n'est pas à l'ordre du jour.",
+          "example_ko": "우크라이나는 의제에 없어요.",
+          "note_ko": "à l'ordre du jour = 의제에 올라 있는, 화제인."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "A \"trilateral\" summit involves…",
+          "choices": [
+            "three parties",
+            "two parties",
+            "four parties"
+          ],
+          "answer": 0,
+          "explain_ko": "trilateral = 3자간의 (tri = 셋)."
+        },
+        {
+          "lang": "fr",
+          "q": "Un sommet « trilatéral » réunit…",
+          "choices": [
+            "trois parties",
+            "deux parties",
+            "quatre parties"
+          ],
+          "answer": 0,
+          "explain_ko": "trilatéral = 3자간의."
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/17/nx-s1-6042448/trump-to-meet-chinese-leader-xi-jinping-and-russias-vladimir-putin-for-joint-summit",
+          "accessed": "2026-11-18"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit",
+          "accessed": "2026-11-18"
+        },
+        {
+          "name": "CBC News (article text for the date only)",
+          "url": "https://www.cbc.ca/news/world/ukraine-drones-russia-crimea-bridge-9.7425197",
+          "accessed": "2026-11-18"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-18",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-17/3c195731e82b6731.mp3",
+            "2026-11-17/ffa35c9d45893f71.mp3",
+            "2026-11-17/b29f9caa945ddf2b.mp3"
+          ],
+          "normal": [
+            "2026-11-17/4b1cbab87f8be5bc.mp3",
+            "2026-11-17/9109d611c148fbc3.mp3",
+            "2026-11-17/c1a83476408a8591.mp3",
+            "2026-11-17/30196260d5b9f10d.mp3",
+            "2026-11-17/9275040a7eec6f36.mp3",
+            "2026-11-17/c5f50ba28bd63795.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-17/f7b73fc22a1a6a50.mp3",
+            "2026-11-17/8c0b1d6b8e69c785.mp3",
+            "2026-11-17/f173e158ab9fddde.mp3"
+          ],
+          "normal": [
+            "2026-11-17/ee5343c54668be0b.mp3",
+            "2026-11-17/3ed24fb79cd0d59f.mp3",
+            "2026-11-17/b7279fc55fb0a087.mp3",
+            "2026-11-17/a2a4515dc5262d93.mp3",
+            "2026-11-17/a8478636bf16c5b4.mp3",
+            "2026-11-17/cea43416ffb2fc09.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-17/f0c8b841c1a620af.mp3",
+          "2026-11-17/a88b8e8a5011cd8d.mp3",
+          "2026-11-17/72cc00febd539fd5.mp3",
+          "2026-11-17/67488cc614d93095.mp3",
+          "2026-11-17/3e31c2d24f6aa90c.mp3",
+          "2026-11-17/f90de1646b32d278.mp3",
+          "2026-11-17/cd918503ae1d383e.mp3",
+          "2026-11-17/d111a3f61511f259.mp3",
+          "2026-11-17/3c90b61715600049.mp3",
+          "2026-11-17/fe2ca53d7db55c8f.mp3",
+          "2026-11-17/b544f884dfbdc38c.mp3",
+          "2026-11-17/d8b43276a37c7f9c.mp3",
+          "2026-11-17/32e9c3031a11b6ef.mp3",
+          "2026-11-17/4736313fd88b0679.mp3",
+          "2026-11-17/bf96cb072787c338.mp3",
+          "2026-11-17/44678bba4812d120.mp3",
+          "2026-11-17/fdf7236db63aeb6a.mp3",
+          "2026-11-17/912343dc4144ee4c.mp3",
+          "2026-11-17/3e833f4d6e7be884.mp3",
+          "2026-11-17/fef1ac03ff6a6eaf.mp3",
+          "2026-11-17/2b8ee6dca3167cb4.mp3",
+          "2026-11-17/7c1d39ea6f3d6016.mp3",
+          "2026-11-17/70f16ab18b1d77d7.mp3",
+          "2026-11-17/51a9e1a5b5e0012b.mp3",
+          "2026-11-17/ece11696e829bbc0.mp3",
+          "2026-11-17/55398f6830f02bec.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.162,
+              0.248,
+              0.333,
+              0.505,
+              0.59,
+              0.676,
+              0.762
+            ],
+            [
+              0.106,
+              0.158,
+              0.209,
+              0.26,
+              0.363,
+              0.414,
+              0.466,
+              0.651,
+              0.773,
+              0.835
+            ],
+            [
+              0.164,
+              0.229,
+              0.293,
+              0.357,
+              0.421,
+              0.486,
+              0.55,
+              0.614,
+              0.679,
+              0.743,
+              0.807
+            ]
+          ],
+          "normal": [
+            [
+              0.037,
+              0.064,
+              0.143,
+              0.196,
+              0.223,
+              0.249,
+              0.329,
+              0.356,
+              0.409,
+              0.509,
+              0.53,
+              0.552,
+              0.574,
+              0.595,
+              0.638,
+              0.681,
+              0.703,
+              0.746,
+              0.768,
+              0.811,
+              0.876,
+              0.94
+            ],
+            [
+              0.066,
+              0.097,
+              0.128,
+              0.159,
+              0.19,
+              0.221,
+              0.252,
+              0.314,
+              0.345,
+              0.376,
+              0.407,
+              0.499,
+              0.527,
+              0.555,
+              0.583,
+              0.667,
+              0.696,
+              0.724,
+              0.78,
+              0.836,
+              0.864,
+              0.892,
+              0.92
+            ],
+            [
+              0.044,
+              0.064,
+              0.085,
+              0.126,
+              0.147,
+              0.228,
+              0.251,
+              0.275,
+              0.298,
+              0.346,
+              0.369,
+              0.463,
+              0.514,
+              0.537,
+              0.561,
+              0.584,
+              0.607,
+              0.631,
+              0.677,
+              0.701,
+              0.747,
+              0.771,
+              0.817,
+              0.841,
+              0.887,
+              0.91
+            ],
+            [
+              0.055,
+              0.071,
+              0.086,
+              0.102,
+              0.118,
+              0.133,
+              0.165,
+              0.259,
+              0.275,
+              0.29,
+              0.306,
+              0.322,
+              0.371,
+              0.404,
+              0.438,
+              0.472,
+              0.506,
+              0.574,
+              0.607,
+              0.709,
+              0.809,
+              0.831,
+              0.876,
+              0.92,
+              0.942
+            ],
+            [
+              0,
+              0.176,
+              0.353,
+              0.588,
+              0.765,
+              0.824,
+              0.882,
+              0.941
+            ],
+            [
+              0,
+              0.025,
+              0.05,
+              0.075,
+              0.125,
+              0.175,
+              0.225,
+              0.25,
+              0.3,
+              0.35,
+              0.375,
+              0.4,
+              0.45,
+              0.475,
+              0.525,
+              0.55,
+              0.575,
+              0.6,
+              0.675,
+              0.7,
+              0.85,
+              0.9
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.126,
+              0.196,
+              0.267,
+              0.408,
+              0.479,
+              0.549,
+              0.761,
+              0.832
+            ],
+            [
+              0.108,
+              0.145,
+              0.181,
+              0.217,
+              0.326,
+              0.362,
+              0.577,
+              0.625,
+              0.672,
+              0.72,
+              0.767,
+              0.815,
+              0.863
+            ],
+            [
+              0.112,
+              0.178,
+              0.244,
+              0.376,
+              0.442,
+              0.507,
+              0.573,
+              0.705,
+              0.771,
+              0.837
+            ]
+          ],
+          "normal": [
+            [
+              0.075,
+              0.095,
+              0.136,
+              0.217,
+              0.257,
+              0.277,
+              0.297,
+              0.317,
+              0.338,
+              0.378,
+              0.398,
+              0.449,
+              0.468,
+              0.488,
+              0.567,
+              0.587,
+              0.646,
+              0.685,
+              0.705,
+              0.744,
+              0.764,
+              0.784,
+              0.823,
+              0.843,
+              0.902
+            ],
+            [
+              0.106,
+              0.134,
+              0.19,
+              0.217,
+              0.273,
+              0.328,
+              0.356,
+              0.442,
+              0.551,
+              0.578,
+              0.605,
+              0.632,
+              0.687,
+              0.714,
+              0.768,
+              0.796,
+              0.823
+            ],
+            [
+              0.041,
+              0.059,
+              0.076,
+              0.094,
+              0.112,
+              0.13,
+              0.148,
+              0.22,
+              0.239,
+              0.257,
+              0.275,
+              0.294,
+              0.33,
+              0.349,
+              0.367,
+              0.514,
+              0.532,
+              0.55,
+              0.603,
+              0.621,
+              0.639,
+              0.674,
+              0.71,
+              0.727,
+              0.781,
+              0.816,
+              0.834,
+              0.905,
+              0.923
+            ],
+            [
+              0.03,
+              0.049,
+              0.068,
+              0.106,
+              0.144,
+              0.162,
+              0.276,
+              0.295,
+              0.314,
+              0.333,
+              0.352,
+              0.371,
+              0.451,
+              0.467,
+              0.484,
+              0.5,
+              0.549,
+              0.582,
+              0.598,
+              0.614,
+              0.631,
+              0.664,
+              0.713,
+              0.768,
+              0.792,
+              0.817,
+              0.865,
+              0.914,
+              0.938
+            ],
+            [
+              0.09,
+              0.138,
+              0.233,
+              0.377,
+              0.568,
+              0.711,
+              0.759,
+              0.854,
+              0.902
+            ],
+            [
+              0.045,
+              0.063,
+              0.081,
+              0.099,
+              0.136,
+              0.172,
+              0.258,
+              0.279,
+              0.299,
+              0.319,
+              0.359,
+              0.379,
+              0.443,
+              0.46,
+              0.477,
+              0.51,
+              0.527,
+              0.56,
+              0.577,
+              0.594,
+              0.646,
+              0.662,
+              0.678,
+              0.709,
+              0.725,
+              0.773,
+              0.789,
+              0.884,
+              0.9,
+              0.916
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-17-04",
+      "category": "health",
+      "region": {
+        "country": "US",
+        "city": "Washington, D.C.",
+        "lat": 38.9,
+        "lng": -77.04
+      },
+      "headline": {
+        "en": "US Loses Measles Elimination Status After 26 Years",
+        "ko": "미국, 26년 만에 홍역 퇴치 지위 상실",
+        "fr": "Les États-Unis perdent leur statut d'élimination de la rougeole après 26 ans"
+      },
+      "hook": {
+        "en": "A disease the US declared eliminated in 2000 is back for good.",
+        "ko": "2000년에 사라졌다고 선언했던 병이 다시 자리 잡았습니다.",
+        "fr": "Une maladie déclarée éliminée en 2000 est de retour pour de bon."
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "The US lost an important health title.",
+            "The title said the country had no measles spreading.",
+            "Measles cases have grown a lot."
+          ],
+          "easy_ko": [
+            "미국이 중요한 보건 지위를 잃었습니다.",
+            "그 지위는 홍역이 퍼지지 않는 나라라는 뜻이었어요.",
+            "홍역 환자가 많이 늘었습니다."
+          ],
+          "normal": [
+            "The Pan American Health Organization has revoked the measles elimination status of the United States, Mexico and Bolivia.",
+            "The US had held the status for 26 years, but officials say the virus has now spread continuously for more than a year.",
+            "More than 5,000 cases have been reported this year, with multiple deaths, in the worst outbreak since 1991.",
+            "Experts say elimination requires about 95 percent of people to be vaccinated, but vaccination rates fell after the pandemic and misinformation spread.",
+            "The American Medical Association called it a deeply troubling and entirely preventable setback.",
+            "Health Secretary Robert F. Kennedy Jr. said the US will work to regain its status and still recommends the MMR vaccine, though critics blame his vaccine messaging."
+          ],
+          "normal_ko": [
+            "범미보건기구(PAHO)가 미국, 멕시코, 볼리비아의 홍역 퇴치 지위를 취소했습니다.",
+            "미국은 26년 동안 이 지위를 유지했지만, 관계자들은 바이러스가 이제 1년 넘게 계속 퍼졌다고 말합니다.",
+            "올해 5,000건이 넘는 환자가 보고되었고 여러 명이 숨져, 1991년 이후 최악의 유행입니다.",
+            "전문가들은 홍역을 퇴치하려면 약 95퍼센트가 백신을 맞아야 하는데, 팬데믹 이후 접종률이 떨어지고 잘못된 정보가 퍼졌다고 말합니다.",
+            "미국의사협회는 이를 매우 우려스럽고 충분히 막을 수 있었던 후퇴라고 표현했습니다.",
+            "로버트 F. 케네디 주니어 보건장관은 지위를 되찾도록 노력하겠다며 MMR 백신을 계속 권고한다고 했지만, 비판자들은 그의 백신 관련 발언을 탓합니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Les États-Unis ont perdu un titre important en santé.",
+            "Ce titre disait que la rougeole ne circulait plus dans le pays.",
+            "Les cas de rougeole ont beaucoup augmenté."
+          ],
+          "easy_ko": [
+            "미국이 중요한 보건 지위를 잃었습니다.",
+            "그 지위는 홍역이 퍼지지 않는 나라라는 뜻이었어요.",
+            "홍역 환자가 많이 늘었습니다."
+          ],
+          "normal": [
+            "L'Organisation panaméricaine de la santé a retiré aux États-Unis, au Mexique et à la Bolivie leur statut de pays ayant éliminé la rougeole.",
+            "Les États-Unis l'avaient depuis 26 ans, mais le virus circule désormais sans interruption depuis plus d'un an.",
+            "Plus de 5 000 cas ont été signalés cette année, avec plusieurs décès, lors de la pire flambée depuis 1991.",
+            "Selon les experts, l'élimination exige environ 95 % de personnes vaccinées, mais la couverture vaccinale a reculé après la pandémie et la désinformation s'est répandue.",
+            "L'Association médicale américaine parle d'un revers très préoccupant et tout à fait évitable.",
+            "Le secrétaire à la Santé Robert F. Kennedy Jr. assure que le pays œuvrera pour retrouver son statut et recommande toujours le vaccin ROR, mais ses détracteurs lui reprochent ses propos sur les vaccins."
+          ],
+          "normal_ko": [
+            "범미보건기구(PAHO)가 미국, 멕시코, 볼리비아의 홍역 퇴치 지위를 취소했습니다.",
+            "미국은 26년 동안 이 지위를 유지했지만, 관계자들은 바이러스가 이제 1년 넘게 계속 퍼졌다고 말합니다.",
+            "올해 5,000건이 넘는 환자가 보고되었고 여러 명이 숨져, 1991년 이후 최악의 유행입니다.",
+            "전문가들은 홍역을 퇴치하려면 약 95퍼센트가 백신을 맞아야 하는데, 팬데믹 이후 접종률이 떨어지고 잘못된 정보가 퍼졌다고 말합니다.",
+            "미국의사협회는 이를 매우 우려스럽고 충분히 막을 수 있었던 후퇴라고 표현했습니다.",
+            "로버트 F. 케네디 주니어 보건장관은 지위를 되찾도록 노력하겠다며 MMR 백신을 계속 권고한다고 했지만, 비판자들은 그의 백신 관련 발언을 탓합니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "'퇴치 지위'는 한 지역에서 홍역이 1년 이상 계속 퍼지지 않을 때 인정됩니다. 프랑스어에서는 홍역 백신(MMR)을 ROR(rougeole-oreillons-rubéole)이라고 불러요. 환자 수는 CBC(5,400건 이상), AFP(5,700건 이상)가 서로 달라 '5,000건 넘게'로 적었고, 사망자 수는 매체마다 달라 '여러 명'이라고만 썼습니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "elimination",
+          "pos": "noun",
+          "ko": "퇴치, 제거",
+          "example": "The US lost its elimination status.",
+          "example_ko": "미국이 퇴치 지위를 잃었어요.",
+          "note_ko": "동사 eliminate. 보건에서는 '그 지역에서 풍토병이 사라짐'."
+        },
+        {
+          "lang": "en",
+          "word": "revoke",
+          "pos": "verb",
+          "ko": "취소하다, 철회하다",
+          "example": "The agency revoked the status.",
+          "example_ko": "기구가 그 지위를 취소했어요.",
+          "note_ko": "revoke a license = 면허를 취소하다."
+        },
+        {
+          "lang": "en",
+          "word": "endemic",
+          "pos": "adjective",
+          "ko": "(지역에) 토착화된",
+          "example": "Endemic transmission has returned.",
+          "example_ko": "토착 전파가 돌아왔어요.",
+          "note_ko": "epidemic(유행), pandemic(대유행)과 구분. endemic = 늘 있는."
+        },
+        {
+          "lang": "en",
+          "word": "transmission",
+          "pos": "noun",
+          "ko": "전파, 전염",
+          "example": "Transmission continued for over a year.",
+          "example_ko": "전파가 1년 넘게 이어졌어요.",
+          "note_ko": "동사 transmit. 자동차 '변속기'도 transmission."
+        },
+        {
+          "lang": "en",
+          "word": "outbreak",
+          "pos": "noun",
+          "ko": "(질병의) 발생, 유행",
+          "example": "It is the worst outbreak since 1991.",
+          "example_ko": "1991년 이후 최악의 유행이에요.",
+          "note_ko": "outbreak of war = 전쟁 발발도 돼요."
+        },
+        {
+          "lang": "en",
+          "word": "resurge",
+          "pos": "verb",
+          "ko": "다시 늘다, 재유행하다",
+          "example": "Measles is resurging worldwide.",
+          "example_ko": "홍역이 세계적으로 다시 늘고 있어요.",
+          "note_ko": "명사 resurgence(재기). surge = 급증."
+        },
+        {
+          "lang": "en",
+          "word": "uptake",
+          "pos": "noun",
+          "ko": "(백신) 접종률, 수용",
+          "example": "Vaccine uptake fell after the pandemic.",
+          "example_ko": "팬데믹 후 백신 접종률이 떨어졌어요.",
+          "note_ko": "'수용·이용 정도'. 보건 뉴스에서 자주 나와요."
+        },
+        {
+          "lang": "en",
+          "word": "setback",
+          "pos": "noun",
+          "ko": "후퇴, 차질",
+          "example": "It is a major public health setback.",
+          "example_ko": "큰 보건 분야의 후퇴예요.",
+          "note_ko": "suffer a setback = 차질을 겪다."
+        },
+        {
+          "lang": "en",
+          "word": "preventable",
+          "pos": "adjective",
+          "ko": "예방할 수 있는",
+          "example": "The disease is entirely preventable.",
+          "example_ko": "그 병은 전적으로 예방할 수 있어요.",
+          "note_ko": "prevent+able. preventable deaths = 막을 수 있었던 사망."
+        },
+        {
+          "lang": "en",
+          "word": "contagious",
+          "pos": "adjective",
+          "ko": "전염성이 강한",
+          "example": "Measles is highly contagious.",
+          "example_ko": "홍역은 전염성이 매우 강해요.",
+          "note_ko": "infectious와 비슷. contagious laughter = 번지는 웃음."
+        },
+        {
+          "lang": "en",
+          "word": "complication",
+          "pos": "noun",
+          "ko": "합병증, 복잡한 문제",
+          "example": "It can cause serious complications.",
+          "example_ko": "그것은 심각한 합병증을 일으킬 수 있어요.",
+          "note_ko": "의학에서는 '합병증'. 일반적으로는 '꼬이는 문제'."
+        },
+        {
+          "lang": "en",
+          "word": "misinformation",
+          "pos": "noun",
+          "ko": "잘못된 정보",
+          "example": "Misinformation spread online.",
+          "example_ko": "잘못된 정보가 온라인에서 퍼졌어요.",
+          "note_ko": "의도적이면 disinformation. 셀 수 없는 명사."
+        },
+        {
+          "lang": "en",
+          "word": "regain",
+          "pos": "verb",
+          "ko": "되찾다",
+          "example": "The US wants to regain its status.",
+          "example_ko": "미국은 그 지위를 되찾고 싶어 해요.",
+          "note_ko": "regain control/trust = 통제·신뢰를 되찾다."
+        },
+        {
+          "lang": "fr",
+          "word": "l'élimination",
+          "pos": "nom féminin",
+          "ko": "퇴치, 제거",
+          "example": "Les États-Unis perdent le statut d'élimination.",
+          "example_ko": "미국이 퇴치 지위를 잃어요.",
+          "note_ko": "éliminer = 제거하다. 경기 '탈락'도 l'élimination."
+        },
+        {
+          "lang": "fr",
+          "word": "retirer",
+          "pos": "verbe",
+          "ko": "철회하다, 빼앗다",
+          "example": "L'organisation a retiré le statut.",
+          "example_ko": "기구가 그 지위를 취소했어요.",
+          "note_ko": "retirer son permis = 면허를 취소하다·빼앗다."
+        },
+        {
+          "lang": "fr",
+          "word": "endémique",
+          "pos": "adjectif",
+          "ko": "토착화된",
+          "example": "La transmission est redevenue endémique.",
+          "example_ko": "전파가 다시 토착화됐어요.",
+          "note_ko": "épidémique(유행성), pandémique와 구분."
+        },
+        {
+          "lang": "fr",
+          "word": "la transmission",
+          "pos": "nom féminin",
+          "ko": "전파",
+          "example": "La transmission dure depuis plus d'un an.",
+          "example_ko": "전파가 1년 넘게 이어지고 있어요.",
+          "note_ko": "transmettre = 전하다. 자동차 변속기도 la transmission."
+        },
+        {
+          "lang": "fr",
+          "word": "une flambée",
+          "pos": "nom féminin",
+          "ko": "(질병의) 급증, 발생",
+          "example": "C'est la pire flambée depuis 1991.",
+          "example_ko": "1991년 이후 최악의 유행이에요.",
+          "note_ko": "원래 '확 타오름'. une flambée des prix = 물가 폭등."
+        },
+        {
+          "lang": "fr",
+          "word": "réapparaître",
+          "pos": "verbe",
+          "ko": "다시 나타나다",
+          "example": "La rougeole réapparaît partout.",
+          "example_ko": "홍역이 곳곳에서 다시 나타나요.",
+          "note_ko": "apparaître(나타나다)에 ré-(다시)를 붙인 말. 명사 la réapparition."
+        },
+        {
+          "lang": "fr",
+          "word": "la couverture vaccinale",
+          "pos": "nom féminin",
+          "ko": "백신 접종률",
+          "example": "La couverture vaccinale a reculé.",
+          "example_ko": "백신 접종률이 줄었어요.",
+          "note_ko": "couverture는 '담요'이기도. 보건에선 '보급 범위'."
+        },
+        {
+          "lang": "fr",
+          "word": "un revers",
+          "pos": "nom masculin",
+          "ko": "후퇴, 타격",
+          "example": "C'est un revers pour la santé publique.",
+          "example_ko": "공중보건에는 큰 후퇴예요.",
+          "note_ko": "원래 '손등으로 치기, 뒷면'. subir un revers = 패배·차질을 겪다."
+        },
+        {
+          "lang": "fr",
+          "word": "évitable",
+          "pos": "adjectif",
+          "ko": "피할 수 있는",
+          "example": "Cette maladie est tout à fait évitable.",
+          "example_ko": "그 병은 충분히 피할 수 있어요.",
+          "note_ko": "반대 inévitable(피할 수 없는)."
+        },
+        {
+          "lang": "fr",
+          "word": "contagieux",
+          "pos": "adjectif",
+          "ko": "전염성이 강한",
+          "example": "La rougeole est très contagieuse.",
+          "example_ko": "홍역은 전염성이 매우 강해요.",
+          "note_ko": "여성형 contagieuse. 명사 la contagion."
+        },
+        {
+          "lang": "fr",
+          "word": "une complication",
+          "pos": "nom féminin",
+          "ko": "합병증",
+          "example": "Elle peut causer des complications graves.",
+          "example_ko": "그것은 심각한 합병증을 일으킬 수 있어요.",
+          "note_ko": "se compliquer = 꼬이다. 의학·일상 모두 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "la désinformation",
+          "pos": "nom féminin",
+          "ko": "허위 정보",
+          "example": "La désinformation s'est répandue en ligne.",
+          "example_ko": "허위 정보가 온라인에서 퍼졌어요.",
+          "note_ko": "une infox = fake news(권장 대체어)."
+        },
+        {
+          "lang": "fr",
+          "word": "retrouver",
+          "pos": "verbe",
+          "ko": "되찾다",
+          "example": "Ils veulent retrouver ce statut.",
+          "example_ko": "그들은 그 지위를 되찾길 원해요.",
+          "note_ko": "retrouver la confiance = 신뢰를 되찾다. 사람을 '다시 만나다'도."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "A \"preventable\" disease is one that…",
+          "choices": [
+            "can be prevented",
+            "cannot be cured",
+            "is very rare"
+          ],
+          "answer": 0,
+          "explain_ko": "preventable = 예방할 수 있는."
+        },
+        {
+          "lang": "fr",
+          "q": "Une maladie « évitable » est une maladie…",
+          "choices": [
+            "qu'on peut prévenir",
+            "qu'on ne guérit pas",
+            "très rare"
+          ],
+          "answer": 0,
+          "explain_ko": "évitable = 피할 수 있는, 예방 가능한."
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
+          "accessed": "2026-11-18"
+        },
+        {
+          "name": "CBC News",
+          "url": "https://www.cbc.ca/news/health/u-s-loses-measles-elimination-status-9.7425114",
+          "accessed": "2026-11-18"
+        },
+        {
+          "name": "France 24 (AFP) / Wikipedia current events",
+          "url": "https://www.france24.com/en/live-news/20261117-us-loses-measles-free-status-as-cases-deaths-mount",
+          "accessed": "2026-11-18"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-18",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-17/3705173bbbfb8e84.mp3",
+            "2026-11-17/6ef749c61d43ab24.mp3",
+            "2026-11-17/197f21f41215f75b.mp3"
+          ],
+          "normal": [
+            "2026-11-17/b54f109961311d14.mp3",
+            "2026-11-17/b4a0549317a281c5.mp3",
+            "2026-11-17/722d4cc7fe909193.mp3",
+            "2026-11-17/640aa757d92315fd.mp3",
+            "2026-11-17/db1723a45636b480.mp3",
+            "2026-11-17/cd3ac7d4b44f391b.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-17/e811f94992074393.mp3",
+            "2026-11-17/dd6482f0ec0709eb.mp3",
+            "2026-11-17/d2e57b5eb8fa73cf.mp3"
+          ],
+          "normal": [
+            "2026-11-17/069a51f67b78286c.mp3",
+            "2026-11-17/efee4db1922502b7.mp3",
+            "2026-11-17/a9696d0d5bc0a2ed.mp3",
+            "2026-11-17/34a7fc995ca8b707.mp3",
+            "2026-11-17/40293969c830641a.mp3",
+            "2026-11-17/735988742c0b600e.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-17/119c8fae533f00a1.mp3",
+          "2026-11-17/799d274a62aa1094.mp3",
+          "2026-11-17/cfe9740639170442.mp3",
+          "2026-11-17/6707be6581095e68.mp3",
+          "2026-11-17/79c66f8bb9489970.mp3",
+          "2026-11-17/7060c9c2cd9f462d.mp3",
+          "2026-11-17/4d27b30391d0253e.mp3",
+          "2026-11-17/b8a851b54a844b30.mp3",
+          "2026-11-17/1ba77b738bf4c47e.mp3",
+          "2026-11-17/c5d2c396a14badbb.mp3",
+          "2026-11-17/3b2cfff9832ab31a.mp3",
+          "2026-11-17/c5cceda4b509b275.mp3",
+          "2026-11-17/903898553030dcad.mp3",
+          "2026-11-17/b3b7c1f97872237a.mp3",
+          "2026-11-17/bcce8dd95c4bd344.mp3",
+          "2026-11-17/4eb0fc8d3d83f33c.mp3",
+          "2026-11-17/8fa2c89d51e1a975.mp3",
+          "2026-11-17/c4c32d63b5c3bcfb.mp3",
+          "2026-11-17/ad9e960497b6bc50.mp3",
+          "2026-11-17/3138fc273e09aa7a.mp3",
+          "2026-11-17/9833232b54214453.mp3",
+          "2026-11-17/953ab2d9081c4775.mp3",
+          "2026-11-17/0d31cd45bc5def4c.mp3",
+          "2026-11-17/adbee54eb90c75d1.mp3",
+          "2026-11-17/a3c87b5d9939a851.mp3",
+          "2026-11-17/bbd388e1ad47fd46.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.161,
+              0.245,
+              0.328,
+              0.412,
+              0.496,
+              0.747,
+              0.83
+            ],
+            [
+              0.142,
+              0.209,
+              0.275,
+              0.341,
+              0.407,
+              0.54,
+              0.606,
+              0.672,
+              0.738
+            ],
+            [
+              0.19,
+              0.305,
+              0.42,
+              0.535,
+              0.649,
+              0.764
+            ]
+          ],
+          "normal": [
+            [
+              0.044,
+              0.067,
+              0.091,
+              0.185,
+              0.208,
+              0.325,
+              0.349,
+              0.396,
+              0.419,
+              0.443,
+              0.56,
+              0.607,
+              0.63,
+              0.654,
+              0.7,
+              0.767,
+              0.85,
+              0.878
+            ],
+            [
+              0.081,
+              0.11,
+              0.14,
+              0.169,
+              0.199,
+              0.228,
+              0.287,
+              0.317,
+              0.375,
+              0.464,
+              0.49,
+              0.568,
+              0.594,
+              0.62,
+              0.672,
+              0.698,
+              0.724,
+              0.75,
+              0.854,
+              0.88,
+              0.906,
+              0.932,
+              0.958
+            ],
+            [
+              0.085,
+              0.114,
+              0.144,
+              0.233,
+              0.262,
+              0.292,
+              0.322,
+              0.381,
+              0.41,
+              0.497,
+              0.53,
+              0.596,
+              0.678,
+              0.71,
+              0.742,
+              0.774,
+              0.838,
+              0.87
+            ],
+            [
+              0.049,
+              0.089,
+              0.11,
+              0.212,
+              0.252,
+              0.293,
+              0.334,
+              0.374,
+              0.395,
+              0.415,
+              0.436,
+              0.456,
+              0.577,
+              0.596,
+              0.676,
+              0.696,
+              0.715,
+              0.755,
+              0.775,
+              0.834,
+              0.854,
+              0.954
+            ],
+            [
+              0.084,
+              0.114,
+              0.234,
+              0.324,
+              0.444,
+              0.473,
+              0.503,
+              0.533,
+              0.593,
+              0.653,
+              0.683,
+              0.803,
+              0.892
+            ],
+            [
+              0.039,
+              0.061,
+              0.148,
+              0.192,
+              0.214,
+              0.279,
+              0.301,
+              0.323,
+              0.345,
+              0.367,
+              0.389,
+              0.411,
+              0.432,
+              0.476,
+              0.498,
+              0.542,
+              0.564,
+              0.586,
+              0.651,
+              0.673,
+              0.695,
+              0.772,
+              0.792,
+              0.833,
+              0.853,
+              0.874,
+              0.914
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.127,
+              0.176,
+              0.369,
+              0.417,
+              0.514,
+              0.562,
+              0.61,
+              0.755,
+              0.803
+            ],
+            [
+              0.184,
+              0.229,
+              0.275,
+              0.367,
+              0.413,
+              0.458,
+              0.55,
+              0.596,
+              0.733,
+              0.779,
+              0.825,
+              0.871
+            ],
+            [
+              0.215,
+              0.277,
+              0.338,
+              0.399,
+              0.522,
+              0.583,
+              0.706
+            ]
+          ],
+          "normal": [
+            [
+              0.113,
+              0.193,
+              0.272,
+              0.288,
+              0.304,
+              0.336,
+              0.352,
+              0.4,
+              0.416,
+              0.513,
+              0.533,
+              0.593,
+              0.613,
+              0.633,
+              0.653,
+              0.713,
+              0.733,
+              0.772,
+              0.792,
+              0.812,
+              0.832,
+              0.912,
+              0.932
+            ],
+            [
+              0.065,
+              0.091,
+              0.191,
+              0.242,
+              0.292,
+              0.343,
+              0.455,
+              0.481,
+              0.506,
+              0.557,
+              0.608,
+              0.685,
+              0.711,
+              0.813,
+              0.864,
+              0.89,
+              0.915
+            ],
+            [
+              0.078,
+              0.098,
+              0.117,
+              0.136,
+              0.175,
+              0.195,
+              0.214,
+              0.253,
+              0.311,
+              0.331,
+              0.43,
+              0.473,
+              0.517,
+              0.62,
+              0.65,
+              0.681,
+              0.711,
+              0.742,
+              0.803,
+              0.864
+            ],
+            [
+              0.038,
+              0.072,
+              0.089,
+              0.155,
+              0.24,
+              0.275,
+              0.326,
+              0.36,
+              0.377,
+              0.394,
+              0.429,
+              0.48,
+              0.497,
+              0.514,
+              0.566,
+              0.617,
+              0.634,
+              0.685,
+              0.72,
+              0.737,
+              0.788,
+              0.805,
+              0.822,
+              0.908,
+              0.925
+            ],
+            [
+              0.107,
+              0.238,
+              0.335,
+              0.465,
+              0.498,
+              0.531,
+              0.596,
+              0.628,
+              0.726,
+              0.758,
+              0.791,
+              0.823,
+              0.856
+            ],
+            [
+              0.043,
+              0.058,
+              0.103,
+              0.118,
+              0.133,
+              0.163,
+              0.193,
+              0.208,
+              0.253,
+              0.318,
+              0.35,
+              0.366,
+              0.382,
+              0.398,
+              0.446,
+              0.462,
+              0.51,
+              0.526,
+              0.558,
+              0.574,
+              0.622,
+              0.654,
+              0.67,
+              0.702,
+              0.759,
+              0.774,
+              0.789,
+              0.833,
+              0.848,
+              0.877,
+              0.892,
+              0.921,
+              0.936,
+              0.951
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "audio_base": "https://koreapapa-kim.github.io/worldnews-audio"
+}

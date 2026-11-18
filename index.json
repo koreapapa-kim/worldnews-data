@@ -2,6 +2,44 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-11-17",
+      "count": 4,
+      "headlines": [
+        {
+          "id": "2026-11-17-01",
+          "ko": "한국, 수능에서 학생 옷깃과 안경까지 검사한다",
+          "en": "South Korea to Inspect Students' Collars and Glasses at College Entrance Exam",
+          "fr": "La Corée du Sud va inspecter cols et lunettes des candidats à l'examen d'entrée à l'université",
+          "category": "society",
+          "country": "KR"
+        },
+        {
+          "id": "2026-11-17-02",
+          "ko": "우크라이나, 푸틴의 크림대교를 '전례 없는' 공격으로 크게 파괴",
+          "en": "Ukraine Cripples Putin's Crimean Bridge in an 'Unprecedented' Strike",
+          "fr": "L'Ukraine met hors d'usage le pont de Crimée de Poutine lors d'une frappe « sans précédent »",
+          "category": "conflict",
+          "country": "UA"
+        },
+        {
+          "id": "2026-11-17-03",
+          "ko": "트럼프·시진핑·푸틴, 선전서 사상 첫 3자 정상회담 앞두고",
+          "en": "Trump, Xi and Putin Set for a First-Ever Three-Way Summit in Shenzhen",
+          "fr": "Trump, Xi et Putin attendus à Shenzhen pour un premier sommet à trois",
+          "category": "politics",
+          "country": "CN"
+        },
+        {
+          "id": "2026-11-17-04",
+          "ko": "미국, 26년 만에 홍역 퇴치 지위 상실",
+          "en": "US Loses Measles Elimination Status After 26 Years",
+          "fr": "Les États-Unis perdent leur statut d'élimination de la rougeole après 26 ans",
+          "category": "health",
+          "country": "US"
+        }
+      ]
+    },
+    {
       "date": "2026-11-16",
       "count": 4,
       "headlines": [
@@ -788,6 +826,6 @@
       ]
     }
   ],
-  "latest": "2026-11-16",
-  "updated_at": "2026-11-16T23:54:54.836Z"
+  "latest": "2026-11-17",
+  "updated_at": "2026-11-18T00:24:39.583Z"
 }
