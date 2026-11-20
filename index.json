@@ -2,6 +2,44 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-11-19",
+      "count": 4,
+      "headlines": [
+        {
+          "id": "2026-11-19-01",
+          "ko": "트럼프·시진핑·푸틴, 첫 3자 회담 뒤 '평화 선언' 발표",
+          "en": "Trump, Xi and Putin Issue 'Peace Declaration' After First Three-Way Summit",
+          "fr": "Trump, Xi et Poutine publient une « déclaration de paix » après leur premier sommet à trois",
+          "category": "politics",
+          "country": "CN"
+        },
+        {
+          "id": "2026-11-19-02",
+          "ko": "Anthropic, 사상 최대 810억 달러 공모로 상장…첫날 17% 상승 마감",
+          "en": "Anthropic Raises Record $81bn in Stock Market Debut, Shares End First Day Up 17%",
+          "fr": "Anthropic lève un record de 81 milliards de dollars en Bourse et gagne 17 % dès le premier jour",
+          "category": "technology",
+          "country": "US"
+        },
+        {
+          "id": "2026-11-19-03",
+          "ko": "영국·EU, 브뤼셀 정상회담 앞두고 브렉시트 '리셋' 합의 막바지 협상",
+          "en": "UK and EU Race to Seal Brexit 'Reset' Deal Ahead of Brussels Summit",
+          "fr": "Royaume-Uni et UE : course contre la montre pour conclure le « reset » avant le sommet de Bruxelles",
+          "category": "politics",
+          "country": "BE"
+        },
+        {
+          "id": "2026-11-19-04",
+          "ko": "GTA VI 드디어 출시…팬들은 결근하고 학교는 'GTA 감기' 경고",
+          "en": "GTA VI Finally Launches: Fans Skip Work and Schools Warn of 'GTA Flu'",
+          "fr": "GTA VI enfin sorti : des fans sèchent le travail et les écoles craignent la « grippe GTA »",
+          "category": "culture",
+          "country": "US"
+        }
+      ]
+    },
+    {
       "date": "2026-11-18",
       "count": 4,
       "headlines": [
@@ -864,6 +902,6 @@
       ]
     }
   ],
-  "latest": "2026-11-18",
-  "updated_at": "2026-11-18T14:49:13.018Z"
+  "latest": "2026-11-19",
+  "updated_at": "2026-11-20T00:37:10.130Z"
 }
