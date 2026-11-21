@@ -2,6 +2,44 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-11-21",
+      "count": 4,
+      "headlines": [
+        {
+          "id": "2026-11-21-01",
+          "ko": "COP31 기후 회담, 화석연료 문제로 연장전 교착",
+          "en": "COP31 Climate Talks Stuck in Overtime as Fossil Fuels Split Countries",
+          "fr": "COP31 : les négociations s'enlisent en prolongation, divisées sur les énergies fossiles",
+          "category": "climate",
+          "country": "TR"
+        },
+        {
+          "id": "2026-11-21-02",
+          "ko": "LA 팰리세이즈 산불 방화 혐의 남성, 배심원단 유죄 평결",
+          "en": "Jury Convicts Man of Starting the Deadly Palisades Fire in Los Angeles",
+          "fr": "Incendies de Los Angeles : un homme reconnu coupable d'avoir déclenché le feu de Palisades",
+          "category": "crime",
+          "country": "US"
+        },
+        {
+          "id": "2026-11-21-03",
+          "ko": "덴마크, 러시아가 미·우크라이나 국적 래퍼 암살 시도했다며 외교관 추방",
+          "en": "Denmark Accuses Russia of Plot to Kill US-Ukrainian Rapper, Expels Diplomat",
+          "fr": "Le Danemark accuse la Russie d'avoir voulu assassiner un rappeur américano-ukrainien et expulse un diplomate",
+          "category": "politics",
+          "country": "DK"
+        },
+        {
+          "id": "2026-11-21-04",
+          "ko": "'킬러 로봇' 유엔 회담, 구속력 있는 규칙 없이 2년 더 논의하기로",
+          "en": "UN Talks on 'Killer Robots' End Without Binding Rules, Only Two More Years of Talks",
+          "fr": "Robots tueurs : les négociations de l'ONU s'achèvent sans règles contraignantes",
+          "category": "technology",
+          "country": "CH"
+        }
+      ]
+    },
+    {
       "date": "2026-11-20",
       "count": 4,
       "headlines": [
@@ -940,6 +978,6 @@
       ]
     }
   ],
-  "latest": "2026-11-20",
-  "updated_at": "2026-11-21T00:43:49.766Z"
+  "latest": "2026-11-21",
+  "updated_at": "2026-11-21T16:16:25.169Z"
 }
