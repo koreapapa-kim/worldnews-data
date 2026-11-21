@@ -1,0 +1,3149 @@
+{
+  "schema": 1,
+  "date": "2026-11-20",
+  "stories": [
+    {
+      "id": "2026-11-20-01",
+      "category": "politics",
+      "region": {
+        "country": "BE",
+        "city": "Brussels",
+        "lat": 50.85,
+        "lng": 4.35
+      },
+      "headline": {
+        "en": "UK and EU Strike 'Landmark' Deal to Rebuild Ties After Brexit",
+        "ko": "영국·EU, 브렉시트 이후 관계 복원 위한 '획기적' 합의",
+        "fr": "Royaume-Uni et UE concluent un accord « historique » pour rebâtir leurs liens après le Brexit"
+      },
+      "hook": {
+        "en": "Britain and Europe just made a deal to rebuild ties after Brexit.",
+        "ko": "영국과 유럽이 브렉시트 이후 관계를 되살리는 합의를 방금 맺었습니다.",
+        "fr": "Le Royaume-Uni et l'Europe viennent de conclure un accord pour rebâtir leurs liens après le Brexit."
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Britain and the EU made a deal.",
+            "Young people can live and work abroad.",
+            "Some food checks will end."
+          ],
+          "easy_ko": [
+            "영국과 EU가 합의를 맺었습니다.",
+            "청년들이 해외에서 살며 일할 수 있어요.",
+            "일부 식품 검사가 사라집니다."
+          ],
+          "normal": [
+            "The UK and the European Union agreed a landmark deal in Brussels on Friday covering food exports, emissions trading and a youth experience scheme.",
+            "Prime Minister Andy Burnham called it a \"good day\" for Britain and Europe, and the Treasury believes it could boost the economy by up to £17bn a year.",
+            "Most checks on British food exports will be scrapped from 2028, in return for the UK following some EU rules.",
+            "Under the youth scheme, up to 100,000 young EU citizens a year could live, work and study in the UK for up to three years, and the same number of young Britons could go to Europe.",
+            "Critics disagree: Conservative leader Kemi Badenoch said the deal \"isn't fair\", and Reform's Nigel Farage called it a \"betrayal\", arguing the UK will become a rule taker.",
+            "Legislation to put the deal into effect is expected in Parliament next week."
+          ],
+          "normal_ko": [
+            "영국과 EU는 금요일 브뤼셀에서 식품 수출, 탄소 배출권 거래, 청년 체험 제도를 다루는 획기적인 합의를 이뤘습니다.",
+            "앤디 버넘 총리는 영국과 유럽에 '좋은 날'이라고 했고, 재무부는 이 합의로 경제가 연간 최대 170억 파운드 커질 수 있다고 봅니다.",
+            "영국산 식품 수출 검사 대부분이 2028년부터 폐지되는 대신, 영국은 일부 EU 규정을 따릅니다.",
+            "청년 제도에서는 매년 최대 10만 명의 젊은 EU 시민이 영국에서 최장 3년간 살고 일하고 공부할 수 있고, 같은 수의 영국 청년이 유럽에 갈 수 있습니다.",
+            "비판도 있습니다. 케미 베이드녹 보수당 대표는 '공정하지 않다'고 했고, 나이절 패라지 리폼 대표는 '배신'이라며 영국이 규칙을 따르기만 하는 쪽이 된다고 주장합니다.",
+            "합의를 실행할 법안은 다음 주 의회에 제출될 예정입니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "La Grande-Bretagne et l'UE ont signé un accord.",
+            "Des jeunes pourront vivre et travailler à l'étranger.",
+            "Certains contrôles alimentaires vont disparaître."
+          ],
+          "easy_ko": [
+            "영국과 EU가 합의를 맺었습니다.",
+            "청년들이 해외에서 살며 일할 수 있어요.",
+            "일부 식품 검사가 사라집니다."
+          ],
+          "normal": [
+            "Le Royaume-Uni et l'Union européenne ont conclu vendredi à Bruxelles un accord historique sur les exportations alimentaires, le marché du carbone et un programme d'expérience pour les jeunes.",
+            "Le Premier ministre Andy Burnham y voit une « bonne journée » pour la Grande-Bretagne et l'Europe, et le Trésor estime que l'accord pourrait stimuler l'économie de jusqu'à 17 milliards de livres par an.",
+            "La plupart des contrôles sur les exportations alimentaires britanniques seront supprimés dès 2028, en échange du respect de certaines règles européennes par Londres.",
+            "Dans le cadre du programme pour les jeunes, jusqu'à 100 000 jeunes Européens par an pourraient vivre, travailler et étudier au Royaume-Uni pendant trois ans maximum, et autant de jeunes Britanniques pourraient aller en Europe.",
+            "Les critiques s'opposent : la cheffe conservatrice Kemi Badenoch juge l'accord « injuste », et Nigel Farage, de Reform, parle de « trahison », estimant que le pays deviendra un simple preneur de règles.",
+            "Le projet de loi pour appliquer l'accord devrait être présenté au Parlement la semaine prochaine."
+          ],
+          "normal_ko": [
+            "영국과 EU는 금요일 브뤼셀에서 식품 수출, 탄소 배출권 거래, 청년 체험 제도를 다루는 획기적인 합의를 이뤘습니다.",
+            "앤디 버넘 총리는 영국과 유럽에 '좋은 날'이라고 했고, 재무부는 이 합의로 경제가 연간 최대 170억 파운드 커질 수 있다고 봅니다.",
+            "영국산 식품 수출 검사 대부분이 2028년부터 폐지되는 대신, 영국은 일부 EU 규정을 따릅니다.",
+            "청년 제도에서는 매년 최대 10만 명의 젊은 EU 시민이 영국에서 최장 3년간 살고 일하고 공부할 수 있고, 같은 수의 영국 청년이 유럽에 갈 수 있습니다.",
+            "비판도 있습니다. 케미 베이드녹 보수당 대표는 '공정하지 않다'고 했고, 나이절 패라지 리폼 대표는 '배신'이라며 영국이 규칙을 따르기만 하는 쪽이 된다고 주장합니다.",
+            "합의를 실행할 법안은 다음 주 의회에 제출될 예정입니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "어제 소개한 브뤼셀 정상회담의 결과입니다. 어제는 '잠정 합의'였던 청년 제도(연 10만 명)와 식품 협정이 오늘 정식 발표됐어요. '170억 파운드', '2028년', '2030년 1월'은 BBC 기준이고, 'rule taker' 지적은 비판자들의 주장이라 그렇게 밝혔습니다. 여론조사(탈퇴 지지 지역 394곳 중 274곳이 재가입 찬성 추정)는 Guardian이 전한 조사 결과 하나라서 본문에는 넣지 않았어요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "landmark",
+          "pos": "adjective",
+          "ko": "획기적인",
+          "example": "They struck a landmark deal.",
+          "example_ko": "그들은 획기적인 합의를 맺었어요.",
+          "note_ko": "명사 landmark는 '명소·이정표'. landmark ruling = 획기적 판결."
+        },
+        {
+          "lang": "en",
+          "word": "strike a deal",
+          "pos": "phrase",
+          "ko": "합의를 이루다",
+          "example": "The two sides struck a deal on Friday.",
+          "example_ko": "양측은 금요일에 합의를 이뤘어요.",
+          "note_ko": "reach/make a deal과 비슷. strike는 '치다'지만 여기선 '타결하다'."
+        },
+        {
+          "lang": "en",
+          "word": "emissions trading",
+          "pos": "noun",
+          "ko": "배출권 거래",
+          "example": "Emissions trading will be linked.",
+          "example_ko": "배출권 거래제가 연결될 거예요.",
+          "note_ko": "탄소 배출 허용량을 사고파는 제도. emissions = 배출."
+        },
+        {
+          "lang": "en",
+          "word": "scrap",
+          "pos": "verb",
+          "ko": "폐지하다, 없애다",
+          "example": "Most checks will be scrapped.",
+          "example_ko": "대부분의 검사가 폐지될 거예요.",
+          "note_ko": "scrap a plan = 계획을 접다. 명사 scrap = 쓰레기 조각."
+        },
+        {
+          "lang": "en",
+          "word": "in return for",
+          "pos": "phrase",
+          "ko": "~의 대가로",
+          "example": "It scraps checks in return for aligning with EU rules.",
+          "example_ko": "EU 규정에 맞추는 대가로 검사를 없애요.",
+          "note_ko": "in exchange for와 비슷. return = 돌려줌."
+        },
+        {
+          "lang": "en",
+          "word": "boost",
+          "pos": "verb",
+          "ko": "끌어올리다",
+          "example": "It could boost the economy.",
+          "example_ko": "경제를 끌어올릴 수 있어요.",
+          "note_ko": "명사로도: a boost to growth. 비슷한 말 lift, increase."
+        },
+        {
+          "lang": "en",
+          "word": "scheme",
+          "pos": "noun",
+          "ko": "제도, 계획",
+          "example": "A youth experience scheme begins.",
+          "example_ko": "청년 체험 제도가 시작돼요.",
+          "note_ko": "영국식 '공식 제도'. 미국에선 program. 나쁜 뜻의 '음모'도 가능."
+        },
+        {
+          "lang": "en",
+          "word": "no later than",
+          "pos": "phrase",
+          "ko": "늦어도 ~까지",
+          "example": "It will start no later than January 2030.",
+          "example_ko": "늦어도 2030년 1월까지 시작해요.",
+          "note_ko": "by와 비슷하지만 마감을 강조. 반대는 no earlier than."
+        },
+        {
+          "lang": "en",
+          "word": "critic",
+          "pos": "noun",
+          "ko": "비판자, 평론가",
+          "example": "Critics call it a betrayal.",
+          "example_ko": "비판자들은 배신이라고 불러요.",
+          "note_ko": "동사 criticise. 영화 critic = 평론가."
+        },
+        {
+          "lang": "en",
+          "word": "betrayal",
+          "pos": "noun",
+          "ko": "배신",
+          "example": "Farage called it a betrayal.",
+          "example_ko": "패라지는 그것을 배신이라 불렀어요.",
+          "note_ko": "동사 betray. 비슷한 말 treachery(반역)."
+        },
+        {
+          "lang": "en",
+          "word": "rule taker",
+          "pos": "noun",
+          "ko": "규칙을 따르기만 하는 쪽",
+          "example": "Critics say Britain becomes a rule taker.",
+          "example_ko": "비판자들은 영국이 규칙을 따르는 쪽이 된다고 해요.",
+          "note_ko": "반대 rule maker(규칙을 만드는 쪽). 영국 정치에서 자주 쓰는 표현."
+        },
+        {
+          "lang": "en",
+          "word": "legislation",
+          "pos": "noun",
+          "ko": "법률(제정)",
+          "example": "Legislation is expected next week.",
+          "example_ko": "법안이 다음 주 나올 거예요.",
+          "note_ko": "셀 수 없는 명사: a piece of legislation. 동사 legislate."
+        },
+        {
+          "lang": "en",
+          "word": "rejoin",
+          "pos": "verb",
+          "ko": "재가입하다",
+          "example": "Some want to rejoin the EU.",
+          "example_ko": "일부는 EU 재가입을 원해요.",
+          "note_ko": "re-(다시)+join. rejoin the EU = EU에 다시 들어가다."
+        },
+        {
+          "lang": "fr",
+          "word": "historique",
+          "pos": "adjectif",
+          "ko": "역사적인, 획기적인",
+          "example": "Un accord historique.",
+          "example_ko": "획기적인 합의예요.",
+          "note_ko": "남녀 같은 형태. 강조하고 싶을 때 자주 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "conclure un accord",
+          "pos": "locution verbale",
+          "ko": "합의를 맺다",
+          "example": "Les deux camps ont conclu un accord.",
+          "example_ko": "양측이 합의를 맺었어요.",
+          "note_ko": "conclure = 끝맺다. signer un accord(서명하다)와 구분."
+        },
+        {
+          "lang": "fr",
+          "word": "le marché du carbone",
+          "pos": "nom masculin",
+          "ko": "탄소 시장",
+          "example": "Le marché du carbone sera relié.",
+          "example_ko": "탄소 시장이 연결돼요.",
+          "note_ko": "un quota d'émission = 배출 할당량."
+        },
+        {
+          "lang": "fr",
+          "word": "supprimer",
+          "pos": "verbe",
+          "ko": "없애다, 폐지하다",
+          "example": "Les contrôles seront supprimés.",
+          "example_ko": "검사가 폐지돼요.",
+          "note_ko": "une suppression. effacer(지우다)보다 제도·항목에 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "en échange de",
+          "pos": "locution",
+          "ko": "~의 대가로",
+          "example": "En échange du respect de certaines règles.",
+          "example_ko": "일부 규칙을 지키는 대가로요.",
+          "note_ko": "échanger = 교환하다. contre도 비슷한 뜻."
+        },
+        {
+          "lang": "fr",
+          "word": "stimuler",
+          "pos": "verbe",
+          "ko": "촉진하다",
+          "example": "Il pourrait stimuler l'économie.",
+          "example_ko": "경제를 촉진할 수 있어요.",
+          "note_ko": "un stimulant = 자극제. relancer도 비슷."
+        },
+        {
+          "lang": "fr",
+          "word": "un programme",
+          "pos": "nom masculin",
+          "ko": "제도, 프로그램",
+          "example": "Un programme pour les jeunes.",
+          "example_ko": "청년을 위한 제도예요.",
+          "note_ko": "영어 program과 같은 뿌리. 철자 -mme에 주의."
+        },
+        {
+          "lang": "fr",
+          "word": "au plus tard",
+          "pos": "locution",
+          "ko": "늦어도",
+          "example": "Au plus tard en janvier 2030.",
+          "example_ko": "늦어도 2030년 1월에요.",
+          "note_ko": "반대는 au plus tôt(빨라도)."
+        },
+        {
+          "lang": "fr",
+          "word": "les détracteurs",
+          "pos": "nom masculin pluriel",
+          "ko": "비판자들",
+          "example": "Ses détracteurs parlent de trahison.",
+          "example_ko": "비판자들은 배신이라 해요.",
+          "note_ko": "단수 un détracteur. 비슷한 말 les critiques."
+        },
+        {
+          "lang": "fr",
+          "word": "une trahison",
+          "pos": "nom féminin",
+          "ko": "배신",
+          "example": "Un Brexiteur parle de trahison.",
+          "example_ko": "탈퇴파는 배신이라 말해요.",
+          "note_ko": "동사 trahir. la haute trahison = 대역죄."
+        },
+        {
+          "lang": "fr",
+          "word": "un preneur de règles",
+          "pos": "locution nominale",
+          "ko": "규칙을 따르기만 하는 쪽",
+          "example": "Londres deviendrait un preneur de règles.",
+          "example_ko": "런던은 규칙을 따르기만 하게 돼요.",
+          "note_ko": "영어 rule taker를 옮긴 표현. 기사에서 따옴표로 쓰여요."
+        },
+        {
+          "lang": "fr",
+          "word": "un projet de loi",
+          "pos": "nom masculin",
+          "ko": "법안",
+          "example": "Le projet de loi sera présenté la semaine prochaine.",
+          "example_ko": "법안이 다음 주 제출돼요.",
+          "note_ko": "une loi = 법. 정부가 내면 projet, 의원이 내면 proposition de loi."
+        },
+        {
+          "lang": "fr",
+          "word": "rejoindre",
+          "pos": "verbe",
+          "ko": "다시 합류하다",
+          "example": "Certains veulent rejoindre l'UE.",
+          "example_ko": "일부는 EU에 다시 들어가길 원해요.",
+          "note_ko": "rejoindre = 합류하다·따라잡다. 불규칙 동사."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "If a country is a \"rule taker\", it…",
+          "choices": [
+            "follows rules made by others",
+            "makes all the rules",
+            "ignores the rules"
+          ],
+          "answer": 0,
+          "explain_ko": "rule taker = 남이 만든 규칙을 따르는 쪽."
+        },
+        {
+          "lang": "fr",
+          "q": "« Au plus tard en 2030 » signifie…",
+          "choices": [
+            "pas après 2030",
+            "pas avant 2030",
+            "jamais"
+          ],
+          "answer": 0,
+          "explain_ko": "au plus tard = 늦어도."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
+          "accessed": "2026-11-20"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
+          "accessed": "2026-11-20"
+        },
+        {
+          "name": "France 24 (seen as summary)",
+          "url": "https://www.france24.com/en/europe/20261120-eu-and-uk-set-to-sign-deals-on-trade-energy-youth-mobility-at-brussels-summit",
+          "accessed": "2026-11-20"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-20",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-20/8b3cd66992b1a08d.mp3",
+            "2026-11-20/7f62e8ed9c6dae56.mp3",
+            "2026-11-20/d1c9305e753849da.mp3"
+          ],
+          "normal": [
+            "2026-11-20/8bdd2627c8362505.mp3",
+            "2026-11-20/c2947d4380de34db.mp3",
+            "2026-11-20/43b6b24808fbeefa.mp3",
+            "2026-11-20/4de324204a5d3e2b.mp3",
+            "2026-11-20/69b4f97df7e1c8b5.mp3",
+            "2026-11-20/7de5ae47aef05267.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-20/8c97b4f0727c9c31.mp3",
+            "2026-11-20/5c2a2a73e26faaff.mp3",
+            "2026-11-20/41d3864d9bd906d5.mp3"
+          ],
+          "normal": [
+            "2026-11-20/246fb81c98157efd.mp3",
+            "2026-11-20/810071cc76eb449e.mp3",
+            "2026-11-20/232df13c55bda721.mp3",
+            "2026-11-20/3f977e8966a6d53d.mp3",
+            "2026-11-20/bd8fa6d1df5ad84a.mp3",
+            "2026-11-20/79ed06bc55d58883.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-20/64aa2d81b98dbf5a.mp3",
+          "2026-11-20/921f77b1de927094.mp3",
+          "2026-11-20/c08043cda18bd72f.mp3",
+          "2026-11-20/51bfa6bc39192fbe.mp3",
+          "2026-11-20/54871c0fcbd0201d.mp3",
+          "2026-11-20/cf99fddec21ab5e1.mp3",
+          "2026-11-20/b0f547760a83bac7.mp3",
+          "2026-11-20/4806b70ed2bfd211.mp3",
+          "2026-11-20/817e17336c3d3ea8.mp3",
+          "2026-11-20/e4b0e04cf51fce9d.mp3",
+          "2026-11-20/7f1b003e85110354.mp3",
+          "2026-11-20/5683f0880e67ccf2.mp3",
+          "2026-11-20/dc6ef27b6a6dd94e.mp3",
+          "2026-11-20/0f5c0a3eee617d3a.mp3",
+          "2026-11-20/1e26da31d9f4120f.mp3",
+          "2026-11-20/b9fe9e2a0caa17fe.mp3",
+          "2026-11-20/82c7f0353f95c901.mp3",
+          "2026-11-20/d01bd23b84f61dd2.mp3",
+          "2026-11-20/1999dbc3f570bcea.mp3",
+          "2026-11-20/a50955a0e63b2ecf.mp3",
+          "2026-11-20/15518cc51355d513.mp3",
+          "2026-11-20/ff710b0f2dcf742d.mp3",
+          "2026-11-20/5cd797d162b206bd.mp3",
+          "2026-11-20/4e6aac8be053e003.mp3",
+          "2026-11-20/d2fddadd12b405e1.mp3",
+          "2026-11-20/70727040d87f0f0e.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.171,
+              0.366,
+              0.464,
+              0.561,
+              0.659,
+              0.756,
+              0.854
+            ],
+            [
+              0,
+              0.125,
+              0.25,
+              0.375,
+              0.5,
+              0.625,
+              0.75
+            ],
+            [
+              0,
+              0.2,
+              0.4,
+              0.6,
+              0.8
+            ]
+          ],
+          "normal": [
+            [
+              0.034,
+              0.057,
+              0.08,
+              0.103,
+              0.127,
+              0.196,
+              0.243,
+              0.289,
+              0.312,
+              0.359,
+              0.382,
+              0.405,
+              0.451,
+              0.475,
+              0.521,
+              0.59,
+              0.614,
+              0.696,
+              0.768,
+              0.815,
+              0.839,
+              0.863,
+              0.887,
+              0.958
+            ],
+            [
+              0.053,
+              0.072,
+              0.129,
+              0.167,
+              0.205,
+              0.224,
+              0.243,
+              0.262,
+              0.281,
+              0.3,
+              0.319,
+              0.358,
+              0.377,
+              0.465,
+              0.49,
+              0.515,
+              0.589,
+              0.639,
+              0.664,
+              0.689,
+              0.713,
+              0.738,
+              0.838,
+              0.862,
+              0.887,
+              0.912,
+              0.937,
+              0.962
+            ],
+            [
+              0,
+              0.036,
+              0.072,
+              0.108,
+              0.18,
+              0.216,
+              0.288,
+              0.324,
+              0.36,
+              0.396,
+              0.432,
+              0.592,
+              0.626,
+              0.694,
+              0.728,
+              0.762,
+              0.796,
+              0.898,
+              0.932,
+              0.966
+            ],
+            [
+              0.022,
+              0.057,
+              0.075,
+              0.093,
+              0.121,
+              0.141,
+              0.161,
+              0.242,
+              0.262,
+              0.282,
+              0.343,
+              0.363,
+              0.383,
+              0.403,
+              0.466,
+              0.48,
+              0.495,
+              0.523,
+              0.537,
+              0.552,
+              0.566,
+              0.58,
+              0.594,
+              0.609,
+              0.623,
+              0.653,
+              0.677,
+              0.701,
+              0.725,
+              0.773,
+              0.797,
+              0.821,
+              0.869,
+              0.893,
+              0.917,
+              0.941
+            ],
+            [
+              0.025,
+              0.062,
+              0.174,
+              0.241,
+              0.275,
+              0.308,
+              0.359,
+              0.376,
+              0.393,
+              0.409,
+              0.426,
+              0.459,
+              0.471,
+              0.496,
+              0.521,
+              0.547,
+              0.559,
+              0.572,
+              0.584,
+              0.62,
+              0.685,
+              0.717,
+              0.75,
+              0.782,
+              0.847,
+              0.879,
+              0.912
+            ],
+            [
+              0,
+              0.182,
+              0.227,
+              0.273,
+              0.318,
+              0.363,
+              0.454,
+              0.545,
+              0.591,
+              0.681,
+              0.727,
+              0.863,
+              0.909
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.146,
+              0.203,
+              0.431,
+              0.488,
+              0.545,
+              0.602,
+              0.716,
+              0.773
+            ],
+            [
+              0.093,
+              0.16,
+              0.226,
+              0.359,
+              0.426,
+              0.493,
+              0.692,
+              0.759
+            ],
+            [
+              0.128,
+              0.265,
+              0.402,
+              0.675,
+              0.744
+            ]
+          ],
+          "normal": [
+            [
+              0.051,
+              0.067,
+              0.118,
+              0.135,
+              0.169,
+              0.22,
+              0.237,
+              0.27,
+              0.321,
+              0.338,
+              0.372,
+              0.389,
+              0.423,
+              0.49,
+              0.507,
+              0.524,
+              0.592,
+              0.685,
+              0.703,
+              0.739,
+              0.756,
+              0.792,
+              0.81,
+              0.828,
+              0.864,
+              0.918,
+              0.936,
+              0.954
+            ],
+            [
+              0.017,
+              0.032,
+              0.062,
+              0.091,
+              0.121,
+              0.15,
+              0.165,
+              0.18,
+              0.195,
+              0.21,
+              0.224,
+              0.254,
+              0.269,
+              0.283,
+              0.298,
+              0.357,
+              0.372,
+              0.434,
+              0.452,
+              0.471,
+              0.509,
+              0.546,
+              0.565,
+              0.602,
+              0.64,
+              0.696,
+              0.771,
+              0.79,
+              0.828,
+              0.865,
+              0.903,
+              0.921,
+              0.94,
+              0.959
+            ],
+            [
+              0.048,
+              0.068,
+              0.108,
+              0.128,
+              0.168,
+              0.188,
+              0.208,
+              0.288,
+              0.368,
+              0.448,
+              0.488,
+              0.549,
+              0.569,
+              0.664,
+              0.684,
+              0.724,
+              0.745,
+              0.785,
+              0.805,
+              0.845,
+              0.865,
+              0.925,
+              0.946
+            ],
+            [
+              0.029,
+              0.046,
+              0.063,
+              0.08,
+              0.097,
+              0.131,
+              0.148,
+              0.164,
+              0.193,
+              0.226,
+              0.259,
+              0.292,
+              0.308,
+              0.358,
+              0.374,
+              0.391,
+              0.423,
+              0.47,
+              0.515,
+              0.53,
+              0.575,
+              0.59,
+              0.635,
+              0.665,
+              0.68,
+              0.695,
+              0.74,
+              0.755,
+              0.785,
+              0.8,
+              0.815,
+              0.875,
+              0.905,
+              0.935,
+              0.95
+            ],
+            [
+              0.019,
+              0.031,
+              0.067,
+              0.091,
+              0.13,
+              0.142,
+              0.153,
+              0.201,
+              0.224,
+              0.26,
+              0.272,
+              0.295,
+              0.307,
+              0.331,
+              0.368,
+              0.375,
+              0.39,
+              0.449,
+              0.457,
+              0.474,
+              0.482,
+              0.491,
+              0.499,
+              0.524,
+              0.555,
+              0.64,
+              0.668,
+              0.696,
+              0.725,
+              0.81,
+              0.838,
+              0.866,
+              0.923,
+              0.952
+            ],
+            [
+              0.115,
+              0.148,
+              0.215,
+              0.248,
+              0.281,
+              0.314,
+              0.413,
+              0.48,
+              0.546,
+              0.579,
+              0.678,
+              0.711,
+              0.778,
+              0.811,
+              0.877
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-20-02",
+      "category": "technology",
+      "region": {
+        "country": "US",
+        "city": "Washington, D.C.",
+        "lat": 38.9,
+        "lng": -77.04
+      },
+      "headline": {
+        "en": "Trump Threatens 'Tremendous Penalties' for US Firms Building AI Data Centres Abroad",
+        "ko": "트럼프, 해외에 AI 데이터센터 짓는 미국 기업에 '엄청난 불이익' 경고",
+        "fr": "Trump menace de « lourdes sanctions » les entreprises américaines qui construisent des centres de données à l'étranger"
+      },
+      "hook": {
+        "en": "Could a president really ban American firms from building data centres abroad?",
+        "ko": "대통령이 정말 미국 기업의 해외 데이터센터 건설을 막을 수 있을까요?",
+        "fr": "Un président peut-il vraiment interdire aux entreprises américaines de construire des centres de données à l'étranger ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Mr Trump has a new warning.",
+            "US firms should not build data centres abroad.",
+            "He gave very few details."
+          ],
+          "easy_ko": [
+            "트럼프가 새로운 경고를 했습니다.",
+            "미국 기업은 해외에 데이터센터를 지으면 안 된다고 해요.",
+            "자세한 내용은 거의 없었습니다."
+          ],
+          "normal": [
+            "President Donald Trump said he will not allow American companies to build AI data centres outside the United States.",
+            "He threatened \"tremendous penalties\" for any firm that tries, explaining that \"China will take all of them\".",
+            "However, he gave few details and admitted he had not even told his own team about the idea before the press briefing.",
+            "It is unclear whether the idea will become policy or how it could be enforced, since tech giants such as Meta and Google already have agreements to build data centres overseas.",
+            "Data centres were a central issue in this month's midterm elections, as many voters oppose them near their homes.",
+            "Trump told local communities to welcome data centres but make the developers pay."
+          ],
+          "normal_ko": [
+            "도널드 트럼프 대통령은 미국 기업이 미국 밖에 AI 데이터센터를 짓는 것을 허용하지 않겠다고 말했습니다.",
+            "그는 그렇게 하는 기업에 '엄청난 불이익'을 주겠다고 위협하며 '중국이 전부 가져갈 것'이라고 설명했습니다.",
+            "하지만 그는 구체적인 내용은 거의 말하지 않았고, 기자회견 전에는 자기 팀에도 이 구상을 말한 적이 없다고 인정했습니다.",
+            "메타와 구글 같은 대형 기술 기업이 이미 해외 데이터센터 건설 계약을 맺고 있어, 이것이 정책이 될지, 어떻게 집행될지는 불분명합니다.",
+            "데이터센터는 많은 유권자가 집 근처 건설을 반대해 이달 중간선거의 핵심 쟁점이었습니다.",
+            "트럼프는 지역 사회에 데이터센터를 받아들이되 개발업체가 돈을 내게 하라고 말했습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "M. Trump a lancé un nouvel avertissement.",
+            "Les entreprises américaines ne doivent pas bâtir de centres de données à l'étranger.",
+            "Il a donné très peu de détails."
+          ],
+          "easy_ko": [
+            "트럼프가 새로운 경고를 했습니다.",
+            "미국 기업은 해외에 데이터센터를 지으면 안 된다고 해요.",
+            "자세한 내용은 거의 없었습니다."
+          ],
+          "normal": [
+            "Le président Donald Trump a déclaré qu'il n'autoriserait pas les entreprises américaines à construire des centres de données d'IA en dehors des États-Unis.",
+            "Il a menacé de « très lourdes sanctions » toute société qui s'y essaierait, expliquant que « la Chine les prendra tous ».",
+            "Il a toutefois donné peu de détails et admis ne même pas en avoir parlé à son équipe avant la conférence de presse.",
+            "On ignore si l'idée deviendra une politique et comment elle serait appliquée, car des géants comme Meta et Google ont déjà des accords pour bâtir des centres de données à l'étranger.",
+            "Les centres de données ont été un enjeu central des élections de mi-mandat de ce mois-ci, car beaucoup d'électeurs n'en veulent pas près de chez eux.",
+            "Trump a conseillé aux communes d'accueillir ces centres, mais de faire payer les promoteurs."
+          ],
+          "normal_ko": [
+            "도널드 트럼프 대통령은 미국 기업이 미국 밖에 AI 데이터센터를 짓는 것을 허용하지 않겠다고 말했습니다.",
+            "그는 그렇게 하는 기업에 '엄청난 불이익'을 주겠다고 위협하며 '중국이 전부 가져갈 것'이라고 설명했습니다.",
+            "하지만 그는 구체적인 내용은 거의 말하지 않았고, 기자회견 전에는 자기 팀에도 이 구상을 말한 적이 없다고 인정했습니다.",
+            "메타와 구글 같은 대형 기술 기업이 이미 해외 데이터센터 건설 계약을 맺고 있어, 이것이 정책이 될지, 어떻게 집행될지는 불분명합니다.",
+            "데이터센터는 많은 유권자가 집 근처 건설을 반대해 이달 중간선거의 핵심 쟁점이었습니다.",
+            "트럼프는 지역 사회에 데이터센터를 받아들이되 개발업체가 돈을 내게 하라고 말했습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "데이터센터는 AI를 돌리는 컴퓨터가 가득한 대형 건물입니다. 이번 발언은 '정책 발표'가 아니라 기자회견 중 즉흥 발언이라는 점을 BBC가 짚었고, 트럼프 본인도 팀에 먼저 말한 적이 없다고 했어요. 'tremendous tax'(BBC)와 'tremendous penalties'(Guardian 인용)는 표현이 달라 '엄청난 불이익'이라고 옮겼습니다. 중간선거에서 데이터센터가 핵심 쟁점이었다는 점은 BBC 근거입니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "data centre",
+          "pos": "noun",
+          "ko": "데이터센터",
+          "example": "He opposes building data centres abroad.",
+          "example_ko": "그는 해외 데이터센터 건설에 반대해요.",
+          "note_ko": "영국식 철자 centre, 미국식 center. 서버가 가득한 건물."
+        },
+        {
+          "lang": "en",
+          "word": "overseas",
+          "pos": "adverb",
+          "ko": "해외에서",
+          "example": "They build data centres overseas.",
+          "example_ko": "그들은 해외에 데이터센터를 지어요.",
+          "note_ko": "abroad와 비슷하지만 '바다 건너'라는 느낌. 형용사로도 overseas trip."
+        },
+        {
+          "lang": "en",
+          "word": "threaten",
+          "pos": "verb",
+          "ko": "위협하다",
+          "example": "He threatened tremendous penalties.",
+          "example_ko": "그는 엄청난 불이익을 경고했어요.",
+          "note_ko": "threaten to + 동사원형. 명사 threat."
+        },
+        {
+          "lang": "en",
+          "word": "tremendous",
+          "pos": "adjective",
+          "ko": "엄청난",
+          "example": "Tremendous penalties would follow.",
+          "example_ko": "엄청난 불이익이 뒤따를 거예요.",
+          "note_ko": "트럼프가 즐겨 쓰는 말. huge, enormous와 비슷."
+        },
+        {
+          "lang": "en",
+          "word": "penalty",
+          "pos": "noun",
+          "ko": "불이익, 벌금",
+          "example": "Firms face a penalty.",
+          "example_ko": "기업들은 불이익을 받아요.",
+          "note_ko": "축구의 페널티킥도 penalty. 같은 뿌리의 동사 penalise."
+        },
+        {
+          "lang": "en",
+          "word": "briefing",
+          "pos": "noun",
+          "ko": "브리핑, 간단한 발표",
+          "example": "He spoke at a press briefing.",
+          "example_ko": "그는 기자 브리핑에서 말했어요.",
+          "note_ko": "press briefing = 기자 설명회. 동사 brief = 요약해 알리다."
+        },
+        {
+          "lang": "en",
+          "word": "policy",
+          "pos": "noun",
+          "ko": "정책",
+          "example": "It is unclear whether it will become policy.",
+          "example_ko": "그것이 정책이 될지는 불분명해요.",
+          "note_ko": "정책은 policy, 정치 politics, 보험증권도 policy."
+        },
+        {
+          "lang": "en",
+          "word": "enforce",
+          "pos": "verb",
+          "ko": "집행하다, 시행하다",
+          "example": "It is unclear how they would enforce it.",
+          "example_ko": "어떻게 집행할지 불분명해요.",
+          "note_ko": "enforce a law = 법을 집행하다. 명사 enforcement."
+        },
+        {
+          "lang": "en",
+          "word": "unclear",
+          "pos": "adjective",
+          "ko": "불분명한",
+          "example": "The plan is unclear.",
+          "example_ko": "계획이 불분명해요.",
+          "note_ko": "반대말 clear. 비슷한 말 vague(애매한)."
+        },
+        {
+          "lang": "en",
+          "word": "midterm elections",
+          "pos": "noun",
+          "ko": "중간선거",
+          "example": "Data centres mattered in the midterm elections.",
+          "example_ko": "데이터센터는 중간선거에서 중요했어요.",
+          "note_ko": "미국 대통령 임기 중간에 열리는 의회 선거. 줄여서 the midterms."
+        },
+        {
+          "lang": "en",
+          "word": "regulation",
+          "pos": "noun",
+          "ko": "규제",
+          "example": "Candidates promised tougher regulation.",
+          "example_ko": "후보들은 더 강한 규제를 약속했어요.",
+          "note_ko": "동사 regulate. deregulation = 규제 완화."
+        },
+        {
+          "lang": "en",
+          "word": "licence",
+          "pos": "noun",
+          "ko": "허가(증)",
+          "example": "Firms need a licence to buy chips.",
+          "example_ko": "기업은 칩을 사려면 허가가 필요해요.",
+          "note_ko": "영국식 명사 licence, 동사 license. 미국식은 둘 다 license."
+        },
+        {
+          "lang": "en",
+          "word": "concession",
+          "pos": "noun",
+          "ko": "양보, 혜택",
+          "example": "Communities should win concessions.",
+          "example_ko": "지역 사회는 양보를 받아내야 해요.",
+          "note_ko": "make a concession = 양보하다. 기사에서는 '개발업체가 내놓는 혜택'."
+        },
+        {
+          "lang": "fr",
+          "word": "un centre de données",
+          "pos": "nom masculin",
+          "ko": "데이터센터",
+          "example": "Un centre de données géant.",
+          "example_ko": "거대한 데이터센터예요.",
+          "note_ko": "영어 data centre의 직역. 줄여서 un datacenter도 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "à l'étranger",
+          "pos": "locution",
+          "ko": "해외에서",
+          "example": "Construire à l'étranger.",
+          "example_ko": "해외에 짓는다는 뜻이에요.",
+          "note_ko": "l'étranger = 외국. un étranger = 외국인."
+        },
+        {
+          "lang": "fr",
+          "word": "menacer",
+          "pos": "verbe",
+          "ko": "위협하다",
+          "example": "Il menace de lourdes sanctions.",
+          "example_ko": "그는 무거운 제재를 경고해요.",
+          "note_ko": "menacer de + 동사원형. 명사 la menace."
+        },
+        {
+          "lang": "fr",
+          "word": "lourd",
+          "pos": "adjectif",
+          "ko": "무거운, 엄중한",
+          "example": "De lourdes sanctions.",
+          "example_ko": "엄중한 제재예요.",
+          "note_ko": "원래 '무겁다'. 여성형 lourde. une lourde peine = 중형."
+        },
+        {
+          "lang": "fr",
+          "word": "une sanction",
+          "pos": "nom féminin",
+          "ko": "제재, 처벌",
+          "example": "Des sanctions contre les entreprises.",
+          "example_ko": "기업에 대한 제재예요.",
+          "note_ko": "학교 '벌'과 경제 '제재' 모두 une sanction."
+        },
+        {
+          "lang": "fr",
+          "word": "une conférence de presse",
+          "pos": "nom féminin",
+          "ko": "기자회견",
+          "example": "Il parle lors d'une conférence de presse.",
+          "example_ko": "그는 기자회견에서 말해요.",
+          "note_ko": "줄여서 un point presse(간단 브리핑)."
+        },
+        {
+          "lang": "fr",
+          "word": "une politique",
+          "pos": "nom féminin",
+          "ko": "정책",
+          "example": "La politique reste floue.",
+          "example_ko": "정책은 여전히 불분명해요.",
+          "note_ko": "la politique = 정치도 되는 같은 단어. 관사로 구분."
+        },
+        {
+          "lang": "fr",
+          "word": "appliquer",
+          "pos": "verbe",
+          "ko": "적용하다, 시행하다",
+          "example": "Comment appliquer cette idée ?",
+          "example_ko": "이 구상을 어떻게 시행할까요?",
+          "note_ko": "s'appliquer à = ~에 적용되다. 영어 apply와 달리 '신청하다'는 아님."
+        },
+        {
+          "lang": "fr",
+          "word": "flou",
+          "pos": "adjectif",
+          "ko": "불분명한, 흐릿한",
+          "example": "Les détails sont flous.",
+          "example_ko": "세부 내용이 불분명해요.",
+          "note_ko": "사진 '흐림'에도. 반대말 net(분명한)."
+        },
+        {
+          "lang": "fr",
+          "word": "les élections de mi-mandat",
+          "pos": "nom féminin pluriel",
+          "ko": "중간선거",
+          "example": "Les élections de mi-mandat ont eu lieu.",
+          "example_ko": "중간선거가 치러졌어요.",
+          "note_ko": "mi-mandat = 임기 중간. 미국 정치 기사에서 쓰는 표현."
+        },
+        {
+          "lang": "fr",
+          "word": "la réglementation",
+          "pos": "nom féminin",
+          "ko": "규제",
+          "example": "Une réglementation plus stricte.",
+          "example_ko": "더 엄격한 규제예요.",
+          "note_ko": "règle(규칙)에서. 형용사 réglementaire."
+        },
+        {
+          "lang": "fr",
+          "word": "une autorisation",
+          "pos": "nom féminin",
+          "ko": "허가",
+          "example": "Une autorisation est nécessaire.",
+          "example_ko": "허가가 필요해요.",
+          "note_ko": "동사 autoriser. un permis는 면허·허가증."
+        },
+        {
+          "lang": "fr",
+          "word": "un promoteur",
+          "pos": "nom masculin",
+          "ko": "개발업자",
+          "example": "Faire payer les promoteurs.",
+          "example_ko": "개발업자에게 돈을 내게 해요.",
+          "note_ko": "건설·부동산 개발자. 비슷한 말 un aménageur."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "If a rule is hard to \"enforce\", it is hard to…",
+          "choices": [
+            "make people follow it",
+            "write it down",
+            "cancel it"
+          ],
+          "answer": 0,
+          "explain_ko": "enforce = 집행하다, 지키게 하다."
+        },
+        {
+          "lang": "fr",
+          "q": "« Appliquer » une règle, c'est…",
+          "choices": [
+            "la mettre en pratique",
+            "l'oublier",
+            "l'écrire"
+          ],
+          "answer": 0,
+          "explain_ko": "appliquer = 시행하다."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
+          "accessed": "2026-11-20"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+          "accessed": "2026-11-20"
+        },
+        {
+          "name": "CBC News (seen as headline)",
+          "url": "https://www.cbc.ca",
+          "accessed": "2026-11-20"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-20",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-20/c5b41d63740487ea.mp3",
+            "2026-11-20/1f7b00d5486596c5.mp3",
+            "2026-11-20/b847a996b912b4da.mp3"
+          ],
+          "normal": [
+            "2026-11-20/5a5eb4d6aa842a56.mp3",
+            "2026-11-20/02a9eba413a2114e.mp3",
+            "2026-11-20/ec91a4a4967ac26a.mp3",
+            "2026-11-20/517b28223ff2cc2b.mp3",
+            "2026-11-20/1e5b374667d567c4.mp3",
+            "2026-11-20/7c38738e6b18d4be.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-20/305cddcb7bc3f2a6.mp3",
+            "2026-11-20/8fcd435d0b6de831.mp3",
+            "2026-11-20/58b9887e1af3dd52.mp3"
+          ],
+          "normal": [
+            "2026-11-20/1c61114fe54cda98.mp3",
+            "2026-11-20/a93755ec1df2fff8.mp3",
+            "2026-11-20/e985fadb37af3b6a.mp3",
+            "2026-11-20/6f28688ea0c68b43.mp3",
+            "2026-11-20/68377df5d5ca75cf.mp3",
+            "2026-11-20/609b1a86357f16c6.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-20/be1e35194099df1b.mp3",
+          "2026-11-20/72a2b0cf302f836d.mp3",
+          "2026-11-20/9a4758029245a344.mp3",
+          "2026-11-20/fa6ab4d4439c5414.mp3",
+          "2026-11-20/916471a43d8c7eaf.mp3",
+          "2026-11-20/3e21e893c118b74a.mp3",
+          "2026-11-20/fc83d3214560cf49.mp3",
+          "2026-11-20/f3bb9798856d4408.mp3",
+          "2026-11-20/f5b2f7769e942add.mp3",
+          "2026-11-20/2b61dec31fcff965.mp3",
+          "2026-11-20/c1ca62958eed8a39.mp3",
+          "2026-11-20/cf39e91b402cc869.mp3",
+          "2026-11-20/1726634ce16a25de.mp3",
+          "2026-11-20/76a2e5227e79f5fe.mp3",
+          "2026-11-20/e9059356c538c396.mp3",
+          "2026-11-20/7c2a1ec7ad7fe6c6.mp3",
+          "2026-11-20/628a6f6310afe4dc.mp3",
+          "2026-11-20/4f837cf61f485337.mp3",
+          "2026-11-20/9524234feb8447e1.mp3",
+          "2026-11-20/10903a6ba483d48a.mp3",
+          "2026-11-20/2d82333289c00113.mp3",
+          "2026-11-20/66e4f4aada1e5d4b.mp3",
+          "2026-11-20/8ed447a6109e671b.mp3",
+          "2026-11-20/0ec33d5016d424aa.mp3",
+          "2026-11-20/4db01400d8a15584.mp3",
+          "2026-11-20/6b0d7a246bae3ec9.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.328,
+              0.424,
+              0.52,
+              0.616,
+              0.712,
+              0.808
+            ],
+            [
+              0,
+              0.1,
+              0.2,
+              0.3,
+              0.4,
+              0.5,
+              0.7,
+              0.8
+            ],
+            [
+              0,
+              0.143,
+              0.286,
+              0.571,
+              0.714
+            ]
+          ],
+          "normal": [
+            [
+              0.11,
+              0.188,
+              0.241,
+              0.267,
+              0.293,
+              0.32,
+              0.346,
+              0.372,
+              0.424,
+              0.529,
+              0.608,
+              0.634,
+              0.661,
+              0.687,
+              0.739,
+              0.766,
+              0.818,
+              0.844,
+              0.897
+            ],
+            [
+              0,
+              0.037,
+              0.112,
+              0.223,
+              0.335,
+              0.372,
+              0.447,
+              0.484,
+              0.521,
+              0.631,
+              0.732,
+              0.765,
+              0.832,
+              0.866,
+              0.899,
+              0.933,
+              0.966
+            ],
+            [
+              0,
+              0.097,
+              0.129,
+              0.161,
+              0.194,
+              0.258,
+              0.29,
+              0.355,
+              0.387,
+              0.419,
+              0.452,
+              0.516,
+              0.548,
+              0.581,
+              0.613,
+              0.645,
+              0.71,
+              0.742,
+              0.806,
+              0.871,
+              0.903,
+              0.935
+            ],
+            [
+              0.066,
+              0.082,
+              0.099,
+              0.133,
+              0.166,
+              0.183,
+              0.217,
+              0.233,
+              0.267,
+              0.317,
+              0.334,
+              0.351,
+              0.368,
+              0.384,
+              0.401,
+              0.48,
+              0.5,
+              0.521,
+              0.542,
+              0.563,
+              0.583,
+              0.625,
+              0.646,
+              0.666,
+              0.729,
+              0.749,
+              0.812,
+              0.832,
+              0.853,
+              0.895,
+              0.915
+            ],
+            [
+              0.052,
+              0.112,
+              0.143,
+              0.173,
+              0.203,
+              0.264,
+              0.325,
+              0.355,
+              0.386,
+              0.416,
+              0.477,
+              0.62,
+              0.65,
+              0.71,
+              0.77,
+              0.831,
+              0.861,
+              0.891,
+              0.921
+            ],
+            [
+              0,
+              0.045,
+              0.091,
+              0.182,
+              0.364,
+              0.409,
+              0.5,
+              0.591,
+              0.636,
+              0.682,
+              0.727,
+              0.773,
+              0.955
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.253,
+              0.312,
+              0.371,
+              0.43,
+              0.548,
+              0.606,
+              0.724
+            ],
+            [
+              0.073,
+              0.112,
+              0.231,
+              0.389,
+              0.428,
+              0.468,
+              0.507,
+              0.586,
+              0.626,
+              0.665,
+              0.705,
+              0.784,
+              0.823
+            ],
+            [
+              0.218,
+              0.289,
+              0.359,
+              0.501,
+              0.572,
+              0.642,
+              0.713
+            ]
+          ],
+          "normal": [
+            [
+              0.061,
+              0.083,
+              0.126,
+              0.169,
+              0.19,
+              0.211,
+              0.276,
+              0.297,
+              0.404,
+              0.426,
+              0.447,
+              0.511,
+              0.597,
+              0.619,
+              0.661,
+              0.683,
+              0.704,
+              0.726,
+              0.769,
+              0.79,
+              0.812,
+              0.854,
+              0.876
+            ],
+            [
+              0.08,
+              0.104,
+              0.128,
+              0.201,
+              0.225,
+              0.249,
+              0.273,
+              0.297,
+              0.346,
+              0.416,
+              0.436,
+              0.494,
+              0.513,
+              0.533,
+              0.635,
+              0.707,
+              0.731,
+              0.755,
+              0.78,
+              0.804,
+              0.828,
+              0.876,
+              0.9
+            ],
+            [
+              0.07,
+              0.092,
+              0.115,
+              0.182,
+              0.227,
+              0.25,
+              0.272,
+              0.317,
+              0.339,
+              0.384,
+              0.407,
+              0.429,
+              0.452,
+              0.474,
+              0.519,
+              0.564,
+              0.587,
+              0.609,
+              0.654,
+              0.699,
+              0.722,
+              0.789,
+              0.812
+            ],
+            [
+              0.024,
+              0.04,
+              0.073,
+              0.089,
+              0.121,
+              0.169,
+              0.185,
+              0.249,
+              0.265,
+              0.281,
+              0.297,
+              0.329,
+              0.417,
+              0.439,
+              0.46,
+              0.482,
+              0.504,
+              0.547,
+              0.569,
+              0.59,
+              0.612,
+              0.655,
+              0.677,
+              0.72,
+              0.742,
+              0.785,
+              0.807,
+              0.829,
+              0.85,
+              0.894,
+              0.915
+            ],
+            [
+              0.045,
+              0.067,
+              0.088,
+              0.11,
+              0.154,
+              0.175,
+              0.219,
+              0.24,
+              0.284,
+              0.327,
+              0.349,
+              0.414,
+              0.436,
+              0.501,
+              0.523,
+              0.545,
+              0.641,
+              0.665,
+              0.713,
+              0.785,
+              0.809,
+              0.833,
+              0.857,
+              0.881,
+              0.906,
+              0.93
+            ],
+            [
+              0.073,
+              0.109,
+              0.146,
+              0.254,
+              0.29,
+              0.362,
+              0.47,
+              0.507,
+              0.619,
+              0.656,
+              0.693,
+              0.73,
+              0.767,
+              0.804
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-20-03",
+      "category": "society",
+      "region": {
+        "country": "FR",
+        "city": "Paris",
+        "lat": 48.86,
+        "lng": 2.35
+      },
+      "headline": {
+        "en": "Students Across Europe Protest Over Cost of Living, Housing and Education",
+        "ko": "유럽 곳곳 학생들, 생활비·주거·교육 문제로 시위",
+        "fr": "Partout en Europe, des jeunes manifestent contre la vie chère, le logement et le manque de moyens pour l'éducation"
+      },
+      "hook": {
+        "en": "Why are young people across Europe marching on the same day?",
+        "ko": "왜 유럽 곳곳의 청년들이 같은 날 거리로 나섰을까요?",
+        "fr": "Pourquoi des jeunes de toute l'Europe défilent-ils le même jour ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Young people marched in many cities.",
+            "They are angry about high prices.",
+            "They also want better schools."
+          ],
+          "easy_ko": [
+            "청년들이 여러 도시에서 행진했습니다.",
+            "그들은 높은 물가에 화가 났어요.",
+            "더 나은 학교도 원해요."
+          ],
+          "normal": [
+            "Thousands of people, led by students, marched through European cities on Friday to protest against the rising cost of living.",
+            "They also complained about housing shortages and underfunded education, according to the BBC.",
+            "The protests were inspired by demonstrations that have rocked France for weeks, and demands range from more school funding to climate justice and an end to conscription.",
+            "In Switzerland, tens of thousands of young people took to the streets against budget cuts, high housing costs and the climate crisis, Le Monde reported.",
+            "Unions and youth groups called for further actions through the weekend in countries including France, Germany and Italy.",
+            "The protesters want to show cross-border solidarity and put pressure on their governments."
+          ],
+          "normal_ko": [
+            "금요일 유럽 도시들에서 학생들이 앞장선 수천 명이 치솟는 생활비에 항의하며 행진했습니다.",
+            "BBC에 따르면 이들은 주택 부족과 교육 예산 부족에도 불만을 터뜨렸습니다.",
+            "시위는 몇 주째 프랑스를 뒤흔드는 시위에서 영감을 받았고, 요구는 학교 예산 확대부터 기후 정의, 징병 폐지까지 다양합니다.",
+            "Le Monde에 따르면 스위스에서는 수만 명의 청년이 예산 삭감, 높은 주거비, 기후 위기에 항의해 거리로 나섰습니다.",
+            "노조와 청년 단체는 프랑스, 독일, 이탈리아 등에서 주말 내내 추가 행동을 예고했습니다.",
+            "시위대는 국경을 넘는 연대를 보여 주고 정부에 압박을 가하려 합니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Des jeunes ont défilé dans de nombreuses villes.",
+            "Ils sont en colère contre les prix élevés.",
+            "Ils veulent aussi de meilleures écoles."
+          ],
+          "easy_ko": [
+            "청년들이 여러 도시에서 행진했습니다.",
+            "그들은 높은 물가에 화가 났어요.",
+            "더 나은 학교도 원해요."
+          ],
+          "normal": [
+            "Des milliers de personnes, menées par des étudiants, ont défilé vendredi dans des villes européennes contre la hausse du coût de la vie.",
+            "Elles dénoncent aussi la pénurie de logements et le manque de moyens pour l'éducation, selon la BBC.",
+            "Ces manifestations s'inspirent de celles qui secouent la France depuis des semaines, et les revendications vont de plus de moyens pour les écoles à la justice climatique et à la fin de la conscription.",
+            "En Suisse, des dizaines de milliers de jeunes sont descendus dans la rue contre les coupes budgétaires, le coût du logement et la crise climatique, rapporte Le Monde.",
+            "Syndicats et organisations de jeunesse ont appelé à d'autres actions tout le week-end, notamment en France, en Allemagne et en Italie.",
+            "Les manifestants veulent montrer une solidarité transfrontalière et faire pression sur leurs gouvernements."
+          ],
+          "normal_ko": [
+            "금요일 유럽 도시들에서 학생들이 앞장선 수천 명이 치솟는 생활비에 항의하며 행진했습니다.",
+            "BBC에 따르면 이들은 주택 부족과 교육 예산 부족에도 불만을 터뜨렸습니다.",
+            "시위는 몇 주째 프랑스를 뒤흔드는 시위에서 영감을 받았고, 요구는 학교 예산 확대부터 기후 정의, 징병 폐지까지 다양합니다.",
+            "Le Monde에 따르면 스위스에서는 수만 명의 청년이 예산 삭감, 높은 주거비, 기후 위기에 항의해 거리로 나섰습니다.",
+            "노조와 청년 단체는 프랑스, 독일, 이탈리아 등에서 주말 내내 추가 행동을 예고했습니다.",
+            "시위대는 국경을 넘는 연대를 보여 주고 정부에 압박을 가하려 합니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "프랑스에서 몇 주째 이어지는 시위가 다른 나라로 번진 모습입니다. 이 뉴스는 본문이 막혀 BBC 영상 설명과 France 24·Le Monde 요약만 확인했습니다. 스위스 '수만 명'은 Le Monde 요약 하나에 근거하고, 다른 나라 참가 규모는 확인하지 못해 적지 않았어요. 징병 폐지 요구는 France 24 요약에 나온 시위대의 요구 중 하나입니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "cost of living",
+          "pos": "noun",
+          "ko": "생활비, 물가",
+          "example": "Protests over the cost of living grew.",
+          "example_ko": "생활비 항의 시위가 커졌어요.",
+          "note_ko": "the cost-of-living crisis = 물가 위기. 소득 대비 생활 부담."
+        },
+        {
+          "lang": "en",
+          "word": "march",
+          "pos": "verb",
+          "ko": "행진하다",
+          "example": "Thousands marched through the city.",
+          "example_ko": "수천 명이 도시를 행진했어요.",
+          "note_ko": "명사 march = 행진. 3월 March는 대문자."
+        },
+        {
+          "lang": "en",
+          "word": "protest",
+          "pos": "verb",
+          "ko": "항의하다",
+          "example": "They protest against high prices.",
+          "example_ko": "그들은 높은 물가에 항의해요.",
+          "note_ko": "protest against ~. 명사 발음은 PRO-test, 동사는 pro-TEST."
+        },
+        {
+          "lang": "en",
+          "word": "student-led",
+          "pos": "adjective",
+          "ko": "학생이 이끄는",
+          "example": "Student-led protests swept Europe.",
+          "example_ko": "학생이 이끄는 시위가 유럽을 휩쓸었어요.",
+          "note_ko": "-led = ~이 이끄는. a government-led plan처럼 만들 수 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "shortage",
+          "pos": "noun",
+          "ko": "부족",
+          "example": "There is a housing shortage.",
+          "example_ko": "주택 부족이 있어요.",
+          "note_ko": "a shortage of ~. 반대 surplus(과잉)."
+        },
+        {
+          "lang": "en",
+          "word": "underfunded",
+          "pos": "adjective",
+          "ko": "자금이 부족한",
+          "example": "Schools are underfunded.",
+          "example_ko": "학교는 예산이 부족해요.",
+          "note_ko": "under-(부족)+funded. 반대 well-funded."
+        },
+        {
+          "lang": "en",
+          "word": "rock",
+          "pos": "verb",
+          "ko": "뒤흔들다",
+          "example": "Protests have rocked France for weeks.",
+          "example_ko": "시위가 몇 주째 프랑스를 뒤흔들고 있어요.",
+          "note_ko": "원래 '흔들다'. 뉴스 표현 rock the country."
+        },
+        {
+          "lang": "en",
+          "word": "conscription",
+          "pos": "noun",
+          "ko": "징병",
+          "example": "Some demand an end to conscription.",
+          "example_ko": "일부는 징병 폐지를 요구해요.",
+          "note_ko": "military service = 병역. 영국식 draft는 미국 표현."
+        },
+        {
+          "lang": "en",
+          "word": "climate justice",
+          "pos": "noun",
+          "ko": "기후 정의",
+          "example": "They demand climate justice.",
+          "example_ko": "그들은 기후 정의를 요구해요.",
+          "note_ko": "기후 위기의 책임·피해를 공정하게 나누자는 주장."
+        },
+        {
+          "lang": "en",
+          "word": "solidarity",
+          "pos": "noun",
+          "ko": "연대",
+          "example": "They showed cross-border solidarity.",
+          "example_ko": "그들은 국경을 넘는 연대를 보여줬어요.",
+          "note_ko": "in solidarity with ~ = ~와 연대하여."
+        },
+        {
+          "lang": "en",
+          "word": "austerity",
+          "pos": "noun",
+          "ko": "긴축",
+          "example": "They oppose austerity.",
+          "example_ko": "그들은 긴축에 반대해요.",
+          "note_ko": "정부가 지출을 줄이는 정책. austerity measures = 긴축 조치."
+        },
+        {
+          "lang": "en",
+          "word": "demonstration",
+          "pos": "noun",
+          "ko": "시위",
+          "example": "Demonstrations took place in many cities.",
+          "example_ko": "여러 도시에서 시위가 열렸어요.",
+          "note_ko": "줄여서 demo. 시연(실제로 보여 주기)도 demonstration."
+        },
+        {
+          "lang": "en",
+          "word": "put pressure on",
+          "pos": "phrase",
+          "ko": "압박하다",
+          "example": "They want to put pressure on governments.",
+          "example_ko": "그들은 정부를 압박하고 싶어 해요.",
+          "note_ko": "pressure = 압력. under pressure = 압박을 받는."
+        },
+        {
+          "lang": "fr",
+          "word": "le coût de la vie",
+          "pos": "nom masculin",
+          "ko": "생활비, 물가",
+          "example": "La hausse du coût de la vie.",
+          "example_ko": "생활비 상승이에요.",
+          "note_ko": "la vie chère = 비싼 물가(더 구어적)."
+        },
+        {
+          "lang": "fr",
+          "word": "défiler",
+          "pos": "verbe",
+          "ko": "행진하다",
+          "example": "Des milliers de jeunes ont défilé.",
+          "example_ko": "수천 명의 청년이 행진했어요.",
+          "note_ko": "un défilé = 행진·패션쇼. 비슷한 말 manifester."
+        },
+        {
+          "lang": "fr",
+          "word": "manifester",
+          "pos": "verbe",
+          "ko": "시위하다",
+          "example": "Ils manifestent contre la vie chère.",
+          "example_ko": "그들은 비싼 물가에 시위해요.",
+          "note_ko": "une manifestation = 시위, 줄여서 une manif."
+        },
+        {
+          "lang": "fr",
+          "word": "étudiant",
+          "pos": "nom/adjectif",
+          "ko": "학생(대학생)",
+          "example": "Des mobilisations étudiantes.",
+          "example_ko": "학생 시위예요.",
+          "note_ko": "lycéen = 고등학생. écolier = 초등학생."
+        },
+        {
+          "lang": "fr",
+          "word": "la pénurie",
+          "pos": "nom féminin",
+          "ko": "부족",
+          "example": "Une pénurie de logements.",
+          "example_ko": "주택 부족이에요.",
+          "note_ko": "la pénurie de ~. 반대 l'abondance(풍부함)."
+        },
+        {
+          "lang": "fr",
+          "word": "le manque de moyens",
+          "pos": "nom masculin",
+          "ko": "예산·자원 부족",
+          "example": "Le manque de moyens de l'école.",
+          "example_ko": "학교의 예산 부족이에요.",
+          "note_ko": "les moyens = 수단·자금. avoir les moyens = 형편이 되다."
+        },
+        {
+          "lang": "fr",
+          "word": "secouer",
+          "pos": "verbe",
+          "ko": "뒤흔들다",
+          "example": "Les manifestations secouent la France.",
+          "example_ko": "시위가 프랑스를 뒤흔들어요.",
+          "note_ko": "비유로 '충격을 주다'. 원래 '흔들다'."
+        },
+        {
+          "lang": "fr",
+          "word": "la conscription",
+          "pos": "nom féminin",
+          "ko": "징병",
+          "example": "La fin de la conscription.",
+          "example_ko": "징병 폐지예요.",
+          "note_ko": "le service militaire = 병역. 비슷한 말 l'appel sous les drapeaux."
+        },
+        {
+          "lang": "fr",
+          "word": "la justice climatique",
+          "pos": "nom féminin",
+          "ko": "기후 정의",
+          "example": "Les jeunes réclament la justice climatique.",
+          "example_ko": "청년들이 기후 정의를 요구해요.",
+          "note_ko": "réclamer = 요구하다. justice sociale = 사회 정의."
+        },
+        {
+          "lang": "fr",
+          "word": "la solidarité",
+          "pos": "nom féminin",
+          "ko": "연대",
+          "example": "Une solidarité transfrontalière.",
+          "example_ko": "국경을 넘는 연대예요.",
+          "note_ko": "solidaire = 연대하는. se solidariser avec ~ = ~와 연대하다."
+        },
+        {
+          "lang": "fr",
+          "word": "l'austérité",
+          "pos": "nom féminin",
+          "ko": "긴축",
+          "example": "Contre l'austérité budgétaire.",
+          "example_ko": "예산 긴축에 반대해요.",
+          "note_ko": "une politique d'austérité = 긴축 정책."
+        },
+        {
+          "lang": "fr",
+          "word": "un syndicat",
+          "pos": "nom masculin",
+          "ko": "노동조합",
+          "example": "Des syndicats appellent à manifester.",
+          "example_ko": "노조들이 시위를 호소해요.",
+          "note_ko": "syndicaliste = 노조원. 건물 '관리 조합'도 syndicat."
+        },
+        {
+          "lang": "fr",
+          "word": "faire pression sur",
+          "pos": "locution verbale",
+          "ko": "압박하다",
+          "example": "Faire pression sur les gouvernements.",
+          "example_ko": "정부를 압박해요.",
+          "note_ko": "une pression. sous pression = 압박 속에서."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "\"Austerity\" means a government is…",
+          "choices": [
+            "cutting spending",
+            "spending much more",
+            "printing money"
+          ],
+          "answer": 0,
+          "explain_ko": "austerity = 정부 지출을 줄이는 긴축."
+        },
+        {
+          "lang": "fr",
+          "q": "« L'austérité » désigne…",
+          "choices": [
+            "la réduction des dépenses publiques",
+            "l'augmentation des dépenses",
+            "la fin des impôts"
+          ],
+          "answer": 0,
+          "explain_ko": "austérité = 긴축."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News (video summary)",
+          "url": "https://www.bbc.co.uk/news/videos/c62l5jweqr4ko",
+          "accessed": "2026-11-20"
+        },
+        {
+          "name": "France 24 (seen as summary)",
+          "url": "https://www.france24.com/en/europe/20261120-europe-s-youth-set-to-join-mass-cost-of-living-protests-in-25-countries",
+          "accessed": "2026-11-20"
+        },
+        {
+          "name": "Le Monde (seen as summary)",
+          "url": "https://www.lemonde.fr/international/article/2026/11/20/en-suisse-aussi-la-jeunesse-descend-dans-la-rue-contre-un-avenir-bouche_6813714_3210.html",
+          "accessed": "2026-11-20"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-20",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-20/fcc6e3cced078f5f.mp3",
+            "2026-11-20/2015cca2a20762b3.mp3",
+            "2026-11-20/807163326876ef9e.mp3"
+          ],
+          "normal": [
+            "2026-11-20/2f9d88aeee0045cd.mp3",
+            "2026-11-20/6e368b2449d31c38.mp3",
+            "2026-11-20/d4673734ea114663.mp3",
+            "2026-11-20/c54abd44e5d5b786.mp3",
+            "2026-11-20/a8fba98857bde5c3.mp3",
+            "2026-11-20/6982ed93fe970494.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-20/cb41eb2da6bf5840.mp3",
+            "2026-11-20/f39421bb24477207.mp3",
+            "2026-11-20/81033e075fdd71d2.mp3"
+          ],
+          "normal": [
+            "2026-11-20/de99051544b31980.mp3",
+            "2026-11-20/75921619566f9d69.mp3",
+            "2026-11-20/acd8463a277136ba.mp3",
+            "2026-11-20/cc92b83e12feff9b.mp3",
+            "2026-11-20/0b498d3aa3c1c027.mp3",
+            "2026-11-20/fb12985377fc4273.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-20/db1f8c114e860696.mp3",
+          "2026-11-20/450462fdbfc14e6d.mp3",
+          "2026-11-20/27ac7d77ded931f0.mp3",
+          "2026-11-20/bd46db08205ac216.mp3",
+          "2026-11-20/a87dae99c08c4341.mp3",
+          "2026-11-20/2edbef6a51fcff4c.mp3",
+          "2026-11-20/4a5194fabc8eb0d2.mp3",
+          "2026-11-20/bd53e8e2c5b69f44.mp3",
+          "2026-11-20/dec27b68b783737b.mp3",
+          "2026-11-20/d9b9680d45bda7e5.mp3",
+          "2026-11-20/b81910afab736e12.mp3",
+          "2026-11-20/741f2d1755506f00.mp3",
+          "2026-11-20/9da671cdad27bf38.mp3",
+          "2026-11-20/efe500e824502af0.mp3",
+          "2026-11-20/ae1862128c75232b.mp3",
+          "2026-11-20/80edc7f864a20400.mp3",
+          "2026-11-20/ae13e754b926a9ec.mp3",
+          "2026-11-20/36ba8245965a935f.mp3",
+          "2026-11-20/e586bf720e6ec5b7.mp3",
+          "2026-11-20/10eaac80bd1a7902.mp3",
+          "2026-11-20/72eaa62e8cd4749a.mp3",
+          "2026-11-20/d968cea8804d4fc0.mp3",
+          "2026-11-20/19a085cb7e0747f4.mp3",
+          "2026-11-20/5bc258cefd2520fb.mp3",
+          "2026-11-20/6e4853399c5aa309.mp3",
+          "2026-11-20/da3ade6d6635d2a8.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.165,
+              0.255,
+              0.345,
+              0.435,
+              0.525,
+              0.704
+            ],
+            [
+              0,
+              0.125,
+              0.25,
+              0.5,
+              0.75,
+              0.875
+            ],
+            [
+              0,
+              0.143,
+              0.429,
+              0.571,
+              0.857
+            ]
+          ],
+          "normal": [
+            [
+              0.062,
+              0.125,
+              0.156,
+              0.187,
+              0.218,
+              0.25,
+              0.312,
+              0.344,
+              0.375,
+              0.469,
+              0.531,
+              0.562,
+              0.625,
+              0.656,
+              0.719,
+              0.781,
+              0.812,
+              0.875,
+              0.906,
+              0.937
+            ],
+            [
+              0.081,
+              0.114,
+              0.181,
+              0.247,
+              0.314,
+              0.38,
+              0.446,
+              0.48,
+              0.579,
+              0.763,
+              0.863,
+              0.897,
+              0.93
+            ],
+            [
+              0,
+              0.024,
+              0.072,
+              0.096,
+              0.144,
+              0.167,
+              0.263,
+              0.287,
+              0.311,
+              0.335,
+              0.359,
+              0.383,
+              0.458,
+              0.484,
+              0.536,
+              0.561,
+              0.587,
+              0.613,
+              0.639,
+              0.69,
+              0.716,
+              0.768,
+              0.819,
+              0.845,
+              0.871,
+              0.897,
+              0.923
+            ],
+            [
+              0.051,
+              0.074,
+              0.163,
+              0.182,
+              0.2,
+              0.236,
+              0.254,
+              0.273,
+              0.291,
+              0.309,
+              0.327,
+              0.346,
+              0.364,
+              0.4,
+              0.437,
+              0.47,
+              0.496,
+              0.548,
+              0.574,
+              0.6,
+              0.626,
+              0.679,
+              0.743,
+              0.801,
+              0.859
+            ],
+            [
+              0.045,
+              0.109,
+              0.141,
+              0.173,
+              0.205,
+              0.237,
+              0.269,
+              0.333,
+              0.398,
+              0.43,
+              0.462,
+              0.526,
+              0.558,
+              0.622,
+              0.719,
+              0.795,
+              0.863,
+              0.886
+            ],
+            [
+              0,
+              0.042,
+              0.167,
+              0.208,
+              0.25,
+              0.292,
+              0.417,
+              0.625,
+              0.667,
+              0.708,
+              0.792,
+              0.833,
+              0.875
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.125,
+              0.196,
+              0.268,
+              0.339,
+              0.553,
+              0.624,
+              0.695,
+              0.838
+            ],
+            [
+              0.169,
+              0.237,
+              0.304,
+              0.372,
+              0.507,
+              0.575,
+              0.643,
+              0.71
+            ],
+            [
+              0.186,
+              0.264,
+              0.342,
+              0.498,
+              0.576,
+              0.732
+            ]
+          ],
+          "normal": [
+            [
+              0.066,
+              0.095,
+              0.153,
+              0.181,
+              0.276,
+              0.323,
+              0.347,
+              0.371,
+              0.487,
+              0.51,
+              0.579,
+              0.648,
+              0.672,
+              0.695,
+              0.718,
+              0.787,
+              0.81,
+              0.833,
+              0.856,
+              0.879,
+              0.902,
+              0.925,
+              0.948
+            ],
+            [
+              0.077,
+              0.098,
+              0.141,
+              0.184,
+              0.205,
+              0.269,
+              0.29,
+              0.354,
+              0.376,
+              0.397,
+              0.439,
+              0.461,
+              0.482,
+              0.503,
+              0.617,
+              0.788,
+              0.873
+            ],
+            [
+              0.042,
+              0.061,
+              0.157,
+              0.195,
+              0.214,
+              0.233,
+              0.253,
+              0.291,
+              0.31,
+              0.329,
+              0.367,
+              0.386,
+              0.463,
+              0.478,
+              0.494,
+              0.571,
+              0.587,
+              0.602,
+              0.618,
+              0.634,
+              0.649,
+              0.665,
+              0.68,
+              0.711,
+              0.727,
+              0.742,
+              0.773,
+              0.836,
+              0.851,
+              0.867,
+              0.882,
+              0.898,
+              0.913,
+              0.929
+            ],
+            [
+              0.055,
+              0.085,
+              0.142,
+              0.163,
+              0.204,
+              0.225,
+              0.266,
+              0.287,
+              0.308,
+              0.328,
+              0.39,
+              0.411,
+              0.432,
+              0.452,
+              0.473,
+              0.494,
+              0.514,
+              0.621,
+              0.639,
+              0.657,
+              0.674,
+              0.71,
+              0.728,
+              0.746,
+              0.764,
+              0.871,
+              0.921,
+              0.946
+            ],
+            [
+              0.057,
+              0.123,
+              0.145,
+              0.255,
+              0.277,
+              0.321,
+              0.343,
+              0.41,
+              0.432,
+              0.454,
+              0.498,
+              0.52,
+              0.542,
+              0.621,
+              0.658,
+              0.676,
+              0.714,
+              0.743,
+              0.83,
+              0.86,
+              0.889
+            ],
+            [
+              0.087,
+              0.118,
+              0.241,
+              0.272,
+              0.334,
+              0.364,
+              0.518,
+              0.642,
+              0.672,
+              0.703,
+              0.765,
+              0.796,
+              0.826
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-20-04",
+      "category": "science",
+      "region": {
+        "country": "US",
+        "city": "San Francisco",
+        "lat": 37.77,
+        "lng": -122.42
+      },
+      "headline": {
+        "en": "Anthropic Mathematician Claims AI Helped Prove the Riemann Hypothesis",
+        "ko": "Anthropic 수학자, AI 도움으로 리만 가설 증명했다고 주장",
+        "fr": "Un mathématicien d'Anthropic affirme avoir démontré l'hypothèse de Riemann avec l'aide de l'IA"
+      },
+      "hook": {
+        "en": "Did an AI just help solve the most famous problem in maths?",
+        "ko": "AI가 수학에서 가장 유명한 문제를 푸는 데 도움을 준 걸까요?",
+        "fr": "Une IA vient-elle d'aider à résoudre le problème le plus célèbre des mathématiques ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "A mathematician made a big claim.",
+            "He says AI helped him prove it.",
+            "Experts must check it first."
+          ],
+          "easy_ko": [
+            "한 수학자가 큰 주장을 했습니다.",
+            "AI의 도움으로 증명했다고 해요.",
+            "전문가들이 먼저 확인해야 합니다."
+          ],
+          "normal": [
+            "Levent Alpöge, a mathematician who works at Anthropic, claims he used the company's Claude chatbot to prove the Riemann hypothesis.",
+            "The hypothesis is a nearly 170-year-old problem about prime numbers and is widely seen as the most famous puzzle in maths.",
+            "If the proof turns out to be correct, it would be one of the most significant in history.",
+            "Alpöge says he built it over about six weeks with a non-public version of Claude, and the full proof, written in the computer language Lean, runs to more than 250,000 lines.",
+            "However, it has not been verified yet, and checking it will take time.",
+            "He admitted the timing, just after Anthropic's stock market debut, was \"horrible\", but said he could not wait any longer."
+          ],
+          "normal_ko": [
+            "Anthropic에서 일하는 수학자 레벤트 알푀게는 회사의 Claude 챗봇을 써서 리만 가설을 증명했다고 주장합니다.",
+            "리만 가설은 소수에 관한 약 170년 된 문제로, 수학에서 가장 유명한 문제로 널리 꼽힙니다.",
+            "증명이 맞다고 밝혀진다면 역사상 가장 중요한 증명 중 하나가 될 것입니다.",
+            "알푀게는 비공개 버전의 Claude로 약 6주에 걸쳐 만들었다고 하며, 컴퓨터 언어 Lean으로 쓴 전체 증명은 25만 줄이 넘습니다.",
+            "그러나 아직 검증되지 않았고, 확인에는 시간이 걸립니다.",
+            "그는 Anthropic 상장 직후라는 타이밍이 '끔찍하다'고 인정하면서도 더는 기다릴 수 없었다고 말했습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Un mathématicien a fait une grande annonce.",
+            "Il dit que l'IA l'a aidé à le prouver.",
+            "Des experts doivent d'abord vérifier."
+          ],
+          "easy_ko": [
+            "한 수학자가 큰 주장을 했습니다.",
+            "AI의 도움으로 증명했다고 해요.",
+            "전문가들이 먼저 확인해야 합니다."
+          ],
+          "normal": [
+            "Levent Alpöge, mathématicien chez Anthropic, affirme avoir utilisé le chatbot Claude de l'entreprise pour démontrer l'hypothèse de Riemann.",
+            "Cette hypothèse, un problème vieux de près de 170 ans sur les nombres premiers, est largement considérée comme l'énigme la plus célèbre des mathématiques.",
+            "Si la démonstration s'avère exacte, elle serait l'une des plus importantes de l'histoire.",
+            "Alpöge dit l'avoir construite en environ six semaines avec une version non publique de Claude, et la preuve complète, écrite dans le langage informatique Lean, dépasse 250 000 lignes.",
+            "Elle n'a toutefois pas encore été vérifiée, et cela prendra du temps.",
+            "Il a reconnu que le moment, juste après l'entrée en Bourse d'Anthropic, était « horrible », mais dit ne plus pouvoir attendre."
+          ],
+          "normal_ko": [
+            "Anthropic에서 일하는 수학자 레벤트 알푀게는 회사의 Claude 챗봇을 써서 리만 가설을 증명했다고 주장합니다.",
+            "리만 가설은 소수에 관한 약 170년 된 문제로, 수학에서 가장 유명한 문제로 널리 꼽힙니다.",
+            "증명이 맞다고 밝혀진다면 역사상 가장 중요한 증명 중 하나가 될 것입니다.",
+            "알푀게는 비공개 버전의 Claude로 약 6주에 걸쳐 만들었다고 하며, 컴퓨터 언어 Lean으로 쓴 전체 증명은 25만 줄이 넘습니다.",
+            "그러나 아직 검증되지 않았고, 확인에는 시간이 걸립니다.",
+            "그는 Anthropic 상장 직후라는 타이밍이 '끔찍하다'고 인정하면서도 더는 기다릴 수 없었다고 말했습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "리만 가설은 소수가 어떤 규칙으로 늘어서는지에 관한 가설입니다. 이 소식은 '주장'이며 아직 아무도 검증하지 않았어요. BBC 한 곳 보도라 독립 확인이 부족합니다. Anthropic은 Claude를 만든 회사이고, 기사 속 사실만 중립적으로 옮겼습니다. 틀린 것으로 밝혀질 수도 있으니 결과를 지켜봐 주세요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "claim",
+          "pos": "verb",
+          "ko": "주장하다",
+          "example": "He claims he proved it.",
+          "example_ko": "그는 증명했다고 주장해요.",
+          "note_ko": "명사 claim = 주장. 확인되지 않았다는 뉘앙스."
+        },
+        {
+          "lang": "en",
+          "word": "prove",
+          "pos": "verb",
+          "ko": "증명하다",
+          "example": "He used AI to prove the problem.",
+          "example_ko": "그는 AI로 그 문제를 증명했어요.",
+          "note_ko": "명사 proof. 과거분사 proven/proved."
+        },
+        {
+          "lang": "en",
+          "word": "hypothesis",
+          "pos": "noun",
+          "ko": "가설",
+          "example": "The Riemann hypothesis is famous.",
+          "example_ko": "리만 가설은 유명해요.",
+          "note_ko": "복수 hypotheses. 과학에서 '검증할 추측'."
+        },
+        {
+          "lang": "en",
+          "word": "prime number",
+          "pos": "noun",
+          "ko": "소수",
+          "example": "It deals with prime numbers.",
+          "example_ko": "그것은 소수를 다뤄요.",
+          "note_ko": "1과 자기 자신으로만 나뉘는 수(2, 3, 5, 7…)."
+        },
+        {
+          "lang": "en",
+          "word": "famed",
+          "pos": "adjective",
+          "ko": "유명한",
+          "example": "It is a famed maths problem.",
+          "example_ko": "유명한 수학 문제예요.",
+          "note_ko": "famous보다 문어체. 비슷한 말 renowned."
+        },
+        {
+          "lang": "en",
+          "word": "verification",
+          "pos": "noun",
+          "ko": "검증",
+          "example": "Verification will take time.",
+          "example_ko": "검증에는 시간이 걸려요.",
+          "note_ko": "동사 verify. 비슷한 말 confirmation."
+        },
+        {
+          "lang": "en",
+          "word": "significant",
+          "pos": "adjective",
+          "ko": "중요한, 의미 있는",
+          "example": "It would be among the most significant proofs.",
+          "example_ko": "가장 중요한 증명 중 하나가 될 거예요.",
+          "note_ko": "통계에선 '유의미한'. 반대 insignificant."
+        },
+        {
+          "lang": "en",
+          "word": "non-public",
+          "pos": "adjective",
+          "ko": "비공개의",
+          "example": "He used a non-public version.",
+          "example_ko": "그는 비공개 버전을 썼어요.",
+          "note_ko": "non-은 '아닌'. 비슷한 말 private, unreleased."
+        },
+        {
+          "lang": "en",
+          "word": "bedrock",
+          "pos": "noun",
+          "ko": "기반, 암반",
+          "example": "Prime numbers are the bedrock of maths.",
+          "example_ko": "소수는 수학의 기반이에요.",
+          "note_ko": "원래 땅 밑 단단한 암반. foundation과 비슷."
+        },
+        {
+          "lang": "en",
+          "word": "elude",
+          "pos": "verb",
+          "ko": "(오래) 풀리지 않다, 피하다",
+          "example": "Problems that have eluded scholars.",
+          "example_ko": "학자들이 풀지 못한 문제들이에요.",
+          "note_ko": "elude scholars = 학자들에게 잡히지 않다. 명사 elusiveness."
+        },
+        {
+          "lang": "en",
+          "word": "cynical",
+          "pos": "adjective",
+          "ko": "냉소적인",
+          "example": "There is a cynical view of the timing.",
+          "example_ko": "타이밍에 대한 냉소적 시각이 있어요.",
+          "note_ko": "사람의 동기를 나쁘게 보는 태도. 반대 naive."
+        },
+        {
+          "lang": "en",
+          "word": "unilaterally",
+          "pos": "adverb",
+          "ko": "일방적으로",
+          "example": "He acted unilaterally.",
+          "example_ko": "그는 일방적으로 행동했어요.",
+          "note_ko": "uni-(하나)+lateral(쪽). 반대 multilaterally."
+        },
+        {
+          "lang": "en",
+          "word": "rule out",
+          "pos": "phrasal verb",
+          "ko": "배제하다",
+          "example": "Experts cannot rule out an error yet.",
+          "example_ko": "전문가들은 아직 오류를 배제할 수 없어요.",
+          "note_ko": "rule out = 가능성을 없다고 보다. 반대 rule in."
+        },
+        {
+          "lang": "fr",
+          "word": "affirmer",
+          "pos": "verbe",
+          "ko": "주장하다",
+          "example": "Il affirme avoir démontré l'hypothèse.",
+          "example_ko": "그는 가설을 증명했다고 주장해요.",
+          "note_ko": "affirmer que ~. 단언하는 느낌이라 확인 전에는 '주장' 번역."
+        },
+        {
+          "lang": "fr",
+          "word": "démontrer",
+          "pos": "verbe",
+          "ko": "증명하다",
+          "example": "Démontrer l'hypothèse de Riemann.",
+          "example_ko": "리만 가설을 증명해요.",
+          "note_ko": "une démonstration = 증명. 수학에선 prouver보다 자주 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "une hypothèse",
+          "pos": "nom féminin",
+          "ko": "가설",
+          "example": "L'hypothèse de Riemann.",
+          "example_ko": "리만 가설이에요.",
+          "note_ko": "영어 hypothesis와 같은 뿌리. 여성 명사."
+        },
+        {
+          "lang": "fr",
+          "word": "un nombre premier",
+          "pos": "nom masculin",
+          "ko": "소수",
+          "example": "Les nombres premiers sont difficiles.",
+          "example_ko": "소수는 어려워요.",
+          "note_ko": "premier = 첫째·소수. 복수 les nombres premiers."
+        },
+        {
+          "lang": "fr",
+          "word": "célèbre",
+          "pos": "adjectif",
+          "ko": "유명한",
+          "example": "Le problème le plus célèbre.",
+          "example_ko": "가장 유명한 문제예요.",
+          "note_ko": "남녀 같은 형태. 비슷한 말 fameux."
+        },
+        {
+          "lang": "fr",
+          "word": "la vérification",
+          "pos": "nom féminin",
+          "ko": "검증",
+          "example": "La vérification prendra du temps.",
+          "example_ko": "검증에는 시간이 걸려요.",
+          "note_ko": "vérifier = 확인하다. 형용사 vérifiable."
+        },
+        {
+          "lang": "fr",
+          "word": "important",
+          "pos": "adjectif",
+          "ko": "중요한",
+          "example": "Une des plus importantes de l'histoire.",
+          "example_ko": "역사상 가장 중요한 것 중 하나예요.",
+          "note_ko": "major, majeur(주요한)도 비슷해요."
+        },
+        {
+          "lang": "fr",
+          "word": "non publique",
+          "pos": "locution",
+          "ko": "비공개의",
+          "example": "Une version non publique.",
+          "example_ko": "비공개 버전이에요.",
+          "note_ko": "non + 형용사. 비슷한 말 confidentielle."
+        },
+        {
+          "lang": "fr",
+          "word": "le fondement",
+          "pos": "nom masculin",
+          "ko": "토대",
+          "example": "Les nombres premiers sont un fondement.",
+          "example_ko": "소수는 토대예요.",
+          "note_ko": "la base도 비슷. fonder = 세우다."
+        },
+        {
+          "lang": "fr",
+          "word": "échapper à",
+          "pos": "locution verbale",
+          "ko": "(풀리지 않고) 벗어나다",
+          "example": "Un problème qui échappe aux chercheurs.",
+          "example_ko": "연구자들이 풀지 못하는 문제예요.",
+          "note_ko": "échapper à qqn = ~에게서 벗어나다. s'échapper = 도망치다."
+        },
+        {
+          "lang": "fr",
+          "word": "cynique",
+          "pos": "adjectif",
+          "ko": "냉소적인",
+          "example": "Une lecture cynique du calendrier.",
+          "example_ko": "시점에 대한 냉소적 해석이에요.",
+          "note_ko": "명사 le cynisme. 반대 naïf."
+        },
+        {
+          "lang": "fr",
+          "word": "unilatéralement",
+          "pos": "adverbe",
+          "ko": "일방적으로",
+          "example": "Il a agi unilatéralement.",
+          "example_ko": "그는 일방적으로 행동했어요.",
+          "note_ko": "형용사 unilatéral. 반대 bilatéral."
+        },
+        {
+          "lang": "fr",
+          "word": "écarter",
+          "pos": "verbe",
+          "ko": "배제하다",
+          "example": "On ne peut pas écarter une erreur.",
+          "example_ko": "오류를 배제할 수 없어요.",
+          "note_ko": "écarter une hypothèse = 가능성을 제외하다. s'écarter de = 벗어나다."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "If someone \"claims\" something, it is…",
+          "choices": [
+            "not yet proven",
+            "already proven",
+            "certainly false"
+          ],
+          "answer": 0,
+          "explain_ko": "claim = 주장. 아직 확인되지 않은 말."
+        },
+        {
+          "lang": "fr",
+          "q": "Quand quelqu'un « affirme » quelque chose…",
+          "choices": [
+            "ce n'est pas encore vérifié",
+            "c'est déjà prouvé",
+            "c'est faux"
+          ],
+          "answer": 0,
+          "explain_ko": "affirmer = 주장하다."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
+          "accessed": "2026-11-20"
+        },
+        {
+          "name": "Wikipedia: Current events",
+          "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_20",
+          "accessed": "2026-11-20"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-20",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-20/24901dbc6cc3b781.mp3",
+            "2026-11-20/f830f896c3a43da5.mp3",
+            "2026-11-20/e4995df9165a1593.mp3"
+          ],
+          "normal": [
+            "2026-11-20/bd4878a1bb594c73.mp3",
+            "2026-11-20/994176cff459706e.mp3",
+            "2026-11-20/262438b0b079cdb5.mp3",
+            "2026-11-20/00dd76e15cf4a9ec.mp3",
+            "2026-11-20/36e307915b288477.mp3",
+            "2026-11-20/0f0c986152317716.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-20/0310a3dbb417bfa6.mp3",
+            "2026-11-20/155fc40561aa9c7c.mp3",
+            "2026-11-20/31055eeb47c485c1.mp3"
+          ],
+          "normal": [
+            "2026-11-20/f27748152d1119de.mp3",
+            "2026-11-20/25e2b1725e01b635.mp3",
+            "2026-11-20/9a3f09ca642cba8e.mp3",
+            "2026-11-20/e0a9961e779717ee.mp3",
+            "2026-11-20/8aeab560e612e1c0.mp3",
+            "2026-11-20/57a540400166ece9.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-20/426f867b09fac11c.mp3",
+          "2026-11-20/63f8f9b19d807eaf.mp3",
+          "2026-11-20/520b61892028d6da.mp3",
+          "2026-11-20/1cffa0290dcefde4.mp3",
+          "2026-11-20/24b6bd6d7babeeb5.mp3",
+          "2026-11-20/06a88d118c5bce4e.mp3",
+          "2026-11-20/52f94397d9370af1.mp3",
+          "2026-11-20/e306a9e5e5ace917.mp3",
+          "2026-11-20/19adb429c0cd7f16.mp3",
+          "2026-11-20/e267d9729a1ac31e.mp3",
+          "2026-11-20/2ced3683ee322cd5.mp3",
+          "2026-11-20/0b1916bc8db9cbb7.mp3",
+          "2026-11-20/6e10d00cf93caf19.mp3",
+          "2026-11-20/384a853d567a4394.mp3",
+          "2026-11-20/8d88fde67c53722e.mp3",
+          "2026-11-20/345601a65f67ad03.mp3",
+          "2026-11-20/d07ab2ef44d19767.mp3",
+          "2026-11-20/dd3aadc9d1101083.mp3",
+          "2026-11-20/e4cb18aaa0867677.mp3",
+          "2026-11-20/eabf0e3458a6c894.mp3",
+          "2026-11-20/5980aca820e2d327.mp3",
+          "2026-11-20/f267321689a5fae6.mp3",
+          "2026-11-20/29bc624bfcaf6fff.mp3",
+          "2026-11-20/8c490da84ffd6777.mp3",
+          "2026-11-20/5633fedc05d1b5df.mp3",
+          "2026-11-20/f41b83664025d0f3.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.19,
+              0.271,
+              0.676,
+              0.757,
+              0.838,
+              0.919
+            ],
+            [
+              0.285,
+              0.378,
+              0.471,
+              0.564,
+              0.657,
+              0.75,
+              0.843
+            ],
+            [
+              0.163,
+              0.409,
+              0.532,
+              0.655,
+              0.778
+            ]
+          ],
+          "normal": [
+            [
+              0.078,
+              0.133,
+              0.243,
+              0.261,
+              0.35,
+              0.368,
+              0.386,
+              0.403,
+              0.513,
+              0.536,
+              0.559,
+              0.582,
+              0.605,
+              0.674,
+              0.697,
+              0.743,
+              0.766,
+              0.789,
+              0.812,
+              0.858
+            ],
+            [
+              0.053,
+              0.081,
+              0.195,
+              0.223,
+              0.252,
+              0.309,
+              0.365,
+              0.422,
+              0.479,
+              0.507,
+              0.564,
+              0.592,
+              0.621,
+              0.706,
+              0.734,
+              0.763,
+              0.791,
+              0.82,
+              0.876,
+              0.905,
+              0.933
+            ],
+            [
+              0.106,
+              0.143,
+              0.18,
+              0.218,
+              0.255,
+              0.292,
+              0.329,
+              0.367,
+              0.555,
+              0.583,
+              0.61,
+              0.638,
+              0.666,
+              0.694,
+              0.722,
+              0.75,
+              0.861,
+              0.889
+            ],
+            [
+              0.031,
+              0.071,
+              0.091,
+              0.11,
+              0.13,
+              0.15,
+              0.19,
+              0.23,
+              0.25,
+              0.27,
+              0.289,
+              0.309,
+              0.369,
+              0.409,
+              0.429,
+              0.481,
+              0.498,
+              0.515,
+              0.532,
+              0.549,
+              0.582,
+              0.599,
+              0.616,
+              0.666,
+              0.7,
+              0.747,
+              0.772,
+              0.796,
+              0.82,
+              0.845,
+              0.942
+            ],
+            [
+              0.153,
+              0.294,
+              0.33,
+              0.365,
+              0.401,
+              0.437,
+              0.543,
+              0.65,
+              0.688,
+              0.763,
+              0.801,
+              0.839,
+              0.876
+            ],
+            [
+              0.079,
+              0.102,
+              0.149,
+              0.172,
+              0.233,
+              0.258,
+              0.308,
+              0.384,
+              0.409,
+              0.459,
+              0.554,
+              0.566,
+              0.64,
+              0.673,
+              0.706,
+              0.738,
+              0.771,
+              0.804,
+              0.836,
+              0.901
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.236,
+              0.284,
+              0.526,
+              0.574,
+              0.622,
+              0.671,
+              0.719
+            ],
+            [
+              0.163,
+              0.239,
+              0.315,
+              0.392,
+              0.468,
+              0.544,
+              0.696,
+              0.772,
+              0.848
+            ],
+            [
+              0.298,
+              0.37,
+              0.513,
+              0.585,
+              0.728
+            ]
+          ],
+          "normal": [
+            [
+              0.055,
+              0.084,
+              0.18,
+              0.275,
+              0.294,
+              0.391,
+              0.43,
+              0.47,
+              0.549,
+              0.569,
+              0.608,
+              0.628,
+              0.647,
+              0.707,
+              0.726,
+              0.786,
+              0.845,
+              0.865
+            ],
+            [
+              0.053,
+              0.076,
+              0.178,
+              0.199,
+              0.24,
+              0.26,
+              0.281,
+              0.302,
+              0.322,
+              0.364,
+              0.384,
+              0.405,
+              0.425,
+              0.446,
+              0.527,
+              0.548,
+              0.589,
+              0.673,
+              0.694,
+              0.735,
+              0.756,
+              0.777,
+              0.819,
+              0.839
+            ],
+            [
+              0.091,
+              0.125,
+              0.159,
+              0.297,
+              0.366,
+              0.514,
+              0.548,
+              0.615,
+              0.649,
+              0.683,
+              0.716,
+              0.818,
+              0.851
+            ],
+            [
+              0.024,
+              0.057,
+              0.073,
+              0.106,
+              0.138,
+              0.155,
+              0.204,
+              0.22,
+              0.253,
+              0.285,
+              0.302,
+              0.334,
+              0.35,
+              0.399,
+              0.416,
+              0.467,
+              0.487,
+              0.507,
+              0.527,
+              0.598,
+              0.629,
+              0.645,
+              0.66,
+              0.691,
+              0.768,
+              0.817,
+              0.864,
+              0.91,
+              0.957
+            ],
+            [
+              0.098,
+              0.135,
+              0.171,
+              0.279,
+              0.315,
+              0.387,
+              0.46,
+              0.683,
+              0.717,
+              0.784,
+              0.852,
+              0.886
+            ],
+            [
+              0.092,
+              0.113,
+              0.134,
+              0.199,
+              0.22,
+              0.241,
+              0.282,
+              0.309,
+              0.362,
+              0.415,
+              0.442,
+              0.468,
+              0.568,
+              0.571,
+              0.572,
+              0.575,
+              0.593,
+              0.637,
+              0.681,
+              0.724,
+              0.768,
+              0.856
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "audio_base": "https://koreapapa-kim.github.io/worldnews-audio"
+}

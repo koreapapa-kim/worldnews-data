@@ -2,6 +2,44 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-11-20",
+      "count": 4,
+      "headlines": [
+        {
+          "id": "2026-11-20-01",
+          "ko": "영국·EU, 브렉시트 이후 관계 복원 위한 '획기적' 합의",
+          "en": "UK and EU Strike 'Landmark' Deal to Rebuild Ties After Brexit",
+          "fr": "Royaume-Uni et UE concluent un accord « historique » pour rebâtir leurs liens après le Brexit",
+          "category": "politics",
+          "country": "BE"
+        },
+        {
+          "id": "2026-11-20-02",
+          "ko": "트럼프, 해외에 AI 데이터센터 짓는 미국 기업에 '엄청난 불이익' 경고",
+          "en": "Trump Threatens 'Tremendous Penalties' for US Firms Building AI Data Centres Abroad",
+          "fr": "Trump menace de « lourdes sanctions » les entreprises américaines qui construisent des centres de données à l'étranger",
+          "category": "technology",
+          "country": "US"
+        },
+        {
+          "id": "2026-11-20-03",
+          "ko": "유럽 곳곳 학생들, 생활비·주거·교육 문제로 시위",
+          "en": "Students Across Europe Protest Over Cost of Living, Housing and Education",
+          "fr": "Partout en Europe, des jeunes manifestent contre la vie chère, le logement et le manque de moyens pour l'éducation",
+          "category": "society",
+          "country": "FR"
+        },
+        {
+          "id": "2026-11-20-04",
+          "ko": "Anthropic 수학자, AI 도움으로 리만 가설 증명했다고 주장",
+          "en": "Anthropic Mathematician Claims AI Helped Prove the Riemann Hypothesis",
+          "fr": "Un mathématicien d'Anthropic affirme avoir démontré l'hypothèse de Riemann avec l'aide de l'IA",
+          "category": "science",
+          "country": "US"
+        }
+      ]
+    },
+    {
       "date": "2026-11-19",
       "count": 4,
       "headlines": [
@@ -902,6 +940,6 @@
       ]
     }
   ],
-  "latest": "2026-11-19",
-  "updated_at": "2026-11-20T00:37:10.130Z"
+  "latest": "2026-11-20",
+  "updated_at": "2026-11-21T00:43:49.766Z"
 }
