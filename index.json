@@ -2,6 +2,44 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-11-22",
+      "count": 4,
+      "headlines": [
+        {
+          "id": "2026-11-22-01",
+          "ko": "COP31, 화석연료 언급 없는 핵심 합의문을 EU 등이 거부해 합의 없이 폐막",
+          "en": "COP31 Ends Without Its Main Deal After EU and Others Reject a Text With No Mention of Fossil Fuels",
+          "fr": "COP31 : le texte final rejeté par l'UE et d'autres pays, faute de mention des énergies fossiles",
+          "category": "climate",
+          "country": "TR"
+        },
+        {
+          "id": "2026-11-22-02",
+          "ko": "AI 부정행위 파문 속 수능 치른 뒤 한국 교육부 장관 사임",
+          "en": "South Korea's Education Minister Resigns After AI Cheating Scandal Hits the College Entrance Exam",
+          "fr": "Corée du Sud : le ministre de l'Éducation démissionne après le scandale de triche à l'IA",
+          "category": "education",
+          "country": "KR"
+        },
+        {
+          "id": "2026-11-22-03",
+          "ko": "영국 마을 반햄, 망명 신청자 수용 계획에 항의해 '영국 탈퇴' 투표",
+          "en": "English Village Votes to 'Leave the UK' in Protest at Asylum Seeker Plan",
+          "fr": "Un village anglais vote symboliquement pour « quitter le Royaume-Uni » contre un projet d'accueil de demandeurs d'asile",
+          "category": "politics",
+          "country": "GB"
+        },
+        {
+          "id": "2026-11-22-04",
+          "ko": "유럽·일본 탐사선 베피콜롬보, 8년 항해 끝에 수성 궤도 진입",
+          "en": "European-Japanese Probe BepiColombo Reaches Mercury Orbit After Eight-Year Journey",
+          "fr": "BepiColombo atteint l'orbite de Mercure après huit ans de voyage",
+          "category": "science",
+          "country": "FR"
+        }
+      ]
+    },
+    {
       "date": "2026-11-21",
       "count": 4,
       "headlines": [
@@ -978,6 +1016,6 @@
       ]
     }
   ],
-  "latest": "2026-11-21",
-  "updated_at": "2026-11-21T16:16:25.169Z"
+  "latest": "2026-11-22",
+  "updated_at": "2026-11-22T14:39:22.683Z"
 }
