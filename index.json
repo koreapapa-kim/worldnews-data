@@ -2,6 +2,44 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-11-23",
+      "count": 4,
+      "headlines": [
+        {
+          "id": "2026-11-23-01",
+          "ko": "엔비디아, 사임 2주 만에 젠슨 황 CEO 복귀…주가 급등",
+          "en": "Nvidia Reinstates Jensen Huang as CEO Less Than Two Weeks After He Resigned; Shares Surge",
+          "fr": "Nvidia réintègre Jensen Huang à sa tête moins de deux semaines après sa démission ; l'action s'envole",
+          "category": "business",
+          "country": "US"
+        },
+        {
+          "id": "2026-11-23-02",
+          "ko": "우크라이나, 리비아 항구에서 러시아 군함 격침 주장…전쟁이 유럽 밖으로",
+          "en": "Ukraine Says Naval Drones Sank Russian Warship at Libyan Port as the War Spreads Beyond Europe",
+          "fr": "L'Ukraine dit avoir coulé un navire de guerre russe dans un port libyen, la guerre s'étend hors d'Europe",
+          "category": "war",
+          "country": "LY"
+        },
+        {
+          "id": "2026-11-23-03",
+          "ko": "재검표 끝에 노스캐롤라이나 의석 뒤집혀 민주당, 1992년 이후 최대 하원 다수당",
+          "en": "Democrats Win Largest US House Majority Since 1992 After a Recount Flips a North Carolina Seat",
+          "fr": "Les démocrates décrochent la plus large majorité à la Chambre depuis 1992 après un recomptage en Caroline du Nord",
+          "category": "politics",
+          "country": "US"
+        },
+        {
+          "id": "2026-11-23-04",
+          "ko": "맨체스터 콘서트에서 정체불명 물질 퍼져 1만 2천 명 대피",
+          "en": "12,000 Fans Evacuated From Manchester Concert After Unknown Substance Released",
+          "fr": "Manchester : 12 000 spectateurs évacués après la diffusion d'une substance inconnue lors d'un concert",
+          "category": "society",
+          "country": "GB"
+        }
+      ]
+    },
+    {
       "date": "2026-11-22",
       "count": 4,
       "headlines": [
@@ -1016,6 +1054,6 @@
       ]
     }
   ],
-  "latest": "2026-11-22",
-  "updated_at": "2026-11-22T14:39:22.683Z"
+  "latest": "2026-11-23",
+  "updated_at": "2026-11-23T15:53:20.792Z"
 }
