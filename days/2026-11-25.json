@@ -1,0 +1,3158 @@
+{
+  "schema": 1,
+  "date": "2026-11-25",
+  "stories": [
+    {
+      "id": "2026-11-25-01",
+      "category": "economy",
+      "region": {
+        "country": "US",
+        "city": "Washington, D.C.",
+        "lat": 38.9,
+        "lng": -77.04
+      },
+      "headline": {
+        "en": "US Proposes New Tariffs on 14 Trading Partners Including China and the EU",
+        "ko": "미국, 중국·EU 등 14개 교역 상대에 새 관세 제안",
+        "fr": "Les États-Unis proposent de nouveaux droits de douane contre 14 partenaires, dont la Chine et l'UE"
+      },
+      "hook": {
+        "en": "Which countries does the US want to hit with new tariffs?",
+        "ko": "미국은 어떤 나라들에 새 관세를 매기려 할까요?",
+        "fr": "Quels pays les États-Unis veulent-ils frapper de nouveaux droits de douane ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "The US wants new taxes on goods from 14 partners.",
+            "China would pay the most.",
+            "The taxes would start next year."
+          ],
+          "easy_ko": [
+            "미국이 14개 교역 상대의 상품에 새 세금을 매기려 해요.",
+            "중국이 가장 많이 내게 돼요.",
+            "세금은 내년에 시작될 거예요."
+          ],
+          "normal": [
+            "The United States has proposed new tariffs on 14 trading partners, including China, the European Union, Japan and India.",
+            "China would face the highest rate, about 40 per cent in total, while Vietnam could pay up to 35 per cent and the others 20 or 25 per cent.",
+            "The new duties are not expected to take effect until next year.",
+            "They follow a Supreme Court ruling in February that struck down President Donald Trump's earlier 'Liberation Day' tariffs, so the administration is now using a trade law that allows action after a formal investigation.",
+            "Trade representative Jamieson Greer said the tariffs would level the playing field for American workers.",
+            "However, economists warn that tariffs can push up prices if companies pass the extra costs on to consumers."
+          ],
+          "normal_ko": [
+            "미국이 중국, 유럽연합, 일본, 인도 등 14개 교역 상대에 새 관세를 제안했습니다.",
+            "중국은 합계 약 40%로 가장 높은 세율을 맞게 되고, 베트남은 최대 35%, 나머지는 20% 또는 25%입니다.",
+            "새 관세는 내년은 되어야 시행될 것으로 예상됩니다.",
+            "이는 2월 연방대법원이 트럼프 대통령의 이전 '해방의 날' 관세를 무효로 한 데 이은 것으로, 정부는 이제 공식 조사 뒤 조치를 취할 수 있게 하는 통상법을 쓰고 있습니다.",
+            "제이미슨 그리어 통상대표는 이 관세가 미국 노동자에게 공정한 경쟁 환경을 만들어 줄 것이라고 말했습니다.",
+            "하지만 경제학자들은 기업이 추가 비용을 소비자에게 넘기면 관세가 물가를 올릴 수 있다고 경고합니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Les États-Unis veulent taxer les produits de 14 partenaires.",
+            "La Chine paierait le plus.",
+            "Ces taxes commenceraient l'an prochain."
+          ],
+          "normal": [
+            "Les États-Unis ont proposé de nouveaux droits de douane contre 14 partenaires commerciaux, dont la Chine, l'Union européenne, le Japon et l'Inde.",
+            "La Chine subirait le taux le plus élevé, environ 40 % au total, tandis que le Vietnam pourrait payer jusqu'à 35 % et les autres 20 ou 25 %.",
+            "Ces droits ne devraient pas entrer en vigueur avant l'an prochain.",
+            "Ils font suite à une décision de la Cour suprême qui a invalidé en février les droits de douane « Liberation Day » de Donald Trump ; l'administration s'appuie désormais sur une loi commerciale qui permet d'agir après une enquête formelle.",
+            "Le représentant américain au commerce, Jamieson Greer, a dit que ces mesures rendraient les conditions plus équitables pour les travailleurs américains.",
+            "Mais les économistes avertissent que les droits de douane peuvent faire monter les prix si les entreprises répercutent les coûts supplémentaires sur les consommateurs."
+          ],
+          "normal_ko": [
+            "미국이 중국, 유럽연합, 일본, 인도 등 14개 교역 상대에 새 관세를 제안했습니다.",
+            "중국은 합계 약 40%로 가장 높은 세율을 맞게 되고, 베트남은 최대 35%, 나머지는 20% 또는 25%입니다.",
+            "새 관세는 내년은 되어야 시행될 것으로 예상됩니다.",
+            "이는 2월 연방대법원이 트럼프 대통령의 이전 '해방의 날' 관세를 무효로 한 데 이은 것으로, 정부는 이제 공식 조사 뒤 조치를 취할 수 있게 하는 통상법을 쓰고 있습니다.",
+            "제이미슨 그리어 통상대표는 이 관세가 미국 노동자에게 공정한 경쟁 환경을 만들어 줄 것이라고 말했습니다.",
+            "하지만 경제학자들은 기업이 추가 비용을 소비자에게 넘기면 관세가 물가를 올릴 수 있다고 경고합니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "관세는 수입품에 붙는 세금이에요. 이번 내용은 '제안'이라 확정이 아니고, 시행은 빨라야 내년 1월입니다. 미국은 2월 연방대법원이 이전 관세를 무효로 해서 다른 법(무역법 301조)으로 다시 추진하고 있어요. 한국, 일본, 대만 등도 대상에 들어 있습니다. EU는 근거를 강하게 반박한다고 Le Monde가 전했어요. 본문은 BBC와 Guardian을 읽었고 France 24, Le Monde, SCMP는 제목·요약으로 확인했습니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "tariff",
+          "pos": "noun",
+          "ko": "관세",
+          "example": "The country faces a new tariff.",
+          "example_ko": "그 나라는 새 관세를 맞아요.",
+          "note_ko": "수입품에 붙는 세금. 같은 뜻으로 duty, levy도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "propose",
+          "pos": "verb",
+          "ko": "제안하다",
+          "example": "The US proposed new tariffs.",
+          "example_ko": "미국이 새 관세를 제안했어요.",
+          "note_ko": "명사 proposal. 아직 확정이 아닌 상태를 말해요."
+        },
+        {
+          "lang": "en",
+          "word": "trading partner",
+          "pos": "noun",
+          "ko": "교역 상대국",
+          "example": "China is a major trading partner.",
+          "example_ko": "중국은 주요 교역 상대예요.",
+          "note_ko": "trade partner라고도 해요."
+        },
+        {
+          "lang": "en",
+          "word": "rate",
+          "pos": "noun",
+          "ko": "세율, 비율",
+          "example": "The rate is 25 per cent.",
+          "example_ko": "세율은 25%예요.",
+          "note_ko": "interest rate(금리), exchange rate(환율)에도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "take effect",
+          "pos": "phrase",
+          "ko": "시행되다",
+          "example": "The rules take effect next year.",
+          "example_ko": "그 규정은 내년에 시행돼요.",
+          "note_ko": "go into effect와 같은 뜻."
+        },
+        {
+          "lang": "en",
+          "word": "strike down",
+          "pos": "phrasal verb",
+          "ko": "(법·판결을) 무효로 하다",
+          "example": "The court struck down the law.",
+          "example_ko": "법원이 그 법을 무효로 했어요.",
+          "note_ko": "과거형 struck down. overturn과 비슷."
+        },
+        {
+          "lang": "en",
+          "word": "investigation",
+          "pos": "noun",
+          "ko": "조사",
+          "example": "A formal investigation began in March.",
+          "example_ko": "공식 조사가 3월에 시작됐어요.",
+          "note_ko": "동사 investigate. launch an investigation = 조사에 착수하다."
+        },
+        {
+          "lang": "en",
+          "word": "level the playing field",
+          "pos": "idiom",
+          "ko": "공정한 경쟁 환경을 만들다",
+          "example": "The rule will level the playing field.",
+          "example_ko": "그 규칙이 공정한 경쟁 환경을 만들 거예요.",
+          "note_ko": "원래 운동장을 평평하게 한다는 비유."
+        },
+        {
+          "lang": "en",
+          "word": "economist",
+          "pos": "noun",
+          "ko": "경제학자",
+          "example": "Economists expect higher prices.",
+          "example_ko": "경제학자들은 물가가 오를 걸로 봐요.",
+          "note_ko": "경제 자체는 economy, 학문은 economics."
+        },
+        {
+          "lang": "en",
+          "word": "warn",
+          "pos": "verb",
+          "ko": "경고하다",
+          "example": "Experts warn of risks.",
+          "example_ko": "전문가들이 위험을 경고해요.",
+          "note_ko": "warn of/about ~. 명사 warning."
+        },
+        {
+          "lang": "en",
+          "word": "push up",
+          "pos": "phrasal verb",
+          "ko": "(가격 등을) 끌어올리다",
+          "example": "Tariffs can push up prices.",
+          "example_ko": "관세는 물가를 끌어올릴 수 있어요.",
+          "note_ko": "반대는 push down, bring down."
+        },
+        {
+          "lang": "en",
+          "word": "pass on",
+          "pos": "phrasal verb",
+          "ko": "(비용을) 넘기다",
+          "example": "Firms pass on the costs.",
+          "example_ko": "기업들이 비용을 넘겨요.",
+          "note_ko": "pass on the cost to customers = 소비자에게 비용 전가."
+        },
+        {
+          "lang": "en",
+          "word": "consumer",
+          "pos": "noun",
+          "ko": "소비자",
+          "example": "Consumers pay higher prices.",
+          "example_ko": "소비자가 더 높은 가격을 내요.",
+          "note_ko": "반대는 producer(생산자)."
+        },
+        {
+          "lang": "fr",
+          "word": "un droit de douane",
+          "pos": "nom masculin",
+          "ko": "관세",
+          "example": "Un nouveau droit de douane.",
+          "example_ko": "새 관세예요.",
+          "note_ko": "보통 복수 les droits de douane. 줄여서 les douanes."
+        },
+        {
+          "lang": "fr",
+          "word": "proposer",
+          "pos": "verbe",
+          "ko": "제안하다",
+          "example": "Ils proposent de nouveaux droits.",
+          "example_ko": "그들은 새 관세를 제안해요.",
+          "note_ko": "une proposition = 제안."
+        },
+        {
+          "lang": "fr",
+          "word": "un partenaire commercial",
+          "pos": "nom masculin",
+          "ko": "교역 상대",
+          "example": "La Chine est un partenaire commercial.",
+          "example_ko": "중국은 교역 상대예요.",
+          "note_ko": "commerce = 무역·상업."
+        },
+        {
+          "lang": "fr",
+          "word": "un taux",
+          "pos": "nom masculin",
+          "ko": "세율, 비율",
+          "example": "Le taux est de 25 %.",
+          "example_ko": "세율은 25%예요.",
+          "note_ko": "un taux d'intérêt = 금리."
+        },
+        {
+          "lang": "fr",
+          "word": "entrer en vigueur",
+          "pos": "locution",
+          "ko": "시행되다",
+          "example": "La loi entre en vigueur en janvier.",
+          "example_ko": "그 법은 1월에 시행돼요.",
+          "note_ko": "en vigueur = 유효한. 반대는 abroger."
+        },
+        {
+          "lang": "fr",
+          "word": "invalider",
+          "pos": "verbe",
+          "ko": "무효로 하다",
+          "example": "La Cour invalide la loi.",
+          "example_ko": "법원이 그 법을 무효로 해요.",
+          "note_ko": "valide(유효한)의 반대 동사. 비슷한 말 annuler."
+        },
+        {
+          "lang": "fr",
+          "word": "une enquête",
+          "pos": "nom féminin",
+          "ko": "조사",
+          "example": "Une enquête formelle.",
+          "example_ko": "공식 조사예요.",
+          "note_ko": "ouvrir une enquête = 조사에 착수하다."
+        },
+        {
+          "lang": "fr",
+          "word": "équitable",
+          "pos": "adjectif",
+          "ko": "공정한",
+          "example": "Des conditions équitables.",
+          "example_ko": "공정한 조건이에요.",
+          "note_ko": "un commerce équitable = 공정무역. 명사 l'équité."
+        },
+        {
+          "lang": "fr",
+          "word": "un économiste",
+          "pos": "nom masculin",
+          "ko": "경제학자",
+          "example": "Les économistes sont inquiets.",
+          "example_ko": "경제학자들이 걱정해요.",
+          "note_ko": "여성형 une économiste."
+        },
+        {
+          "lang": "fr",
+          "word": "avertir",
+          "pos": "verbe",
+          "ko": "경고하다",
+          "example": "Ils avertissent d'un risque.",
+          "example_ko": "그들은 위험을 경고해요.",
+          "note_ko": "avertir qn de qch. un avertissement."
+        },
+        {
+          "lang": "fr",
+          "word": "faire monter",
+          "pos": "locution",
+          "ko": "끌어올리다",
+          "example": "Cela fait monter les prix.",
+          "example_ko": "그것은 물가를 끌어올려요.",
+          "note_ko": "monter = 오르다. faire monter = 올리다."
+        },
+        {
+          "lang": "fr",
+          "word": "répercuter",
+          "pos": "verbe",
+          "ko": "(비용을) 전가하다",
+          "example": "Ils répercutent les coûts.",
+          "example_ko": "그들은 비용을 전가해요.",
+          "note_ko": "répercuter A sur B. 명사 la répercussion."
+        },
+        {
+          "lang": "fr",
+          "word": "un consommateur",
+          "pos": "nom masculin",
+          "ko": "소비자",
+          "example": "Les consommateurs paient plus.",
+          "example_ko": "소비자가 더 내요.",
+          "note_ko": "반대는 un producteur."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "If new tariffs 'take effect', they…",
+          "choices": [
+            "start to apply",
+            "end",
+            "get cancelled"
+          ],
+          "answer": 0,
+          "explain_ko": "take effect = 시행되다."
+        },
+        {
+          "lang": "fr",
+          "q": "« Entrer en vigueur », c'est…",
+          "choices": [
+            "commencer à s'appliquer",
+            "se terminer",
+            "être annulé"
+          ],
+          "answer": 0,
+          "explain_ko": "entrer en vigueur = 시행되다."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
+          "accessed": "2026-11-26"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
+          "accessed": "2026-11-26"
+        },
+        {
+          "name": "France 24 / Le Monde / SCMP (summaries only)",
+          "url": "https://www.france24.com/en/americas/20261125-trump-announces-new-tariffs-eu-china-despite-us-midterms-defeat",
+          "accessed": "2026-11-26"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-26",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-25/fcee50f6891441c4.mp3",
+            "2026-11-25/e259f0d4b43dc4b1.mp3",
+            "2026-11-25/eef52af35c617ee8.mp3"
+          ],
+          "normal": [
+            "2026-11-25/c61354c213bf9878.mp3",
+            "2026-11-25/2e2a9b5e82afa940.mp3",
+            "2026-11-25/f4cf201d3becc6ed.mp3",
+            "2026-11-25/b1effe948f4849ab.mp3",
+            "2026-11-25/7508cd00ff64d355.mp3",
+            "2026-11-25/03e0dc22badf768c.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-25/06f0f26fc0ccba02.mp3",
+            "2026-11-25/d6b33c0c4af7e161.mp3",
+            "2026-11-25/56e46af107551ea5.mp3"
+          ],
+          "normal": [
+            "2026-11-25/d909eac4b081b9fb.mp3",
+            "2026-11-25/64d9066c15cc9418.mp3",
+            "2026-11-25/7d24ff27d476195f.mp3",
+            "2026-11-25/774ba34b65469630.mp3",
+            "2026-11-25/1b07b9ca5ca0a51e.mp3",
+            "2026-11-25/8a4c95354df8ed1c.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-25/c5ad558422decff0.mp3",
+          "2026-11-25/1a2268d201a0c5af.mp3",
+          "2026-11-25/1927c324ea3ca942.mp3",
+          "2026-11-25/d9008f7b6bb407db.mp3",
+          "2026-11-25/ca977f8fe4d3bc0f.mp3",
+          "2026-11-25/34012ebe96326b76.mp3",
+          "2026-11-25/483f91b8dc1e589c.mp3",
+          "2026-11-25/d1c48a5e89b1bbe5.mp3",
+          "2026-11-25/12aaa23885d8b2d7.mp3",
+          "2026-11-25/c836a82a57cef601.mp3",
+          "2026-11-25/4295918fa1f72245.mp3",
+          "2026-11-25/9a165f38bda6a2b8.mp3",
+          "2026-11-25/c3e09ab68997c82e.mp3",
+          "2026-11-25/025f67de8d77c911.mp3",
+          "2026-11-25/d9c5cd8a1432f328.mp3",
+          "2026-11-25/8e0e1b7462f1cbe7.mp3",
+          "2026-11-25/b2fe1a8f6b266ec4.mp3",
+          "2026-11-25/0b64f219e340aae4.mp3",
+          "2026-11-25/054a22a927bfe23e.mp3",
+          "2026-11-25/33f0522b40588d89.mp3",
+          "2026-11-25/3d8a62255b8685ce.mp3",
+          "2026-11-25/0ef087f49eab5ba2.mp3",
+          "2026-11-25/10bc2ec79331483e.mp3",
+          "2026-11-25/61f02b8c5cd0492e.mp3",
+          "2026-11-25/b0a36969943e2525.mp3",
+          "2026-11-25/15b0eb3ed9e05f29.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0,
+              0.083,
+              0.167,
+              0.25,
+              0.333,
+              0.417,
+              0.5,
+              0.583,
+              0.667,
+              0.833
+            ],
+            [
+              0,
+              0.333,
+              0.5,
+              0.667,
+              0.833
+            ],
+            [
+              0,
+              0.156,
+              0.311,
+              0.467,
+              0.622,
+              0.778
+            ]
+          ],
+          "normal": [
+            [
+              0,
+              0.029,
+              0.088,
+              0.118,
+              0.147,
+              0.206,
+              0.236,
+              0.295,
+              0.324,
+              0.383,
+              0.442,
+              0.537,
+              0.612,
+              0.694,
+              0.722,
+              0.805,
+              0.861,
+              0.916,
+              0.944
+            ],
+            [
+              0.054,
+              0.094,
+              0.115,
+              0.135,
+              0.155,
+              0.195,
+              0.232,
+              0.271,
+              0.311,
+              0.33,
+              0.35,
+              0.37,
+              0.455,
+              0.479,
+              0.526,
+              0.55,
+              0.574,
+              0.598,
+              0.621,
+              0.669,
+              0.693,
+              0.717,
+              0.74,
+              0.764,
+              0.812,
+              0.859,
+              0.883,
+              0.931,
+              0.954
+            ],
+            [
+              0.128,
+              0.179,
+              0.231,
+              0.334,
+              0.386,
+              0.438,
+              0.541,
+              0.593,
+              0.645,
+              0.748,
+              0.852,
+              0.903
+            ],
+            [
+              0.04,
+              0.053,
+              0.078,
+              0.091,
+              0.116,
+              0.128,
+              0.154,
+              0.166,
+              0.204,
+              0.216,
+              0.229,
+              0.242,
+              0.279,
+              0.304,
+              0.317,
+              0.342,
+              0.392,
+              0.405,
+              0.463,
+              0.481,
+              0.499,
+              0.59,
+              0.608,
+              0.626,
+              0.663,
+              0.681,
+              0.699,
+              0.717,
+              0.735,
+              0.771,
+              0.808,
+              0.844,
+              0.862,
+              0.898
+            ],
+            [
+              0.101,
+              0.132,
+              0.288,
+              0.382,
+              0.413,
+              0.444,
+              0.475,
+              0.538,
+              0.569,
+              0.631,
+              0.663,
+              0.694,
+              0.725,
+              0.756,
+              0.881
+            ],
+            [
+              0.059,
+              0.186,
+              0.311,
+              0.343,
+              0.374,
+              0.436,
+              0.468,
+              0.499,
+              0.53,
+              0.562,
+              0.593,
+              0.687,
+              0.718,
+              0.75,
+              0.812,
+              0.843,
+              0.875,
+              0.906
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.16,
+              0.2,
+              0.359,
+              0.399,
+              0.479,
+              0.518,
+              0.598,
+              0.638,
+              0.717
+            ],
+            [
+              0.189,
+              0.299,
+              0.41,
+              0.63,
+              0.741
+            ],
+            [
+              0.287,
+              0.356,
+              0.425,
+              0.703,
+              0.772
+            ]
+          ],
+          "normal": [
+            [
+              0.052,
+              0.072,
+              0.155,
+              0.176,
+              0.237,
+              0.258,
+              0.299,
+              0.32,
+              0.341,
+              0.361,
+              0.382,
+              0.423,
+              0.485,
+              0.582,
+              0.608,
+              0.634,
+              0.678,
+              0.725,
+              0.827,
+              0.848,
+              0.89,
+              0.911
+            ],
+            [
+              0.042,
+              0.058,
+              0.073,
+              0.12,
+              0.136,
+              0.151,
+              0.167,
+              0.183,
+              0.268,
+              0.325,
+              0.363,
+              0.382,
+              0.401,
+              0.476,
+              0.518,
+              0.539,
+              0.561,
+              0.603,
+              0.645,
+              0.666,
+              0.708,
+              0.751,
+              0.772,
+              0.793,
+              0.814,
+              0.835,
+              0.877,
+              0.898,
+              0.94
+            ],
+            [
+              0.154,
+              0.203,
+              0.251,
+              0.3,
+              0.398,
+              0.446,
+              0.544,
+              0.593,
+              0.69,
+              0.788,
+              0.836
+            ],
+            [
+              0.035,
+              0.048,
+              0.062,
+              0.075,
+              0.088,
+              0.102,
+              0.142,
+              0.155,
+              0.169,
+              0.182,
+              0.209,
+              0.222,
+              0.235,
+              0.289,
+              0.302,
+              0.329,
+              0.342,
+              0.355,
+              0.369,
+              0.382,
+              0.395,
+              0.449,
+              0.462,
+              0.492,
+              0.505,
+              0.53,
+              0.543,
+              0.592,
+              0.662,
+              0.69,
+              0.731,
+              0.745,
+              0.759,
+              0.773,
+              0.815,
+              0.829,
+              0.857,
+              0.884,
+              0.912,
+              0.926,
+              0.954
+            ],
+            [
+              0.056,
+              0.074,
+              0.144,
+              0.215,
+              0.233,
+              0.289,
+              0.377,
+              0.461,
+              0.481,
+              0.5,
+              0.519,
+              0.538,
+              0.577,
+              0.615,
+              0.634,
+              0.692,
+              0.711,
+              0.769,
+              0.788,
+              0.807,
+              0.865
+            ],
+            [
+              0.077,
+              0.099,
+              0.12,
+              0.207,
+              0.271,
+              0.293,
+              0.314,
+              0.336,
+              0.357,
+              0.379,
+              0.401,
+              0.422,
+              0.465,
+              0.487,
+              0.508,
+              0.53,
+              0.551,
+              0.616,
+              0.681,
+              0.702,
+              0.724,
+              0.81,
+              0.832,
+              0.853
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-25-02",
+      "category": "economy",
+      "region": {
+        "country": "GB",
+        "city": "London",
+        "lat": 51.51,
+        "lng": -0.13
+      },
+      "headline": {
+        "en": "UK Energy Bills to Rise 26% From January After Gas Prices Surge",
+        "ko": "영국 에너지 요금, 가스 가격 급등으로 1월부터 26% 인상",
+        "fr": "Les factures d'énergie britanniques vont bondir de 26 % en janvier après la flambée du gaz"
+      },
+      "hook": {
+        "en": "Why will UK energy bills jump in January?",
+        "ko": "영국 에너지 요금은 왜 1월에 뛸까요?",
+        "fr": "Pourquoi les factures d'énergie britanniques vont-elles bondir en janvier ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "UK energy bills will rise by about a quarter in January.",
+            "Gas prices have surged because of the war in Iran.",
+            "The government will give families some help."
+          ],
+          "easy_ko": [
+            "영국 에너지 요금이 1월에 약 4분의 1 오를 거예요.",
+            "이란 전쟁 때문에 가스 가격이 치솟았어요.",
+            "정부가 가정에 약간의 도움을 줄 거예요."
+          ],
+          "normal": [
+            "Energy bills in Great Britain will jump by 26 per cent from January after a surge in gas prices linked to the Iran war.",
+            "The regulator Ofgem said a typical household's annual bill would rise from £1,723 to £2,166 if the new level lasted a year.",
+            "Wholesale gas prices were up 33 per cent in the last three months and have more than doubled since late 2025.",
+            "The government will pay millions of households £100 from 4 January, on top of an existing cut in VAT on electricity.",
+            "Another scheme will take £150 off bills for six million households on benefits this winter.",
+            "Charities fear that debt will rise, and Citizens Advice warned of 'a brutal winter'."
+          ],
+          "normal_ko": [
+            "이란 전쟁과 관련된 가스 가격 급등 뒤 영국(그레이트브리튼)의 에너지 요금이 1월부터 26% 뜁니다.",
+            "규제기관 오프젬은 새 수준이 1년 이어지면 평균적인 가구의 연간 요금이 1,723파운드에서 2,166파운드로 오른다고 밝혔습니다.",
+            "도매 가스 가격은 최근 3개월 동안 33% 올랐고 2025년 말 이후 두 배 넘게 뛰었습니다.",
+            "정부는 1월 4일부터 수백만 가구에 100파운드를 지급하며, 이는 기존의 전기 부가세 인하에 더해지는 것입니다.",
+            "또 다른 제도로 올겨울 수급 가구 600만 곳의 요금에서 150파운드가 깎입니다.",
+            "자선단체들은 체납이 늘 것을 걱정하고, 시민상담소(Citizens Advice)는 '혹독한 겨울'을 경고했습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Les factures d'énergie britanniques vont monter d'environ un quart en janvier.",
+            "Les prix du gaz ont flambé à cause de la guerre en Iran.",
+            "Le gouvernement va donner un peu d'aide aux familles."
+          ],
+          "normal": [
+            "Les factures d'énergie en Grande-Bretagne vont bondir de 26 % à partir de janvier après une flambée des prix du gaz liée à la guerre en Iran.",
+            "Le régulateur Ofgem indique que la facture annuelle d'un ménage typique passerait de 1 723 £ à 2 166 £ si ce niveau durait un an.",
+            "Les prix de gros du gaz ont augmenté de 33 % en trois mois et ont plus que doublé depuis la fin de 2025.",
+            "Le gouvernement versera 100 £ à des millions de foyers à partir du 4 janvier, en plus d'une baisse existante de la TVA sur l'électricité.",
+            "Un autre dispositif retirera 150 £ des factures de six millions de foyers qui touchent des aides cet hiver.",
+            "Des associations craignent une hausse des impayés, et Citizens Advice a averti d'un « hiver brutal »."
+          ],
+          "normal_ko": [
+            "이란 전쟁과 관련된 가스 가격 급등 뒤 영국(그레이트브리튼)의 에너지 요금이 1월부터 26% 뜁니다.",
+            "규제기관 오프젬은 새 수준이 1년 이어지면 평균적인 가구의 연간 요금이 1,723파운드에서 2,166파운드로 오른다고 밝혔습니다.",
+            "도매 가스 가격은 최근 3개월 동안 33% 올랐고 2025년 말 이후 두 배 넘게 뛰었습니다.",
+            "정부는 1월 4일부터 수백만 가구에 100파운드를 지급하며, 이는 기존의 전기 부가세 인하에 더해지는 것입니다.",
+            "또 다른 제도로 올겨울 수급 가구 600만 곳의 요금에서 150파운드가 깎입니다.",
+            "자선단체들은 체납이 늘 것을 걱정하고, 시민상담소(Citizens Advice)는 '혹독한 겨울'을 경고했습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "영국은 가정용 에너지 요금에 상한(price cap)이 있고, 규제기관 오프젬이 석 달마다 새로 정해요. 이번 인상은 요금이 오르는 게 아니라 '상한'이 오르는 것이라, 사용량에 따라 실제 부담은 달라집니다. 이 기사에서는 오프젬이 이란 전쟁으로 도매 가스 가격이 크게 오른 것이 원인이라고 설명했어요. 한국 독자에게는 에너지 가격이 생활비에 바로 닿는 뉴스로 읽을 수 있습니다. 본문은 BBC를 읽었고 다른 매체는 제목으로 수치를 확인했어요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "surge",
+          "pos": "noun",
+          "ko": "급등",
+          "example": "A surge in gas prices.",
+          "example_ko": "가스 가격 급등이에요.",
+          "note_ko": "동사로도 써요: prices surged. jump, spike와 비슷."
+        },
+        {
+          "lang": "en",
+          "word": "regulator",
+          "pos": "noun",
+          "ko": "규제기관",
+          "example": "The regulator sets the cap.",
+          "example_ko": "규제기관이 상한을 정해요.",
+          "note_ko": "동사 regulate. 영국의 Ofgem은 에너지 규제기관."
+        },
+        {
+          "lang": "en",
+          "word": "typical",
+          "pos": "adjective",
+          "ko": "전형적인, 평균적인",
+          "example": "A typical household uses less.",
+          "example_ko": "평균적인 가구는 덜 써요.",
+          "note_ko": "typical of ~ = ~다운. 부사 typically."
+        },
+        {
+          "lang": "en",
+          "word": "household",
+          "pos": "noun",
+          "ko": "가구, 세대",
+          "example": "Millions of households will pay more.",
+          "example_ko": "수백만 가구가 더 내요.",
+          "note_ko": "household bills = 가계 공과금."
+        },
+        {
+          "lang": "en",
+          "word": "annual",
+          "pos": "adjective",
+          "ko": "연간의",
+          "example": "The annual bill is higher.",
+          "example_ko": "연간 요금이 더 높아요.",
+          "note_ko": "annual = 매년. 반대 느낌은 monthly."
+        },
+        {
+          "lang": "en",
+          "word": "wholesale",
+          "pos": "adjective",
+          "ko": "도매의",
+          "example": "Wholesale prices rose.",
+          "example_ko": "도매 가격이 올랐어요.",
+          "note_ko": "반대는 retail(소매)."
+        },
+        {
+          "lang": "en",
+          "word": "double",
+          "pos": "verb",
+          "ko": "두 배가 되다",
+          "example": "Prices more than doubled.",
+          "example_ko": "가격이 두 배 넘게 뛰었어요.",
+          "note_ko": "more than doubled = 두 배 이상."
+        },
+        {
+          "lang": "en",
+          "word": "on top of",
+          "pos": "phrase",
+          "ko": "~에 더하여",
+          "example": "£100 on top of the VAT cut.",
+          "example_ko": "부가세 인하에 더해 100파운드예요.",
+          "note_ko": "in addition to와 비슷."
+        },
+        {
+          "lang": "en",
+          "word": "cut",
+          "pos": "noun",
+          "ko": "삭감, 인하",
+          "example": "A VAT cut on electricity.",
+          "example_ko": "전기에 대한 부가세 인하예요.",
+          "note_ko": "tax cut = 세금 인하. 동사도 cut."
+        },
+        {
+          "lang": "en",
+          "word": "benefit",
+          "pos": "noun",
+          "ko": "수당, 혜택",
+          "example": "Households on benefits get help.",
+          "example_ko": "수당을 받는 가구가 도움을 받아요.",
+          "note_ko": "영국에서 benefits는 복지 수당. 복수로 써요."
+        },
+        {
+          "lang": "en",
+          "word": "charity",
+          "pos": "noun",
+          "ko": "자선단체",
+          "example": "Charities expect more debt.",
+          "example_ko": "자선단체들은 빚이 늘 거라 봐요.",
+          "note_ko": "charity = 자선. 영국에서 자선단체 이름에도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "debt",
+          "pos": "noun",
+          "ko": "빚, 체납",
+          "example": "Debt will rise.",
+          "example_ko": "빚이 늘 거예요.",
+          "note_ko": "b는 발음하지 않아요 [뎃]. in debt = 빚진."
+        },
+        {
+          "lang": "en",
+          "word": "brutal",
+          "pos": "adjective",
+          "ko": "혹독한",
+          "example": "A brutal winter.",
+          "example_ko": "혹독한 겨울이에요.",
+          "note_ko": "원래 '잔혹한'. 날씨·경쟁 등에 과장해 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "une flambée",
+          "pos": "nom féminin",
+          "ko": "급등",
+          "example": "Une flambée des prix du gaz.",
+          "example_ko": "가스 가격 급등이에요.",
+          "note_ko": "flamber = 활활 타오르다. 가격에 비유."
+        },
+        {
+          "lang": "fr",
+          "word": "un régulateur",
+          "pos": "nom masculin",
+          "ko": "규제기관",
+          "example": "Le régulateur fixe le plafond.",
+          "example_ko": "규제기관이 상한을 정해요.",
+          "note_ko": "réguler = 조절하다."
+        },
+        {
+          "lang": "fr",
+          "word": "typique",
+          "pos": "adjectif",
+          "ko": "전형적인",
+          "example": "Un ménage typique.",
+          "example_ko": "평균적인 가구예요.",
+          "note_ko": "남녀 형태가 같아요."
+        },
+        {
+          "lang": "fr",
+          "word": "un ménage",
+          "pos": "nom masculin",
+          "ko": "가구",
+          "example": "Des millions de ménages.",
+          "example_ko": "수백만 가구예요.",
+          "note_ko": "통계에서 '가구'를 말해요. 가사(le ménage)도 같은 단어."
+        },
+        {
+          "lang": "fr",
+          "word": "annuel",
+          "pos": "adjectif",
+          "ko": "연간의",
+          "example": "Une facture annuelle.",
+          "example_ko": "연간 요금이에요.",
+          "note_ko": "여성형 annuelle. un an = 1년."
+        },
+        {
+          "lang": "fr",
+          "word": "de gros",
+          "pos": "locution",
+          "ko": "도매의",
+          "example": "Les prix de gros.",
+          "example_ko": "도매 가격이에요.",
+          "note_ko": "반대는 de détail(소매)."
+        },
+        {
+          "lang": "fr",
+          "word": "doubler",
+          "pos": "verbe",
+          "ko": "두 배가 되다",
+          "example": "Les prix ont plus que doublé.",
+          "example_ko": "가격이 두 배 넘게 뛰었어요.",
+          "note_ko": "le double = 두 배."
+        },
+        {
+          "lang": "fr",
+          "word": "en plus de",
+          "pos": "locution",
+          "ko": "~에 더하여",
+          "example": "En plus de la baisse de TVA.",
+          "example_ko": "부가세 인하에 더해서예요.",
+          "note_ko": "비슷한 말 en outre, en plus."
+        },
+        {
+          "lang": "fr",
+          "word": "une baisse",
+          "pos": "nom féminin",
+          "ko": "인하, 하락",
+          "example": "Une baisse de la TVA.",
+          "example_ko": "부가세 인하예요.",
+          "note_ko": "baisser = 내리다. 반대는 une hausse."
+        },
+        {
+          "lang": "fr",
+          "word": "une aide",
+          "pos": "nom féminin",
+          "ko": "지원, 수당",
+          "example": "Les ménages qui touchent des aides.",
+          "example_ko": "수당을 받는 가구예요.",
+          "note_ko": "toucher une aide = 지원금을 받다."
+        },
+        {
+          "lang": "fr",
+          "word": "une association",
+          "pos": "nom féminin",
+          "ko": "협회, 단체",
+          "example": "Des associations craignent le pire.",
+          "example_ko": "단체들이 최악을 걱정해요.",
+          "note_ko": "비영리 단체를 가리켜요."
+        },
+        {
+          "lang": "fr",
+          "word": "un impayé",
+          "pos": "nom masculin",
+          "ko": "미납, 체납",
+          "example": "Les impayés augmentent.",
+          "example_ko": "체납이 늘어요.",
+          "note_ko": "payer = 내다. 형용사형 impayé(미납된)."
+        },
+        {
+          "lang": "fr",
+          "word": "brutal",
+          "pos": "adjectif",
+          "ko": "혹독한, 갑작스러운",
+          "example": "Un hiver brutal.",
+          "example_ko": "혹독한 겨울이에요.",
+          "note_ko": "여성형 brutale. 남성 복수 brutaux."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "A 'surge' in prices is…",
+          "choices": [
+            "a sudden sharp rise",
+            "a slow fall",
+            "no change"
+          ],
+          "answer": 0,
+          "explain_ko": "surge = 급등."
+        },
+        {
+          "lang": "fr",
+          "q": "Une « flambée » des prix, c'est…",
+          "choices": [
+            "une hausse brutale",
+            "une baisse lente",
+            "aucun changement"
+          ],
+          "answer": 0,
+          "explain_ko": "flambée = 급등."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o",
+          "accessed": "2026-11-26"
+        },
+        {
+          "name": "BBC News (price cap explainer)",
+          "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo",
+          "accessed": "2026-11-26"
+        },
+        {
+          "name": "Guardian / Times / FT / Independent (headlines only)",
+          "url": "https://news.google.com/search?q=Ofgem+energy+price+cap+January&hl=en-GB&gl=GB&ceid=GB:en",
+          "accessed": "2026-11-26"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-26",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-25/457bbd10e3805e7a.mp3",
+            "2026-11-25/0e8e0070de952eda.mp3",
+            "2026-11-25/f9156b837a5e3563.mp3"
+          ],
+          "normal": [
+            "2026-11-25/4e2c8694d90d344d.mp3",
+            "2026-11-25/05710df4af740e9d.mp3",
+            "2026-11-25/2b3ff441b5966f34.mp3",
+            "2026-11-25/8dc81ac47ae450ef.mp3",
+            "2026-11-25/67d389943568d881.mp3",
+            "2026-11-25/01fea7f8f7b04080.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-25/399bf98a6fcbfca5.mp3",
+            "2026-11-25/5cdbd19a5af53642.mp3",
+            "2026-11-25/a235ed608906c790.mp3"
+          ],
+          "normal": [
+            "2026-11-25/27c75efb7e6e7b75.mp3",
+            "2026-11-25/5e25220c1fd26b4e.mp3",
+            "2026-11-25/1c0e687561dd9cb7.mp3",
+            "2026-11-25/0f2b7bdee15abad9.mp3",
+            "2026-11-25/302883ccb13d4ce3.mp3",
+            "2026-11-25/6eb8d50709e0f997.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-25/dca8ff4da87c60e6.mp3",
+          "2026-11-25/d05411000454853c.mp3",
+          "2026-11-25/53eff30be17296d9.mp3",
+          "2026-11-25/30bbfdef17f7518e.mp3",
+          "2026-11-25/7b3d45e4248b0ba9.mp3",
+          "2026-11-25/0d1e197571c7b54c.mp3",
+          "2026-11-25/c9661c400245baf3.mp3",
+          "2026-11-25/4137fa4dbf641c17.mp3",
+          "2026-11-25/a5eeee901cd8b3b9.mp3",
+          "2026-11-25/40718b603ad85612.mp3",
+          "2026-11-25/dfc08b3c685c4e0b.mp3",
+          "2026-11-25/104a25b03b234ba9.mp3",
+          "2026-11-25/62796b13293a1134.mp3",
+          "2026-11-25/7a7df71d33987d56.mp3",
+          "2026-11-25/7872b6927cbe5ac1.mp3",
+          "2026-11-25/cdb82a88e29e74c7.mp3",
+          "2026-11-25/42825b68e5d368e2.mp3",
+          "2026-11-25/25766b43bd154eaf.mp3",
+          "2026-11-25/297699667228a7cb.mp3",
+          "2026-11-25/539de0756ad8cef1.mp3",
+          "2026-11-25/13aaa639a8e46afa.mp3",
+          "2026-11-25/8d24950274a1bf9c.mp3",
+          "2026-11-25/98a52bf1857914fc.mp3",
+          "2026-11-25/61cee4a6581b63a6.mp3",
+          "2026-11-25/304c72563a11d6b5.mp3",
+          "2026-11-25/f1130010dd05e744.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0,
+              0.056,
+              0.223,
+              0.279,
+              0.334,
+              0.39,
+              0.446,
+              0.557,
+              0.613,
+              0.724,
+              0.78
+            ],
+            [
+              0,
+              0.083,
+              0.167,
+              0.25,
+              0.333,
+              0.5,
+              0.583,
+              0.667,
+              0.75,
+              0.833
+            ],
+            [
+              0,
+              0.091,
+              0.364,
+              0.455,
+              0.545,
+              0.818,
+              0.909
+            ]
+          ],
+          "normal": [
+            [
+              0.053,
+              0.139,
+              0.167,
+              0.196,
+              0.224,
+              0.282,
+              0.31,
+              0.339,
+              0.367,
+              0.424,
+              0.453,
+              0.482,
+              0.51,
+              0.596,
+              0.653,
+              0.682,
+              0.71,
+              0.739,
+              0.767,
+              0.796,
+              0.824,
+              0.853,
+              0.881,
+              0.939
+            ],
+            [
+              0,
+              0.028,
+              0.139,
+              0.194,
+              0.222,
+              0.25,
+              0.333,
+              0.417,
+              0.472,
+              0.5,
+              0.528,
+              0.556,
+              0.583,
+              0.667,
+              0.694,
+              0.778,
+              0.806,
+              0.833,
+              0.861,
+              0.917,
+              0.944,
+              0.972
+            ],
+            [
+              0.037,
+              0.143,
+              0.179,
+              0.214,
+              0.25,
+              0.285,
+              0.356,
+              0.392,
+              0.427,
+              0.462,
+              0.498,
+              0.533,
+              0.569,
+              0.604,
+              0.64,
+              0.675,
+              0.711,
+              0.746,
+              0.781,
+              0.817,
+              0.852
+            ],
+            [
+              0.079,
+              0.1,
+              0.164,
+              0.185,
+              0.206,
+              0.248,
+              0.269,
+              0.333,
+              0.375,
+              0.397,
+              0.418,
+              0.498,
+              0.528,
+              0.558,
+              0.588,
+              0.618,
+              0.709,
+              0.739,
+              0.769,
+              0.799,
+              0.83
+            ],
+            [
+              0,
+              0.125,
+              0.167,
+              0.208,
+              0.25,
+              0.333,
+              0.375,
+              0.417,
+              0.458,
+              0.5,
+              0.583,
+              0.708,
+              0.75,
+              0.875,
+              0.917
+            ],
+            [
+              0.077,
+              0.196,
+              0.236,
+              0.276,
+              0.316,
+              0.355,
+              0.444,
+              0.484,
+              0.601,
+              0.68,
+              0.719,
+              0.758,
+              0.798,
+              0.876
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.173,
+              0.207,
+              0.276,
+              0.379,
+              0.516,
+              0.55,
+              0.619,
+              0.722,
+              0.756,
+              0.791,
+              0.825
+            ],
+            [
+              0.134,
+              0.187,
+              0.24,
+              0.293,
+              0.346,
+              0.399,
+              0.505,
+              0.558,
+              0.611,
+              0.664,
+              0.717,
+              0.77,
+              0.823
+            ],
+            [
+              0.216,
+              0.264,
+              0.411,
+              0.46,
+              0.557,
+              0.606,
+              0.655,
+              0.703,
+              0.752
+            ]
+          ],
+          "normal": [
+            [
+              0.031,
+              0.055,
+              0.103,
+              0.174,
+              0.198,
+              0.293,
+              0.317,
+              0.364,
+              0.388,
+              0.436,
+              0.46,
+              0.483,
+              0.531,
+              0.555,
+              0.602,
+              0.65,
+              0.674,
+              0.721,
+              0.745,
+              0.769,
+              0.793,
+              0.816,
+              0.84,
+              0.864,
+              0.888,
+              0.911,
+              0.935
+            ],
+            [
+              0.073,
+              0.093,
+              0.174,
+              0.215,
+              0.276,
+              0.296,
+              0.316,
+              0.357,
+              0.398,
+              0.418,
+              0.459,
+              0.519,
+              0.58,
+              0.601,
+              0.621,
+              0.661,
+              0.682,
+              0.702,
+              0.722,
+              0.763,
+              0.783,
+              0.803,
+              0.824,
+              0.864,
+              0.905,
+              0.925
+            ],
+            [
+              0.069,
+              0.097,
+              0.126,
+              0.155,
+              0.184,
+              0.213,
+              0.241,
+              0.27,
+              0.357,
+              0.385,
+              0.443,
+              0.472,
+              0.501,
+              0.53,
+              0.558,
+              0.587,
+              0.616,
+              0.645,
+              0.674,
+              0.731,
+              0.789,
+              0.818,
+              0.846,
+              0.875
+            ],
+            [
+              0.071,
+              0.092,
+              0.156,
+              0.22,
+              0.263,
+              0.284,
+              0.306,
+              0.327,
+              0.37,
+              0.391,
+              0.413,
+              0.434,
+              0.477,
+              0.498,
+              0.519,
+              0.606,
+              0.629,
+              0.652,
+              0.675,
+              0.698,
+              0.767,
+              0.79,
+              0.813,
+              0.836,
+              0.859
+            ],
+            [
+              0.081,
+              0.111,
+              0.141,
+              0.263,
+              0.384,
+              0.444,
+              0.475,
+              0.505,
+              0.566,
+              0.596,
+              0.626,
+              0.687,
+              0.717,
+              0.747,
+              0.778,
+              0.808,
+              0.838,
+              0.868,
+              0.899
+            ],
+            [
+              0.052,
+              0.086,
+              0.22,
+              0.253,
+              0.287,
+              0.32,
+              0.354,
+              0.475,
+              0.503,
+              0.589,
+              0.645,
+              0.674,
+              0.759,
+              0.788,
+              0.816,
+              0.873,
+              0.93
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-25-03",
+      "category": "science",
+      "region": {
+        "country": "CN",
+        "city": "Jiuquan",
+        "lat": 40.96,
+        "lng": 100.28
+      },
+      "headline": {
+        "en": "China Launches Shenzhou-24 Carrying First Foreign Astronaut, From Pakistan",
+        "ko": "중국, 선저우 24호 발사…파키스탄인이 자국 우주정거장에 첫 외국인 비행사로 탑승",
+        "fr": "La Chine lance Shenzhou-24 avec à bord le premier astronaute étranger, un Pakistanais"
+      },
+      "hook": {
+        "en": "Who is the first foreigner on China's space station?",
+        "ko": "중국 우주정거장에 간 첫 외국인은 누굴까요?",
+        "fr": "Qui est le premier étranger dans la station spatiale chinoise ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "China launched a rocket with three astronauts.",
+            "One of them is from Pakistan.",
+            "He is the first foreigner at China's space station."
+          ],
+          "easy_ko": [
+            "중국이 우주비행사 세 명을 태운 로켓을 쐈어요.",
+            "그중 한 명은 파키스탄 사람이에요.",
+            "그는 중국 우주정거장에 간 첫 외국인이에요."
+          ],
+          "normal": [
+            "China has launched Shenzhou-24, a crewed mission that carries the first foreign astronaut to its Tiangong space station.",
+            "The foreigner is Muhammad Zeeshan Ali, a Pakistani former fighter pilot, who said he carries the hopes of 250 million Pakistanis.",
+            "After arriving, he floated through the hatch and was welcomed in what China called its first foreign 'space handshake'.",
+            "Ali will study bacteria and seeds in microgravity and radiation, and he will return to Earth after a short stay.",
+            "Two Chinese crew members will stay for six months and study how space affects ageing.",
+            "Beijing says the flight marks the globalisation of its space programme, as the International Space Station is due to end operations from 2030."
+          ],
+          "normal_ko": [
+            "중국이 자국 우주정거장 톈궁에 첫 외국인 우주비행사를 태운 유인 임무 선저우 24호를 발사했습니다.",
+            "외국인은 파키스탄의 전직 전투기 조종사 무함마드 지샨 알리로, 파키스탄 2억 5천만 명의 희망을 안고 간다고 말했습니다.",
+            "정거장에 도착한 그는 둥둥 떠서 해치를 지나 들어갔고, 중국이 '첫 외국인과의 우주 악수'라고 부른 환영을 받았습니다.",
+            "알리는 미세중력과 방사선 속에서 박테리아와 씨앗을 연구하고, 짧은 체류 뒤 지구로 돌아옵니다.",
+            "중국인 승무원 두 명은 6개월 머물며 우주가 노화에 미치는 영향을 연구합니다.",
+            "베이징은 국제우주정거장이 2030년부터 운영을 끝낼 예정인 가운데, 이번 비행이 중국 우주 프로그램의 국제화를 보여 준다고 밝혔습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "La Chine a lancé une fusée avec trois astronautes.",
+            "L'un d'eux vient du Pakistan.",
+            "C'est le premier étranger dans la station spatiale chinoise."
+          ],
+          "normal": [
+            "La Chine a lancé Shenzhou-24, une mission habitée qui emmène le premier astronaute étranger vers sa station spatiale Tiangong.",
+            "L'étranger est Muhammad Zeeshan Ali, un ancien pilote de chasse pakistanais, qui dit porter les espoirs de 250 millions de Pakistanais.",
+            "À son arrivée, il est entré en flottant par l'écoutille et a été accueilli par ce que la Chine appelle sa première « poignée de main spatiale » avec un étranger.",
+            "Ali étudiera des bactéries et des graines en microgravité et sous rayonnement, puis rentrera sur Terre après un court séjour.",
+            "Deux membres chinois de l'équipage resteront six mois et étudieront les effets de l'espace sur le vieillissement.",
+            "Pékin y voit la mondialisation de son programme spatial, alors que la Station spatiale internationale doit cesser ses activités à partir de 2030."
+          ],
+          "normal_ko": [
+            "중국이 자국 우주정거장 톈궁에 첫 외국인 우주비행사를 태운 유인 임무 선저우 24호를 발사했습니다.",
+            "외국인은 파키스탄의 전직 전투기 조종사 무함마드 지샨 알리로, 파키스탄 2억 5천만 명의 희망을 안고 간다고 말했습니다.",
+            "정거장에 도착한 그는 둥둥 떠서 해치를 지나 들어갔고, 중국이 '첫 외국인과의 우주 악수'라고 부른 환영을 받았습니다.",
+            "알리는 미세중력과 방사선 속에서 박테리아와 씨앗을 연구하고, 짧은 체류 뒤 지구로 돌아옵니다.",
+            "중국인 승무원 두 명은 6개월 머물며 우주가 노화에 미치는 영향을 연구합니다.",
+            "베이징은 국제우주정거장이 2030년부터 운영을 끝낼 예정인 가운데, 이번 비행이 중국 우주 프로그램의 국제화를 보여 준다고 밝혔습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "톈궁(Tiangong)은 중국이 운영하는 우주정거장이에요. 지금까지 국제우주정거장(ISS)에는 여러 나라 우주비행사가 갔지만, 톈궁에 외국인이 탄 것은 이번이 처음입니다. 알리는 짧은 체류 뒤 돌아오고, 기존 중국 승무원 중 두 명이 6개월 머뭅니다. 파키스탄과 중국은 우주 협력 75년을 기념한다고 BBC가 전했어요. 본문은 BBC와 Guardian을 읽었고 France 24, SCMP는 제목·요약으로 확인했습니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "launch",
+          "pos": "verb",
+          "ko": "발사하다",
+          "example": "China launched a rocket.",
+          "example_ko": "중국이 로켓을 발사했어요.",
+          "note_ko": "명사 launch(발사). 신제품 출시에도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "crewed",
+          "pos": "adjective",
+          "ko": "사람이 탄, 유인의",
+          "example": "A crewed mission.",
+          "example_ko": "유인 임무예요.",
+          "note_ko": "반대는 uncrewed(무인). 예전 manned를 대체."
+        },
+        {
+          "lang": "en",
+          "word": "foreign",
+          "pos": "adjective",
+          "ko": "외국의",
+          "example": "The first foreign astronaut.",
+          "example_ko": "첫 외국인 우주비행사예요.",
+          "note_ko": "명사 foreigner. foreign ministry = 외교부."
+        },
+        {
+          "lang": "en",
+          "word": "fighter pilot",
+          "pos": "noun",
+          "ko": "전투기 조종사",
+          "example": "He was a fighter pilot.",
+          "example_ko": "그는 전투기 조종사였어요.",
+          "note_ko": "fighter = 전투기. pilot = 조종사."
+        },
+        {
+          "lang": "en",
+          "word": "hope",
+          "pos": "noun",
+          "ko": "희망, 기대",
+          "example": "He carries the hopes of millions.",
+          "example_ko": "그는 수백만의 희망을 안고 있어요.",
+          "note_ko": "복수형 hopes는 '기대'. 동사도 hope."
+        },
+        {
+          "lang": "en",
+          "word": "hatch",
+          "pos": "noun",
+          "ko": "(우주선의) 출입구, 해치",
+          "example": "He floated through the hatch.",
+          "example_ko": "그는 해치를 떠서 지나갔어요.",
+          "note_ko": "'알을 깨고 나오다(hatch)'와 같은 철자."
+        },
+        {
+          "lang": "en",
+          "word": "microgravity",
+          "pos": "noun",
+          "ko": "미세중력",
+          "example": "Plants grow differently in microgravity.",
+          "example_ko": "식물은 미세중력에서 다르게 자라요.",
+          "note_ko": "micro(아주 작은)+gravity. 우주정거장 환경."
+        },
+        {
+          "lang": "en",
+          "word": "radiation",
+          "pos": "noun",
+          "ko": "방사선",
+          "example": "Space has strong radiation.",
+          "example_ko": "우주에는 강한 방사선이 있어요.",
+          "note_ko": "sun radiation = 태양 복사. 발음 [레이디에이션]."
+        },
+        {
+          "lang": "en",
+          "word": "seed",
+          "pos": "noun",
+          "ko": "씨앗",
+          "example": "They study seeds in space.",
+          "example_ko": "그들은 우주에서 씨앗을 연구해요.",
+          "note_ko": "동사로 '씨를 뿌리다'도 돼요."
+        },
+        {
+          "lang": "en",
+          "word": "crew",
+          "pos": "noun",
+          "ko": "승무원, 팀",
+          "example": "Two crew members will stay.",
+          "example_ko": "승무원 두 명이 남아요.",
+          "note_ko": "crew member = 승무원 한 명. 집합 명사."
+        },
+        {
+          "lang": "en",
+          "word": "ageing",
+          "pos": "noun",
+          "ko": "노화",
+          "example": "Space affects ageing.",
+          "example_ko": "우주는 노화에 영향을 줘요.",
+          "note_ko": "미국식 aging. 동사 age."
+        },
+        {
+          "lang": "en",
+          "word": "globalisation",
+          "pos": "noun",
+          "ko": "세계화, 국제화",
+          "example": "The globalisation of space.",
+          "example_ko": "우주 분야의 국제화예요.",
+          "note_ko": "미국식 globalization. 동사 globalise."
+        },
+        {
+          "lang": "en",
+          "word": "due to",
+          "pos": "phrase",
+          "ko": "~할 예정인",
+          "example": "The station is due to close in 2030.",
+          "example_ko": "그 정거장은 2030년에 닫을 예정이에요.",
+          "note_ko": "be due to + 동사 = ~할 예정. 'due to + 명사'는 ~ 때문에."
+        },
+        {
+          "lang": "fr",
+          "word": "lancer",
+          "pos": "verbe",
+          "ko": "발사하다",
+          "example": "La Chine a lancé une fusée.",
+          "example_ko": "중국이 로켓을 발사했어요.",
+          "note_ko": "un lancement = 발사."
+        },
+        {
+          "lang": "fr",
+          "word": "habité",
+          "pos": "adjectif",
+          "ko": "유인의, 사람이 사는",
+          "example": "Une mission habitée.",
+          "example_ko": "유인 임무예요.",
+          "note_ko": "반대는 inhabité(무인)."
+        },
+        {
+          "lang": "fr",
+          "word": "étranger",
+          "pos": "nom/adjectif",
+          "ko": "외국인, 외국의",
+          "example": "Le premier étranger dans l'espace.",
+          "example_ko": "우주에 간 첫 외국인이에요.",
+          "note_ko": "à l'étranger = 해외에서."
+        },
+        {
+          "lang": "fr",
+          "word": "un pilote de chasse",
+          "pos": "nom masculin",
+          "ko": "전투기 조종사",
+          "example": "Un ancien pilote de chasse.",
+          "example_ko": "전직 전투기 조종사예요.",
+          "note_ko": "un avion de chasse = 전투기."
+        },
+        {
+          "lang": "fr",
+          "word": "un espoir",
+          "pos": "nom masculin",
+          "ko": "희망",
+          "example": "Les espoirs de tout un pays.",
+          "example_ko": "온 나라의 희망이에요.",
+          "note_ko": "espérer = 바라다."
+        },
+        {
+          "lang": "fr",
+          "word": "une écoutille",
+          "pos": "nom féminin",
+          "ko": "출입구(해치)",
+          "example": "Il passe par l'écoutille.",
+          "example_ko": "그는 해치를 통과해요.",
+          "note_ko": "배·우주선의 출입구."
+        },
+        {
+          "lang": "fr",
+          "word": "la microgravité",
+          "pos": "nom féminin",
+          "ko": "미세중력",
+          "example": "Des plantes en microgravité.",
+          "example_ko": "미세중력의 식물이에요.",
+          "note_ko": "la gravité = 중력."
+        },
+        {
+          "lang": "fr",
+          "word": "le rayonnement",
+          "pos": "nom masculin",
+          "ko": "방사선, 복사",
+          "example": "Le rayonnement est fort.",
+          "example_ko": "방사선이 강해요.",
+          "note_ko": "rayon = 광선. 영향력(rayonnement)도 뜻해요."
+        },
+        {
+          "lang": "fr",
+          "word": "une graine",
+          "pos": "nom féminin",
+          "ko": "씨앗",
+          "example": "Il étudie des graines.",
+          "example_ko": "그는 씨앗을 연구해요.",
+          "note_ko": "semer = 씨를 뿌리다."
+        },
+        {
+          "lang": "fr",
+          "word": "un équipage",
+          "pos": "nom masculin",
+          "ko": "승무원, 팀",
+          "example": "L'équipage reste six mois.",
+          "example_ko": "승무원이 6개월 머물러요.",
+          "note_ko": "un membre d'équipage = 승무원 한 명."
+        },
+        {
+          "lang": "fr",
+          "word": "le vieillissement",
+          "pos": "nom masculin",
+          "ko": "노화",
+          "example": "Le vieillissement de la population.",
+          "example_ko": "인구 고령화예요.",
+          "note_ko": "vieillir = 늙다."
+        },
+        {
+          "lang": "fr",
+          "word": "la mondialisation",
+          "pos": "nom féminin",
+          "ko": "세계화",
+          "example": "La mondialisation du spatial.",
+          "example_ko": "우주 분야의 세계화예요.",
+          "note_ko": "mondial = 세계의. 영어 globalisation."
+        },
+        {
+          "lang": "fr",
+          "word": "cesser",
+          "pos": "verbe",
+          "ko": "그만두다, 멈추다",
+          "example": "La station doit cesser ses activités.",
+          "example_ko": "그 정거장은 운영을 멈춰야 해요.",
+          "note_ko": "cesser de + 동사원형. sans cesse = 끊임없이."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "'Microgravity' means…",
+          "choices": [
+            "very weak gravity",
+            "very strong gravity",
+            "no air"
+          ],
+          "answer": 0,
+          "explain_ko": "microgravity = 아주 약한 중력."
+        },
+        {
+          "lang": "fr",
+          "q": "La « microgravité », c'est…",
+          "choices": [
+            "une gravité très faible",
+            "une gravité très forte",
+            "l'absence d'air"
+          ],
+          "answer": 0,
+          "explain_ko": "microgravité = 아주 약한 중력."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o",
+          "accessed": "2026-11-26"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space",
+          "accessed": "2026-11-26"
+        },
+        {
+          "name": "France 24 / SCMP (summaries only)",
+          "url": "https://www.france24.com/en/video/20261125-historic-space-mission-china-launches-shenzhou-24-spacecraft-carrying-pakistani-astronaut",
+          "accessed": "2026-11-26"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-26",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-25/b47513b45a459929.mp3",
+            "2026-11-25/cd3ae92a5e7ec275.mp3",
+            "2026-11-25/317de7195f47e951.mp3"
+          ],
+          "normal": [
+            "2026-11-25/c65f60cf9df70fec.mp3",
+            "2026-11-25/534313482750983b.mp3",
+            "2026-11-25/0b196334afa3c937.mp3",
+            "2026-11-25/470a4e28259f4572.mp3",
+            "2026-11-25/e146c451f6d34a63.mp3",
+            "2026-11-25/7a34970100f9f59e.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-25/4aa08f962454a46d.mp3",
+            "2026-11-25/64c908d9d6b01f24.mp3",
+            "2026-11-25/d33e9061ac5c1859.mp3"
+          ],
+          "normal": [
+            "2026-11-25/9070becb600ec51e.mp3",
+            "2026-11-25/bcac95d9fec7696a.mp3",
+            "2026-11-25/192d49d3b521732d.mp3",
+            "2026-11-25/73bf391569460d7a.mp3",
+            "2026-11-25/d8bf430035821fe4.mp3",
+            "2026-11-25/306ef50c787b7e94.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-25/3e5bb35c75561583.mp3",
+          "2026-11-25/81c9f5e5b1d83bd3.mp3",
+          "2026-11-25/871273fa9b85f27f.mp3",
+          "2026-11-25/af698aeaa4b8d686.mp3",
+          "2026-11-25/a12cbb10b77d056c.mp3",
+          "2026-11-25/fef7a31fac7e379b.mp3",
+          "2026-11-25/c6e4fbad0dc38062.mp3",
+          "2026-11-25/2ef7e10bf962b4ea.mp3",
+          "2026-11-25/175448c90764202c.mp3",
+          "2026-11-25/0fe1d0a9a3924877.mp3",
+          "2026-11-25/02bda2010a51b54d.mp3",
+          "2026-11-25/774f38a4c9efff12.mp3",
+          "2026-11-25/43fa8cf16e0863be.mp3",
+          "2026-11-25/6655a0735b62d0ae.mp3",
+          "2026-11-25/e23e0e393779dd8d.mp3",
+          "2026-11-25/5297b25d8e703cc6.mp3",
+          "2026-11-25/655b8efa5c222e41.mp3",
+          "2026-11-25/1d08aec7b7c5f346.mp3",
+          "2026-11-25/9c427a592212a2ed.mp3",
+          "2026-11-25/3a5b4dd0b134d27e.mp3",
+          "2026-11-25/115bcce9c96ac2bf.mp3",
+          "2026-11-25/76c23c0197dc37f5.mp3",
+          "2026-11-25/8a998662ad8108e0.mp3",
+          "2026-11-25/b6b3b3028d4abb50.mp3",
+          "2026-11-25/97f2ab443124102b.mp3",
+          "2026-11-25/1f96f736b0a056e7.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.13,
+              0.262,
+              0.329,
+              0.395,
+              0.527,
+              0.594,
+              0.66
+            ],
+            [
+              0.281,
+              0.362,
+              0.442,
+              0.523,
+              0.604,
+              0.684
+            ],
+            [
+              0.114,
+              0.177,
+              0.24,
+              0.303,
+              0.367,
+              0.557,
+              0.62,
+              0.747,
+              0.81
+            ]
+          ],
+          "normal": [
+            [
+              0.047,
+              0.154,
+              0.208,
+              0.262,
+              0.417,
+              0.444,
+              0.47,
+              0.523,
+              0.55,
+              0.603,
+              0.629,
+              0.656,
+              0.709,
+              0.788,
+              0.815,
+              0.841,
+              0.894,
+              0.921
+            ],
+            [
+              0.055,
+              0.075,
+              0.137,
+              0.157,
+              0.219,
+              0.26,
+              0.329,
+              0.347,
+              0.42,
+              0.457,
+              0.493,
+              0.582,
+              0.607,
+              0.631,
+              0.656,
+              0.705,
+              0.73,
+              0.754,
+              0.779,
+              0.828,
+              0.878
+            ],
+            [
+              0.069,
+              0.133,
+              0.246,
+              0.281,
+              0.316,
+              0.351,
+              0.386,
+              0.421,
+              0.456,
+              0.491,
+              0.561,
+              0.597,
+              0.632,
+              0.702,
+              0.737,
+              0.772,
+              0.807,
+              0.877,
+              0.912
+            ],
+            [
+              0.053,
+              0.109,
+              0.136,
+              0.191,
+              0.274,
+              0.302,
+              0.329,
+              0.357,
+              0.495,
+              0.523,
+              0.655,
+              0.682,
+              0.709,
+              0.736,
+              0.791,
+              0.818,
+              0.845,
+              0.899,
+              0.926,
+              0.953
+            ],
+            [
+              0,
+              0.048,
+              0.145,
+              0.193,
+              0.29,
+              0.338,
+              0.386,
+              0.434,
+              0.483,
+              0.531,
+              0.579,
+              0.676,
+              0.724,
+              0.772,
+              0.869
+            ],
+            [
+              0.059,
+              0.11,
+              0.136,
+              0.161,
+              0.187,
+              0.212,
+              0.238,
+              0.365,
+              0.391,
+              0.416,
+              0.442,
+              0.526,
+              0.547,
+              0.568,
+              0.673,
+              0.693,
+              0.735,
+              0.756,
+              0.777,
+              0.798,
+              0.819,
+              0.902,
+              0.923
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.127,
+              0.182,
+              0.237,
+              0.292,
+              0.402,
+              0.457,
+              0.567,
+              0.677,
+              0.733
+            ],
+            [
+              0.2,
+              0.314,
+              0.428,
+              0.543,
+              0.657
+            ],
+            [
+              0.203,
+              0.252,
+              0.301,
+              0.399,
+              0.546,
+              0.595,
+              0.644,
+              0.742,
+              0.84
+            ]
+          ],
+          "normal": [
+            [
+              0.056,
+              0.091,
+              0.125,
+              0.16,
+              0.229,
+              0.34,
+              0.363,
+              0.41,
+              0.479,
+              0.503,
+              0.549,
+              0.573,
+              0.619,
+              0.689,
+              0.759,
+              0.782,
+              0.806,
+              0.852,
+              0.899
+            ],
+            [
+              0.031,
+              0.097,
+              0.119,
+              0.185,
+              0.229,
+              0.303,
+              0.325,
+              0.367,
+              0.41,
+              0.431,
+              0.452,
+              0.581,
+              0.603,
+              0.625,
+              0.669,
+              0.692,
+              0.736,
+              0.758,
+              0.803,
+              0.847,
+              0.869
+            ],
+            [
+              0.067,
+              0.081,
+              0.096,
+              0.158,
+              0.172,
+              0.185,
+              0.212,
+              0.226,
+              0.253,
+              0.266,
+              0.307,
+              0.32,
+              0.334,
+              0.361,
+              0.401,
+              0.415,
+              0.428,
+              0.442,
+              0.455,
+              0.469,
+              0.496,
+              0.509,
+              0.536,
+              0.55,
+              0.577,
+              0.59,
+              0.604,
+              0.631,
+              0.68,
+              0.76,
+              0.8
+            ],
+            [
+              0.092,
+              0.133,
+              0.216,
+              0.236,
+              0.298,
+              0.318,
+              0.339,
+              0.36,
+              0.38,
+              0.483,
+              0.504,
+              0.524,
+              0.631,
+              0.653,
+              0.717,
+              0.738,
+              0.76,
+              0.802,
+              0.824,
+              0.845
+            ],
+            [
+              0.085,
+              0.114,
+              0.144,
+              0.204,
+              0.234,
+              0.323,
+              0.412,
+              0.442,
+              0.472,
+              0.502,
+              0.621,
+              0.651,
+              0.711,
+              0.74,
+              0.8,
+              0.83,
+              0.86
+            ],
+            [
+              0.054,
+              0.094,
+              0.114,
+              0.134,
+              0.154,
+              0.254,
+              0.274,
+              0.294,
+              0.335,
+              0.397,
+              0.437,
+              0.456,
+              0.476,
+              0.516,
+              0.555,
+              0.654,
+              0.674,
+              0.713,
+              0.733,
+              0.812,
+              0.832,
+              0.871,
+              0.891
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-25-04",
+      "category": "politics",
+      "region": {
+        "country": "SB",
+        "city": "Honiara",
+        "lat": -9.43,
+        "lng": 159.95
+      },
+      "headline": {
+        "en": "Solomon Islands Signs 'Historic' Security Treaty With Australia, Reportedly Ending China Pact",
+        "ko": "솔로몬 제도, 호주와 '역사적' 안보 조약…중국과의 협정은 종료 보도",
+        "fr": "Les îles Salomon signent un traité de sécurité « historique » avec l'Australie, au détriment du pacte chinois"
+      },
+      "hook": {
+        "en": "Which country does the Solomon Islands now call its main security partner?",
+        "ko": "솔로몬 제도는 이제 어느 나라를 주된 안보 파트너라고 할까요?",
+        "fr": "Quel pays les îles Salomon appellent-elles désormais leur principal partenaire de sécurité ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "The Solomon Islands signed a new treaty with Australia.",
+            "Australia is now its main security partner.",
+            "It reportedly will not renew its pact with China."
+          ],
+          "easy_ko": [
+            "솔로몬 제도가 호주와 새 조약을 맺었어요.",
+            "호주가 이제 주된 안보 파트너예요.",
+            "중국과의 협정은 갱신하지 않을 거라고 보도됐어요."
+          ],
+          "normal": [
+            "The Solomon Islands has signed a 'historic' security and economic treaty with Australia, which becomes its 'primary security partner'.",
+            "Prime ministers Anthony Albanese and Matthew Wale announced the deal at a press conference in Canberra on Wednesday.",
+            "In 2022, an earlier government signed a security and policing pact with China, which raised fears of a Chinese foothold in the Pacific.",
+            "Australian media reported this week that Honiara had told Beijing it would not renew that pact, which is understood to expire in April 2027.",
+            "Mr Wale said talks with China were ongoing but that he could not discuss the pact because of a confidentiality agreement, and China did not confirm or deny the reports.",
+            "Mr Albanese said the treaty respects the Solomon Islands' sovereignty and is an investment in Australia's own security."
+          ],
+          "normal_ko": [
+            "솔로몬 제도가 호주와 '역사적' 안보·경제 조약을 맺었고, 호주는 이 나라의 '제1 안보 파트너'가 됩니다.",
+            "앤서니 앨버니지 호주 총리와 매슈 웨일 솔로몬 제도 총리가 수요일 캔버라 기자회견에서 이를 발표했습니다.",
+            "2022년 이전 정부가 중국과 안보·치안 협정을 맺어, 중국이 태평양에 발판을 얻을 것이라는 우려가 커졌습니다.",
+            "호주 언론은 이번 주 호니아라가 베이징에 이 협정을 갱신하지 않겠다고 알렸다고 보도했고, 협정은 2027년 4월 만료되는 것으로 알려져 있습니다.",
+            "웨일 총리는 중국과 협의가 계속되고 있지만 비공개 합의 때문에 협정 문제는 말할 수 없다고 했고, 중국은 보도를 확인도 부인도 하지 않았습니다.",
+            "앨버니지 총리는 이 조약이 솔로몬 제도의 주권을 존중하며 호주 자신의 안보에 대한 투자라고 말했습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Les îles Salomon ont signé un nouveau traité avec l'Australie.",
+            "L'Australie est désormais son principal partenaire de sécurité.",
+            "Elles ne renouvelleraient pas leur pacte avec la Chine."
+          ],
+          "normal": [
+            "Les îles Salomon ont signé un traité de sécurité et d'économie « historique » avec l'Australie, qui devient leur « premier partenaire en matière de sécurité ».",
+            "Les Premiers ministres Anthony Albanese et Matthew Wale l'ont annoncé mercredi lors d'une conférence de presse à Canberra.",
+            "En 2022, un gouvernement précédent avait conclu avec la Chine un pacte de sécurité et de police, qui avait fait craindre un point d'appui chinois dans le Pacifique.",
+            "Des médias australiens ont rapporté cette semaine que Honiara avait dit à Pékin qu'il ne renouvellerait pas ce pacte, qui devrait expirer en avril 2027.",
+            "M. Wale dit que les discussions avec la Chine continuent mais qu'il ne peut pas parler du pacte à cause d'un accord de confidentialité ; la Chine n'a ni confirmé ni démenti.",
+            "M. Albanese affirme que le traité respecte la souveraineté des îles Salomon et qu'il est un investissement dans la sécurité de l'Australie."
+          ],
+          "normal_ko": [
+            "솔로몬 제도가 호주와 '역사적' 안보·경제 조약을 맺었고, 호주는 이 나라의 '제1 안보 파트너'가 됩니다.",
+            "앤서니 앨버니지 호주 총리와 매슈 웨일 솔로몬 제도 총리가 수요일 캔버라 기자회견에서 이를 발표했습니다.",
+            "2022년 이전 정부가 중국과 안보·치안 협정을 맺어, 중국이 태평양에 발판을 얻을 것이라는 우려가 커졌습니다.",
+            "호주 언론은 이번 주 호니아라가 베이징에 이 협정을 갱신하지 않겠다고 알렸다고 보도했고, 협정은 2027년 4월 만료되는 것으로 알려져 있습니다.",
+            "웨일 총리는 중국과 협의가 계속되고 있지만 비공개 합의 때문에 협정 문제는 말할 수 없다고 했고, 중국은 보도를 확인도 부인도 하지 않았습니다.",
+            "앨버니지 총리는 이 조약이 솔로몬 제도의 주권을 존중하며 호주 자신의 안보에 대한 투자라고 말했습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "솔로몬 제도는 호주 북동쪽 태평양의 섬나라예요. 2022년 중국과 안보 협정을 맺어 호주와 미국이 크게 신경 썼습니다. 이번에는 호주와 조약을 맺었고, 중국과의 협정은 갱신하지 않기로 했다는 호주 언론 보도가 나왔어요. 그러나 웨일 총리는 비공개 합의 때문에 협정에 대해 말할 수 없다고 했고, 중국도 확인도 부인도 하지 않았습니다. 따라서 '중국 협정 종료'는 아직 보도 단계로 읽어야 해요. 본문은 BBC를 읽었고 Le Monde, Japan Times는 제목·요약으로 확인했습니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "historic",
+          "pos": "adjective",
+          "ko": "역사적인",
+          "example": "A historic treaty was signed.",
+          "example_ko": "역사적인 조약이 체결됐어요.",
+          "note_ko": "historical(역사 관련)과 달라요. historic = 역사에 남을 만한."
+        },
+        {
+          "lang": "en",
+          "word": "treaty",
+          "pos": "noun",
+          "ko": "조약",
+          "example": "The two countries signed a treaty.",
+          "example_ko": "두 나라가 조약을 맺었어요.",
+          "note_ko": "agreement보다 격식 있고 법적 구속력이 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "press conference",
+          "pos": "noun",
+          "ko": "기자회견",
+          "example": "They spoke at a press conference.",
+          "example_ko": "그들은 기자회견에서 말했어요.",
+          "note_ko": "hold/attend a press conference."
+        },
+        {
+          "lang": "en",
+          "word": "pact",
+          "pos": "noun",
+          "ko": "협정, 맹약",
+          "example": "A security pact with China.",
+          "example_ko": "중국과의 안보 협정이에요.",
+          "note_ko": "treaty보다 가볍거나 비공식인 협정에 자주."
+        },
+        {
+          "lang": "en",
+          "word": "foothold",
+          "pos": "noun",
+          "ko": "발판, 거점",
+          "example": "A foothold in the Pacific.",
+          "example_ko": "태평양의 거점이에요.",
+          "note_ko": "원래 '발 디딜 곳'. gain a foothold = 거점을 얻다."
+        },
+        {
+          "lang": "en",
+          "word": "renew",
+          "pos": "verb",
+          "ko": "갱신하다",
+          "example": "They will not renew the pact.",
+          "example_ko": "그들은 협정을 갱신하지 않을 거예요.",
+          "note_ko": "명사 renewal. renew a passport = 여권 갱신."
+        },
+        {
+          "lang": "en",
+          "word": "expire",
+          "pos": "verb",
+          "ko": "만료되다",
+          "example": "The pact expires in April.",
+          "example_ko": "협정은 4월에 만료돼요.",
+          "note_ko": "명사 expiry. expire date = 유효 기한."
+        },
+        {
+          "lang": "en",
+          "word": "ongoing",
+          "pos": "adjective",
+          "ko": "진행 중인",
+          "example": "Talks are ongoing.",
+          "example_ko": "협의가 진행 중이에요.",
+          "note_ko": "on+going. 같은 뜻 in progress."
+        },
+        {
+          "lang": "en",
+          "word": "confidentiality",
+          "pos": "noun",
+          "ko": "기밀성, 비밀 유지",
+          "example": "A confidentiality agreement.",
+          "example_ko": "비밀 유지 협약이에요.",
+          "note_ko": "NDA(non-disclosure agreement)도 같은 개념."
+        },
+        {
+          "lang": "en",
+          "word": "confirm",
+          "pos": "verb",
+          "ko": "확인해 주다",
+          "example": "China did not confirm the report.",
+          "example_ko": "중국은 보도를 확인해 주지 않았어요.",
+          "note_ko": "명사 confirmation."
+        },
+        {
+          "lang": "en",
+          "word": "deny",
+          "pos": "verb",
+          "ko": "부인하다",
+          "example": "He denied the claim.",
+          "example_ko": "그는 주장을 부인했어요.",
+          "note_ko": "neither confirm nor deny = 확인도 부인도 하지 않다."
+        },
+        {
+          "lang": "en",
+          "word": "sovereignty",
+          "pos": "noun",
+          "ko": "주권",
+          "example": "The treaty respects sovereignty.",
+          "example_ko": "조약은 주권을 존중해요.",
+          "note_ko": "형용사 sovereign. 발음 [서버런티]."
+        },
+        {
+          "lang": "en",
+          "word": "investment",
+          "pos": "noun",
+          "ko": "투자",
+          "example": "It is an investment in security.",
+          "example_ko": "그것은 안보에 대한 투자예요.",
+          "note_ko": "invest in ~. 동사 invest."
+        },
+        {
+          "lang": "fr",
+          "word": "historique",
+          "pos": "adjectif",
+          "ko": "역사적인",
+          "example": "Un traité historique.",
+          "example_ko": "역사적인 조약이에요.",
+          "note_ko": "남녀 같은 형태. 반대 느낌은 banal."
+        },
+        {
+          "lang": "fr",
+          "word": "un traité",
+          "pos": "nom masculin",
+          "ko": "조약",
+          "example": "Ils signent un traité.",
+          "example_ko": "그들은 조약에 서명해요.",
+          "note_ko": "traiter = 다루다. 같은 어원."
+        },
+        {
+          "lang": "fr",
+          "word": "une conférence de presse",
+          "pos": "nom féminin",
+          "ko": "기자회견",
+          "example": "Une conférence de presse à Canberra.",
+          "example_ko": "캔버라의 기자회견이에요.",
+          "note_ko": "tenir une conférence de presse = 기자회견을 열다."
+        },
+        {
+          "lang": "fr",
+          "word": "un pacte",
+          "pos": "nom masculin",
+          "ko": "협정, 맹약",
+          "example": "Un pacte avec la Chine.",
+          "example_ko": "중국과의 협정이에요.",
+          "note_ko": "un pacte de sécurité = 안보 협정."
+        },
+        {
+          "lang": "fr",
+          "word": "un point d'appui",
+          "pos": "nom masculin",
+          "ko": "발판, 거점",
+          "example": "Un point d'appui dans le Pacifique.",
+          "example_ko": "태평양의 거점이에요.",
+          "note_ko": "appuyer = 받치다. 군사·정치에서 거점."
+        },
+        {
+          "lang": "fr",
+          "word": "renouveler",
+          "pos": "verbe",
+          "ko": "갱신하다",
+          "example": "Ils ne renouvellent pas le pacte.",
+          "example_ko": "그들은 협정을 갱신하지 않아요.",
+          "note_ko": "nouveau = 새로운. un renouvellement."
+        },
+        {
+          "lang": "fr",
+          "word": "expirer",
+          "pos": "verbe",
+          "ko": "만료되다",
+          "example": "Le pacte expire en avril.",
+          "example_ko": "협정은 4월에 만료돼요.",
+          "note_ko": "expirer = 숨을 내쉬다 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "continuer",
+          "pos": "verbe",
+          "ko": "계속되다",
+          "example": "Les discussions continuent.",
+          "example_ko": "논의가 계속돼요.",
+          "note_ko": "continuer à/de + 동사."
+        },
+        {
+          "lang": "fr",
+          "word": "la confidentialité",
+          "pos": "nom féminin",
+          "ko": "기밀성",
+          "example": "Un accord de confidentialité.",
+          "example_ko": "비밀 유지 협약이에요.",
+          "note_ko": "confidentiel = 기밀의."
+        },
+        {
+          "lang": "fr",
+          "word": "confirmer",
+          "pos": "verbe",
+          "ko": "확인해 주다",
+          "example": "Il ne confirme pas.",
+          "example_ko": "그는 확인해 주지 않아요.",
+          "note_ko": "une confirmation."
+        },
+        {
+          "lang": "fr",
+          "word": "démentir",
+          "pos": "verbe",
+          "ko": "부인하다",
+          "example": "La Chine ne dément pas.",
+          "example_ko": "중국은 부인하지 않아요.",
+          "note_ko": "un démenti = 부인. ni confirmer ni démentir."
+        },
+        {
+          "lang": "fr",
+          "word": "la souveraineté",
+          "pos": "nom féminin",
+          "ko": "주권",
+          "example": "Le traité respecte la souveraineté.",
+          "example_ko": "조약은 주권을 존중해요.",
+          "note_ko": "souverain = 주권을 가진."
+        },
+        {
+          "lang": "fr",
+          "word": "un investissement",
+          "pos": "nom masculin",
+          "ko": "투자",
+          "example": "C'est un investissement dans la sécurité.",
+          "example_ko": "그것은 안보에 대한 투자예요.",
+          "note_ko": "investir dans ~."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "If you 'deny' a report, you say it is…",
+          "choices": [
+            "not true",
+            "very important",
+            "finished"
+          ],
+          "answer": 0,
+          "explain_ko": "deny = 부인하다."
+        },
+        {
+          "lang": "fr",
+          "q": "« Démentir » une information, c'est dire qu'elle est…",
+          "choices": [
+            "fausse",
+            "importante",
+            "terminée"
+          ],
+          "answer": 0,
+          "explain_ko": "démentir = 부인하다."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno",
+          "accessed": "2026-11-26"
+        },
+        {
+          "name": "Le Monde (summary only)",
+          "url": "https://www.lemonde.fr/international/article/2026/11/25/l-australie-et-les-iles-salomon-concluent-un-accord-securitaire-endiguant-l-influence-de-la-chine-dans-le-pacifique_6815126_3210.html",
+          "accessed": "2026-11-26"
+        },
+        {
+          "name": "Japan Times (summary only)",
+          "url": "https://www.japantimes.co.jp/news/2026/11/25/asia-pacific/politics/australia-solomon-islands-pact-china/",
+          "accessed": "2026-11-26"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-26",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-25/ec7a38cd56680312.mp3",
+            "2026-11-25/6ae6352f15111468.mp3",
+            "2026-11-25/b628536958f3be7b.mp3"
+          ],
+          "normal": [
+            "2026-11-25/a409930b02b20d97.mp3",
+            "2026-11-25/0351197093929bcd.mp3",
+            "2026-11-25/65679621856b59bd.mp3",
+            "2026-11-25/21a8f9d6d62c122c.mp3",
+            "2026-11-25/e4d86221660b36be.mp3",
+            "2026-11-25/b91a5e631cf1ddc2.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-25/fb4464ff99dd10a8.mp3",
+            "2026-11-25/09a56e5a7f7dfb9e.mp3",
+            "2026-11-25/b25fc08706fa0ef2.mp3"
+          ],
+          "normal": [
+            "2026-11-25/1d6393e481228818.mp3",
+            "2026-11-25/8d5563a1b7073c2f.mp3",
+            "2026-11-25/4e685c5f6a111554.mp3",
+            "2026-11-25/62cc38f7a3d22a9b.mp3",
+            "2026-11-25/0ed5ee72ba4f33e3.mp3",
+            "2026-11-25/5f8f9a010c523f28.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-25/6d52355e120e632d.mp3",
+          "2026-11-25/9d1bd85e322b90d6.mp3",
+          "2026-11-25/89c09484901d3988.mp3",
+          "2026-11-25/55b99c9c039b6428.mp3",
+          "2026-11-25/52c32e10e32c8b80.mp3",
+          "2026-11-25/2352ae7cce637500.mp3",
+          "2026-11-25/acf99bbeed98e12d.mp3",
+          "2026-11-25/8d04a6ee1dedda0e.mp3",
+          "2026-11-25/e58cc6d2d9b65320.mp3",
+          "2026-11-25/d0e8b54c669cd15c.mp3",
+          "2026-11-25/275949ca38b22187.mp3",
+          "2026-11-25/aeb7ed18d01c9be4.mp3",
+          "2026-11-25/c2be80a406a8aa86.mp3",
+          "2026-11-25/c9ae6281b70d52b0.mp3",
+          "2026-11-25/785ec9a1758ddfe3.mp3",
+          "2026-11-25/403568ab7a8f6af2.mp3",
+          "2026-11-25/1855cd6dc707cd8d.mp3",
+          "2026-11-25/1425441317503b30.mp3",
+          "2026-11-25/40d63237f5eaaa86.mp3",
+          "2026-11-25/e8eaedc5ca695c6f.mp3",
+          "2026-11-25/fbda888fb53b27a7.mp3",
+          "2026-11-25/7f18433bba8a89c4.mp3",
+          "2026-11-25/a7a858e899cb456b.mp3",
+          "2026-11-25/38133988b2812dc2.mp3",
+          "2026-11-25/3d53cb2f31cf5d90.mp3",
+          "2026-11-25/fd1d877345c9a3e9.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.203,
+              0.253,
+              0.403,
+              0.503,
+              0.553,
+              0.603,
+              0.653,
+              0.753,
+              0.803
+            ],
+            [
+              0.166,
+              0.341,
+              0.399,
+              0.457,
+              0.516,
+              0.574,
+              0.807
+            ],
+            [
+              0.102,
+              0.158,
+              0.38,
+              0.436,
+              0.492,
+              0.603,
+              0.659,
+              0.714,
+              0.77
+            ]
+          ],
+          "normal": [
+            [
+              0.053,
+              0.072,
+              0.126,
+              0.162,
+              0.181,
+              0.199,
+              0.217,
+              0.271,
+              0.344,
+              0.362,
+              0.435,
+              0.471,
+              0.489,
+              0.558,
+              0.589,
+              0.652,
+              0.683,
+              0.777,
+              0.903
+            ],
+            [
+              0.039,
+              0.067,
+              0.153,
+              0.238,
+              0.324,
+              0.352,
+              0.409,
+              0.438,
+              0.495,
+              0.523,
+              0.552,
+              0.58,
+              0.609,
+              0.637,
+              0.723,
+              0.752,
+              0.837,
+              0.866
+            ],
+            [
+              0.045,
+              0.077,
+              0.203,
+              0.222,
+              0.261,
+              0.319,
+              0.338,
+              0.358,
+              0.435,
+              0.455,
+              0.513,
+              0.532,
+              0.551,
+              0.651,
+              0.673,
+              0.695,
+              0.718,
+              0.74,
+              0.762,
+              0.806,
+              0.851,
+              0.873,
+              0.895
+            ],
+            [
+              0.047,
+              0.12,
+              0.169,
+              0.217,
+              0.242,
+              0.266,
+              0.291,
+              0.364,
+              0.388,
+              0.413,
+              0.461,
+              0.486,
+              0.51,
+              0.535,
+              0.584,
+              0.608,
+              0.657,
+              0.68,
+              0.703,
+              0.772,
+              0.795,
+              0.84,
+              0.863,
+              0.909
+            ],
+            [
+              0.061,
+              0.08,
+              0.099,
+              0.119,
+              0.138,
+              0.157,
+              0.196,
+              0.215,
+              0.254,
+              0.273,
+              0.293,
+              0.312,
+              0.331,
+              0.351,
+              0.39,
+              0.409,
+              0.428,
+              0.467,
+              0.486,
+              0.506,
+              0.622,
+              0.726,
+              0.745,
+              0.783,
+              0.802,
+              0.821,
+              0.858,
+              0.877,
+              0.915,
+              0.934
+            ],
+            [
+              0.053,
+              0.08,
+              0.159,
+              0.185,
+              0.211,
+              0.264,
+              0.317,
+              0.343,
+              0.422,
+              0.475,
+              0.581,
+              0.607,
+              0.633,
+              0.66,
+              0.739,
+              0.765,
+              0.844,
+              0.871
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.132,
+              0.171,
+              0.211,
+              0.331,
+              0.371,
+              0.45,
+              0.49,
+              0.57,
+              0.649,
+              0.729
+            ],
+            [
+              0.109,
+              0.228,
+              0.268,
+              0.387,
+              0.427,
+              0.546,
+              0.665,
+              0.705
+            ],
+            [
+              0.139,
+              0.196,
+              0.253,
+              0.536,
+              0.592,
+              0.649,
+              0.706,
+              0.819,
+              0.875
+            ]
+          ],
+          "normal": [
+            [
+              0.051,
+              0.064,
+              0.076,
+              0.113,
+              0.126,
+              0.15,
+              0.163,
+              0.188,
+              0.2,
+              0.25,
+              0.262,
+              0.312,
+              0.324,
+              0.374,
+              0.398,
+              0.425,
+              0.515,
+              0.538,
+              0.583,
+              0.606,
+              0.629,
+              0.674,
+              0.742,
+              0.765,
+              0.811,
+              0.833,
+              0.924
+            ],
+            [
+              0.071,
+              0.098,
+              0.152,
+              0.206,
+              0.286,
+              0.367,
+              0.394,
+              0.447,
+              0.474,
+              0.501,
+              0.582,
+              0.662,
+              0.689,
+              0.716,
+              0.797,
+              0.823,
+              0.85,
+              0.877
+            ],
+            [
+              0.054,
+              0.078,
+              0.195,
+              0.214,
+              0.268,
+              0.305,
+              0.341,
+              0.377,
+              0.414,
+              0.432,
+              0.45,
+              0.468,
+              0.487,
+              0.505,
+              0.578,
+              0.596,
+              0.614,
+              0.688,
+              0.703,
+              0.735,
+              0.75,
+              0.766,
+              0.782,
+              0.797,
+              0.829,
+              0.86,
+              0.876,
+              0.891
+            ],
+            [
+              0.027,
+              0.046,
+              0.085,
+              0.143,
+              0.162,
+              0.22,
+              0.239,
+              0.278,
+              0.297,
+              0.355,
+              0.393,
+              0.412,
+              0.432,
+              0.47,
+              0.489,
+              0.509,
+              0.605,
+              0.624,
+              0.644,
+              0.708,
+              0.728,
+              0.769,
+              0.829,
+              0.85,
+              0.89
+            ],
+            [
+              0.05,
+              0.067,
+              0.085,
+              0.102,
+              0.12,
+              0.137,
+              0.19,
+              0.225,
+              0.243,
+              0.26,
+              0.313,
+              0.33,
+              0.348,
+              0.366,
+              0.383,
+              0.401,
+              0.436,
+              0.453,
+              0.471,
+              0.488,
+              0.506,
+              0.523,
+              0.558,
+              0.576,
+              0.681,
+              0.752,
+              0.772,
+              0.793,
+              0.813,
+              0.834,
+              0.896,
+              0.916
+            ],
+            [
+              0.061,
+              0.081,
+              0.139,
+              0.179,
+              0.198,
+              0.218,
+              0.257,
+              0.296,
+              0.316,
+              0.414,
+              0.434,
+              0.453,
+              0.512,
+              0.532,
+              0.551,
+              0.571,
+              0.591,
+              0.669,
+              0.689,
+              0.708,
+              0.787,
+              0.806
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "audio_base": "https://koreapapa-kim.github.io/worldnews-audio"
+}

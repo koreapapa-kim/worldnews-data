@@ -2,6 +2,44 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-11-25",
+      "count": 4,
+      "headlines": [
+        {
+          "id": "2026-11-25-01",
+          "ko": "미국, 중국·EU 등 14개 교역 상대에 새 관세 제안",
+          "en": "US Proposes New Tariffs on 14 Trading Partners Including China and the EU",
+          "fr": "Les États-Unis proposent de nouveaux droits de douane contre 14 partenaires, dont la Chine et l'UE",
+          "category": "economy",
+          "country": "US"
+        },
+        {
+          "id": "2026-11-25-02",
+          "ko": "영국 에너지 요금, 가스 가격 급등으로 1월부터 26% 인상",
+          "en": "UK Energy Bills to Rise 26% From January After Gas Prices Surge",
+          "fr": "Les factures d'énergie britanniques vont bondir de 26 % en janvier après la flambée du gaz",
+          "category": "economy",
+          "country": "GB"
+        },
+        {
+          "id": "2026-11-25-03",
+          "ko": "중국, 선저우 24호 발사…파키스탄인이 자국 우주정거장에 첫 외국인 비행사로 탑승",
+          "en": "China Launches Shenzhou-24 Carrying First Foreign Astronaut, From Pakistan",
+          "fr": "La Chine lance Shenzhou-24 avec à bord le premier astronaute étranger, un Pakistanais",
+          "category": "science",
+          "country": "CN"
+        },
+        {
+          "id": "2026-11-25-04",
+          "ko": "솔로몬 제도, 호주와 '역사적' 안보 조약…중국과의 협정은 종료 보도",
+          "en": "Solomon Islands Signs 'Historic' Security Treaty With Australia, Reportedly Ending China Pact",
+          "fr": "Les îles Salomon signent un traité de sécurité « historique » avec l'Australie, au détriment du pacte chinois",
+          "category": "politics",
+          "country": "SB"
+        }
+      ]
+    },
+    {
       "date": "2026-11-24",
       "count": 4,
       "headlines": [
@@ -1092,6 +1130,6 @@
       ]
     }
   ],
-  "latest": "2026-11-24",
-  "updated_at": "2026-11-25T00:34:52.305Z"
+  "latest": "2026-11-25",
+  "updated_at": "2026-11-25T16:26:35.114Z"
 }
