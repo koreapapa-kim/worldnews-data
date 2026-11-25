@@ -1,0 +1,3276 @@
+{
+  "schema": 1,
+  "date": "2026-11-24",
+  "stories": [
+    {
+      "id": "2026-11-24-01",
+      "category": "sports",
+      "region": {
+        "country": "CH",
+        "city": "Lausanne",
+        "lat": 46.52,
+        "lng": 6.63
+      },
+      "headline": {
+        "en": "Senegal Regains African Football Title as Court Overturns Ruling in Favour of Morocco",
+        "ko": "세네갈, 스포츠중재재판소 판결로 아프리카 축구 우승 되찾아",
+        "fr": "Le Sénégal retrouve son titre de champion d'Afrique après l'annulation de la décision en faveur du Maroc"
+      },
+      "hook": {
+        "en": "Can you lose a title in court, then win it back?",
+        "ko": "법정에서 우승을 잃었다가 되찾을 수 있을까요?",
+        "fr": "Peut-on perdre un titre au tribunal, puis le regagner ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Senegal has won back the African football title.",
+            "A court said the first decision was wrong.",
+            "Morocco says it will keep fighting."
+          ],
+          "easy_ko": [
+            "세네갈이 아프리카 축구 우승 타이틀을 되찾았어요.",
+            "법정은 처음 결정이 잘못됐다고 했어요.",
+            "모로코는 계속 싸우겠다고 해요."
+          ],
+          "normal": [
+            "Senegal has been restored as African football champion after the Court of Arbitration for Sport overturned an earlier ruling that had handed the title to Morocco.",
+            "Senegal won the Africa Cup of Nations final on the pitch in January, but it lost the trophy in March after a ruling awarded it to Morocco.",
+            "That ruling came after Senegal's players walked off in protest during stoppage time over a controversial refereeing decision.",
+            "The court said the referee, Jean-Jacques Ndala, acted within his authority when he restarted the match, and that the tournament rule on teams refusing to play applies only when a game is abandoned for good.",
+            "Its three judges were unanimous, and the president of Senegal's football federation said the court had delivered justice to sport.",
+            "Morocco has announced that it will appeal, probably to Switzerland's supreme court, so the saga may not be over yet."
+          ],
+          "normal_ko": [
+            "스포츠중재재판소가 모로코에 우승을 준 이전 결정을 뒤집으면서 세네갈이 아프리카 축구 챔피언 자리를 되찾았습니다.",
+            "세네갈은 1월 모로코에서 열린 아프리카 네이션스컵 결승에서 경기장에서 이겼지만, 3월 결정으로 트로피를 모로코에 내줬었습니다.",
+            "그 결정은 논란이 큰 심판 판정에 항의해 세네갈 선수들이 추가 시간에 경기장을 떠난 일 뒤에 나왔습니다.",
+            "재판소는 심판 장자크 은달라가 경기를 재개한 것이 그의 권한 안이었고, 경기를 거부한 팀에 적용되는 대회 규정은 경기가 아예 중단될 때만 해당한다고 밝혔습니다.",
+            "판사 3명은 만장일치였고, 세네갈 축구협회장은 재판소가 스포츠에 정의를 실현했다고 말했습니다.",
+            "모로코는 스위스 연방대법원 등에 항소하겠다고 밝혀, 이 긴 사건이 아직 끝나지 않았을 수 있습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Le Sénégal a regagné le titre de champion d'Afrique.",
+            "Un tribunal a dit que la première décision était fausse.",
+            "Le Maroc dit qu'il va continuer le combat."
+          ],
+          "normal": [
+            "Le Sénégal a été rétabli dans son titre de champion d'Afrique de football après que le Tribunal arbitral du sport a annulé une décision antérieure qui avait donné le trophée au Maroc.",
+            "Les Sénégalais avaient gagné la finale de la Coupe d'Afrique des nations sur la pelouse en janvier, mais ils avaient perdu le trophée en mars à la suite d'une décision en faveur du Maroc.",
+            "Cette décision faisait suite au fait que les joueurs sénégalais avaient quitté le terrain pour protester, pendant les arrêts de jeu, après un choix controversé de l'arbitre.",
+            "Le tribunal estime que l'arbitre, Jean-Jacques Ndala, était dans son autorité en reprenant le match, et que la règle du tournoi sur les équipes qui refusent de jouer ne vaut que lorsqu'un match est abandonné définitivement.",
+            "Les trois juges ont décidé à l'unanimité, et le président de la fédération sénégalaise a dit que le tribunal avait rendu justice au sport.",
+            "Le Maroc a annoncé qu'il ferait appel, sans doute devant le Tribunal fédéral suisse, et le feuilleton n'est donc peut-être pas terminé."
+          ],
+          "normal_ko": [
+            "스포츠중재재판소가 모로코에 우승을 준 이전 결정을 뒤집으면서 세네갈이 아프리카 축구 챔피언 자리를 되찾았습니다.",
+            "세네갈은 1월 모로코에서 열린 아프리카 네이션스컵 결승에서 경기장에서 이겼지만, 3월 결정으로 트로피를 모로코에 내줬었습니다.",
+            "그 결정은 논란이 큰 심판 판정에 항의해 세네갈 선수들이 추가 시간에 경기장을 떠난 일 뒤에 나왔습니다.",
+            "재판소는 심판 장자크 은달라가 경기를 재개한 것이 그의 권한 안이었고, 경기를 거부한 팀에 적용되는 대회 규정은 경기가 아예 중단될 때만 해당한다고 밝혔습니다.",
+            "판사 3명은 만장일치였고, 세네갈 축구협회장은 재판소가 스포츠에 정의를 실현했다고 말했습니다.",
+            "모로코는 스위스 연방대법원 등에 항소하겠다고 밝혀, 이 긴 사건이 아직 끝나지 않았을 수 있습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "아프리카 네이션스컵은 아프리카 대륙 국가대표 축구 대회예요. 지난 1월 결승에서 심판의 페널티 판정에 항의해 세네갈 선수들이 경기장을 떠났고, 3월에 모로코가 우승한 것으로 결정됐다가 이번에 스포츠중재재판소(CAS)가 이를 뒤집었습니다. CAS는 국제 스포츠 분쟁을 다루는 법원 역할을 해요. 모로코는 CAS 판사 한 명의 공정성을 문제 삼아 항소하겠다고 했습니다. 본문은 ABC를 읽었고 France 24, Le Monde는 제목·요약으로 확인했어요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "restore",
+          "pos": "verb",
+          "ko": "되찾아 주다, 복원하다",
+          "example": "The court restored Senegal's title.",
+          "example_ko": "법정이 세네갈의 타이틀을 되찾아 줬어요.",
+          "note_ko": "re-(다시)+store. 명사 restoration. reinstate와 비슷한 뜻."
+        },
+        {
+          "lang": "en",
+          "word": "overturn",
+          "pos": "verb",
+          "ko": "뒤집다, 번복하다",
+          "example": "The court overturned the decision.",
+          "example_ko": "법정이 결정을 뒤집었어요.",
+          "note_ko": "판결·결정을 뒤집을 때. uphold(유지하다)의 반대."
+        },
+        {
+          "lang": "en",
+          "word": "ruling",
+          "pos": "noun",
+          "ko": "판결, 결정",
+          "example": "The ruling surprised many fans.",
+          "example_ko": "그 판결은 많은 팬을 놀라게 했어요.",
+          "note_ko": "동사 rule(판결하다)에서 온 말. court ruling = 법원 판결."
+        },
+        {
+          "lang": "en",
+          "word": "pitch",
+          "pos": "noun",
+          "ko": "경기장, 그라운드",
+          "example": "They won the final on the pitch.",
+          "example_ko": "그들은 경기장에서 결승을 이겼어요.",
+          "note_ko": "영국식 축구장. 미국식은 field. 투구(pitch)와는 다른 뜻."
+        },
+        {
+          "lang": "en",
+          "word": "walk off",
+          "pos": "phrasal verb",
+          "ko": "(항의하며) 퇴장하다",
+          "example": "The players walked off the field.",
+          "example_ko": "선수들이 경기장에서 걸어 나갔어요.",
+          "note_ko": "walk out은 회의·직장을 떠날 때도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "stoppage time",
+          "pos": "noun",
+          "ko": "추가 시간",
+          "example": "A penalty came in stoppage time.",
+          "example_ko": "추가 시간에 페널티가 나왔어요.",
+          "note_ko": "영국식 표현. injury time, added time이라고도 해요."
+        },
+        {
+          "lang": "en",
+          "word": "controversial",
+          "pos": "adjective",
+          "ko": "논란이 많은",
+          "example": "It was a controversial decision.",
+          "example_ko": "논란이 많은 결정이었어요.",
+          "note_ko": "명사 controversy. 반대 느낌은 uncontroversial."
+        },
+        {
+          "lang": "en",
+          "word": "authority",
+          "pos": "noun",
+          "ko": "권한, 당국",
+          "example": "The referee had sole authority.",
+          "example_ko": "심판에게 유일한 권한이 있었어요.",
+          "note_ko": "have the authority to ~. 복수 the authorities는 '당국'."
+        },
+        {
+          "lang": "en",
+          "word": "abandon",
+          "pos": "verb",
+          "ko": "중단하다, 포기하다",
+          "example": "The match was abandoned.",
+          "example_ko": "경기가 중단됐어요.",
+          "note_ko": "abandon a match = 경기를 중단하다. 사람·물건을 버릴 때도 써요."
+        },
+        {
+          "lang": "en",
+          "word": "unanimous",
+          "pos": "adjective",
+          "ko": "만장일치의",
+          "example": "The judges were unanimous.",
+          "example_ko": "판사들은 만장일치였어요.",
+          "note_ko": "부사 unanimously. 반대는 split(의견이 갈린)."
+        },
+        {
+          "lang": "en",
+          "word": "deliver",
+          "pos": "verb",
+          "ko": "(결과를) 내놓다, 전달하다",
+          "example": "The court delivered justice.",
+          "example_ko": "법원이 정의를 실현했어요.",
+          "note_ko": "deliver a verdict/justice = 평결을/정의를 내리다. 배달하다 뜻도 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "appeal",
+          "pos": "verb",
+          "ko": "항소하다, 호소하다",
+          "example": "Morocco will appeal the ruling.",
+          "example_ko": "모로코는 판결에 항소할 거예요.",
+          "note_ko": "appeal to a court(법원에), appeal against a decision(결정에 대해). 명사도 appeal."
+        },
+        {
+          "lang": "en",
+          "word": "saga",
+          "pos": "noun",
+          "ko": "길게 이어지는 사건, 대서사",
+          "example": "The saga may not be over.",
+          "example_ko": "이 긴 사건은 끝나지 않았을지도 몰라요.",
+          "note_ko": "원래 북유럽 영웅 이야기. 뉴스에서는 오래 끄는 이야기를 가리켜요."
+        },
+        {
+          "lang": "fr",
+          "word": "rétablir",
+          "pos": "verbe",
+          "ko": "복원하다, 되찾아 주다",
+          "example": "Le tribunal rétablit le titre du Sénégal.",
+          "example_ko": "법정이 세네갈의 타이틀을 되찾아 줘요.",
+          "note_ko": "rétablir l'ordre/la vérité도. 명사 un rétablissement."
+        },
+        {
+          "lang": "fr",
+          "word": "annuler",
+          "pos": "verbe",
+          "ko": "취소하다, 무효로 하다",
+          "example": "Le tribunal annule la décision.",
+          "example_ko": "법정이 결정을 무효로 해요.",
+          "note_ko": "annuler un match = 경기 취소. 반대는 confirmer."
+        },
+        {
+          "lang": "fr",
+          "word": "une décision",
+          "pos": "nom féminin",
+          "ko": "결정",
+          "example": "Une décision très critiquée.",
+          "example_ko": "많은 비판을 받은 결정이에요.",
+          "note_ko": "prendre une décision = 결정을 내리다."
+        },
+        {
+          "lang": "fr",
+          "word": "la pelouse",
+          "pos": "nom féminin",
+          "ko": "잔디, 경기장",
+          "example": "Ils ont gagné sur la pelouse.",
+          "example_ko": "그들은 경기장에서 이겼어요.",
+          "note_ko": "축구에서는 le terrain과 함께 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "quitter le terrain",
+          "pos": "locution",
+          "ko": "경기장을 떠나다",
+          "example": "Les joueurs quittent le terrain.",
+          "example_ko": "선수들이 경기장을 떠나요.",
+          "note_ko": "quitter 뒤에는 전치사 없이 장소가 와요."
+        },
+        {
+          "lang": "fr",
+          "word": "les arrêts de jeu",
+          "pos": "nom masculin pluriel",
+          "ko": "추가 시간",
+          "example": "Un penalty dans les arrêts de jeu.",
+          "example_ko": "추가 시간에 페널티가 나와요.",
+          "note_ko": "le temps additionnel이라고도 해요. 늘 복수."
+        },
+        {
+          "lang": "fr",
+          "word": "controversé",
+          "pos": "adjectif",
+          "ko": "논란이 많은",
+          "example": "Un choix controversé.",
+          "example_ko": "논란이 많은 선택이에요.",
+          "note_ko": "une controverse = 논쟁. 형용사는 성·수 일치."
+        },
+        {
+          "lang": "fr",
+          "word": "une autorité",
+          "pos": "nom féminin",
+          "ko": "권한, 당국",
+          "example": "L'arbitre a toute autorité.",
+          "example_ko": "심판에게 모든 권한이 있어요.",
+          "note_ko": "les autorités = 당국. faire autorité = 권위가 있다."
+        },
+        {
+          "lang": "fr",
+          "word": "abandonner",
+          "pos": "verbe",
+          "ko": "중단하다, 포기하다",
+          "example": "Le match est abandonné.",
+          "example_ko": "경기가 중단돼요.",
+          "note_ko": "수동태로 자주 써요. 포기하다 뜻도 흔해요."
+        },
+        {
+          "lang": "fr",
+          "word": "à l'unanimité",
+          "pos": "locution",
+          "ko": "만장일치로",
+          "example": "Voté à l'unanimité.",
+          "example_ko": "만장일치로 가결돼요.",
+          "note_ko": "형용사 unanime. 반대는 à la majorité(다수결로)."
+        },
+        {
+          "lang": "fr",
+          "word": "rendre justice",
+          "pos": "locution",
+          "ko": "정의를 실현하다",
+          "example": "Le tribunal a rendu justice au sport.",
+          "example_ko": "법정이 스포츠에 정의를 실현했어요.",
+          "note_ko": "rendre un verdict(평결을 내리다)에도 같은 동사 rendre를 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "faire appel",
+          "pos": "locution",
+          "ko": "항소하다",
+          "example": "Le Maroc fait appel.",
+          "example_ko": "모로코가 항소해요.",
+          "note_ko": "faire appel de + 결정. un appel = 항소·호출."
+        },
+        {
+          "lang": "fr",
+          "word": "un feuilleton",
+          "pos": "nom masculin",
+          "ko": "연속극, 길게 이어지는 사건",
+          "example": "Le feuilleton judiciaire continue.",
+          "example_ko": "재판 사건이 계속돼요.",
+          "note_ko": "원래 신문 연재소설·드라마. 뉴스에서는 오래 끄는 사건을 비유해요."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "When a court 'overturns' a decision, it…",
+          "choices": [
+            "reverses it",
+            "repeats it",
+            "announces it"
+          ],
+          "answer": 0,
+          "explain_ko": "overturn = 뒤집다, 번복하다."
+        },
+        {
+          "lang": "fr",
+          "q": "« Annuler » une décision, c'est…",
+          "choices": [
+            "la rendre sans effet",
+            "la répéter",
+            "l'annoncer"
+          ],
+          "answer": 0,
+          "explain_ko": "annuler = 무효로 하다, 취소하다."
+        }
+      ],
+      "sources": [
+        {
+          "name": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-25/senegal-reinstated-as-african-champions-morocco-afcon/107423820",
+          "accessed": "2026-11-25"
+        },
+        {
+          "name": "France 24 (summary only)",
+          "url": "https://www.france24.com/en/senegal-regain-afcon-title-on-appeal-at-morocco-s-expense",
+          "accessed": "2026-11-25"
+        },
+        {
+          "name": "Wikipedia Portal:Current events",
+          "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_24",
+          "accessed": "2026-11-25"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-25",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-24/3a8afea524dd76e1.mp3",
+            "2026-11-24/de70b6424c5d05e9.mp3",
+            "2026-11-24/30527725330549eb.mp3"
+          ],
+          "normal": [
+            "2026-11-24/3f639e40895029fa.mp3",
+            "2026-11-24/98b5ecb0188e6c34.mp3",
+            "2026-11-24/490ce329375e827a.mp3",
+            "2026-11-24/d21b05f6acdfd531.mp3",
+            "2026-11-24/24690dce37356cba.mp3",
+            "2026-11-24/2dfc14dfd99de929.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-24/76f6b9858b53ccf0.mp3",
+            "2026-11-24/852b1f6c18ea4f7c.mp3",
+            "2026-11-24/48d20703a66ffcbf.mp3"
+          ],
+          "normal": [
+            "2026-11-24/5a00db9598de4f1a.mp3",
+            "2026-11-24/8f43b1f41dbfa7fd.mp3",
+            "2026-11-24/10846fe9e5c7b6a6.mp3",
+            "2026-11-24/2d6b0d50b5d41441.mp3",
+            "2026-11-24/dda7b0bf9253227a.mp3",
+            "2026-11-24/adfb16b35bfd538b.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-24/29edc154289f8855.mp3",
+          "2026-11-24/c8bcc39fcd91ef98.mp3",
+          "2026-11-24/ef77bdfd051183d0.mp3",
+          "2026-11-24/6068085a86152e71.mp3",
+          "2026-11-24/b444ae05a14554c8.mp3",
+          "2026-11-24/02d019da4ea4424c.mp3",
+          "2026-11-24/ede4bdac9434f8a1.mp3",
+          "2026-11-24/123f7f6284608022.mp3",
+          "2026-11-24/19d92820d3eea3fd.mp3",
+          "2026-11-24/63dd8185fe7a61b0.mp3",
+          "2026-11-24/66c2dd8ceb7e09ee.mp3",
+          "2026-11-24/8bc7b09075e3c28d.mp3",
+          "2026-11-24/3837ba80597bef3a.mp3",
+          "2026-11-24/9efadd02bd8ecc8c.mp3",
+          "2026-11-24/874efc69458fdc2c.mp3",
+          "2026-11-24/1bb1c065125a7eb3.mp3",
+          "2026-11-24/9f47a84ab03ca122.mp3",
+          "2026-11-24/1d94c8b767c90fd2.mp3",
+          "2026-11-24/741fe0da985df57a.mp3",
+          "2026-11-24/b14eb978e98a0aed.mp3",
+          "2026-11-24/7afaadb18a88140c.mp3",
+          "2026-11-24/194c5bb908a63379.mp3",
+          "2026-11-24/0c901a3251996f4e.mp3",
+          "2026-11-24/1cedee6cc26616b2.mp3",
+          "2026-11-24/6c2cb2924a61a93b.mp3",
+          "2026-11-24/3ba4d0bb10321ff0.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0,
+              0.231,
+              0.308,
+              0.385,
+              0.462,
+              0.538,
+              0.769,
+              0.923
+            ],
+            [
+              0.088,
+              0.171,
+              0.253,
+              0.336,
+              0.418,
+              0.501,
+              0.749,
+              0.831
+            ],
+            [
+              0,
+              0.319,
+              0.425,
+              0.531,
+              0.637,
+              0.744
+            ]
+          ],
+          "normal": [
+            [
+              0.046,
+              0.111,
+              0.133,
+              0.154,
+              0.198,
+              0.22,
+              0.285,
+              0.328,
+              0.371,
+              0.415,
+              0.437,
+              0.458,
+              0.48,
+              0.567,
+              0.588,
+              0.61,
+              0.675,
+              0.697,
+              0.74,
+              0.784,
+              0.805,
+              0.827,
+              0.849,
+              0.871,
+              0.892,
+              0.914
+            ],
+            [
+              0.093,
+              0.153,
+              0.173,
+              0.193,
+              0.253,
+              0.273,
+              0.293,
+              0.333,
+              0.372,
+              0.392,
+              0.412,
+              0.432,
+              0.452,
+              0.572,
+              0.592,
+              0.612,
+              0.631,
+              0.651,
+              0.691,
+              0.711,
+              0.731,
+              0.771,
+              0.791,
+              0.831,
+              0.871,
+              0.89,
+              0.91
+            ],
+            [
+              0.066,
+              0.093,
+              0.148,
+              0.175,
+              0.23,
+              0.312,
+              0.339,
+              0.366,
+              0.394,
+              0.421,
+              0.476,
+              0.53,
+              0.585,
+              0.612,
+              0.667,
+              0.694,
+              0.804,
+              0.886
+            ],
+            [
+              0.039,
+              0.048,
+              0.058,
+              0.068,
+              0.077,
+              0.115,
+              0.216,
+              0.317,
+              0.334,
+              0.366,
+              0.383,
+              0.448,
+              0.464,
+              0.48,
+              0.513,
+              0.529,
+              0.545,
+              0.562,
+              0.578,
+              0.594,
+              0.643,
+              0.659,
+              0.676,
+              0.692,
+              0.741,
+              0.757,
+              0.773,
+              0.806,
+              0.839,
+              0.855,
+              0.871,
+              0.888,
+              0.904,
+              0.953,
+              0.969
+            ],
+            [
+              0.031,
+              0.062,
+              0.092,
+              0.123,
+              0.154,
+              0.311,
+              0.337,
+              0.362,
+              0.438,
+              0.464,
+              0.54,
+              0.591,
+              0.692,
+              0.718,
+              0.743,
+              0.768,
+              0.794,
+              0.87,
+              0.921,
+              0.946
+            ],
+            [
+              0,
+              0.085,
+              0.113,
+              0.169,
+              0.197,
+              0.226,
+              0.254,
+              0.365,
+              0.459,
+              0.49,
+              0.584,
+              0.646,
+              0.72,
+              0.748,
+              0.776,
+              0.832,
+              0.86,
+              0.888,
+              0.916,
+              0.972
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.139,
+              0.186,
+              0.328,
+              0.376,
+              0.518,
+              0.566,
+              0.613,
+              0.66,
+              0.755
+            ],
+            [
+              0.186,
+              0.229,
+              0.358,
+              0.401,
+              0.444,
+              0.487,
+              0.53,
+              0.616,
+              0.744,
+              0.83
+            ],
+            [
+              0.102,
+              0.171,
+              0.308,
+              0.376,
+              0.445,
+              0.513,
+              0.718,
+              0.787
+            ]
+          ],
+          "normal": [
+            [
+              0.048,
+              0.064,
+              0.114,
+              0.13,
+              0.164,
+              0.213,
+              0.23,
+              0.246,
+              0.263,
+              0.279,
+              0.312,
+              0.362,
+              0.378,
+              0.412,
+              0.445,
+              0.461,
+              0.478,
+              0.527,
+              0.577,
+              0.593,
+              0.61,
+              0.626,
+              0.676,
+              0.693,
+              0.742,
+              0.792,
+              0.808,
+              0.841,
+              0.874,
+              0.891,
+              0.924,
+              0.941
+            ],
+            [
+              0.053,
+              0.068,
+              0.129,
+              0.159,
+              0.189,
+              0.204,
+              0.234,
+              0.249,
+              0.264,
+              0.279,
+              0.324,
+              0.339,
+              0.369,
+              0.384,
+              0.399,
+              0.429,
+              0.445,
+              0.52,
+              0.539,
+              0.557,
+              0.593,
+              0.63,
+              0.648,
+              0.684,
+              0.703,
+              0.721,
+              0.739,
+              0.757,
+              0.776,
+              0.794,
+              0.848,
+              0.867,
+              0.903,
+              0.921
+            ],
+            [
+              0.07,
+              0.087,
+              0.139,
+              0.174,
+              0.191,
+              0.208,
+              0.225,
+              0.243,
+              0.26,
+              0.277,
+              0.346,
+              0.381,
+              0.415,
+              0.432,
+              0.467,
+              0.484,
+              0.597,
+              0.63,
+              0.646,
+              0.679,
+              0.695,
+              0.754,
+              0.788,
+              0.806,
+              0.823,
+              0.892,
+              0.909
+            ],
+            [
+              0.044,
+              0.061,
+              0.112,
+              0.146,
+              0.163,
+              0.223,
+              0.269,
+              0.324,
+              0.349,
+              0.362,
+              0.375,
+              0.426,
+              0.439,
+              0.478,
+              0.49,
+              0.539,
+              0.553,
+              0.567,
+              0.58,
+              0.594,
+              0.608,
+              0.635,
+              0.649,
+              0.662,
+              0.69,
+              0.703,
+              0.731,
+              0.744,
+              0.758,
+              0.772,
+              0.785,
+              0.799,
+              0.826,
+              0.84,
+              0.854,
+              0.908
+            ],
+            [
+              0.081,
+              0.101,
+              0.12,
+              0.14,
+              0.159,
+              0.218,
+              0.237,
+              0.378,
+              0.398,
+              0.418,
+              0.458,
+              0.478,
+              0.499,
+              0.579,
+              0.659,
+              0.679,
+              0.699,
+              0.719,
+              0.739,
+              0.8,
+              0.84,
+              0.88,
+              0.92,
+              0.94
+            ],
+            [
+              0.051,
+              0.071,
+              0.112,
+              0.132,
+              0.193,
+              0.214,
+              0.254,
+              0.333,
+              0.353,
+              0.374,
+              0.416,
+              0.436,
+              0.499,
+              0.561,
+              0.662,
+              0.681,
+              0.7,
+              0.756,
+              0.775,
+              0.794,
+              0.831,
+              0.85
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-24-02",
+      "category": "technology",
+      "region": {
+        "country": "US",
+        "city": "Brooklyn, New York",
+        "lat": 40.69,
+        "lng": -73.99
+      },
+      "headline": {
+        "en": "US Jury Finds Huawei Guilty of Stealing Trade Secrets but Clears It of Racketeering",
+        "ko": "미국 배심원단, 화웨이 영업비밀 절도 공모 유죄…조직범죄 혐의는 무죄",
+        "fr": "Un jury américain déclare Huawei coupable de vol de secrets industriels mais l'acquitte du chef de racket"
+      },
+      "hook": {
+        "en": "Did a US jury just convict Huawei?",
+        "ko": "미국 배심원단이 화웨이에 유죄를 선고했을까요?",
+        "fr": "Un jury américain vient-il de condamner Huawei ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "A US jury has found Huawei guilty of stealing trade secrets.",
+            "But it cleared the company of the most serious charge.",
+            "Huawei says it will appeal."
+          ],
+          "easy_ko": [
+            "미국 배심원단이 화웨이에 영업비밀 절도 유죄를 평결했어요.",
+            "하지만 가장 무거운 혐의는 무죄로 봤어요.",
+            "화웨이는 항소하겠다고 해요."
+          ],
+          "normal": [
+            "A federal jury in Brooklyn has found the Chinese technology giant Huawei guilty on ten of twelve counts, including conspiracy to steal trade secrets and bank fraud.",
+            "However, jurors acquitted the company of the most serious charge, a racketeering conspiracy, which required proof that Huawei operated like a criminal organisation.",
+            "Prosecutors had argued that Huawei lied to banks about its dealings in Iran and stole technology from rivals to gain a competitive edge.",
+            "Federal prosecutors announced the charges in 2019, after a senior executive, Meng Wanzhou, was arrested in Canada in late 2018.",
+            "Huawei's lawyers said the firm grew through hard work and innovation, called the racketeering acquittal a vindication, and said the company will appeal the convictions.",
+            "It is unclear how the verdict will affect Huawei, which has long been barred from selling equipment to US carriers but still does business in many countries."
+          ],
+          "normal_ko": [
+            "뉴욕 브루클린의 연방 배심원단이 중국 기술 대기업 화웨이에 대해 12개 혐의 중 10개에서 유죄를 평결했고, 여기에는 영업비밀 절도 공모와 은행 사기가 포함됩니다.",
+            "그러나 배심원단은 가장 무거운 혐의인 조직범죄(공갈·협박) 공모는 무죄로 판단했는데, 이를 유죄로 보려면 화웨이가 범죄 조직처럼 움직였다는 점이 입증되어야 했습니다.",
+            "검찰은 화웨이가 이란에서의 사업과 관련해 은행에 거짓말을 하고, 경쟁 우위를 얻으려고 경쟁사의 기술을 훔쳤다고 주장했습니다.",
+            "미 연방검찰은 2018년 말 캐나다에서 고위 임원 멍완저우가 체포된 뒤인 2019년에 기소 내용을 발표했습니다.",
+            "화웨이 측 변호인은 회사가 노력과 혁신으로 성장했다고 말했고, 조직범죄 무죄를 결백의 증거라 부르며 유죄 부분은 항소하겠다고 했습니다.",
+            "이번 평결이 화웨이에 어떤 영향을 줄지는 분명하지 않은데, 화웨이는 오래전부터 미국 통신사에 장비를 팔 수 없지만 여러 나라에서 계속 사업을 하고 있습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Un jury américain a déclaré Huawei coupable de vol de secrets.",
+            "Mais il a écarté l'accusation la plus grave.",
+            "Huawei dit qu'il va faire appel."
+          ],
+          "normal": [
+            "Un jury fédéral de Brooklyn a déclaré le géant chinois de la technologie Huawei coupable de dix chefs d'accusation sur douze, dont un complot visant à voler des secrets industriels et une fraude bancaire.",
+            "En revanche, les jurés ont acquitté l'entreprise de l'accusation la plus grave, un complot de racket, qui exigeait de prouver que Huawei agissait comme une organisation criminelle.",
+            "Les procureurs affirmaient que Huawei avait menti aux banques sur ses activités en Iran et volé de la technologie à des concurrents pour obtenir un avantage concurrentiel.",
+            "Les poursuites ont été annoncées en 2019, après l'arrestation au Canada, fin 2018, d'une haute dirigeante, Meng Wanzhou.",
+            "Les avocats de Huawei disent que le groupe a grandi grâce au travail et à l'innovation ; ils se félicitent de l'acquittement pour racket et affirment que l'entreprise fera appel des condamnations.",
+            "On ignore quel effet ce verdict aura sur Huawei, qui n'a plus le droit depuis longtemps de vendre du matériel aux opérateurs américains mais fait toujours des affaires dans de nombreux pays."
+          ],
+          "normal_ko": [
+            "뉴욕 브루클린의 연방 배심원단이 중국 기술 대기업 화웨이에 대해 12개 혐의 중 10개에서 유죄를 평결했고, 여기에는 영업비밀 절도 공모와 은행 사기가 포함됩니다.",
+            "그러나 배심원단은 가장 무거운 혐의인 조직범죄(공갈·협박) 공모는 무죄로 판단했는데, 이를 유죄로 보려면 화웨이가 범죄 조직처럼 움직였다는 점이 입증되어야 했습니다.",
+            "검찰은 화웨이가 이란에서의 사업과 관련해 은행에 거짓말을 하고, 경쟁 우위를 얻으려고 경쟁사의 기술을 훔쳤다고 주장했습니다.",
+            "미 연방검찰은 2018년 말 캐나다에서 고위 임원 멍완저우가 체포된 뒤인 2019년에 기소 내용을 발표했습니다.",
+            "화웨이 측 변호인은 회사가 노력과 혁신으로 성장했다고 말했고, 조직범죄 무죄를 결백의 증거라 부르며 유죄 부분은 항소하겠다고 했습니다.",
+            "이번 평결이 화웨이에 어떤 영향을 줄지는 분명하지 않은데, 화웨이는 오래전부터 미국 통신사에 장비를 팔 수 없지만 여러 나라에서 계속 사업을 하고 있습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "화웨이는 스마트폰과 통신장비를 만드는 중국 대기업이에요. 미국은 보안 문제 등을 이유로 화웨이 장비를 오래전부터 막아 왔고, 2018년 캐나다에서 멍완저우 고위 임원이 체포된 일로 이 사건이 널리 알려졌습니다. 이번 평결은 1심 배심원단의 판단이라 화웨이가 항소하면 결과가 달라질 수 있어요. 가장 무거운 조직범죄 혐의가 무죄가 된 점을 화웨이는 '결백 입증'이라고 했지만, 나머지 10개 혐의는 유죄입니다. 본문은 BBC와 CBC(AP)를 읽었고 France 24, Le Monde, SCMP는 제목·요약으로 확인했어요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "jury",
+          "pos": "noun",
+          "ko": "배심원단",
+          "example": "The jury reached a verdict.",
+          "example_ko": "배심원단이 평결에 도달했어요.",
+          "note_ko": "jurors = 배심원 개인. 미국 재판에서 유무죄를 정하는 시민들."
+        },
+        {
+          "lang": "en",
+          "word": "guilty",
+          "pos": "adjective",
+          "ko": "유죄의",
+          "example": "The jury found him guilty.",
+          "example_ko": "배심원단이 그에게 유죄를 평결했어요.",
+          "note_ko": "반대는 not guilty(무죄). find A guilty of B."
+        },
+        {
+          "lang": "en",
+          "word": "count",
+          "pos": "noun",
+          "ko": "(기소의) 죄목 한 건",
+          "example": "He faced twelve counts.",
+          "example_ko": "그는 열두 건의 혐의에 직면했어요.",
+          "note_ko": "a count of fraud = 사기 혐의 한 건. '세다'와는 다른 뜻."
+        },
+        {
+          "lang": "en",
+          "word": "conspiracy",
+          "pos": "noun",
+          "ko": "음모, 공모",
+          "example": "They were accused of conspiracy.",
+          "example_ko": "그들은 공모 혐의를 받았어요.",
+          "note_ko": "conspiracy to + 동사원형. 동사 conspire, 사람 conspirator."
+        },
+        {
+          "lang": "en",
+          "word": "trade secret",
+          "pos": "noun",
+          "ko": "영업 비밀",
+          "example": "The firm protects its trade secrets.",
+          "example_ko": "그 회사는 영업 비밀을 지켜요.",
+          "note_ko": "특허와 달리 공개하지 않는 기술·정보."
+        },
+        {
+          "lang": "en",
+          "word": "fraud",
+          "pos": "noun",
+          "ko": "사기",
+          "example": "He was jailed for bank fraud.",
+          "example_ko": "그는 은행 사기로 수감됐어요.",
+          "note_ko": "bank fraud = 은행 사기. 사기꾼은 fraudster."
+        },
+        {
+          "lang": "en",
+          "word": "acquit",
+          "pos": "verb",
+          "ko": "무죄를 선고하다",
+          "example": "Jurors acquitted the firm of the main charge.",
+          "example_ko": "배심원들이 가장 큰 혐의는 무죄로 봤어요.",
+          "note_ko": "acquit A of B. 명사 acquittal. 반대는 convict(유죄 선고하다)."
+        },
+        {
+          "lang": "en",
+          "word": "prosecutor",
+          "pos": "noun",
+          "ko": "검사",
+          "example": "The prosecutor spoke to the jury.",
+          "example_ko": "검사가 배심원단에게 말했어요.",
+          "note_ko": "반대편은 defence lawyer(변호인)."
+        },
+        {
+          "lang": "en",
+          "word": "rival",
+          "pos": "noun",
+          "ko": "경쟁자",
+          "example": "It stole ideas from a rival.",
+          "example_ko": "그 회사는 경쟁사에서 아이디어를 훔쳤어요.",
+          "note_ko": "rival company = 경쟁사. 동사로도 써요(rival A in B)."
+        },
+        {
+          "lang": "en",
+          "word": "arrest",
+          "pos": "noun",
+          "ko": "체포",
+          "example": "Her arrest shocked the industry.",
+          "example_ko": "그녀의 체포는 업계를 놀라게 했어요.",
+          "note_ko": "under arrest = 체포된 상태. 동사 be arrested for ~."
+        },
+        {
+          "lang": "en",
+          "word": "vindication",
+          "pos": "noun",
+          "ko": "결백 입증, 정당성 인정",
+          "example": "The verdict was a vindication.",
+          "example_ko": "그 평결은 결백의 증거였어요.",
+          "note_ko": "동사 vindicate. 누명을 벗고 옳았다고 인정받는 것."
+        },
+        {
+          "lang": "en",
+          "word": "appeal",
+          "pos": "verb",
+          "ko": "항소하다",
+          "example": "They will appeal the conviction.",
+          "example_ko": "그들은 유죄 판결에 항소할 거예요.",
+          "note_ko": "법정에서는 '상급 법원에 다시 판단 요청'. 일반적으로는 '호소하다'."
+        },
+        {
+          "lang": "en",
+          "word": "verdict",
+          "pos": "noun",
+          "ko": "평결",
+          "example": "The verdict came on Tuesday.",
+          "example_ko": "평결은 화요일에 나왔어요.",
+          "note_ko": "배심원단이 내리는 건 verdict, 판사가 내리는 건 ruling/judgment."
+        },
+        {
+          "lang": "fr",
+          "word": "un jury",
+          "pos": "nom masculin",
+          "ko": "배심원단",
+          "example": "Le jury délibère.",
+          "example_ko": "배심원단이 평의해요.",
+          "note_ko": "프랑스 형사재판에도 있어요. un juré = 배심원 한 명."
+        },
+        {
+          "lang": "fr",
+          "word": "coupable",
+          "pos": "adjectif",
+          "ko": "유죄의",
+          "example": "Le jury le déclare coupable.",
+          "example_ko": "배심원단이 그를 유죄로 선고해요.",
+          "note_ko": "반대는 innocent. coupable de + 죄."
+        },
+        {
+          "lang": "fr",
+          "word": "un chef d'accusation",
+          "pos": "nom masculin",
+          "ko": "기소 항목, 혐의",
+          "example": "Il fait face à douze chefs d'accusation.",
+          "example_ko": "그는 열두 가지 혐의를 받아요.",
+          "note_ko": "여기서 chef는 '요점·항목'이에요(요리사 아님)."
+        },
+        {
+          "lang": "fr",
+          "word": "un complot",
+          "pos": "nom masculin",
+          "ko": "음모, 공모",
+          "example": "Ils sont accusés de complot.",
+          "example_ko": "그들은 공모 혐의를 받아요.",
+          "note_ko": "comploter = 음모를 꾸미다. 비슷한 말 une conspiration."
+        },
+        {
+          "lang": "fr",
+          "word": "un secret industriel",
+          "pos": "nom masculin",
+          "ko": "영업 비밀",
+          "example": "Elle protège ses secrets industriels.",
+          "example_ko": "그 회사는 영업 비밀을 지켜요.",
+          "note_ko": "un secret commercial이라고도 해요."
+        },
+        {
+          "lang": "fr",
+          "word": "la fraude",
+          "pos": "nom féminin",
+          "ko": "사기, 부정",
+          "example": "Une fraude bancaire.",
+          "example_ko": "은행 사기예요.",
+          "note_ko": "frauder = 속이다. fraude fiscale = 탈세."
+        },
+        {
+          "lang": "fr",
+          "word": "acquitter",
+          "pos": "verbe",
+          "ko": "무죄를 선고하다",
+          "example": "Le jury acquitte l'entreprise.",
+          "example_ko": "배심원단이 회사를 무죄로 봐요.",
+          "note_ko": "acquitter A d'une accusation. 명사 un acquittement. 빚을 갚다 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "un procureur",
+          "pos": "nom masculin",
+          "ko": "검사",
+          "example": "Le procureur présente les preuves.",
+          "example_ko": "검사가 증거를 제시해요.",
+          "note_ko": "여성형 une procureure. le parquet = 검찰."
+        },
+        {
+          "lang": "fr",
+          "word": "un concurrent",
+          "pos": "nom masculin",
+          "ko": "경쟁자, 경쟁사",
+          "example": "Elle espionne ses concurrents.",
+          "example_ko": "그녀는 경쟁사를 염탐해요.",
+          "note_ko": "la concurrence = 경쟁. 대회 참가자도 concurrent."
+        },
+        {
+          "lang": "fr",
+          "word": "une arrestation",
+          "pos": "nom féminin",
+          "ko": "체포",
+          "example": "Son arrestation a fait du bruit.",
+          "example_ko": "그녀의 체포는 큰 화제가 됐어요.",
+          "note_ko": "arrêter = 체포하다, 멈추다."
+        },
+        {
+          "lang": "fr",
+          "word": "se féliciter",
+          "pos": "verbe pronominal",
+          "ko": "반기다, 만족해하다",
+          "example": "Il se félicite du résultat.",
+          "example_ko": "그는 결과를 반겨요.",
+          "note_ko": "se féliciter de + 명사. féliciter qn = 축하하다."
+        },
+        {
+          "lang": "fr",
+          "word": "faire appel",
+          "pos": "locution",
+          "ko": "항소하다",
+          "example": "Ils vont faire appel.",
+          "example_ko": "그들은 항소할 거예요.",
+          "note_ko": "faire appel de la décision."
+        },
+        {
+          "lang": "fr",
+          "word": "un verdict",
+          "pos": "nom masculin",
+          "ko": "평결",
+          "example": "Le verdict est tombé mardi.",
+          "example_ko": "평결이 화요일에 나왔어요.",
+          "note_ko": "tomber = (판결이) 나오다. 배심원의 verdict."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "To 'acquit' someone means to…",
+          "choices": [
+            "declare them not guilty",
+            "send them to prison",
+            "ask them questions"
+          ],
+          "answer": 0,
+          "explain_ko": "acquit = 무죄를 선고하다."
+        },
+        {
+          "lang": "fr",
+          "q": "« Acquitter » quelqu'un, c'est…",
+          "choices": [
+            "le déclarer non coupable",
+            "l'envoyer en prison",
+            "lui poser des questions"
+          ],
+          "answer": 0,
+          "explain_ko": "acquitter = 무죄를 선고하다."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
+          "accessed": "2026-11-25"
+        },
+        {
+          "name": "CBC News / Associated Press",
+          "url": "https://www.cbc.ca/news/world/huawei-conspiracy-trade-secrets-ruling-9.7434554",
+          "accessed": "2026-11-25"
+        },
+        {
+          "name": "France 24, Le Monde, SCMP (summaries only)",
+          "url": "https://www.france24.com/en/americas/20261124-new-york-jury-convicts-huawei-of-stealing-trade-secrets",
+          "accessed": "2026-11-25"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-25",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-24/10198db13e8f1a43.mp3",
+            "2026-11-24/ed8aa1f169b1aca7.mp3",
+            "2026-11-24/b84310674050ad9b.mp3"
+          ],
+          "normal": [
+            "2026-11-24/093803f740193c36.mp3",
+            "2026-11-24/148e41967194dd9d.mp3",
+            "2026-11-24/e8938058aad7575e.mp3",
+            "2026-11-24/8828c6b72b70bd5b.mp3",
+            "2026-11-24/6138dab7a0c9f558.mp3",
+            "2026-11-24/9069201f0fd2d1a1.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-24/ead86138bd803fcb.mp3",
+            "2026-11-24/5ad75009ad308a2a.mp3",
+            "2026-11-24/3a59abce9a18a01b.mp3"
+          ],
+          "normal": [
+            "2026-11-24/bc538b6debd980f7.mp3",
+            "2026-11-24/c6da230b942a81e6.mp3",
+            "2026-11-24/fcb4234c11d1b923.mp3",
+            "2026-11-24/f01a53c6475e219d.mp3",
+            "2026-11-24/d3da57746e69cc4a.mp3",
+            "2026-11-24/bfd8eb0cf84da62d.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-24/45c493f9b911151a.mp3",
+          "2026-11-24/5b32c5392715a3bc.mp3",
+          "2026-11-24/c5c7fb82b94d430a.mp3",
+          "2026-11-24/a10d208560f684e9.mp3",
+          "2026-11-24/5b593e8e8d902d65.mp3",
+          "2026-11-24/7abf90430c81d722.mp3",
+          "2026-11-24/e4da8f715d0b1f7b.mp3",
+          "2026-11-24/fbde1dcd0e75529d.mp3",
+          "2026-11-24/30059d253993e633.mp3",
+          "2026-11-24/f9e4d1fb0822c4fd.mp3",
+          "2026-11-24/fab66df980c795c5.mp3",
+          "2026-11-24/2c9c3da9bd2d6f5b.mp3",
+          "2026-11-24/32d22e478d6ed01c.mp3",
+          "2026-11-24/3836f962561e4fcc.mp3",
+          "2026-11-24/7959c4de359496d8.mp3",
+          "2026-11-24/082c97111cd2fd03.mp3",
+          "2026-11-24/431b162f78636764.mp3",
+          "2026-11-24/361aafbe293ab30c.mp3",
+          "2026-11-24/e911c3c84aeda6d8.mp3",
+          "2026-11-24/b10bae18a9ef500a.mp3",
+          "2026-11-24/3e21da9fbf9cba30.mp3",
+          "2026-11-24/f36038a7d7f533f5.mp3",
+          "2026-11-24/9e443c110b8726b7.mp3",
+          "2026-11-24/5b2964e8f788bbda.mp3",
+          "2026-11-24/96a91364f751f072.mp3",
+          "2026-11-24/ef07d4ec6c0da545.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0,
+              0.063,
+              0.125,
+              0.25,
+              0.313,
+              0.375,
+              0.5,
+              0.625,
+              0.688,
+              0.812,
+              0.875
+            ],
+            [
+              0,
+              0.077,
+              0.154,
+              0.231,
+              0.308,
+              0.538,
+              0.615,
+              0.692,
+              0.769,
+              0.923
+            ],
+            [
+              0.318,
+              0.493,
+              0.581,
+              0.668,
+              0.756
+            ]
+          ],
+          "normal": [
+            [
+              0.033,
+              0.053,
+              0.114,
+              0.155,
+              0.176,
+              0.217,
+              0.237,
+              0.257,
+              0.278,
+              0.319,
+              0.4,
+              0.421,
+              0.461,
+              0.502,
+              0.523,
+              0.543,
+              0.564,
+              0.584,
+              0.646,
+              0.713,
+              0.802,
+              0.825,
+              0.847,
+              0.87,
+              0.915,
+              0.937,
+              0.959
+            ],
+            [
+              0,
+              0.069,
+              0.115,
+              0.161,
+              0.184,
+              0.253,
+              0.276,
+              0.299,
+              0.322,
+              0.368,
+              0.429,
+              0.445,
+              0.51,
+              0.618,
+              0.637,
+              0.675,
+              0.694,
+              0.713,
+              0.752,
+              0.809,
+              0.828,
+              0.847,
+              0.904
+            ],
+            [
+              0.025,
+              0.125,
+              0.15,
+              0.201,
+              0.226,
+              0.276,
+              0.301,
+              0.327,
+              0.352,
+              0.402,
+              0.427,
+              0.478,
+              0.503,
+              0.553,
+              0.578,
+              0.603,
+              0.704,
+              0.729,
+              0.78,
+              0.805,
+              0.83,
+              0.855,
+              0.956
+            ],
+            [
+              0.04,
+              0.102,
+              0.184,
+              0.225,
+              0.245,
+              0.266,
+              0.286,
+              0.391,
+              0.422,
+              0.437,
+              0.468,
+              0.566,
+              0.602,
+              0.716,
+              0.738,
+              0.782,
+              0.804,
+              0.871,
+              0.893,
+              0.916
+            ],
+            [
+              0.038,
+              0.084,
+              0.13,
+              0.153,
+              0.175,
+              0.198,
+              0.221,
+              0.244,
+              0.267,
+              0.29,
+              0.313,
+              0.447,
+              0.465,
+              0.484,
+              0.557,
+              0.613,
+              0.631,
+              0.739,
+              0.757,
+              0.776,
+              0.794,
+              0.849,
+              0.867,
+              0.904,
+              0.922
+            ],
+            [
+              0.041,
+              0.062,
+              0.084,
+              0.126,
+              0.147,
+              0.168,
+              0.21,
+              0.232,
+              0.274,
+              0.357,
+              0.381,
+              0.405,
+              0.429,
+              0.452,
+              0.476,
+              0.5,
+              0.548,
+              0.619,
+              0.643,
+              0.666,
+              0.714,
+              0.738,
+              0.761,
+              0.785,
+              0.857,
+              0.88,
+              0.928
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.081,
+              0.117,
+              0.189,
+              0.333,
+              0.369,
+              0.477,
+              0.549,
+              0.621,
+              0.657,
+              0.693,
+              0.729
+            ],
+            [
+              0.139,
+              0.202,
+              0.264,
+              0.327,
+              0.515,
+              0.765,
+              0.828,
+              0.89
+            ],
+            [
+              0.312,
+              0.468,
+              0.546,
+              0.624,
+              0.702,
+              0.779
+            ]
+          ],
+          "normal": [
+            [
+              0.062,
+              0.077,
+              0.108,
+              0.154,
+              0.17,
+              0.201,
+              0.216,
+              0.263,
+              0.278,
+              0.293,
+              0.324,
+              0.34,
+              0.355,
+              0.417,
+              0.448,
+              0.479,
+              0.494,
+              0.51,
+              0.525,
+              0.587,
+              0.602,
+              0.646,
+              0.663,
+              0.679,
+              0.711,
+              0.744,
+              0.76,
+              0.793,
+              0.809,
+              0.841,
+              0.89,
+              0.906,
+              0.923,
+              0.939
+            ],
+            [
+              0.05,
+              0.068,
+              0.103,
+              0.121,
+              0.157,
+              0.174,
+              0.228,
+              0.281,
+              0.299,
+              0.37,
+              0.388,
+              0.406,
+              0.455,
+              0.473,
+              0.51,
+              0.528,
+              0.589,
+              0.606,
+              0.656,
+              0.673,
+              0.707,
+              0.724,
+              0.758,
+              0.809,
+              0.825,
+              0.842,
+              0.927
+            ],
+            [
+              0.049,
+              0.065,
+              0.114,
+              0.163,
+              0.179,
+              0.211,
+              0.244,
+              0.276,
+              0.292,
+              0.325,
+              0.341,
+              0.357,
+              0.422,
+              0.438,
+              0.471,
+              0.487,
+              0.52,
+              0.536,
+              0.552,
+              0.617,
+              0.633,
+              0.649,
+              0.698,
+              0.714,
+              0.763,
+              0.779,
+              0.828
+            ],
+            [
+              0.038,
+              0.058,
+              0.099,
+              0.119,
+              0.16,
+              0.221,
+              0.241,
+              0.302,
+              0.343,
+              0.424,
+              0.444,
+              0.553,
+              0.582,
+              0.717,
+              0.743,
+              0.769,
+              0.885,
+              0.913
+            ],
+            [
+              0.065,
+              0.08,
+              0.127,
+              0.142,
+              0.173,
+              0.189,
+              0.204,
+              0.22,
+              0.235,
+              0.251,
+              0.282,
+              0.297,
+              0.313,
+              0.344,
+              0.359,
+              0.375,
+              0.437,
+              0.49,
+              0.507,
+              0.525,
+              0.578,
+              0.595,
+              0.648,
+              0.666,
+              0.701,
+              0.718,
+              0.754,
+              0.771,
+              0.824,
+              0.859,
+              0.894,
+              0.912
+            ],
+            [
+              0.049,
+              0.067,
+              0.104,
+              0.123,
+              0.16,
+              0.178,
+              0.215,
+              0.252,
+              0.271,
+              0.308,
+              0.326,
+              0.345,
+              0.363,
+              0.381,
+              0.4,
+              0.437,
+              0.474,
+              0.492,
+              0.511,
+              0.529,
+              0.585,
+              0.603,
+              0.677,
+              0.751,
+              0.77,
+              0.788,
+              0.825,
+              0.844,
+              0.88,
+              0.899,
+              0.917,
+              0.954
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-24-03",
+      "category": "environment",
+      "region": {
+        "country": "GB",
+        "city": "London",
+        "lat": 51.51,
+        "lng": -0.13
+      },
+      "headline": {
+        "en": "Record Heat-Linked Deaths Estimated in England After Hottest Summer on Record",
+        "ko": "사상 가장 더웠던 올여름, 잉글랜드 폭염 관련 사망 역대 최다 추정",
+        "fr": "Un record de décès liés à la chaleur estimé en Angleterre après l'été le plus chaud jamais enregistré"
+      },
+      "hook": {
+        "en": "How many people did this summer's heat kill in England?",
+        "ko": "올여름 더위로 잉글랜드에서 몇 명이 숨졌을까요?",
+        "fr": "Combien de personnes la chaleur de cet été a-t-elle tuées en Angleterre ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Summer 2026 was the hottest on record in the UK.",
+            "Heat is linked to more than five thousand deaths in England.",
+            "That is almost twice the old record."
+          ],
+          "easy_ko": [
+            "2026년 여름은 영국에서 사상 가장 더웠어요.",
+            "잉글랜드에서 5천 명이 넘는 사망이 더위와 관련 있어요.",
+            "이전 기록의 거의 두 배예요."
+          ],
+          "normal": [
+            "The UK Health Security Agency estimates that 5,258 deaths in England this summer were linked to hot weather, the highest number since records began in 2016.",
+            "That is almost double the previous record of 2,985, set in 2022.",
+            "The deadliest week ran from 21 to 28 June, when temperatures peaked at 38C and an estimated 2,401 people died.",
+            "Provisional Met Office data show that 2026 was the hottest summer on record, with heatwaves in May and June setting new monthly temperature records.",
+            "Both were caused by heat domes, which are stalled areas of high pressure, and droughts were declared in all of Wales and more than two-thirds of England.",
+            "The agency warned that climate change is expected to make extreme heat longer, more frequent and more intense."
+          ],
+          "normal_ko": [
+            "영국 보건안전청은 올여름 잉글랜드에서 5,258명의 사망이 더운 날씨와 관련 있다고 추정했고, 이는 기록이 시작된 2016년 이후 가장 많은 수입니다.",
+            "2022년에 세워진 이전 기록 2,985명의 거의 두 배입니다.",
+            "가장 치명적이었던 기간은 6월 21일부터 28일까지로, 기온이 38도까지 올랐고 약 2,401명이 숨진 것으로 추정됩니다.",
+            "기상청(Met Office) 잠정 자료에 따르면 2026년은 사상 가장 더운 여름이었고, 5월과 6월의 폭염이 각각 월별 최고 기온 기록을 새로 썼습니다.",
+            "두 폭염 모두 멈춰 선 고기압 지역인 '열돔'이 원인이었고, 웨일스 전역과 잉글랜드의 3분의 2 이상에 가뭄이 선포됐습니다.",
+            "보건안전청은 기후변화로 극한 더위가 더 길고, 더 잦고, 더 강해질 것으로 예상된다고 경고했습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "L'été 2026 a été le plus chaud jamais mesuré au Royaume-Uni.",
+            "Plus de cinq mille décès en Angleterre sont liés à la chaleur.",
+            "C'est presque le double de l'ancien record."
+          ],
+          "normal": [
+            "L'Agence britannique de sécurité sanitaire estime que 5 258 décès en Angleterre cet été étaient liés à la chaleur, un record depuis le début des relevés en 2016.",
+            "Le nombre a presque doublé par rapport au précédent record de 2 985 décès, établi en 2022.",
+            "La semaine la plus mortelle va du 21 au 28 juin : les températures ont culminé à 38 °C et on estime à 2 401 le nombre de décès associés à la chaleur.",
+            "Les données provisoires du Met Office indiquent que l'été 2026 est le plus chaud jamais enregistré, avec des vagues de chaleur en mai et en juin qui ont battu des records mensuels.",
+            "Toutes deux viennent de « dômes de chaleur », des zones de haute pression stagnantes, et la sécheresse a été déclarée dans tout le pays de Galles et dans plus des deux tiers de l'Angleterre.",
+            "L'agence prévient que le changement climatique devrait rendre la chaleur extrême plus longue, plus fréquente et plus intense."
+          ],
+          "normal_ko": [
+            "영국 보건안전청은 올여름 잉글랜드에서 5,258명의 사망이 더운 날씨와 관련 있다고 추정했고, 이는 기록이 시작된 2016년 이후 가장 많은 수입니다.",
+            "2022년에 세워진 이전 기록 2,985명의 거의 두 배입니다.",
+            "가장 치명적이었던 기간은 6월 21일부터 28일까지로, 기온이 38도까지 올랐고 약 2,401명이 숨진 것으로 추정됩니다.",
+            "기상청(Met Office) 잠정 자료에 따르면 2026년은 사상 가장 더운 여름이었고, 5월과 6월의 폭염이 각각 월별 최고 기온 기록을 새로 썼습니다.",
+            "두 폭염 모두 멈춰 선 고기압 지역인 '열돔'이 원인이었고, 웨일스 전역과 잉글랜드의 3분의 2 이상에 가뭄이 선포됐습니다.",
+            "보건안전청은 기후변화로 극한 더위가 더 길고, 더 잦고, 더 강해질 것으로 예상된다고 경고했습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "'폭염 관련 사망'은 더위가 원인이거나 더위와 관련된 것으로 보고 통계로 추정한 숫자예요. 영국은 에어컨이 없는 집이 많아 40도에 가까운 더위에 특히 약하다는 지적이 있습니다. 이번 수치는 BBC 기준 잉글랜드 한정이고, 위키백과 한 줄에는 영국(UK)으로 적혀 있었어요. 5월과 6월 폭염이 월별 최고 기온 기록을 깼고 가뭄도 선포됐습니다. 본문은 BBC 한 곳을 읽었고 숫자는 위키백과로 맞춰 봤으니, 단정하기보다 '추정치'로 읽어 주세요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "estimate",
+          "pos": "verb",
+          "ko": "추정하다",
+          "example": "Experts estimate 5,000 deaths.",
+          "example_ko": "전문가들은 5천 명 사망으로 추정해요.",
+          "note_ko": "동사는 -mate를 [에이트]로, 명사 estimate(추정치)는 [잇]으로 발음해요."
+        },
+        {
+          "lang": "en",
+          "word": "be linked to",
+          "pos": "phrase",
+          "ko": "~와 관련되다",
+          "example": "Deaths were linked to the heat.",
+          "example_ko": "사망이 더위와 관련 있었어요.",
+          "note_ko": "link A to B. 원인이 확정됐다는 뜻은 아니에요."
+        },
+        {
+          "lang": "en",
+          "word": "record",
+          "pos": "noun",
+          "ko": "기록",
+          "example": "It is a record high.",
+          "example_ko": "사상 최고 기록이에요.",
+          "note_ko": "명사 RE-cord, 동사 re-CORD. on record = 기록상."
+        },
+        {
+          "lang": "en",
+          "word": "previous",
+          "pos": "adjective",
+          "ko": "이전의",
+          "example": "The previous record was set in 2022.",
+          "example_ko": "이전 기록은 2022년에 세워졌어요.",
+          "note_ko": "부사 previously. 반대는 next/following."
+        },
+        {
+          "lang": "en",
+          "word": "double",
+          "pos": "adjective",
+          "ko": "두 배의",
+          "example": "Deaths almost doubled.",
+          "example_ko": "사망자가 거의 두 배가 됐어요.",
+          "note_ko": "동사 double(두 배가 되다), 명사 the double(두 배). twice as many와 비슷."
+        },
+        {
+          "lang": "en",
+          "word": "deadly",
+          "pos": "adjective",
+          "ko": "치명적인",
+          "example": "It was the deadliest week.",
+          "example_ko": "가장 치명적인 주였어요.",
+          "note_ko": "-ly로 끝나지만 형용사. fatal은 더 격식 있는 말."
+        },
+        {
+          "lang": "en",
+          "word": "peak",
+          "pos": "verb",
+          "ko": "정점에 이르다",
+          "example": "Temperatures peaked at 38C.",
+          "example_ko": "기온이 38도에서 정점을 찍었어요.",
+          "note_ko": "peak at + 수치. 명사 peak = 정점·봉우리."
+        },
+        {
+          "lang": "en",
+          "word": "provisional",
+          "pos": "adjective",
+          "ko": "잠정적인",
+          "example": "These are provisional figures.",
+          "example_ko": "이것은 잠정 수치예요.",
+          "note_ko": "나중에 확정(final)되면서 바뀔 수 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "heatwave",
+          "pos": "noun",
+          "ko": "폭염",
+          "example": "A heatwave hit in June.",
+          "example_ko": "6월에 폭염이 닥쳤어요.",
+          "note_ko": "heat wave로 띄어 쓰기도 해요. 반대 느낌은 cold snap(한파)."
+        },
+        {
+          "lang": "en",
+          "word": "stalled",
+          "pos": "adjective",
+          "ko": "정체된, 멈춘",
+          "example": "A stalled area of high pressure.",
+          "example_ko": "정체된 고기압 지역이에요.",
+          "note_ko": "stall = 멈추다. 엔진이 꺼지다(stall)도 같은 말."
+        },
+        {
+          "lang": "en",
+          "word": "drought",
+          "pos": "noun",
+          "ko": "가뭄",
+          "example": "A drought was declared.",
+          "example_ko": "가뭄이 선포됐어요.",
+          "note_ko": "발음 [드라우트]. 반대 상황은 flood(홍수)."
+        },
+        {
+          "lang": "en",
+          "word": "frequent",
+          "pos": "adjective",
+          "ko": "잦은",
+          "example": "Storms are more frequent.",
+          "example_ko": "폭풍이 더 잦아요.",
+          "note_ko": "명사 frequency, 부사 frequently. 반대는 rare."
+        },
+        {
+          "lang": "en",
+          "word": "intense",
+          "pos": "adjective",
+          "ko": "극심한, 강렬한",
+          "example": "The heat was intense.",
+          "example_ko": "더위가 극심했어요.",
+          "note_ko": "명사 intensity. intense heat/pressure 같은 짝꿍."
+        },
+        {
+          "lang": "fr",
+          "word": "estimer",
+          "pos": "verbe",
+          "ko": "추정하다, 평가하다",
+          "example": "On estime à 5 000 les décès.",
+          "example_ko": "사망이 5천 건으로 추정돼요.",
+          "note_ko": "estimer à + 수치, estimer que + 문장."
+        },
+        {
+          "lang": "fr",
+          "word": "être lié à",
+          "pos": "locution",
+          "ko": "~와 관련되다",
+          "example": "Ces décès sont liés à la chaleur.",
+          "example_ko": "이 사망은 더위와 관련 있어요.",
+          "note_ko": "lier = 묶다. un lien = 관계."
+        },
+        {
+          "lang": "fr",
+          "word": "un record",
+          "pos": "nom masculin",
+          "ko": "기록",
+          "example": "Un record depuis 2016.",
+          "example_ko": "2016년 이후 최고 기록이에요.",
+          "note_ko": "battre un record = 기록을 깨다."
+        },
+        {
+          "lang": "fr",
+          "word": "précédent",
+          "pos": "adjectif",
+          "ko": "이전의",
+          "example": "Le précédent record date de 2022.",
+          "example_ko": "이전 기록은 2022년 거예요.",
+          "note_ko": "un précédent(명사) = 선례. 반대는 suivant."
+        },
+        {
+          "lang": "fr",
+          "word": "doubler",
+          "pos": "verbe",
+          "ko": "두 배가 되다",
+          "example": "Le nombre a presque doublé.",
+          "example_ko": "수가 거의 두 배가 됐어요.",
+          "note_ko": "le double = 두 배(명사). 자동차를 추월하다 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "mortel",
+          "pos": "adjectif",
+          "ko": "치명적인",
+          "example": "La semaine la plus mortelle.",
+          "example_ko": "가장 치명적인 주예요.",
+          "note_ko": "la mort = 죽음. 비슷한 말 meurtrier(살인적)."
+        },
+        {
+          "lang": "fr",
+          "word": "culminer",
+          "pos": "verbe",
+          "ko": "정점에 이르다",
+          "example": "Les températures culminent à 38 °C.",
+          "example_ko": "기온이 38도에서 정점을 찍어요.",
+          "note_ko": "culminer à + 수치. le sommet = 정상."
+        },
+        {
+          "lang": "fr",
+          "word": "provisoire",
+          "pos": "adjectif",
+          "ko": "잠정적인",
+          "example": "Des chiffres provisoires.",
+          "example_ko": "잠정 수치예요.",
+          "note_ko": "반대는 définitif(확정된)."
+        },
+        {
+          "lang": "fr",
+          "word": "une vague de chaleur",
+          "pos": "nom féminin",
+          "ko": "폭염",
+          "example": "Une vague de chaleur en juin.",
+          "example_ko": "6월의 폭염이에요.",
+          "note_ko": "une vague = 파도. 반대는 vague de froid(한파)."
+        },
+        {
+          "lang": "fr",
+          "word": "stagnant",
+          "pos": "adjectif",
+          "ko": "정체된",
+          "example": "Une zone stagnante de haute pression.",
+          "example_ko": "정체된 고기압 지역이에요.",
+          "note_ko": "stagner = 정체하다. 경제에도 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "une sécheresse",
+          "pos": "nom féminin",
+          "ko": "가뭄",
+          "example": "Une sécheresse a été déclarée.",
+          "example_ko": "가뭄이 선포됐어요.",
+          "note_ko": "sec = 마른. 반대 상황은 une inondation(홍수)."
+        },
+        {
+          "lang": "fr",
+          "word": "fréquent",
+          "pos": "adjectif",
+          "ko": "잦은",
+          "example": "Des tempêtes plus fréquentes.",
+          "example_ko": "폭풍이 더 잦아요.",
+          "note_ko": "명사 la fréquence. 반대는 rare."
+        },
+        {
+          "lang": "fr",
+          "word": "intense",
+          "pos": "adjectif",
+          "ko": "극심한",
+          "example": "Une chaleur intense.",
+          "example_ko": "극심한 더위예요.",
+          "note_ko": "남녀 형태가 같아요. une chaleur intense."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "A 'provisional' figure is one that is…",
+          "choices": [
+            "temporary and may change",
+            "final and certain",
+            "very large"
+          ],
+          "answer": 0,
+          "explain_ko": "provisional = 잠정적인, 나중에 바뀔 수 있는."
+        },
+        {
+          "lang": "fr",
+          "q": "Un chiffre « provisoire » est…",
+          "choices": [
+            "temporaire et susceptible de changer",
+            "définitif",
+            "très grand"
+          ],
+          "answer": 0,
+          "explain_ko": "provisoire = 잠정적인."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq2e83egrez3o",
+          "accessed": "2026-11-25"
+        },
+        {
+          "name": "Wikipedia Portal:Current events (one line)",
+          "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_24",
+          "accessed": "2026-11-25"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-25",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-24/70ead6d02efd9d42.mp3",
+            "2026-11-24/682867ebd7a8a75e.mp3",
+            "2026-11-24/65857256f5296cb4.mp3"
+          ],
+          "normal": [
+            "2026-11-24/b2a0c3679cef9595.mp3",
+            "2026-11-24/eb4682223f4019ad.mp3",
+            "2026-11-24/3fead42b5fd8dd3c.mp3",
+            "2026-11-24/21b8f820cd0e5ee5.mp3",
+            "2026-11-24/669bb6b176be3efe.mp3",
+            "2026-11-24/b01e7d59dcfeea17.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-24/021d7dd9c54e3e5d.mp3",
+            "2026-11-24/913f2f62a171c169.mp3",
+            "2026-11-24/a32fbe0fbee1b700.mp3"
+          ],
+          "normal": [
+            "2026-11-24/164aca6f508a7c11.mp3",
+            "2026-11-24/fc8fae68e2e7278f.mp3",
+            "2026-11-24/e85d05cc626023ad.mp3",
+            "2026-11-24/7bc9ce5be835eebc.mp3",
+            "2026-11-24/4ad1abbd859e790c.mp3",
+            "2026-11-24/bd3b954345ab0ccf.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-24/cf8bd5a53af3ac96.mp3",
+          "2026-11-24/378477788ee51cab.mp3",
+          "2026-11-24/bad71d69b72ee2de.mp3",
+          "2026-11-24/e3d415e7bd58e358.mp3",
+          "2026-11-24/c0ab0d4e66e877c2.mp3",
+          "2026-11-24/4158dbb4615732fd.mp3",
+          "2026-11-24/40160c14f92db59f.mp3",
+          "2026-11-24/7db7c23213086331.mp3",
+          "2026-11-24/ce75d26580a951bd.mp3",
+          "2026-11-24/d79fb99ac054a050.mp3",
+          "2026-11-24/c97e1e9bcdac155c.mp3",
+          "2026-11-24/59047bda370c3c84.mp3",
+          "2026-11-24/020fad64af904710.mp3",
+          "2026-11-24/162d54de39bcf325.mp3",
+          "2026-11-24/aa14a7c0cb7e79ec.mp3",
+          "2026-11-24/048dc9d6c0565461.mp3",
+          "2026-11-24/1a5c5d83c6ba8b9f.mp3",
+          "2026-11-24/ca732a489e226210.mp3",
+          "2026-11-24/b5e6d48a2f6c2ced.mp3",
+          "2026-11-24/370e3f00358a6e30.mp3",
+          "2026-11-24/15c4f3f964e28379.mp3",
+          "2026-11-24/9f2f1df45c355daa.mp3",
+          "2026-11-24/57a856dce57fd3f0.mp3",
+          "2026-11-24/e65cc705607677d9.mp3",
+          "2026-11-24/b431b872e18c9b5f.mp3",
+          "2026-11-24/9d9be44850409230.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.089,
+              0.198,
+              0.362,
+              0.417,
+              0.471,
+              0.58,
+              0.635,
+              0.744,
+              0.799,
+              0.853
+            ],
+            [
+              0,
+              0.072,
+              0.144,
+              0.216,
+              0.289,
+              0.361,
+              0.433,
+              0.505,
+              0.649,
+              0.721,
+              0.794
+            ],
+            [
+              0,
+              0.111,
+              0.222,
+              0.444,
+              0.556,
+              0.667,
+              0.778
+            ]
+          ],
+          "normal": [
+            [
+              0.034,
+              0.051,
+              0.068,
+              0.084,
+              0.151,
+              0.201,
+              0.25,
+              0.267,
+              0.317,
+              0.334,
+              0.35,
+              0.383,
+              0.4,
+              0.433,
+              0.45,
+              0.467,
+              0.483,
+              0.5,
+              0.559,
+              0.588,
+              0.647,
+              0.706,
+              0.735,
+              0.793,
+              0.852,
+              0.881
+            ],
+            [
+              0.053,
+              0.099,
+              0.145,
+              0.237,
+              0.283,
+              0.329,
+              0.421,
+              0.513,
+              0.559,
+              0.764,
+              0.804,
+              0.844
+            ],
+            [
+              0.041,
+              0.07,
+              0.13,
+              0.159,
+              0.189,
+              0.219,
+              0.278,
+              0.308,
+              0.367,
+              0.42,
+              0.451,
+              0.575,
+              0.606,
+              0.636,
+              0.667,
+              0.698,
+              0.729,
+              0.822,
+              0.914,
+              0.945
+            ],
+            [
+              0.036,
+              0.116,
+              0.136,
+              0.176,
+              0.216,
+              0.236,
+              0.256,
+              0.316,
+              0.335,
+              0.355,
+              0.395,
+              0.435,
+              0.455,
+              0.542,
+              0.567,
+              0.615,
+              0.639,
+              0.663,
+              0.687,
+              0.711,
+              0.759,
+              0.783,
+              0.831,
+              0.927
+            ],
+            [
+              0,
+              0.037,
+              0.073,
+              0.11,
+              0.146,
+              0.183,
+              0.267,
+              0.291,
+              0.315,
+              0.339,
+              0.388,
+              0.412,
+              0.437,
+              0.527,
+              0.554,
+              0.582,
+              0.61,
+              0.666,
+              0.694,
+              0.722,
+              0.749,
+              0.777,
+              0.805,
+              0.833,
+              0.861,
+              0.916,
+              0.944
+            ],
+            [
+              0.064,
+              0.095,
+              0.188,
+              0.218,
+              0.249,
+              0.311,
+              0.342,
+              0.372,
+              0.434,
+              0.465,
+              0.496,
+              0.557,
+              0.588,
+              0.711,
+              0.748,
+              0.824,
+              0.861,
+              0.899
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.08,
+              0.168,
+              0.299,
+              0.343,
+              0.431,
+              0.475,
+              0.518,
+              0.562,
+              0.65,
+              0.781,
+              0.825
+            ],
+            [
+              0.116,
+              0.165,
+              0.215,
+              0.265,
+              0.314,
+              0.414,
+              0.463,
+              0.612,
+              0.662,
+              0.711,
+              0.761,
+              0.811
+            ],
+            [
+              0.204,
+              0.272,
+              0.408,
+              0.476,
+              0.544,
+              0.612,
+              0.749
+            ]
+          ],
+          "normal": [
+            [
+              0.043,
+              0.072,
+              0.129,
+              0.144,
+              0.202,
+              0.245,
+              0.274,
+              0.288,
+              0.303,
+              0.331,
+              0.36,
+              0.375,
+              0.418,
+              0.432,
+              0.461,
+              0.49,
+              0.505,
+              0.519,
+              0.533,
+              0.573,
+              0.598,
+              0.647,
+              0.696,
+              0.721,
+              0.77,
+              0.794,
+              0.868,
+              0.892
+            ],
+            [
+              0.095,
+              0.124,
+              0.153,
+              0.182,
+              0.24,
+              0.298,
+              0.327,
+              0.385,
+              0.414,
+              0.472,
+              0.53,
+              0.559,
+              0.588,
+              0.646,
+              0.704,
+              0.791,
+              0.82
+            ],
+            [
+              0.073,
+              0.088,
+              0.119,
+              0.135,
+              0.15,
+              0.181,
+              0.197,
+              0.212,
+              0.243,
+              0.259,
+              0.29,
+              0.305,
+              0.362,
+              0.381,
+              0.457,
+              0.475,
+              0.532,
+              0.551,
+              0.588,
+              0.607,
+              0.626,
+              0.645,
+              0.682,
+              0.701,
+              0.72,
+              0.757,
+              0.776,
+              0.795,
+              0.814,
+              0.851,
+              0.908,
+              0.927,
+              0.945
+            ],
+            [
+              0.039,
+              0.057,
+              0.092,
+              0.145,
+              0.163,
+              0.18,
+              0.215,
+              0.268,
+              0.286,
+              0.321,
+              0.374,
+              0.392,
+              0.41,
+              0.427,
+              0.445,
+              0.48,
+              0.551,
+              0.586,
+              0.604,
+              0.639,
+              0.657,
+              0.692,
+              0.71,
+              0.727,
+              0.745,
+              0.763,
+              0.78,
+              0.798,
+              0.816,
+              0.851,
+              0.869,
+              0.904
+            ],
+            [
+              0.04,
+              0.049,
+              0.059,
+              0.068,
+              0.077,
+              0.086,
+              0.095,
+              0.104,
+              0.122,
+              0.153,
+              0.192,
+              0.23,
+              0.269,
+              0.307,
+              0.384,
+              0.5,
+              0.516,
+              0.533,
+              0.584,
+              0.601,
+              0.635,
+              0.685,
+              0.702,
+              0.719,
+              0.736,
+              0.753,
+              0.77,
+              0.786,
+              0.803,
+              0.82,
+              0.837,
+              0.854,
+              0.871,
+              0.888,
+              0.905
+            ],
+            [
+              0.07,
+              0.123,
+              0.176,
+              0.202,
+              0.229,
+              0.281,
+              0.387,
+              0.44,
+              0.466,
+              0.493,
+              0.546,
+              0.598,
+              0.625,
+              0.73,
+              0.76,
+              0.821,
+              0.851,
+              0.882
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-24-04",
+      "category": "economy",
+      "region": {
+        "country": "FR",
+        "city": "Hambach, Moselle",
+        "lat": 49.07,
+        "lng": 7
+      },
+      "headline": {
+        "en": "BYD Picks France for Its First Western European Car Factory",
+        "ko": "BYD, 서유럽 첫 공장으로 프랑스 선택…모젤 공장 인수 독점 협상",
+        "fr": "BYD choisit la France pour sa première usine d'Europe de l'Ouest"
+      },
+      "hook": {
+        "en": "Where will BYD build its first Western European factory?",
+        "ko": "BYD는 서유럽 첫 공장을 어디에 지을까요?",
+        "fr": "Où BYD construira-t-il sa première usine d'Europe de l'Ouest ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "The Chinese carmaker BYD wants to build cars in France.",
+            "It is negotiating to buy a factory in Moselle.",
+            "It would be BYD's first plant in Western Europe."
+          ],
+          "easy_ko": [
+            "중국 자동차 업체 BYD가 프랑스에서 차를 만들고 싶어 해요.",
+            "BYD는 모젤의 공장을 사려고 협상 중이에요.",
+            "서유럽에서는 BYD의 첫 공장이 될 거예요."
+          ],
+          "normal": [
+            "The Chinese carmaker BYD, described as the world's biggest maker of electric vehicles, says it has chosen France for its first factory in Western Europe.",
+            "The company has entered exclusive negotiations to acquire the Ineos Automotive plant in Hambach, in the Moselle region, which used to build the Smart city car.",
+            "French business media note that the site has never run at full capacity.",
+            "President Emmanuel Macron has spoken of a car plant in Moselle, saying that 'BYD is working with France', according to the site Frandroid.",
+            "The news comes as the European Union prepares to cap imports of Chinese hybrid cars next month.",
+            "Cars built inside the EU are not imports, so such caps would not apply to them."
+          ],
+          "normal_ko": [
+            "세계 최대 전기차 업체로 소개되는 중국 자동차 기업 BYD가 서유럽 첫 공장 자리로 프랑스를 골랐다고 밝혔습니다.",
+            "BYD는 예전에 소형 도시차 스마트를 만들던 모젤 지방 함바흐의 이네오스 오토모티브 공장을 인수하기 위한 독점 협상에 들어갔습니다.",
+            "프랑스 경제지들은 이 공장이 한 번도 최대 가동된 적이 없다고 짚었습니다.",
+            "프랑드로이드에 따르면 마크롱 대통령은 모젤의 자동차 공장을 언급하며 'BYD가 프랑스와 일하고 있다'고 말했습니다.",
+            "이 소식은 유럽연합이 다음 달 중국산 하이브리드차 수입에 상한을 두려는 때 나왔습니다.",
+            "EU 안에서 만든 차는 수입품이 아니어서 이런 상한이 적용되지 않을 것입니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Le constructeur chinois BYD veut fabriquer des voitures en France.",
+            "Il négocie l'achat d'une usine en Moselle.",
+            "Ce serait sa première usine en Europe de l'Ouest."
+          ],
+          "normal": [
+            "Le constructeur chinois BYD, numéro un mondial des véhicules électriques, dit avoir choisi la France pour sa première usine en Europe de l'Ouest.",
+            "Il est entré en négociations exclusives pour acquérir l'usine d'Ineos Automotive à Hambach, en Moselle, où l'on fabriquait autrefois la petite citadine Smart.",
+            "Des médias économiques français notent que ce site n'a jamais tourné à pleine capacité.",
+            "Le président Emmanuel Macron a évoqué une usine de voitures en Moselle en disant que « BYD travaille avec la France », selon le site Frandroid.",
+            "La nouvelle tombe alors que l'Union européenne s'apprête à plafonner, le mois prochain, les importations de voitures hybrides chinoises.",
+            "Les voitures fabriquées dans l'UE ne sont pas des importations : ces plafonds ne s'appliqueraient donc pas à elles."
+          ],
+          "normal_ko": [
+            "세계 최대 전기차 업체로 소개되는 중국 자동차 기업 BYD가 서유럽 첫 공장 자리로 프랑스를 골랐다고 밝혔습니다.",
+            "BYD는 예전에 소형 도시차 스마트를 만들던 모젤 지방 함바흐의 이네오스 오토모티브 공장을 인수하기 위한 독점 협상에 들어갔습니다.",
+            "프랑스 경제지들은 이 공장이 한 번도 최대 가동된 적이 없다고 짚었습니다.",
+            "프랑드로이드에 따르면 마크롱 대통령은 모젤의 자동차 공장을 언급하며 'BYD가 프랑스와 일하고 있다'고 말했습니다.",
+            "이 소식은 유럽연합이 다음 달 중국산 하이브리드차 수입에 상한을 두려는 때 나왔습니다.",
+            "EU 안에서 만든 차는 수입품이 아니어서 이런 상한이 적용되지 않을 것입니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "BYD는 중국의 전기차·배터리 업체로, 프랑스 언론은 세계 1위 전기차 업체라고 소개했어요. 아직 '독점 협상' 단계라 인수가 확정된 것은 아닙니다. 가격, 일자리 수, 일정은 확인한 보도에서 나오지 않아 쓰지 않았어요. EU는 다음 달 중국산 하이브리드차 수입에 상한을 두기로 했는데(Guardian), EU 안에서 만든 차는 수입품이 아니라서 이 상한이 적용되지 않는다는 점이 배경으로 읽힙니다. 다만 BYD가 그 이유로 정했다고 밝힌 것은 아니에요. 본문은 읽지 못해 프랑스 매체 제목·요약으로 확인했습니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "carmaker",
+          "pos": "noun",
+          "ko": "자동차 제조사",
+          "example": "The carmaker chose France.",
+          "example_ko": "그 제조사는 프랑스를 골랐어요.",
+          "note_ko": "car+maker. 미국식은 automaker."
+        },
+        {
+          "lang": "en",
+          "word": "vehicle",
+          "pos": "noun",
+          "ko": "차량",
+          "example": "An electric vehicle runs on a battery.",
+          "example_ko": "전기차는 배터리로 달려요.",
+          "note_ko": "car보다 넓은 말(트럭·버스 포함). EV = electric vehicle."
+        },
+        {
+          "lang": "en",
+          "word": "factory",
+          "pos": "noun",
+          "ko": "공장",
+          "example": "It will open a factory in France.",
+          "example_ko": "프랑스에 공장을 열 거예요.",
+          "note_ko": "plant와 비슷하지만 plant는 대형 생산 시설에 자주 써요."
+        },
+        {
+          "lang": "en",
+          "word": "exclusive",
+          "pos": "adjective",
+          "ko": "독점적인",
+          "example": "They entered exclusive talks.",
+          "example_ko": "독점 협상에 들어갔어요.",
+          "note_ko": "exclusive talks = 다른 상대 없이 한 곳과만 하는 협상. 명사 exclusive는 '특종'."
+        },
+        {
+          "lang": "en",
+          "word": "negotiation",
+          "pos": "noun",
+          "ko": "협상",
+          "example": "Negotiations will take weeks.",
+          "example_ko": "협상은 몇 주 걸릴 거예요.",
+          "note_ko": "보통 복수로 써요. 동사 negotiate."
+        },
+        {
+          "lang": "en",
+          "word": "acquire",
+          "pos": "verb",
+          "ko": "인수하다, 얻다",
+          "example": "BYD wants to acquire the plant.",
+          "example_ko": "BYD는 그 공장을 인수하고 싶어 해요.",
+          "note_ko": "기업 인수에 자주 써요. 명사 acquisition."
+        },
+        {
+          "lang": "en",
+          "word": "plant",
+          "pos": "noun",
+          "ko": "공장, 생산 시설",
+          "example": "The plant used to build city cars.",
+          "example_ko": "그 공장은 소형차를 만들곤 했어요.",
+          "note_ko": "식물 plant와 철자가 같아요. power plant = 발전소."
+        },
+        {
+          "lang": "en",
+          "word": "site",
+          "pos": "noun",
+          "ko": "부지, 현장",
+          "example": "The site is in Moselle.",
+          "example_ko": "그 부지는 모젤에 있어요.",
+          "note_ko": "factory site = 공장 부지. website의 site와 같은 말."
+        },
+        {
+          "lang": "en",
+          "word": "capacity",
+          "pos": "noun",
+          "ko": "생산 능력, 수용력",
+          "example": "It never ran at full capacity.",
+          "example_ko": "최대로 가동된 적이 없어요.",
+          "note_ko": "at full capacity = 최대로 가동 중. 반대는 spare capacity(여유분)."
+        },
+        {
+          "lang": "en",
+          "word": "cap",
+          "pos": "verb",
+          "ko": "상한을 두다",
+          "example": "The EU will cap imports.",
+          "example_ko": "EU는 수입에 상한을 둘 거예요.",
+          "note_ko": "명사 cap = 상한선, 모자. price cap = 가격 상한."
+        },
+        {
+          "lang": "en",
+          "word": "import",
+          "pos": "noun",
+          "ko": "수입(품)",
+          "example": "Imports of hybrids will be limited.",
+          "example_ko": "하이브리드 수입이 제한돼요.",
+          "note_ko": "명사 IM-port, 동사 im-PORT. 반대는 export."
+        },
+        {
+          "lang": "en",
+          "word": "hybrid",
+          "pos": "adjective",
+          "ko": "하이브리드의",
+          "example": "A hybrid car uses fuel and a battery.",
+          "example_ko": "하이브리드차는 연료와 배터리를 써요.",
+          "note_ko": "원래 '잡종'이라는 뜻. plug-in hybrid = 충전식 하이브리드."
+        },
+        {
+          "lang": "en",
+          "word": "apply",
+          "pos": "verb",
+          "ko": "적용되다",
+          "example": "The caps would not apply.",
+          "example_ko": "상한은 적용되지 않을 거예요.",
+          "note_ko": "apply to ~ = ~에 적용되다. apply for = 지원하다."
+        },
+        {
+          "lang": "fr",
+          "word": "un constructeur automobile",
+          "pos": "nom masculin",
+          "ko": "자동차 제조사",
+          "example": "Le constructeur choisit la France.",
+          "example_ko": "제조사가 프랑스를 골라요.",
+          "note_ko": "constructeur = 만드는 회사. construire = 짓다."
+        },
+        {
+          "lang": "fr",
+          "word": "un véhicule",
+          "pos": "nom masculin",
+          "ko": "차량",
+          "example": "Un véhicule électrique.",
+          "example_ko": "전기차예요.",
+          "note_ko": "une voiture보다 넓은 말. véhicule hybride 등."
+        },
+        {
+          "lang": "fr",
+          "word": "une usine",
+          "pos": "nom féminin",
+          "ko": "공장",
+          "example": "Une usine en Moselle.",
+          "example_ko": "모젤의 공장이에요.",
+          "note_ko": "un site de production이라고도 해요."
+        },
+        {
+          "lang": "fr",
+          "word": "exclusif",
+          "pos": "adjectif",
+          "ko": "독점적인",
+          "example": "Des négociations exclusives.",
+          "example_ko": "독점 협상이에요.",
+          "note_ko": "여성형 exclusive. en exclusivité = 독점으로."
+        },
+        {
+          "lang": "fr",
+          "word": "une négociation",
+          "pos": "nom féminin",
+          "ko": "협상",
+          "example": "Les négociations durent des semaines.",
+          "example_ko": "협상은 몇 주 걸려요.",
+          "note_ko": "négocier = 협상하다. 보통 복수."
+        },
+        {
+          "lang": "fr",
+          "word": "acquérir",
+          "pos": "verbe",
+          "ko": "인수하다, 얻다",
+          "example": "Il veut acquérir l'usine.",
+          "example_ko": "그는 공장을 인수하고 싶어 해요.",
+          "note_ko": "불규칙 동사: j'acquiers. 명사 une acquisition."
+        },
+        {
+          "lang": "fr",
+          "word": "une citadine",
+          "pos": "nom féminin",
+          "ko": "소형 도시차",
+          "example": "La Smart est une citadine.",
+          "example_ko": "스마트는 소형 도시차예요.",
+          "note_ko": "citadin = 도시의. 작은 도심용 차를 가리켜요."
+        },
+        {
+          "lang": "fr",
+          "word": "un site",
+          "pos": "nom masculin",
+          "ko": "부지, 현장",
+          "example": "Ce site n'a jamais tourné à plein.",
+          "example_ko": "이 부지는 최대로 가동된 적이 없어요.",
+          "note_ko": "site web(웹사이트)와 같은 단어. site industriel = 산업 부지."
+        },
+        {
+          "lang": "fr",
+          "word": "la capacité",
+          "pos": "nom féminin",
+          "ko": "생산 능력",
+          "example": "À pleine capacité.",
+          "example_ko": "최대로 가동돼요.",
+          "note_ko": "capacité de production. tourner à plein = 최대로 가동되다."
+        },
+        {
+          "lang": "fr",
+          "word": "plafonner",
+          "pos": "verbe",
+          "ko": "상한을 두다",
+          "example": "L'UE va plafonner les importations.",
+          "example_ko": "EU가 수입에 상한을 둘 거예요.",
+          "note_ko": "un plafond = 천장·상한. prix plafonné = 상한 가격."
+        },
+        {
+          "lang": "fr",
+          "word": "une importation",
+          "pos": "nom féminin",
+          "ko": "수입",
+          "example": "Les importations de voitures.",
+          "example_ko": "자동차 수입이에요.",
+          "note_ko": "importer = 수입하다. 반대는 une exportation."
+        },
+        {
+          "lang": "fr",
+          "word": "hybride",
+          "pos": "adjectif",
+          "ko": "하이브리드의",
+          "example": "Une voiture hybride.",
+          "example_ko": "하이브리드차예요.",
+          "note_ko": "남녀 형태가 같아요. hybride rechargeable = 충전식."
+        },
+        {
+          "lang": "fr",
+          "word": "s'appliquer",
+          "pos": "verbe pronominal",
+          "ko": "적용되다",
+          "example": "La règle ne s'applique pas.",
+          "example_ko": "규칙이 적용되지 않아요.",
+          "note_ko": "s'appliquer à + 대상. appliquer = 적용하다."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "If a factory runs at 'full capacity', it…",
+          "choices": [
+            "is producing as much as it can",
+            "is closed",
+            "is for sale"
+          ],
+          "answer": 0,
+          "explain_ko": "at full capacity = 최대로 가동하는."
+        },
+        {
+          "lang": "fr",
+          "q": "Une usine qui tourne « à pleine capacité » produit…",
+          "choices": [
+            "autant qu'elle peut",
+            "rien du tout",
+            "la moitié seulement"
+          ],
+          "answer": 0,
+          "explain_ko": "à pleine capacité = 최대로 가동하여."
+        }
+      ],
+      "sources": [
+        {
+          "name": "France 24 FR (summary only)",
+          "url": "https://www.france24.com/fr/%C3%A9co-tech/20261124-le-constructeur-automobile-chinois-byd-choisit-la-france-pour-sa-premi%C3%A8re-usine-d-europe-de-l-ouest",
+          "accessed": "2026-11-25"
+        },
+        {
+          "name": "French media headlines via Google News (France 3 Régions, Les Echos, Le Figaro, Libération, BFM, L'Usine Nouvelle)",
+          "url": "https://news.google.com/search?q=BYD+Hambach+Ineos&hl=fr&gl=FR&ceid=FR:fr",
+          "accessed": "2026-11-25"
+        },
+        {
+          "name": "The Guardian (EU hybrid import cap, summary only)",
+          "url": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
+          "accessed": "2026-11-25"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-25",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-24/679a150efe0c286e.mp3",
+            "2026-11-24/84c18b904d9cd6f4.mp3",
+            "2026-11-24/3c378cf891039e86.mp3"
+          ],
+          "normal": [
+            "2026-11-24/143d66484e7f4886.mp3",
+            "2026-11-24/b29ecfaeb321b119.mp3",
+            "2026-11-24/ad79b5c8d38f3de7.mp3",
+            "2026-11-24/d6da18accaf34cf1.mp3",
+            "2026-11-24/d9c902f7a8e704d1.mp3",
+            "2026-11-24/426420be6d386d1a.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-24/4ece7b768ff04182.mp3",
+            "2026-11-24/2f80e19ad1af9ba5.mp3",
+            "2026-11-24/cac0874e6dec9c1c.mp3"
+          ],
+          "normal": [
+            "2026-11-24/46fc9cdd90d01510.mp3",
+            "2026-11-24/9eecea7543836c74.mp3",
+            "2026-11-24/c90e24373a624666.mp3",
+            "2026-11-24/7d0c9da5536e57d5.mp3",
+            "2026-11-24/8de3ebbcc0785086.mp3",
+            "2026-11-24/55eb34627e49b8a9.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-24/7fb92b9a8e9565f0.mp3",
+          "2026-11-24/3c8d02753345129d.mp3",
+          "2026-11-24/88ed827f65869316.mp3",
+          "2026-11-24/da8e489b86f324ec.mp3",
+          "2026-11-24/4a9fc90a93468f71.mp3",
+          "2026-11-24/98604d9ba2344b3e.mp3",
+          "2026-11-24/2ebf36331bf63848.mp3",
+          "2026-11-24/eeac5ba813b02075.mp3",
+          "2026-11-24/97f84661658f34c3.mp3",
+          "2026-11-24/23be0f6dc45c41b1.mp3",
+          "2026-11-24/dc9edc62af95c000.mp3",
+          "2026-11-24/a6737d2beb61be2c.mp3",
+          "2026-11-24/0d3df041f4d16d4d.mp3",
+          "2026-11-24/56d96b41c28aaaab.mp3",
+          "2026-11-24/28ac21a82b5e9e30.mp3",
+          "2026-11-24/efc6fbe20351ffb0.mp3",
+          "2026-11-24/8283534e14366888.mp3",
+          "2026-11-24/94e4643fbd7e9d5d.mp3",
+          "2026-11-24/99e641d1a79326aa.mp3",
+          "2026-11-24/36ff3f195e5586e7.mp3",
+          "2026-11-24/4f50fe2f8c7f3e35.mp3",
+          "2026-11-24/69439189c8803de1.mp3",
+          "2026-11-24/f05746896a6387d9.mp3",
+          "2026-11-24/b3bd49dc20211318.mp3",
+          "2026-11-24/b347bd374e8fb943.mp3",
+          "2026-11-24/2898e732eba4eafd.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.164,
+              0.222,
+              0.338,
+              0.511,
+              0.569,
+              0.627,
+              0.685,
+              0.743,
+              0.8,
+              0.858
+            ],
+            [
+              0.13,
+              0.184,
+              0.238,
+              0.455,
+              0.51,
+              0.564,
+              0.618,
+              0.781,
+              0.835
+            ],
+            [
+              0.13,
+              0.202,
+              0.275,
+              0.348,
+              0.421,
+              0.494,
+              0.567,
+              0.639,
+              0.785
+            ]
+          ],
+          "normal": [
+            [
+              0.043,
+              0.075,
+              0.138,
+              0.233,
+              0.292,
+              0.33,
+              0.35,
+              0.369,
+              0.389,
+              0.428,
+              0.466,
+              0.486,
+              0.544,
+              0.621,
+              0.641,
+              0.661,
+              0.681,
+              0.72,
+              0.74,
+              0.76,
+              0.78,
+              0.8,
+              0.859,
+              0.879,
+              0.919
+            ],
+            [
+              0.036,
+              0.054,
+              0.107,
+              0.124,
+              0.159,
+              0.212,
+              0.283,
+              0.3,
+              0.335,
+              0.353,
+              0.388,
+              0.459,
+              0.476,
+              0.494,
+              0.543,
+              0.553,
+              0.564,
+              0.585,
+              0.634,
+              0.671,
+              0.709,
+              0.747,
+              0.785,
+              0.823,
+              0.86,
+              0.936
+            ],
+            [
+              0.104,
+              0.146,
+              0.272,
+              0.355,
+              0.397,
+              0.439,
+              0.481,
+              0.523,
+              0.565,
+              0.648,
+              0.69,
+              0.732,
+              0.774
+            ],
+            [
+              0.04,
+              0.106,
+              0.172,
+              0.216,
+              0.238,
+              0.281,
+              0.303,
+              0.325,
+              0.347,
+              0.369,
+              0.391,
+              0.471,
+              0.502,
+              0.533,
+              0.564,
+              0.595,
+              0.657,
+              0.688,
+              0.735,
+              0.823,
+              0.853,
+              0.882,
+              0.912
+            ],
+            [
+              0,
+              0.038,
+              0.077,
+              0.115,
+              0.154,
+              0.192,
+              0.308,
+              0.385,
+              0.462,
+              0.5,
+              0.539,
+              0.616,
+              0.654,
+              0.731,
+              0.808,
+              0.846,
+              0.885
+            ],
+            [
+              0.071,
+              0.118,
+              0.166,
+              0.261,
+              0.308,
+              0.356,
+              0.404,
+              0.451,
+              0.627,
+              0.663,
+              0.699,
+              0.735,
+              0.771,
+              0.808,
+              0.88,
+              0.916
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.092,
+              0.144,
+              0.298,
+              0.401,
+              0.453,
+              0.504,
+              0.659,
+              0.71,
+              0.813,
+              0.864
+            ],
+            [
+              0.159,
+              0.22,
+              0.402,
+              0.524,
+              0.584,
+              0.706,
+              0.766
+            ],
+            [
+              0.119,
+              0.172,
+              0.278,
+              0.331,
+              0.437,
+              0.543,
+              0.596,
+              0.701,
+              0.754
+            ]
+          ],
+          "normal": [
+            [
+              0.052,
+              0.083,
+              0.177,
+              0.24,
+              0.307,
+              0.356,
+              0.372,
+              0.404,
+              0.42,
+              0.469,
+              0.576,
+              0.595,
+              0.634,
+              0.672,
+              0.692,
+              0.711,
+              0.73,
+              0.749,
+              0.788,
+              0.826,
+              0.845,
+              0.884,
+              0.903
+            ],
+            [
+              0.029,
+              0.048,
+              0.067,
+              0.104,
+              0.123,
+              0.198,
+              0.255,
+              0.274,
+              0.33,
+              0.368,
+              0.406,
+              0.481,
+              0.5,
+              0.572,
+              0.593,
+              0.665,
+              0.684,
+              0.703,
+              0.759,
+              0.816,
+              0.835,
+              0.872,
+              0.929
+            ],
+            [
+              0.072,
+              0.106,
+              0.174,
+              0.343,
+              0.411,
+              0.445,
+              0.479,
+              0.512,
+              0.546,
+              0.58,
+              0.648,
+              0.716,
+              0.749,
+              0.783
+            ],
+            [
+              0.085,
+              0.105,
+              0.145,
+              0.205,
+              0.245,
+              0.265,
+              0.325,
+              0.345,
+              0.385,
+              0.405,
+              0.445,
+              0.465,
+              0.505,
+              0.525,
+              0.565,
+              0.585,
+              0.605,
+              0.625,
+              0.665,
+              0.706,
+              0.726,
+              0.746,
+              0.804,
+              0.853,
+              0.877,
+              0.901
+            ],
+            [
+              0.07,
+              0.091,
+              0.133,
+              0.154,
+              0.197,
+              0.218,
+              0.26,
+              0.324,
+              0.366,
+              0.387,
+              0.506,
+              0.53,
+              0.553,
+              0.662,
+              0.685,
+              0.777,
+              0.8,
+              0.845,
+              0.891
+            ],
+            [
+              0.154,
+              0.179,
+              0.23,
+              0.306,
+              0.332,
+              0.357,
+              0.383,
+              0.408,
+              0.433,
+              0.459,
+              0.56,
+              0.662,
+              0.686,
+              0.734,
+              0.758,
+              0.854,
+              0.878,
+              0.902,
+              0.926
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "audio_base": "https://koreapapa-kim.github.io/worldnews-audio"
+}

@@ -2,6 +2,44 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-11-24",
+      "count": 4,
+      "headlines": [
+        {
+          "id": "2026-11-24-01",
+          "ko": "세네갈, 스포츠중재재판소 판결로 아프리카 축구 우승 되찾아",
+          "en": "Senegal Regains African Football Title as Court Overturns Ruling in Favour of Morocco",
+          "fr": "Le Sénégal retrouve son titre de champion d'Afrique après l'annulation de la décision en faveur du Maroc",
+          "category": "sports",
+          "country": "CH"
+        },
+        {
+          "id": "2026-11-24-02",
+          "ko": "미국 배심원단, 화웨이 영업비밀 절도 공모 유죄…조직범죄 혐의는 무죄",
+          "en": "US Jury Finds Huawei Guilty of Stealing Trade Secrets but Clears It of Racketeering",
+          "fr": "Un jury américain déclare Huawei coupable de vol de secrets industriels mais l'acquitte du chef de racket",
+          "category": "technology",
+          "country": "US"
+        },
+        {
+          "id": "2026-11-24-03",
+          "ko": "사상 가장 더웠던 올여름, 잉글랜드 폭염 관련 사망 역대 최다 추정",
+          "en": "Record Heat-Linked Deaths Estimated in England After Hottest Summer on Record",
+          "fr": "Un record de décès liés à la chaleur estimé en Angleterre après l'été le plus chaud jamais enregistré",
+          "category": "environment",
+          "country": "GB"
+        },
+        {
+          "id": "2026-11-24-04",
+          "ko": "BYD, 서유럽 첫 공장으로 프랑스 선택…모젤 공장 인수 독점 협상",
+          "en": "BYD Picks France for Its First Western European Car Factory",
+          "fr": "BYD choisit la France pour sa première usine d'Europe de l'Ouest",
+          "category": "economy",
+          "country": "FR"
+        }
+      ]
+    },
+    {
       "date": "2026-11-23",
       "count": 4,
       "headlines": [
@@ -1054,6 +1092,6 @@
       ]
     }
   ],
-  "latest": "2026-11-23",
-  "updated_at": "2026-11-23T15:53:20.792Z"
+  "latest": "2026-11-24",
+  "updated_at": "2026-11-25T00:34:52.305Z"
 }
