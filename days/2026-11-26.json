@@ -1,0 +1,3063 @@
+{
+  "schema": 1,
+  "date": "2026-11-26",
+  "stories": [
+    {
+      "id": "2026-11-26-01",
+      "category": "economy",
+      "region": {
+        "country": "DE",
+        "city": "Frankfurt",
+        "lat": 50.11,
+        "lng": 8.68
+      },
+      "headline": {
+        "en": "Spain's Pablo Hernández de Cos Chosen to Succeed Christine Lagarde at the European Central Bank",
+        "ko": "스페인 에르난데스 데 코스, 라가르드 뒤를 이어 유럽중앙은행 총재로",
+        "fr": "L'Espagnol Pablo Hernández de Cos succédera à Christine Lagarde à la tête de la BCE"
+      },
+      "hook": {
+        "en": "Who will replace Christine Lagarde at the ECB?",
+        "ko": "유럽중앙은행에서 크리스틴 라가르드의 뒤를 누가 이을까요?",
+        "fr": "Qui va remplacer Christine Lagarde à la BCE ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "A Spanish economist will lead the European Central Bank.",
+            "His name is Pablo Hernández de Cos.",
+            "He will replace Christine Lagarde."
+          ],
+          "easy_ko": [
+            "스페인 경제학자가 유럽중앙은행을 이끌 거예요.",
+            "그의 이름은 파블로 에르난데스 데 코스예요.",
+            "그가 크리스틴 라가르드의 뒤를 이어요."
+          ],
+          "normal": [
+            "Euro-zone leaders have chosen the Spanish economist Pablo Hernández de Cos to replace Christine Lagarde at the European Central Bank.",
+            "Diplomatic sources said the leaders of the 21 euro-area countries also named the people who will hold the bank's other most influential posts.",
+            "Hernández de Cos currently heads the Bank for International Settlements.",
+            "The ECB sets interest rates for the countries that share the euro, and its main job is to keep prices stable.",
+            "France 24 describes the bank as grappling with a resurgence in inflation driven by the war with Iran.",
+            "Le Monde presents the newly named trio at the top as a team meant to protect Europe from inflation."
+          ],
+          "normal_ko": [
+            "유로존 정상들이 크리스틴 라가르드의 뒤를 이을 유럽중앙은행 총재로 스페인 경제학자 파블로 에르난데스 데 코스를 골랐습니다.",
+            "외교 소식통에 따르면 유로를 쓰는 21개국 정상들은 은행의 다른 핵심 요직을 맡을 사람들도 함께 지명했습니다.",
+            "에르난데스 데 코스는 현재 국제결제은행(BIS)을 이끌고 있습니다.",
+            "ECB는 유로를 쓰는 나라들의 금리를 정하고, 주된 임무는 물가를 안정시키는 것입니다.",
+            "France 24는 이 은행이 이란과의 전쟁으로 다시 오른 물가 상승과 씨름하고 있다고 설명합니다.",
+            "Le Monde는 새로 지명된 최고 3인을 유럽을 인플레이션으로부터 지키기 위한 팀으로 소개합니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Un économiste espagnol va diriger la Banque centrale européenne.",
+            "Il s'appelle Pablo Hernández de Cos.",
+            "Il remplacera Christine Lagarde."
+          ],
+          "normal": [
+            "Les dirigeants de la zone euro ont choisi l'économiste espagnol Pablo Hernández de Cos pour remplacer Christine Lagarde à la tête de la Banque centrale européenne.",
+            "Selon des sources diplomatiques, les dirigeants des 21 pays de la zone euro ont aussi nommé les titulaires des autres postes les plus influents de la banque.",
+            "M. Hernández de Cos dirige actuellement la Banque des règlements internationaux.",
+            "La BCE fixe les taux d'intérêt des pays qui partagent l'euro, et sa mission principale est de garder des prix stables.",
+            "Selon France 24, la banque est confrontée à une reprise de l'inflation, liée à la guerre avec l'Iran.",
+            "Le Monde présente le trio fraîchement nommé comme une équipe chargée de protéger l'Europe de l'inflation."
+          ],
+          "normal_ko": [
+            "유로존 정상들이 크리스틴 라가르드의 뒤를 이을 유럽중앙은행 총재로 스페인 경제학자 파블로 에르난데스 데 코스를 골랐습니다.",
+            "외교 소식통에 따르면 유로를 쓰는 21개국 정상들은 은행의 다른 핵심 요직을 맡을 사람들도 함께 지명했습니다.",
+            "에르난데스 데 코스는 현재 국제결제은행(BIS)을 이끌고 있습니다.",
+            "ECB는 유로를 쓰는 나라들의 금리를 정하고, 주된 임무는 물가를 안정시키는 것입니다.",
+            "France 24는 이 은행이 이란과의 전쟁으로 다시 오른 물가 상승과 씨름하고 있다고 설명합니다.",
+            "Le Monde는 새로 지명된 최고 3인을 유럽을 인플레이션으로부터 지키기 위한 팀으로 소개합니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "유럽중앙은행(ECB)은 유로를 쓰는 나라들의 금리와 물가를 맡는 중앙은행이에요. 후임 지명은 유로존 정상들이 한 것으로 외교 소식통을 인용해 보도됐고, 정식 취임 시기와 다른 직책 이름은 확인한 기사 요약에 나오지 않아 쓰지 않았습니다. France 24는 이란 전쟁과 관련된 물가 재상승을 언급했어요. 본문은 읽지 못했고 제목·요약만 확인했습니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "replace",
+          "pos": "verb",
+          "ko": "대신하다, 후임이 되다",
+          "example": "She will replace the old boss.",
+          "example_ko": "그녀가 옛 사장의 후임이 돼요.",
+          "note_ko": "succeed(뒤를 잇다)와 비슷. replace A with B = A를 B로 바꾸다."
+        },
+        {
+          "lang": "en",
+          "word": "central bank",
+          "pos": "noun",
+          "ko": "중앙은행",
+          "example": "The central bank sets interest rates.",
+          "example_ko": "중앙은행이 금리를 정해요.",
+          "note_ko": "ECB(유럽), Fed(미국), BoE(영국)는 모두 central bank."
+        },
+        {
+          "lang": "en",
+          "word": "diplomatic",
+          "pos": "adjective",
+          "ko": "외교의",
+          "example": "Diplomatic sources confirmed the news.",
+          "example_ko": "외교 소식통이 소식을 확인했어요.",
+          "note_ko": "diplomatic sources = 외교 소식통. 명사 diplomat(외교관)."
+        },
+        {
+          "lang": "en",
+          "word": "name",
+          "pos": "verb",
+          "ko": "지명하다",
+          "example": "They named a new chief.",
+          "example_ko": "그들은 새 수장을 지명했어요.",
+          "note_ko": "name A (as) B = A를 B로 지명하다. 이름(명사)이기도 해요."
+        },
+        {
+          "lang": "en",
+          "word": "influential",
+          "pos": "adjective",
+          "ko": "영향력 있는",
+          "example": "He is an influential economist.",
+          "example_ko": "그는 영향력 있는 경제학자예요.",
+          "note_ko": "명사 influence. 반대는 powerless."
+        },
+        {
+          "lang": "en",
+          "word": "post",
+          "pos": "noun",
+          "ko": "직책, 자리",
+          "example": "She holds a senior post.",
+          "example_ko": "그녀는 고위 직책을 맡고 있어요.",
+          "note_ko": "hold a post = 직책을 맡다. 우편(post)과 다른 뜻."
+        },
+        {
+          "lang": "en",
+          "word": "head",
+          "pos": "verb",
+          "ko": "이끌다, 책임자로 있다",
+          "example": "He heads the bank.",
+          "example_ko": "그는 은행을 이끌어요.",
+          "note_ko": "명사 head(머리·수장)도. the head of the bank."
+        },
+        {
+          "lang": "en",
+          "word": "interest rate",
+          "pos": "noun",
+          "ko": "금리",
+          "example": "The bank cut the interest rate.",
+          "example_ko": "은행이 금리를 내렸어요.",
+          "note_ko": "raise/cut the interest rate = 금리를 올리다/내리다."
+        },
+        {
+          "lang": "en",
+          "word": "stable",
+          "pos": "adjective",
+          "ko": "안정적인",
+          "example": "Prices should stay stable.",
+          "example_ko": "물가는 안정적이어야 해요.",
+          "note_ko": "명사 stability. 반대는 unstable."
+        },
+        {
+          "lang": "en",
+          "word": "grapple",
+          "pos": "verb",
+          "ko": "씨름하다, 애쓰다",
+          "example": "The bank is grappling with inflation.",
+          "example_ko": "은행은 물가 상승과 씨름하고 있어요.",
+          "note_ko": "grapple with + 문제. 원래 붙잡고 싸우다."
+        },
+        {
+          "lang": "en",
+          "word": "resurgence",
+          "pos": "noun",
+          "ko": "되살아남, 재상승",
+          "example": "A resurgence in prices worried experts.",
+          "example_ko": "물가의 재상승이 전문가들을 걱정시켰어요.",
+          "note_ko": "re-(다시)+surge(치솟다). 동사 resurge."
+        },
+        {
+          "lang": "en",
+          "word": "inflation",
+          "pos": "noun",
+          "ko": "물가 상승, 인플레이션",
+          "example": "Inflation hurts families.",
+          "example_ko": "물가 상승은 가정에 부담을 줘요.",
+          "note_ko": "반대는 deflation. inflation rate = 물가상승률."
+        },
+        {
+          "lang": "en",
+          "word": "protect",
+          "pos": "verb",
+          "ko": "지키다, 보호하다",
+          "example": "The team will protect savings.",
+          "example_ko": "그 팀은 저축을 지킬 거예요.",
+          "note_ko": "protect A from B = A를 B로부터 지키다."
+        },
+        {
+          "lang": "fr",
+          "word": "remplacer",
+          "pos": "verbe",
+          "ko": "대신하다, 후임이 되다",
+          "example": "Il remplacera la directrice.",
+          "example_ko": "그가 책임자의 후임이 돼요.",
+          "note_ko": "succéder à = 뒤를 잇다. remplacer A par B."
+        },
+        {
+          "lang": "fr",
+          "word": "une banque centrale",
+          "pos": "nom féminin",
+          "ko": "중앙은행",
+          "example": "La banque centrale fixe les taux.",
+          "example_ko": "중앙은행이 금리를 정해요.",
+          "note_ko": "BCE = Banque centrale européenne."
+        },
+        {
+          "lang": "fr",
+          "word": "diplomatique",
+          "pos": "adjectif",
+          "ko": "외교의",
+          "example": "Des sources diplomatiques.",
+          "example_ko": "외교 소식통이에요.",
+          "note_ko": "un diplomate = 외교관. 남녀 형태 같음."
+        },
+        {
+          "lang": "fr",
+          "word": "nommer",
+          "pos": "verbe",
+          "ko": "지명하다",
+          "example": "Ils ont nommé un nouveau chef.",
+          "example_ko": "그들은 새 수장을 지명했어요.",
+          "note_ko": "nommer A à un poste. 이름을 짓다 뜻도 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "influent",
+          "pos": "adjectif",
+          "ko": "영향력 있는",
+          "example": "Un économiste influent.",
+          "example_ko": "영향력 있는 경제학자예요.",
+          "note_ko": "여성형 influente. 명사 l'influence."
+        },
+        {
+          "lang": "fr",
+          "word": "un poste",
+          "pos": "nom masculin",
+          "ko": "직책, 자리",
+          "example": "Elle occupe un poste clé.",
+          "example_ko": "그녀는 핵심 직책을 맡고 있어요.",
+          "note_ko": "occuper un poste = 직책을 맡다. la poste = 우체국과 구분."
+        },
+        {
+          "lang": "fr",
+          "word": "diriger",
+          "pos": "verbe",
+          "ko": "이끌다",
+          "example": "Il dirige la banque.",
+          "example_ko": "그는 은행을 이끌어요.",
+          "note_ko": "un dirigeant = 경영자·지도자. 반대 느낌은 suivre."
+        },
+        {
+          "lang": "fr",
+          "word": "un taux d'intérêt",
+          "pos": "nom masculin",
+          "ko": "금리",
+          "example": "Un taux d'intérêt élevé.",
+          "example_ko": "높은 금리예요.",
+          "note_ko": "baisser/relever les taux = 금리를 내리다/올리다."
+        },
+        {
+          "lang": "fr",
+          "word": "stable",
+          "pos": "adjectif",
+          "ko": "안정적인",
+          "example": "Des prix stables.",
+          "example_ko": "안정적인 물가예요.",
+          "note_ko": "명사 la stabilité. 반대는 instable."
+        },
+        {
+          "lang": "fr",
+          "word": "être confronté à",
+          "pos": "locution",
+          "ko": "~에 직면하다",
+          "example": "La banque est confrontée à l'inflation.",
+          "example_ko": "은행이 물가 상승에 직면해 있어요.",
+          "note_ko": "confronter = 맞대다. faire face à와 비슷."
+        },
+        {
+          "lang": "fr",
+          "word": "une reprise",
+          "pos": "nom féminin",
+          "ko": "재상승, 되살아남",
+          "example": "Une reprise de l'inflation.",
+          "example_ko": "물가 상승의 재발이에요.",
+          "note_ko": "경제에서는 '경기 회복'(la reprise économique)도 뜻해요."
+        },
+        {
+          "lang": "fr",
+          "word": "l'inflation",
+          "pos": "nom féminin",
+          "ko": "물가 상승",
+          "example": "L'inflation pèse sur les ménages.",
+          "example_ko": "물가 상승이 가계에 부담을 줘요.",
+          "note_ko": "반대는 la déflation."
+        },
+        {
+          "lang": "fr",
+          "word": "protéger",
+          "pos": "verbe",
+          "ko": "지키다, 보호하다",
+          "example": "Protéger l'épargne.",
+          "example_ko": "저축을 지켜요.",
+          "note_ko": "protéger A de B. 명사 la protection."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "To 'replace' a boss means to…",
+          "choices": [
+            "take their job",
+            "work with them",
+            "ask them questions"
+          ],
+          "answer": 0,
+          "explain_ko": "replace = 후임이 되다, 대신하다."
+        },
+        {
+          "lang": "fr",
+          "q": "« Remplacer » un directeur, c'est…",
+          "choices": [
+            "prendre sa place",
+            "travailler avec lui",
+            "lui poser des questions"
+          ],
+          "answer": 0,
+          "explain_ko": "remplacer = 대신하다."
+        }
+      ],
+      "sources": [
+        {
+          "name": "France 24 (summary only)",
+          "url": "https://www.france24.com/en/europe/20261126-spanish-economist-de-cos-succeed-lagarde-head-ecb",
+          "accessed": "2026-11-27"
+        },
+        {
+          "name": "Le Monde (summary only)",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/26/a-la-tete-de-la-bce-un-trio-fraichement-nomme-pour-proteger-l-europe-de-l-inflation-et-peut-etre-la-france-d-une-attaque-sur-les-marches_6815550_3234.html",
+          "accessed": "2026-11-27"
+        },
+        {
+          "name": "France 24 FR (summary only)",
+          "url": "https://www.france24.com/fr/europe/20261126-pr%C3%A9sidence-bce-espagnol-pablo-hernandez-de-cos-succ%C3%A9dera-christine-lagarde",
+          "accessed": "2026-11-27"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-27",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-26/61b99fa609930794.mp3",
+            "2026-11-26/58e9e485a1b607fd.mp3",
+            "2026-11-26/b12bc4c18de800a9.mp3"
+          ],
+          "normal": [
+            "2026-11-26/207267d2c6bdac83.mp3",
+            "2026-11-26/bdd5b8848956261d.mp3",
+            "2026-11-26/0e303aeb63edcc82.mp3",
+            "2026-11-26/c0abd8070aa64c24.mp3",
+            "2026-11-26/ddd0ba0e5dce056f.mp3",
+            "2026-11-26/fc259eca66ac78e7.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-26/1103192198d4c6c8.mp3",
+            "2026-11-26/e540c003949e50b1.mp3",
+            "2026-11-26/0c72530ea6e072f8.mp3"
+          ],
+          "normal": [
+            "2026-11-26/6b64304f29c3b77b.mp3",
+            "2026-11-26/285df4ee5da4df78.mp3",
+            "2026-11-26/e516a537cb75a841.mp3",
+            "2026-11-26/226ad14713446415.mp3",
+            "2026-11-26/af77db4f0c50e6cd.mp3",
+            "2026-11-26/791c9eb5ea5af372.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-26/ae7b3f726bb0c9c2.mp3",
+          "2026-11-26/d3dfc1f2d04bf544.mp3",
+          "2026-11-26/ebaa21dcf99f3ff2.mp3",
+          "2026-11-26/23d822883c37b173.mp3",
+          "2026-11-26/92a05eda72d9b38e.mp3",
+          "2026-11-26/4500e9646ccf5132.mp3",
+          "2026-11-26/a8c53a9f0be1a466.mp3",
+          "2026-11-26/9f37a8a32d3659b1.mp3",
+          "2026-11-26/59e3e44ae4de5bd7.mp3",
+          "2026-11-26/9a821af6e89e93f7.mp3",
+          "2026-11-26/ffacb4f291ed236e.mp3",
+          "2026-11-26/5b304866ff5b18d9.mp3",
+          "2026-11-26/cff7e7d12807ed84.mp3",
+          "2026-11-26/784d95f854a1fdfa.mp3",
+          "2026-11-26/ff8547f10abc3827.mp3",
+          "2026-11-26/95ff6aebf7279ca9.mp3",
+          "2026-11-26/1f6df6cb67c573ec.mp3",
+          "2026-11-26/88dcafcef474f9a2.mp3",
+          "2026-11-26/b6475cd24c048537.mp3",
+          "2026-11-26/2e438798386e7576.mp3",
+          "2026-11-26/87d755f820321d49.mp3",
+          "2026-11-26/7834068051b0dd2a.mp3",
+          "2026-11-26/51080a4303f5eefb.mp3",
+          "2026-11-26/6187e03f28d5c8e9.mp3",
+          "2026-11-26/eb19197ad47e9f17.mp3",
+          "2026-11-26/35568e7f273b7f0f.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.084,
+              0.137,
+              0.241,
+              0.451,
+              0.503,
+              0.556,
+              0.608,
+              0.765,
+              0.87
+            ],
+            [
+              0.149,
+              0.239,
+              0.328,
+              0.417,
+              0.595,
+              0.773,
+              0.862
+            ],
+            [
+              0.055,
+              0.173,
+              0.291,
+              0.527,
+              0.764
+            ]
+          ],
+          "normal": [
+            [
+              0,
+              0.082,
+              0.136,
+              0.163,
+              0.218,
+              0.245,
+              0.3,
+              0.409,
+              0.463,
+              0.518,
+              0.545,
+              0.572,
+              0.599,
+              0.654,
+              0.708,
+              0.763,
+              0.79,
+              0.817,
+              0.899,
+              0.954
+            ],
+            [
+              0.028,
+              0.137,
+              0.165,
+              0.192,
+              0.219,
+              0.274,
+              0.302,
+              0.329,
+              0.384,
+              0.466,
+              0.521,
+              0.576,
+              0.603,
+              0.63,
+              0.658,
+              0.685,
+              0.713,
+              0.74,
+              0.767,
+              0.795,
+              0.85,
+              0.877,
+              0.959
+            ],
+            [
+              0.078,
+              0.171,
+              0.218,
+              0.264,
+              0.404,
+              0.45,
+              0.496,
+              0.543,
+              0.589,
+              0.822
+            ],
+            [
+              0.064,
+              0.095,
+              0.126,
+              0.158,
+              0.252,
+              0.283,
+              0.314,
+              0.346,
+              0.408,
+              0.44,
+              0.471,
+              0.502,
+              0.641,
+              0.681,
+              0.721,
+              0.761,
+              0.801,
+              0.841,
+              0.88,
+              0.92,
+              0.96
+            ],
+            [
+              0.08,
+              0.112,
+              0.178,
+              0.243,
+              0.276,
+              0.308,
+              0.341,
+              0.406,
+              0.439,
+              0.472,
+              0.57,
+              0.602,
+              0.7,
+              0.766,
+              0.798,
+              0.831,
+              0.864,
+              0.896
+            ],
+            [
+              0,
+              0.04,
+              0.08,
+              0.16,
+              0.2,
+              0.28,
+              0.32,
+              0.36,
+              0.4,
+              0.44,
+              0.48,
+              0.52,
+              0.56,
+              0.6,
+              0.64,
+              0.68,
+              0.76,
+              0.84,
+              0.88
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.1,
+              0.142,
+              0.312,
+              0.439,
+              0.481,
+              0.609,
+              0.651,
+              0.736,
+              0.821
+            ],
+            [
+              0.239,
+              0.316,
+              0.471,
+              0.625,
+              0.78,
+              0.857
+            ],
+            [
+              0.169,
+              0.249,
+              0.568,
+              0.728
+            ]
+          ],
+          "normal": [
+            [
+              0.05,
+              0.07,
+              0.13,
+              0.15,
+              0.171,
+              0.191,
+              0.231,
+              0.251,
+              0.292,
+              0.372,
+              0.433,
+              0.473,
+              0.514,
+              0.534,
+              0.554,
+              0.574,
+              0.635,
+              0.675,
+              0.715,
+              0.736,
+              0.756,
+              0.776,
+              0.796,
+              0.816,
+              0.857,
+              0.897
+            ],
+            [
+              0.053,
+              0.09,
+              0.108,
+              0.126,
+              0.271,
+              0.292,
+              0.355,
+              0.377,
+              0.419,
+              0.44,
+              0.461,
+              0.482,
+              0.503,
+              0.546,
+              0.567,
+              0.609,
+              0.651,
+              0.672,
+              0.736,
+              0.757,
+              0.778,
+              0.799,
+              0.82,
+              0.841,
+              0.883,
+              0.905,
+              0.926
+            ],
+            [
+              0.088,
+              0.398,
+              0.455,
+              0.484,
+              0.512,
+              0.57,
+              0.656,
+              0.685,
+              0.742,
+              0.771,
+              0.857
+            ],
+            [
+              0.064,
+              0.095,
+              0.126,
+              0.158,
+              0.189,
+              0.22,
+              0.313,
+              0.344,
+              0.375,
+              0.407,
+              0.469,
+              0.586,
+              0.612,
+              0.638,
+              0.69,
+              0.769,
+              0.795,
+              0.821,
+              0.873,
+              0.899,
+              0.925
+            ],
+            [
+              0.052,
+              0.125,
+              0.162,
+              0.289,
+              0.315,
+              0.365,
+              0.391,
+              0.467,
+              0.493,
+              0.518,
+              0.569,
+              0.594,
+              0.709,
+              0.737,
+              0.765,
+              0.793,
+              0.82,
+              0.876
+            ],
+            [
+              0.054,
+              0.088,
+              0.123,
+              0.191,
+              0.225,
+              0.26,
+              0.328,
+              0.397,
+              0.431,
+              0.465,
+              0.534,
+              0.602,
+              0.636,
+              0.739,
+              0.808,
+              0.842
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-26-02",
+      "category": "politics",
+      "region": {
+        "country": "GB",
+        "city": "London",
+        "lat": 51.51,
+        "lng": -0.13
+      },
+      "headline": {
+        "en": "UK Net Migration Falls to Lowest Level Since 1997 Outside the Pandemic",
+        "ko": "영국 순이민, 코로나 시기를 빼면 1997년 이후 최저로 하락",
+        "fr": "Royaume-Uni : l'immigration nette tombe à son plus bas niveau depuis 1997, hors Covid"
+      },
+      "hook": {
+        "en": "How far has net migration to the UK fallen?",
+        "ko": "영국의 순이민은 얼마나 줄었을까요?",
+        "fr": "De combien l'immigration nette au Royaume-Uni a-t-elle baissé ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Fewer people are moving to the UK.",
+            "Net migration is now the lowest since 1997.",
+            "The government and the opposition both claim credit."
+          ],
+          "easy_ko": [
+            "영국으로 오는 사람이 줄었어요.",
+            "순이민이 1997년 이후 가장 낮아요.",
+            "정부와 야당이 서로 자기 공이라고 해요."
+          ],
+          "normal": [
+            "Net migration to the UK fell to 77,000 in the year to June, the lowest figure this century apart from the pandemic years, according to the Office for National Statistics.",
+            "That is a drop of 92% from the record of 944,000 in the year to March 2023.",
+            "About 738,000 people immigrated in the year to June, while about 661,000 emigrated.",
+            "Fewer people came to work, to study or to claim asylum, partly because visa rules were tightened under the Conservatives and kept tight by Labour from July 2024.",
+            "Prime Minister Andy Burnham said the figures show a sufficient degree of control, though he did not want to appear complacent.",
+            "The Conservative spokesman Chris Philp said his own party's restrictions were behind the fall."
+          ],
+          "normal_ko": [
+            "영국 통계청에 따르면 6월까지 1년간 영국의 순이민은 7만 7천 명으로 떨어져, 팬데믹 시기를 빼면 이번 세기 가장 낮은 수치입니다.",
+            "2023년 3월까지 1년의 사상 최고치 94만 4천 명에서 92% 줄어든 것입니다.",
+            "6월까지 1년간 약 73만 8천 명이 들어왔고 약 66만 1천 명이 떠났습니다.",
+            "일하러, 공부하러, 망명을 신청하러 오는 사람이 줄었는데, 보수당 정부 때 강화된 비자 규정을 2024년 7월부터 노동당이 이어 간 영향도 있습니다.",
+            "앤디 버넘 총리는 이 수치가 '충분한 수준의 통제'를 보여 주지만 안심하는 모습으로 비치고 싶지는 않다고 말했습니다.",
+            "보수당의 크리스 필프 대변인은 자기 당의 규제가 감소의 원인이라고 말했습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Moins de gens s'installent au Royaume-Uni.",
+            "Le solde migratoire est le plus bas depuis 1997.",
+            "Le gouvernement et l'opposition s'en attribuent le mérite."
+          ],
+          "normal": [
+            "Le solde migratoire du Royaume-Uni est tombé à 77 000 personnes sur un an jusqu'en juin, son plus bas niveau de ce siècle hors années de pandémie, selon l'Office national des statistiques.",
+            "C'est une baisse de 92 % par rapport au record de 944 000 atteint sur l'année jusqu'en mars 2023.",
+            "Environ 738 000 personnes sont arrivées sur un an jusqu'en juin, tandis qu'environ 661 000 sont parties.",
+            "Moins de personnes sont venues pour travailler, étudier ou demander l'asile, en partie parce que les règles de visa ont été durcies sous les conservateurs, puis maintenues par les travaillistes depuis juillet 2024.",
+            "Le Premier ministre Andy Burnham a dit que ces chiffres montrent un degré de contrôle suffisant, sans vouloir se reposer sur ses lauriers.",
+            "Le porte-parole conservateur Chris Philp a affirmé que les restrictions de son propre parti expliquaient cette baisse."
+          ],
+          "normal_ko": [
+            "영국 통계청에 따르면 6월까지 1년간 영국의 순이민은 7만 7천 명으로 떨어져, 팬데믹 시기를 빼면 이번 세기 가장 낮은 수치입니다.",
+            "2023년 3월까지 1년의 사상 최고치 94만 4천 명에서 92% 줄어든 것입니다.",
+            "6월까지 1년간 약 73만 8천 명이 들어왔고 약 66만 1천 명이 떠났습니다.",
+            "일하러, 공부하러, 망명을 신청하러 오는 사람이 줄었는데, 보수당 정부 때 강화된 비자 규정을 2024년 7월부터 노동당이 이어 간 영향도 있습니다.",
+            "앤디 버넘 총리는 이 수치가 '충분한 수준의 통제'를 보여 주지만 안심하는 모습으로 비치고 싶지는 않다고 말했습니다.",
+            "보수당의 크리스 필프 대변인은 자기 당의 규제가 감소의 원인이라고 말했습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "순이민은 들어온 사람 수에서 나간 사람 수를 뺀 값이에요. 이번 7만 7천 명은 사상 최고였던 2023년 3월까지 1년의 94만 4천 명에서 92% 줄었습니다(BBC). 일하러 오는 사람, 학생, 망명 신청이 줄어든 데에는 보수당 정부 때 시작해 노동당이 이어 간 비자 강화가 있었다고 BBC는 설명해요. 정부는 성과라고, 보수당은 자기 정책 덕이라고 서로 주장하니 각자의 말로 읽어 주세요. 본문은 BBC를 읽었고 Le Monde는 요약만 확인했어요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "net",
+          "pos": "adjective",
+          "ko": "순(純), 차감한",
+          "example": "Net migration fell.",
+          "example_ko": "순이민이 줄었어요.",
+          "note_ko": "net = 전체에서 뺀 뒤의 값. 반대는 gross(총)."
+        },
+        {
+          "lang": "en",
+          "word": "apart from",
+          "pos": "phrase",
+          "ko": "~을 제외하고",
+          "example": "Apart from last year, it was high.",
+          "example_ko": "작년을 빼면 높았어요.",
+          "note_ko": "except for와 비슷. aside from도 같은 뜻."
+        },
+        {
+          "lang": "en",
+          "word": "pandemic",
+          "pos": "noun",
+          "ko": "(전 세계) 대유행병",
+          "example": "The pandemic changed travel.",
+          "example_ko": "팬데믹이 여행을 바꿨어요.",
+          "note_ko": "epidemic(유행병)보다 범위가 세계적."
+        },
+        {
+          "lang": "en",
+          "word": "statistics",
+          "pos": "noun",
+          "ko": "통계",
+          "example": "The statistics show a fall.",
+          "example_ko": "통계가 감소를 보여 줘요.",
+          "note_ko": "Office for National Statistics(ONS) = 영국 통계청. 학문 이름일 땐 단수 취급."
+        },
+        {
+          "lang": "en",
+          "word": "record",
+          "pos": "noun",
+          "ko": "기록, 최고치",
+          "example": "A record number arrived.",
+          "example_ko": "기록적인 수가 도착했어요.",
+          "note_ko": "명사 RE-cord, 동사 re-CORD. record high/low."
+        },
+        {
+          "lang": "en",
+          "word": "immigrate",
+          "pos": "verb",
+          "ko": "이민 오다",
+          "example": "Many people immigrated last year.",
+          "example_ko": "작년에 많은 사람이 이민 왔어요.",
+          "note_ko": "immigrate to + 나라. 명사 immigration. in-(안으로)."
+        },
+        {
+          "lang": "en",
+          "word": "emigrate",
+          "pos": "verb",
+          "ko": "이민 나가다",
+          "example": "Others emigrated to Canada.",
+          "example_ko": "다른 사람들은 캐나다로 이민 갔어요.",
+          "note_ko": "emigrate from + 나라. e-(밖으로). immigrate와 짝."
+        },
+        {
+          "lang": "en",
+          "word": "asylum",
+          "pos": "noun",
+          "ko": "망명, 보호",
+          "example": "He claimed asylum.",
+          "example_ko": "그는 망명을 신청했어요.",
+          "note_ko": "claim/seek asylum = 망명을 신청하다. asylum seeker = 망명 신청자."
+        },
+        {
+          "lang": "en",
+          "word": "visa",
+          "pos": "noun",
+          "ko": "비자, 입국 허가",
+          "example": "A work visa is required.",
+          "example_ko": "취업 비자가 필요해요.",
+          "note_ko": "student visa, work visa처럼 종류를 앞에 붙여요."
+        },
+        {
+          "lang": "en",
+          "word": "tighten",
+          "pos": "verb",
+          "ko": "강화하다, 조이다",
+          "example": "They tightened the rules.",
+          "example_ko": "그들은 규정을 강화했어요.",
+          "note_ko": "tighten rules = 규정을 강화하다. 반대는 loosen."
+        },
+        {
+          "lang": "en",
+          "word": "sufficient",
+          "pos": "adjective",
+          "ko": "충분한",
+          "example": "Is the control sufficient?",
+          "example_ko": "통제가 충분한가요?",
+          "note_ko": "enough보다 격식 있는 말. 반대는 insufficient."
+        },
+        {
+          "lang": "en",
+          "word": "complacent",
+          "pos": "adjective",
+          "ko": "안주하는, 자만하는",
+          "example": "We must not be complacent.",
+          "example_ko": "우리는 안주해서는 안 돼요.",
+          "note_ko": "명사 complacency. 'don't appear complacent' 정치인이 자주 써요."
+        },
+        {
+          "lang": "en",
+          "word": "restriction",
+          "pos": "noun",
+          "ko": "제한, 규제",
+          "example": "New restrictions started in 2024.",
+          "example_ko": "새 규제가 2024년에 시작됐어요.",
+          "note_ko": "동사 restrict. impose restrictions = 규제를 부과하다."
+        },
+        {
+          "lang": "fr",
+          "word": "un solde migratoire",
+          "pos": "nom masculin",
+          "ko": "순이민(들어온 수-나간 수)",
+          "example": "Le solde migratoire baisse.",
+          "example_ko": "순이민이 줄어요.",
+          "note_ko": "un solde = 차액·잔액. solde migratoire net이라고도 해요."
+        },
+        {
+          "lang": "fr",
+          "word": "hors",
+          "pos": "préposition",
+          "ko": "~을 제외하고",
+          "example": "Hors pandémie, c'est le plus bas.",
+          "example_ko": "팬데믹을 빼면 가장 낮아요.",
+          "note_ko": "hors taxe(세금 제외)처럼 자주 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "la pandémie",
+          "pos": "nom féminin",
+          "ko": "팬데믹",
+          "example": "La pandémie a changé les voyages.",
+          "example_ko": "팬데믹이 여행을 바꿨어요.",
+          "note_ko": "une épidémie = 유행병(범위 좁음)."
+        },
+        {
+          "lang": "fr",
+          "word": "les statistiques",
+          "pos": "nom féminin pluriel",
+          "ko": "통계",
+          "example": "Les statistiques montrent une baisse.",
+          "example_ko": "통계가 감소를 보여 줘요.",
+          "note_ko": "단수 la statistique = 통계 수치 하나."
+        },
+        {
+          "lang": "fr",
+          "word": "un record",
+          "pos": "nom masculin",
+          "ko": "기록, 최고치",
+          "example": "Un record historique.",
+          "example_ko": "역대 최고 기록이에요.",
+          "note_ko": "battre un record = 기록을 깨다."
+        },
+        {
+          "lang": "fr",
+          "word": "arriver",
+          "pos": "verbe",
+          "ko": "도착하다, 들어오다",
+          "example": "Beaucoup de gens sont arrivés.",
+          "example_ko": "많은 사람이 들어왔어요.",
+          "note_ko": "être 동사와 함께 쓰는 복합과거: il est arrivé."
+        },
+        {
+          "lang": "fr",
+          "word": "quitter",
+          "pos": "verbe",
+          "ko": "떠나다",
+          "example": "Ils ont quitté le pays.",
+          "example_ko": "그들은 나라를 떠났어요.",
+          "note_ko": "quitter + 목적어(전치사 없음)."
+        },
+        {
+          "lang": "fr",
+          "word": "l'asile",
+          "pos": "nom masculin",
+          "ko": "망명, 보호",
+          "example": "Demander l'asile.",
+          "example_ko": "망명을 신청해요.",
+          "note_ko": "un demandeur d'asile = 망명 신청자."
+        },
+        {
+          "lang": "fr",
+          "word": "un visa",
+          "pos": "nom masculin",
+          "ko": "비자",
+          "example": "Un visa de travail.",
+          "example_ko": "취업 비자예요.",
+          "note_ko": "visa d'étudiant = 학생 비자."
+        },
+        {
+          "lang": "fr",
+          "word": "durcir",
+          "pos": "verbe",
+          "ko": "강화하다, 엄하게 하다",
+          "example": "Le gouvernement durcit les règles.",
+          "example_ko": "정부가 규정을 강화해요.",
+          "note_ko": "durcir un ton/une loi. 반대는 assouplir."
+        },
+        {
+          "lang": "fr",
+          "word": "suffisant",
+          "pos": "adjectif",
+          "ko": "충분한",
+          "example": "Un contrôle suffisant.",
+          "example_ko": "충분한 통제예요.",
+          "note_ko": "여성형 suffisante. 반대는 insuffisant."
+        },
+        {
+          "lang": "fr",
+          "word": "se reposer sur ses lauriers",
+          "pos": "locution",
+          "ko": "성공에 안주하다",
+          "example": "Il ne veut pas se reposer sur ses lauriers.",
+          "example_ko": "그는 성공에 안주하고 싶지 않아요.",
+          "note_ko": "lauriers = 월계수(승리의 상징). 관용구."
+        },
+        {
+          "lang": "fr",
+          "word": "une restriction",
+          "pos": "nom féminin",
+          "ko": "제한, 규제",
+          "example": "De nouvelles restrictions.",
+          "example_ko": "새 규제예요.",
+          "note_ko": "restreindre = 제한하다. imposer des restrictions."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "If you 'tighten' the rules, you…",
+          "choices": [
+            "make them stricter",
+            "remove them",
+            "explain them"
+          ],
+          "answer": 0,
+          "explain_ko": "tighten = 더 엄격하게 하다."
+        },
+        {
+          "lang": "fr",
+          "q": "« Durcir » une règle, c'est…",
+          "choices": [
+            "la rendre plus stricte",
+            "la supprimer",
+            "l'expliquer"
+          ],
+          "answer": 0,
+          "explain_ko": "durcir = 강화하다."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o",
+          "accessed": "2026-11-27"
+        },
+        {
+          "name": "Le Monde (summary only)",
+          "url": "https://www.lemonde.fr/international/article/2026/11/26/royaume-uni-l-immigration-nette-enregistre-sa-plus-forte-baisse-depuis-1997-hors-periode-du-covid-19_6815526_3210.html",
+          "accessed": "2026-11-27"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-27",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-26/27a7a2d44249d236.mp3",
+            "2026-11-26/331e07a07555b6e5.mp3",
+            "2026-11-26/f4741f32c0acdc99.mp3"
+          ],
+          "normal": [
+            "2026-11-26/872588300ccddf49.mp3",
+            "2026-11-26/8f7f8bc9a81ba78b.mp3",
+            "2026-11-26/6693b1a2b23ac0a5.mp3",
+            "2026-11-26/695ebaf8b6b8c2ce.mp3",
+            "2026-11-26/26efbd3b04880159.mp3",
+            "2026-11-26/d7ce70e08d3b4f64.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-26/1dc8a1322ca3bb4a.mp3",
+            "2026-11-26/f3727d32bebfe434.mp3",
+            "2026-11-26/f466a08885c91512.mp3"
+          ],
+          "normal": [
+            "2026-11-26/8b7bf18b8fb5b8e0.mp3",
+            "2026-11-26/0e6fb62751791d9e.mp3",
+            "2026-11-26/c7b9fee0c1228772.mp3",
+            "2026-11-26/027261c6942e69c3.mp3",
+            "2026-11-26/02f7de88fd97edb7.mp3",
+            "2026-11-26/dd2792ce673dc931.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-26/23be4fad1fe23006.mp3",
+          "2026-11-26/bc518b9b0b2d54aa.mp3",
+          "2026-11-26/7b4dc1da297eec2b.mp3",
+          "2026-11-26/32568f5b5e99624b.mp3",
+          "2026-11-26/5b7fe19eb1cebb85.mp3",
+          "2026-11-26/d1aaa6f0dd5be8f3.mp3",
+          "2026-11-26/ce2257dcbf64d74b.mp3",
+          "2026-11-26/611da1b358931262.mp3",
+          "2026-11-26/594a6d5c3fcaeb0c.mp3",
+          "2026-11-26/15042043dbe75e6e.mp3",
+          "2026-11-26/a06097f5c6d8c0a4.mp3",
+          "2026-11-26/5dc5220b76f5125c.mp3",
+          "2026-11-26/031c2fe4ba744d1a.mp3",
+          "2026-11-26/6a8031acda21be91.mp3",
+          "2026-11-26/85cec730d5199117.mp3",
+          "2026-11-26/e750e87b14ce3ae9.mp3",
+          "2026-11-26/f3d33828641b0da0.mp3",
+          "2026-11-26/09c5c2b523c15d46.mp3",
+          "2026-11-26/ed8e4f8250ca1791.mp3",
+          "2026-11-26/44f0f42e792745f6.mp3",
+          "2026-11-26/df2d934c3721aca6.mp3",
+          "2026-11-26/83257463a88aeb8d.mp3",
+          "2026-11-26/63cb56d62529b80e.mp3",
+          "2026-11-26/dd269eb026013b04.mp3",
+          "2026-11-26/2c2c4d2d70d4f2b5.mp3",
+          "2026-11-26/374e5ecaf857d55f.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0,
+              0.207,
+              0.311,
+              0.415,
+              0.622,
+              0.725,
+              0.829
+            ],
+            [
+              0,
+              0.077,
+              0.308,
+              0.385,
+              0.462,
+              0.538,
+              0.692,
+              0.769
+            ],
+            [
+              0,
+              0.071,
+              0.286,
+              0.357,
+              0.429,
+              0.714,
+              0.786,
+              0.857
+            ]
+          ],
+          "normal": [
+            [
+              0,
+              0.023,
+              0.091,
+              0.114,
+              0.136,
+              0.159,
+              0.182,
+              0.204,
+              0.295,
+              0.318,
+              0.341,
+              0.363,
+              0.386,
+              0.446,
+              0.463,
+              0.497,
+              0.531,
+              0.549,
+              0.6,
+              0.634,
+              0.651,
+              0.668,
+              0.719,
+              0.75,
+              0.803,
+              0.821,
+              0.839,
+              0.875,
+              0.893,
+              0.946
+            ],
+            [
+              0.016,
+              0.057,
+              0.098,
+              0.139,
+              0.18,
+              0.221,
+              0.303,
+              0.344,
+              0.385,
+              0.467,
+              0.508,
+              0.672,
+              0.713,
+              0.754,
+              0.795,
+              0.836,
+              0.877
+            ],
+            [
+              0,
+              0.074,
+              0.221,
+              0.258,
+              0.369,
+              0.406,
+              0.443,
+              0.48,
+              0.517,
+              0.605,
+              0.642,
+              0.718,
+              0.87
+            ],
+            [
+              0,
+              0.042,
+              0.062,
+              0.083,
+              0.104,
+              0.163,
+              0.183,
+              0.224,
+              0.244,
+              0.265,
+              0.285,
+              0.393,
+              0.435,
+              0.477,
+              0.519,
+              0.54,
+              0.561,
+              0.602,
+              0.644,
+              0.665,
+              0.749,
+              0.77,
+              0.791,
+              0.812,
+              0.833,
+              0.874,
+              0.895,
+              0.937
+            ],
+            [
+              0.091,
+              0.116,
+              0.19,
+              0.24,
+              0.289,
+              0.314,
+              0.339,
+              0.388,
+              0.413,
+              0.438,
+              0.512,
+              0.562,
+              0.587,
+              0.693,
+              0.718,
+              0.743,
+              0.767,
+              0.792,
+              0.817,
+              0.841,
+              0.891
+            ],
+            [
+              0,
+              0.043,
+              0.217,
+              0.348,
+              0.391,
+              0.435,
+              0.478,
+              0.522,
+              0.565,
+              0.652,
+              0.783,
+              0.826,
+              0.913,
+              0.957
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.164,
+              0.246,
+              0.328,
+              0.41,
+              0.573,
+              0.655
+            ],
+            [
+              0.095,
+              0.156,
+              0.217,
+              0.4,
+              0.461,
+              0.522,
+              0.583,
+              0.644,
+              0.765
+            ],
+            [
+              0.112,
+              0.161,
+              0.309,
+              0.358,
+              0.555,
+              0.604,
+              0.751,
+              0.8
+            ]
+          ],
+          "normal": [
+            [
+              0.037,
+              0.055,
+              0.073,
+              0.128,
+              0.146,
+              0.201,
+              0.219,
+              0.255,
+              0.273,
+              0.31,
+              0.346,
+              0.382,
+              0.4,
+              0.419,
+              0.437,
+              0.473,
+              0.534,
+              0.542,
+              0.55,
+              0.559,
+              0.575,
+              0.583,
+              0.591,
+              0.599,
+              0.607,
+              0.623,
+              0.631,
+              0.666,
+              0.717,
+              0.768,
+              0.844,
+              0.869
+            ],
+            [
+              0.058,
+              0.089,
+              0.12,
+              0.152,
+              0.183,
+              0.246,
+              0.277,
+              0.309,
+              0.371,
+              0.403,
+              0.465,
+              0.497,
+              0.559,
+              0.622,
+              0.685,
+              0.716,
+              0.779,
+              0.842,
+              0.873
+            ],
+            [
+              0.037,
+              0.116,
+              0.169,
+              0.221,
+              0.274,
+              0.3,
+              0.379,
+              0.405,
+              0.432,
+              0.458,
+              0.51,
+              0.605,
+              0.663,
+              0.75,
+              0.808,
+              0.867,
+              0.896
+            ],
+            [
+              0.031,
+              0.046,
+              0.061,
+              0.091,
+              0.106,
+              0.136,
+              0.151,
+              0.226,
+              0.267,
+              0.281,
+              0.322,
+              0.379,
+              0.394,
+              0.422,
+              0.436,
+              0.45,
+              0.465,
+              0.479,
+              0.493,
+              0.522,
+              0.536,
+              0.564,
+              0.593,
+              0.607,
+              0.621,
+              0.716,
+              0.732,
+              0.781,
+              0.797,
+              0.813,
+              0.862,
+              0.894,
+              0.926
+            ],
+            [
+              0.082,
+              0.106,
+              0.154,
+              0.202,
+              0.25,
+              0.298,
+              0.322,
+              0.346,
+              0.37,
+              0.394,
+              0.418,
+              0.442,
+              0.465,
+              0.513,
+              0.537,
+              0.585,
+              0.704,
+              0.724,
+              0.763,
+              0.782,
+              0.84,
+              0.86,
+              0.879
+            ],
+            [
+              0.1,
+              0.129,
+              0.244,
+              0.359,
+              0.387,
+              0.416,
+              0.445,
+              0.531,
+              0.56,
+              0.589,
+              0.675,
+              0.704,
+              0.732,
+              0.761,
+              0.819,
+              0.905,
+              0.934
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-26-03",
+      "category": "disaster",
+      "region": {
+        "country": "US",
+        "city": "New York",
+        "lat": 40.71,
+        "lng": -74.01
+      },
+      "headline": {
+        "en": "Macy's Postpones 100th Thanksgiving Parade as Storms Hit Both US Coasts",
+        "ko": "미국 양 해안에 폭풍…메이시스 100회 추수감사절 퍼레이드 사상 첫 날씨 연기",
+        "fr": "Macy's reporte son 100e défilé de Thanksgiving alors que des tempêtes frappent les deux côtes américaines"
+      },
+      "hook": {
+        "en": "Why was the Thanksgiving parade postponed?",
+        "ko": "추수감사절 퍼레이드는 왜 미뤄졌을까요?",
+        "fr": "Pourquoi le défilé de Thanksgiving a-t-il été reporté ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "A big storm is hitting New York.",
+            "So Macy's moved its Thanksgiving parade to Saturday.",
+            "Millions of people face travel problems."
+          ],
+          "easy_ko": [
+            "큰 폭풍이 뉴욕을 덮치고 있어요.",
+            "그래서 메이시스가 추수감사절 퍼레이드를 토요일로 옮겼어요.",
+            "수백만 명이 이동에 어려움을 겪어요."
+          ],
+          "normal": [
+            "Macy's has postponed its 100th Thanksgiving Day Parade in New York until Saturday because of severe weather.",
+            "It is the first time the weather has delayed the event, which was suspended during World War Two.",
+            "A powerful coastal storm known as a nor'easter is forecast to bring strong winds and heavy rain, which would make the giant balloons too dangerous to fly.",
+            "New York's governor declared a state of emergency for Long Island, New York City and Westchester County.",
+            "Storms on both coasts are also expected to disrupt travel for more than 80 million Americans, and hundreds of flights have been cancelled.",
+            "The balloons were deflated on Wednesday night and stored in New Jersey until the parade is rescheduled for Saturday."
+          ],
+          "normal_ko": [
+            "메이시스는 거센 날씨 때문에 뉴욕의 100번째 추수감사절 퍼레이드를 토요일로 미뤘습니다.",
+            "날씨로 행사가 미뤄진 것은 처음이고, 이 행사는 제2차 세계대전 중에는 중단된 적이 있습니다.",
+            "노이스터(nor'easter)라는 강한 해안 폭풍이 강풍과 폭우를 몰고 올 것으로 예보돼 거대한 풍선을 띄우기엔 너무 위험합니다.",
+            "뉴욕주지사는 롱아일랜드, 뉴욕시, 웨스트체스터 카운티에 비상사태를 선포했습니다.",
+            "양쪽 해안의 폭풍은 8천만 명이 넘는 미국인의 이동도 방해할 것으로 예상되며, 수백 편의 항공편이 취소됐습니다.",
+            "풍선은 수요일 밤 바람을 빼 뉴저지에 보관했다가 토요일로 재조정된 퍼레이드 때 다시 사용됩니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Une grosse tempête frappe New York.",
+            "Macy's a donc déplacé son défilé de Thanksgiving à samedi.",
+            "Des millions de personnes ont du mal à voyager."
+          ],
+          "normal": [
+            "Macy's a reporté au samedi son 100e défilé de Thanksgiving à New York à cause d'une météo violente.",
+            "C'est la première fois que le temps retarde l'événement, qui avait été suspendu pendant la Seconde Guerre mondiale.",
+            "Selon les prévisions, une puissante tempête côtière, un nor'easter, apportera de forts vents et de fortes pluies, ce qui rendrait les ballons géants trop dangereux à faire voler.",
+            "La gouverneure de New York a déclaré l'état d'urgence à Long Island, à New York et dans le comté de Westchester.",
+            "Des tempêtes sur les deux côtes devraient aussi perturber les déplacements de plus de 80 millions d'Américains, et des centaines de vols ont été annulés.",
+            "Les ballons ont été dégonflés mercredi soir et stockés dans le New Jersey en attendant que le défilé soit reprogrammé à samedi."
+          ],
+          "normal_ko": [
+            "메이시스는 거센 날씨 때문에 뉴욕의 100번째 추수감사절 퍼레이드를 토요일로 미뤘습니다.",
+            "날씨로 행사가 미뤄진 것은 처음이고, 이 행사는 제2차 세계대전 중에는 중단된 적이 있습니다.",
+            "노이스터(nor'easter)라는 강한 해안 폭풍이 강풍과 폭우를 몰고 올 것으로 예보돼 거대한 풍선을 띄우기엔 너무 위험합니다.",
+            "뉴욕주지사는 롱아일랜드, 뉴욕시, 웨스트체스터 카운티에 비상사태를 선포했습니다.",
+            "양쪽 해안의 폭풍은 8천만 명이 넘는 미국인의 이동도 방해할 것으로 예상되며, 수백 편의 항공편이 취소됐습니다.",
+            "풍선은 수요일 밤 바람을 빼 뉴저지에 보관했다가 토요일로 재조정된 퍼레이드 때 다시 사용됩니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "메이시스 추수감사절 퍼레이드는 뉴욕의 대표 연례 행사로, 올해가 100번째예요. 노이스터(nor'easter)는 미국 북동부 해안에 강풍과 폭우를 몰고 오는 강한 폭풍이에요. 추수감사절은 이동하는 사람이 가장 많은 명절 중 하나라 NPR은 8,150만 명, BBC는 8천만 명 이상이 이동할 것으로 전했습니다. 본문은 BBC를 읽었고 NPR, Guardian은 요약으로 맞춰 봤어요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "postpone",
+          "pos": "verb",
+          "ko": "미루다, 연기하다",
+          "example": "They postponed the parade.",
+          "example_ko": "그들은 퍼레이드를 미뤘어요.",
+          "note_ko": "put off와 같은 뜻이지만 더 격식. 명사 postponement. 반대는 bring forward."
+        },
+        {
+          "lang": "en",
+          "word": "severe",
+          "pos": "adjective",
+          "ko": "심한, 극심한",
+          "example": "Severe weather is expected.",
+          "example_ko": "심한 날씨가 예상돼요.",
+          "note_ko": "severe weather/pain/damage. 부사 severely."
+        },
+        {
+          "lang": "en",
+          "word": "suspend",
+          "pos": "verb",
+          "ko": "중단하다",
+          "example": "The service was suspended.",
+          "example_ko": "서비스가 중단됐어요.",
+          "note_ko": "일시 중단은 suspend, 아예 끝내는 건 cancel."
+        },
+        {
+          "lang": "en",
+          "word": "powerful",
+          "pos": "adjective",
+          "ko": "강력한",
+          "example": "A powerful storm hit the coast.",
+          "example_ko": "강력한 폭풍이 해안을 덮쳤어요.",
+          "note_ko": "명사 power. strong보다 영향력이 큰 느낌."
+        },
+        {
+          "lang": "en",
+          "word": "coastal",
+          "pos": "adjective",
+          "ko": "해안의",
+          "example": "A coastal storm formed.",
+          "example_ko": "해안 폭풍이 생겼어요.",
+          "note_ko": "coast(해안)+-al. coastal flooding = 해안 침수."
+        },
+        {
+          "lang": "en",
+          "word": "forecast",
+          "pos": "verb",
+          "ko": "예보하다",
+          "example": "Rain is forecast for Thursday.",
+          "example_ko": "목요일에 비가 예보돼 있어요.",
+          "note_ko": "be forecast to + 동사원형. 명사 weather forecast = 일기예보."
+        },
+        {
+          "lang": "en",
+          "word": "declare",
+          "pos": "verb",
+          "ko": "선포하다, 선언하다",
+          "example": "The governor declared an emergency.",
+          "example_ko": "주지사가 비상사태를 선포했어요.",
+          "note_ko": "declare war/an emergency. 세관 신고(declare)도."
+        },
+        {
+          "lang": "en",
+          "word": "state of emergency",
+          "pos": "noun",
+          "ko": "비상사태",
+          "example": "A state of emergency was declared.",
+          "example_ko": "비상사태가 선포됐어요.",
+          "note_ko": "declare/lift a state of emergency = 선포하다/해제하다."
+        },
+        {
+          "lang": "en",
+          "word": "disrupt",
+          "pos": "verb",
+          "ko": "방해하다, 차질을 주다",
+          "example": "Storms disrupt travel.",
+          "example_ko": "폭풍이 이동에 차질을 줘요.",
+          "note_ko": "명사 disruption. 'cause disruption'은 뉴스 단골."
+        },
+        {
+          "lang": "en",
+          "word": "cancel",
+          "pos": "verb",
+          "ko": "취소하다",
+          "example": "Hundreds of flights were cancelled.",
+          "example_ko": "수백 편의 항공편이 취소됐어요.",
+          "note_ko": "미국식 canceled, 영국식 cancelled. 명사 cancellation."
+        },
+        {
+          "lang": "en",
+          "word": "deflate",
+          "pos": "verb",
+          "ko": "바람을 빼다",
+          "example": "They deflated the balloons.",
+          "example_ko": "그들은 풍선의 바람을 뺐어요.",
+          "note_ko": "반대는 inflate(부풀리다). 경제에서 deflation은 물가 하락."
+        },
+        {
+          "lang": "en",
+          "word": "store",
+          "pos": "verb",
+          "ko": "보관하다",
+          "example": "The balloons were stored in a warehouse.",
+          "example_ko": "풍선은 창고에 보관됐어요.",
+          "note_ko": "store = 보관하다/가게(명사). 저장은 save."
+        },
+        {
+          "lang": "en",
+          "word": "reschedule",
+          "pos": "verb",
+          "ko": "일정을 다시 잡다",
+          "example": "The parade was rescheduled.",
+          "example_ko": "퍼레이드 일정이 다시 잡혔어요.",
+          "note_ko": "re-(다시)+schedule. 비슷한 말 postpone은 '미루기'에 초점."
+        },
+        {
+          "lang": "fr",
+          "word": "reporter",
+          "pos": "verbe",
+          "ko": "미루다, 연기하다",
+          "example": "Il reporte le défilé.",
+          "example_ko": "그가 퍼레이드를 미뤄요.",
+          "note_ko": "un reporter(기자)와 다른 말. 반대는 avancer."
+        },
+        {
+          "lang": "fr",
+          "word": "violent",
+          "pos": "adjectif",
+          "ko": "거센, 격렬한",
+          "example": "Une météo violente.",
+          "example_ko": "거센 날씨예요.",
+          "note_ko": "여성형 violente. 명사 la violence."
+        },
+        {
+          "lang": "fr",
+          "word": "suspendre",
+          "pos": "verbe",
+          "ko": "중단하다",
+          "example": "Le service est suspendu.",
+          "example_ko": "서비스가 중단돼요.",
+          "note_ko": "일시 중단은 suspendre, 취소는 annuler."
+        },
+        {
+          "lang": "fr",
+          "word": "une prévision",
+          "pos": "nom féminin",
+          "ko": "예보, 예측",
+          "example": "Selon les prévisions de la météo.",
+          "example_ko": "기상 예보에 따르면요.",
+          "note_ko": "les prévisions météo = 일기예보. prévoir = 예측하다."
+        },
+        {
+          "lang": "fr",
+          "word": "puissant",
+          "pos": "adjectif",
+          "ko": "강력한",
+          "example": "Une puissante tempête.",
+          "example_ko": "강력한 폭풍이에요.",
+          "note_ko": "여성형 puissante. 명사 la puissance."
+        },
+        {
+          "lang": "fr",
+          "word": "côtier",
+          "pos": "adjectif",
+          "ko": "해안의",
+          "example": "Une tempête côtière.",
+          "example_ko": "해안 폭풍이에요.",
+          "note_ko": "la côte = 해안. 여성형 côtière."
+        },
+        {
+          "lang": "fr",
+          "word": "déclarer",
+          "pos": "verbe",
+          "ko": "선포하다, 신고하다",
+          "example": "Elle déclare l'état d'urgence.",
+          "example_ko": "그녀가 비상사태를 선포해요.",
+          "note_ko": "déclarer la guerre. 세관 신고도 déclarer."
+        },
+        {
+          "lang": "fr",
+          "word": "l'état d'urgence",
+          "pos": "nom masculin",
+          "ko": "비상사태",
+          "example": "L'état d'urgence est déclaré.",
+          "example_ko": "비상사태가 선포돼요.",
+          "note_ko": "décréter/lever l'état d'urgence = 선포/해제하다."
+        },
+        {
+          "lang": "fr",
+          "word": "perturber",
+          "pos": "verbe",
+          "ko": "방해하다, 차질을 주다",
+          "example": "La tempête perturbe les transports.",
+          "example_ko": "폭풍이 교통에 차질을 줘요.",
+          "note_ko": "명사 une perturbation. 교통 혼란에 자주 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "annuler",
+          "pos": "verbe",
+          "ko": "취소하다",
+          "example": "Des vols sont annulés.",
+          "example_ko": "항공편이 취소돼요.",
+          "note_ko": "명사 une annulation. 반대는 confirmer."
+        },
+        {
+          "lang": "fr",
+          "word": "dégonfler",
+          "pos": "verbe",
+          "ko": "바람을 빼다",
+          "example": "Ils dégonflent les ballons.",
+          "example_ko": "그들이 풍선의 바람을 빼요.",
+          "note_ko": "반대는 gonfler. un ballon = 풍선·공."
+        },
+        {
+          "lang": "fr",
+          "word": "stocker",
+          "pos": "verbe",
+          "ko": "보관하다, 쌓아 두다",
+          "example": "On stocke les ballons au New Jersey.",
+          "example_ko": "풍선을 뉴저지에 보관해요.",
+          "note_ko": "un stock = 재고. 컴퓨터 저장은 stocker 또는 enregistrer."
+        },
+        {
+          "lang": "fr",
+          "word": "reprogrammer",
+          "pos": "verbe",
+          "ko": "일정을 다시 잡다",
+          "example": "Le défilé est reprogrammé.",
+          "example_ko": "퍼레이드 일정이 다시 잡혀요.",
+          "note_ko": "re-+programmer. 비슷한 말 reporter(미루다)."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "If an event is 'postponed', it…",
+          "choices": [
+            "happens later than planned",
+            "never happens",
+            "happens twice"
+          ],
+          "answer": 0,
+          "explain_ko": "postpone = 나중으로 미루다."
+        },
+        {
+          "lang": "fr",
+          "q": "Un événement « reporté »…",
+          "choices": [
+            "a lieu plus tard que prévu",
+            "n'a jamais lieu",
+            "a lieu deux fois"
+          ],
+          "answer": 0,
+          "explain_ko": "reporter = 미루다."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo",
+          "accessed": "2026-11-27"
+        },
+        {
+          "name": "NPR (summary only)",
+          "url": "https://www.npr.org/2026/11/26/nx-s1-6054079/storms-expected-on-both-coasts-as-millions-travel-for-thanksgiving",
+          "accessed": "2026-11-27"
+        },
+        {
+          "name": "The Guardian (summary only)",
+          "url": "https://www.theguardian.com/us-news/2026/nov/26/storm-thanksgiving-parade-cancellations-severe-weather",
+          "accessed": "2026-11-27"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-27",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-26/7277ecb8c63cf1bb.mp3",
+            "2026-11-26/8f032fb3ef8b0567.mp3",
+            "2026-11-26/4d719fe505031661.mp3"
+          ],
+          "normal": [
+            "2026-11-26/6fe7f3f0e5c5e851.mp3",
+            "2026-11-26/15f05b40994947dc.mp3",
+            "2026-11-26/a463bf96c0c17501.mp3",
+            "2026-11-26/2300665acbc8503e.mp3",
+            "2026-11-26/83c25795f4bbb831.mp3",
+            "2026-11-26/70d16cd9e28fbff9.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-26/4078e153a010cc8f.mp3",
+            "2026-11-26/022becce4d234c66.mp3",
+            "2026-11-26/0235d982f3a89e06.mp3"
+          ],
+          "normal": [
+            "2026-11-26/ec7af2e3790b1adc.mp3",
+            "2026-11-26/fddbb154c67f64cd.mp3",
+            "2026-11-26/288ba88f9b81050c.mp3",
+            "2026-11-26/19db28a0191c737c.mp3",
+            "2026-11-26/c727611836ce207a.mp3",
+            "2026-11-26/a24326b4405cff37.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-26/ac3abd74d74507f1.mp3",
+          "2026-11-26/25bf27f79de1b930.mp3",
+          "2026-11-26/0ea297b675a85028.mp3",
+          "2026-11-26/b308093a041a4baf.mp3",
+          "2026-11-26/aa3d11f7ba5fa1ac.mp3",
+          "2026-11-26/b9891bbafecff10c.mp3",
+          "2026-11-26/623f789daea7ed20.mp3",
+          "2026-11-26/b16d79628ec4acf4.mp3",
+          "2026-11-26/6f565e79dc08eb73.mp3",
+          "2026-11-26/baaf0a5f38c25688.mp3",
+          "2026-11-26/5159bd418a1131fe.mp3",
+          "2026-11-26/3055721ee18ecc50.mp3",
+          "2026-11-26/3dd52618cc2fbd3a.mp3",
+          "2026-11-26/6b862797d2cc898a.mp3",
+          "2026-11-26/2f70ef61a00b42c3.mp3",
+          "2026-11-26/26fbd4ce1214d799.mp3",
+          "2026-11-26/e51e654e877a0466.mp3",
+          "2026-11-26/6fea90ebebb9a2fe.mp3",
+          "2026-11-26/4df37a8c4c38abf1.mp3",
+          "2026-11-26/20cc738abdeb2d45.mp3",
+          "2026-11-26/d87ee0baffd910d9.mp3",
+          "2026-11-26/97693876667f514b.mp3",
+          "2026-11-26/cf3313c26f511308.mp3",
+          "2026-11-26/e228da70f8460947.mp3",
+          "2026-11-26/b9278db822cfb40a.mp3",
+          "2026-11-26/e5f47f235960227e.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.227,
+              0.315,
+              0.403,
+              0.491,
+              0.579,
+              0.755,
+              0.843
+            ],
+            [
+              0.213,
+              0.27,
+              0.382,
+              0.438,
+              0.494,
+              0.663,
+              0.775,
+              0.831
+            ],
+            [
+              0,
+              0.222,
+              0.333,
+              0.444,
+              0.556,
+              0.778
+            ]
+          ],
+          "normal": [
+            [
+              0.056,
+              0.121,
+              0.153,
+              0.218,
+              0.25,
+              0.282,
+              0.38,
+              0.412,
+              0.477,
+              0.509,
+              0.541,
+              0.574,
+              0.639,
+              0.736,
+              0.8,
+              0.833,
+              0.898
+            ],
+            [
+              0.08,
+              0.114,
+              0.148,
+              0.182,
+              0.216,
+              0.249,
+              0.283,
+              0.351,
+              0.385,
+              0.452,
+              0.486,
+              0.587,
+              0.628,
+              0.668,
+              0.75,
+              0.831,
+              0.871,
+              0.912
+            ],
+            [
+              0.019,
+              0.045,
+              0.121,
+              0.172,
+              0.198,
+              0.223,
+              0.249,
+              0.274,
+              0.35,
+              0.376,
+              0.452,
+              0.478,
+              0.503,
+              0.529,
+              0.554,
+              0.58,
+              0.631,
+              0.704,
+              0.725,
+              0.747,
+              0.768,
+              0.789,
+              0.81,
+              0.853,
+              0.874,
+              0.938,
+              0.959
+            ],
+            [
+              0.048,
+              0.079,
+              0.11,
+              0.202,
+              0.264,
+              0.295,
+              0.326,
+              0.357,
+              0.48,
+              0.511,
+              0.542,
+              0.624,
+              0.658,
+              0.692,
+              0.761,
+              0.795,
+              0.898
+            ],
+            [
+              0.025,
+              0.053,
+              0.08,
+              0.107,
+              0.134,
+              0.162,
+              0.216,
+              0.271,
+              0.298,
+              0.353,
+              0.407,
+              0.435,
+              0.462,
+              0.489,
+              0.544,
+              0.598,
+              0.759,
+              0.783,
+              0.832,
+              0.856,
+              0.881,
+              0.905,
+              0.93
+            ],
+            [
+              0.038,
+              0.069,
+              0.131,
+              0.162,
+              0.224,
+              0.255,
+              0.348,
+              0.38,
+              0.411,
+              0.442,
+              0.473,
+              0.504,
+              0.566,
+              0.628,
+              0.659,
+              0.721,
+              0.752,
+              0.846,
+              0.877
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.307,
+              0.399,
+              0.491,
+              0.674,
+              0.766,
+              0.857
+            ],
+            [
+              0.169,
+              0.243,
+              0.28,
+              0.318,
+              0.429,
+              0.466,
+              0.578,
+              0.615,
+              0.727,
+              0.764
+            ],
+            [
+              0.13,
+              0.196,
+              0.326,
+              0.391,
+              0.522,
+              0.587,
+              0.652,
+              0.718,
+              0.783
+            ]
+          ],
+          "normal": [
+            [
+              0.093,
+              0.151,
+              0.18,
+              0.267,
+              0.295,
+              0.382,
+              0.411,
+              0.44,
+              0.527,
+              0.556,
+              0.642,
+              0.671,
+              0.7,
+              0.729,
+              0.758,
+              0.787,
+              0.816,
+              0.873
+            ],
+            [
+              0.045,
+              0.075,
+              0.106,
+              0.166,
+              0.197,
+              0.227,
+              0.257,
+              0.288,
+              0.348,
+              0.482,
+              0.511,
+              0.571,
+              0.63,
+              0.718,
+              0.777,
+              0.807,
+              0.866,
+              0.895
+            ],
+            [
+              0.046,
+              0.078,
+              0.094,
+              0.167,
+              0.187,
+              0.229,
+              0.271,
+              0.348,
+              0.369,
+              0.468,
+              0.542,
+              0.56,
+              0.579,
+              0.597,
+              0.616,
+              0.634,
+              0.652,
+              0.671,
+              0.689,
+              0.708,
+              0.744,
+              0.763,
+              0.8,
+              0.818,
+              0.836,
+              0.892,
+              0.91,
+              0.928
+            ],
+            [
+              0.082,
+              0.108,
+              0.186,
+              0.212,
+              0.237,
+              0.263,
+              0.289,
+              0.367,
+              0.419,
+              0.471,
+              0.496,
+              0.522,
+              0.617,
+              0.643,
+              0.669,
+              0.694,
+              0.72,
+              0.746,
+              0.771,
+              0.823,
+              0.849
+            ],
+            [
+              0.054,
+              0.075,
+              0.118,
+              0.139,
+              0.16,
+              0.182,
+              0.203,
+              0.246,
+              0.288,
+              0.352,
+              0.374,
+              0.459,
+              0.48,
+              0.502,
+              0.523,
+              0.566,
+              0.608,
+              0.736,
+              0.754,
+              0.773,
+              0.811,
+              0.829,
+              0.848,
+              0.867,
+              0.904
+            ],
+            [
+              0.139,
+              0.159,
+              0.199,
+              0.219,
+              0.259,
+              0.32,
+              0.38,
+              0.4,
+              0.42,
+              0.46,
+              0.48,
+              0.5,
+              0.52,
+              0.56,
+              0.58,
+              0.64,
+              0.66,
+              0.68,
+              0.74,
+              0.76,
+              0.84,
+              0.86
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-26-04",
+      "category": "economy",
+      "region": {
+        "country": "GB",
+        "city": "Walsall",
+        "lat": 52.59,
+        "lng": -1.98
+      },
+      "headline": {
+        "en": "Poundland Collapses Into Administration, Putting 11,000 Jobs at Risk",
+        "ko": "영국 할인 체인 파운드랜드, 관리 절차 돌입…일자리 1만 1천 개 위험",
+        "fr": "Poundland placé en redressement judiciaire : 11 000 emplois menacés"
+      },
+      "hook": {
+        "en": "Why did Poundland collapse into administration?",
+        "ko": "파운드랜드는 왜 관리 절차에 들어갔을까요?",
+        "fr": "Pourquoi Poundland s'est-il effondré ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "The UK store chain Poundland is in trouble.",
+            "Its owners could not find a buyer.",
+            "About 11,000 jobs are at risk."
+          ],
+          "easy_ko": [
+            "영국 매장 체인 파운드랜드가 어려움에 빠졌어요.",
+            "소유주들이 인수자를 찾지 못했어요.",
+            "약 1만 1천 개 일자리가 위험해요."
+          ],
+          "normal": [
+            "The UK discount retailer Poundland has collapsed into administration, putting about 11,000 jobs at risk.",
+            "Its American owners failed to find a buyer after talks with several bidders ended without a deal.",
+            "The shops and distribution centres will keep trading for now, but the business is likely to be broken up, with some stores sold to rivals.",
+            "Poundland's boss said the board had no alternative, claiming the owners cut off its borrowing and its access to bank accounts on 27 October.",
+            "The union Usdaw said the owners meant to force the company into administration, which the owners deny, saying they explored every avenue to sell the whole company.",
+            "For workers, the union called it a devastating blow, especially just before Christmas."
+          ],
+          "normal_ko": [
+            "영국 할인 소매업체 파운드랜드가 관리 절차에 들어가 약 1만 1천 개 일자리가 위험해졌습니다.",
+            "미국 소유주들은 여러 인수 희망자와 협상했지만 합의 없이 끝나 인수자를 찾지 못했습니다.",
+            "매장과 물류센터는 당분간 영업을 계속하지만 회사는 쪼개져 일부 매장이 경쟁사에 팔릴 가능성이 큽니다.",
+            "파운드랜드 대표는 이사회에 다른 선택이 없었다며, 소유주가 10월 27일 대출과 은행 계좌 접근을 끊었다고 주장했습니다.",
+            "노조 Usdaw는 소유주가 회사를 관리 절차로 몰아넣으려 했다고 말했고, 소유주는 이를 부인하며 회사 전체를 팔 모든 방법을 찾아봤다고 말했습니다.",
+            "노조는 직원들에게 특히 크리스마스 직전이라 파괴적인 타격이라고 말했습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "La chaîne de magasins britannique Poundland est en difficulté.",
+            "Ses propriétaires n'ont pas trouvé d'acheteur.",
+            "Environ 11 000 emplois sont menacés."
+          ],
+          "normal": [
+            "Le distributeur à bas prix britannique Poundland a été placé en redressement judiciaire, ce qui menace environ 11 000 emplois.",
+            "Ses propriétaires américains n'ont pas trouvé de repreneur après des discussions avec plusieurs candidats, sans accord.",
+            "Les magasins et les centres de distribution continuent de fonctionner pour l'instant, mais l'entreprise sera probablement démantelée, certains magasins étant vendus à des concurrents.",
+            "Le patron de Poundland a dit que le conseil d'administration n'avait « aucune alternative », affirmant que les propriétaires avaient coupé ses crédits et l'accès à ses comptes le 27 octobre.",
+            "Le syndicat Usdaw affirme que les propriétaires voulaient pousser l'entreprise à la faillite, ce que ceux-ci démentent en disant avoir exploré toutes les pistes pour vendre l'ensemble.",
+            "Pour les salariés, le syndicat parle d'un coup dévastateur, surtout à l'approche de Noël."
+          ],
+          "normal_ko": [
+            "영국 할인 소매업체 파운드랜드가 관리 절차에 들어가 약 1만 1천 개 일자리가 위험해졌습니다.",
+            "미국 소유주들은 여러 인수 희망자와 협상했지만 합의 없이 끝나 인수자를 찾지 못했습니다.",
+            "매장과 물류센터는 당분간 영업을 계속하지만 회사는 쪼개져 일부 매장이 경쟁사에 팔릴 가능성이 큽니다.",
+            "파운드랜드 대표는 이사회에 다른 선택이 없었다며, 소유주가 10월 27일 대출과 은행 계좌 접근을 끊었다고 주장했습니다.",
+            "노조 Usdaw는 소유주가 회사를 관리 절차로 몰아넣으려 했다고 말했고, 소유주는 이를 부인하며 회사 전체를 팔 모든 방법을 찾아봤다고 말했습니다.",
+            "노조는 직원들에게 특히 크리스마스 직전이라 파괴적인 타격이라고 말했습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "파운드랜드는 영국의 균일가·저가 할인 체인이에요. administration(관리 절차)은 법원이 지정한 관리인이 회사를 맡아 매각·정리를 하는 영국식 제도로, 폐업이 확정됐다는 뜻은 아닙니다. 소유주(미국 Gordon Brothers)와 노조(Usdaw)의 말이 엇갈려 각자의 주장으로 구분해 적었어요. 영국 지역 매체 제목에는 매장 약 600개라는 숫자도 나왔지만 BBC 본문에서 확인하지 못해 본문에는 넣지 않았습니다. 본문은 BBC를 읽었고 다른 매체는 제목으로 맞춰 봤어요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "retailer",
+          "pos": "noun",
+          "ko": "소매업체",
+          "example": "The retailer is in trouble.",
+          "example_ko": "그 소매업체는 어려움에 빠졌어요.",
+          "note_ko": "retail = 소매. 반대는 wholesaler(도매업자)."
+        },
+        {
+          "lang": "en",
+          "word": "administration",
+          "pos": "noun",
+          "ko": "관리 절차(영국의 기업 회생·정리)",
+          "example": "The firm went into administration.",
+          "example_ko": "그 회사는 관리 절차에 들어갔어요.",
+          "note_ko": "영국에서 go into administration = 법원 관리인이 회사를 맡다. 행정(administration)과 다른 뜻."
+        },
+        {
+          "lang": "en",
+          "word": "at risk",
+          "pos": "phrase",
+          "ko": "위험에 처한",
+          "example": "Jobs are at risk.",
+          "example_ko": "일자리가 위험에 처했어요.",
+          "note_ko": "put A at risk = A를 위험에 빠뜨리다."
+        },
+        {
+          "lang": "en",
+          "word": "bidder",
+          "pos": "noun",
+          "ko": "인수 희망자, 입찰자",
+          "example": "Several bidders showed interest.",
+          "example_ko": "여러 인수 희망자가 관심을 보였어요.",
+          "note_ko": "bid = 입찰하다/입찰. 경매에서도 bidder."
+        },
+        {
+          "lang": "en",
+          "word": "trade",
+          "pos": "verb",
+          "ko": "영업하다, 거래하다",
+          "example": "The shops will keep trading.",
+          "example_ko": "매장들은 계속 영업할 거예요.",
+          "note_ko": "keep trading = 영업을 계속하다. 무역(trade)도 같은 단어."
+        },
+        {
+          "lang": "en",
+          "word": "break up",
+          "pos": "phrasal verb",
+          "ko": "쪼개다, 해체하다",
+          "example": "The firm may be broken up.",
+          "example_ko": "회사가 쪼개질 수 있어요.",
+          "note_ko": "연인과 헤어지다(break up)도 같은 표현."
+        },
+        {
+          "lang": "en",
+          "word": "rival",
+          "pos": "noun",
+          "ko": "경쟁자, 경쟁사",
+          "example": "Stores were sold to a rival.",
+          "example_ko": "매장이 경쟁사에 팔렸어요.",
+          "note_ko": "rival company = 경쟁사."
+        },
+        {
+          "lang": "en",
+          "word": "board",
+          "pos": "noun",
+          "ko": "이사회",
+          "example": "The board made a decision.",
+          "example_ko": "이사회가 결정을 내렸어요.",
+          "note_ko": "board of directors = 이사회. 판자·탑승(board)과 다른 뜻."
+        },
+        {
+          "lang": "en",
+          "word": "borrowing",
+          "pos": "noun",
+          "ko": "차입, 대출",
+          "example": "Borrowing was cut off.",
+          "example_ko": "대출이 끊겼어요.",
+          "note_ko": "borrow(빌리다)의 명사형. 반대 동작은 lending."
+        },
+        {
+          "lang": "en",
+          "word": "union",
+          "pos": "noun",
+          "ko": "노동조합",
+          "example": "The union spoke for the workers.",
+          "example_ko": "노조가 직원들을 대변했어요.",
+          "note_ko": "trade union = 노동조합. 연합(European Union)도 union."
+        },
+        {
+          "lang": "en",
+          "word": "deny",
+          "pos": "verb",
+          "ko": "부인하다",
+          "example": "The owners deny the claim.",
+          "example_ko": "소유주들은 그 주장을 부인해요.",
+          "note_ko": "deny + 명사/-ing. 명사 denial. 반대는 admit."
+        },
+        {
+          "lang": "en",
+          "word": "avenue",
+          "pos": "noun",
+          "ko": "방법, 길",
+          "example": "We explored every avenue.",
+          "example_ko": "우리는 모든 방법을 찾아봤어요.",
+          "note_ko": "explore every avenue = 가능한 모든 방법을 시도하다. 원래 '큰길'."
+        },
+        {
+          "lang": "en",
+          "word": "devastating",
+          "pos": "adjective",
+          "ko": "파괴적인, 참담한",
+          "example": "It was a devastating blow.",
+          "example_ko": "참담한 타격이었어요.",
+          "note_ko": "devastating blow/news. 동사 devastate."
+        },
+        {
+          "lang": "fr",
+          "word": "un distributeur",
+          "pos": "nom masculin",
+          "ko": "유통·소매업체",
+          "example": "Un distributeur à bas prix.",
+          "example_ko": "저가 유통업체예요.",
+          "note_ko": "distribuer = 나눠 주다·유통하다. la distribution = 유통."
+        },
+        {
+          "lang": "fr",
+          "word": "un redressement judiciaire",
+          "pos": "nom masculin",
+          "ko": "법원 관리 아래 회생 절차",
+          "example": "L'entreprise est en redressement judiciaire.",
+          "example_ko": "회사가 회생 절차에 들어가 있어요.",
+          "note_ko": "영국의 administration과 비슷하지만 제도는 달라요."
+        },
+        {
+          "lang": "fr",
+          "word": "menacer",
+          "pos": "verbe",
+          "ko": "위협하다",
+          "example": "Des emplois sont menacés.",
+          "example_ko": "일자리가 위협받아요.",
+          "note_ko": "une menace = 위협. 수동으로 자주 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "un repreneur",
+          "pos": "nom masculin",
+          "ko": "인수자",
+          "example": "Aucun repreneur ne s'est présenté.",
+          "example_ko": "인수자가 나타나지 않았어요.",
+          "note_ko": "reprendre = 되가져가다·인수하다. 여성형 une repreneuse."
+        },
+        {
+          "lang": "fr",
+          "word": "fonctionner",
+          "pos": "verbe",
+          "ko": "작동하다, 운영되다",
+          "example": "Les magasins continuent de fonctionner.",
+          "example_ko": "매장들은 계속 운영돼요.",
+          "note_ko": "marcher보다 격식. 명사 le fonctionnement."
+        },
+        {
+          "lang": "fr",
+          "word": "démanteler",
+          "pos": "verbe",
+          "ko": "해체하다",
+          "example": "On va démanteler l'entreprise.",
+          "example_ko": "회사를 해체할 거예요.",
+          "note_ko": "démanteler un réseau = 조직을 해체하다."
+        },
+        {
+          "lang": "fr",
+          "word": "un concurrent",
+          "pos": "nom masculin",
+          "ko": "경쟁자, 경쟁사",
+          "example": "Vendu à un concurrent.",
+          "example_ko": "경쟁사에 팔렸어요.",
+          "note_ko": "la concurrence = 경쟁."
+        },
+        {
+          "lang": "fr",
+          "word": "le conseil d'administration",
+          "pos": "nom masculin",
+          "ko": "이사회",
+          "example": "Le conseil d'administration décide.",
+          "example_ko": "이사회가 결정해요.",
+          "note_ko": "줄여서 le CA. 한 명은 un administrateur."
+        },
+        {
+          "lang": "fr",
+          "word": "un crédit",
+          "pos": "nom masculin",
+          "ko": "대출, 신용",
+          "example": "La banque coupe les crédits.",
+          "example_ko": "은행이 대출을 끊어요.",
+          "note_ko": "acheter à crédit = 외상으로. 영화 크레디트와 다름."
+        },
+        {
+          "lang": "fr",
+          "word": "un syndicat",
+          "pos": "nom masculin",
+          "ko": "노동조합",
+          "example": "Le syndicat défend les salariés.",
+          "example_ko": "노조가 직원을 대변해요.",
+          "note_ko": "syndical = 노조의. un syndicat de copropriétaires 등 다른 뜻도."
+        },
+        {
+          "lang": "fr",
+          "word": "démentir",
+          "pos": "verbe",
+          "ko": "부인하다, 반박하다",
+          "example": "Les propriétaires démentent.",
+          "example_ko": "소유주들이 부인해요.",
+          "note_ko": "un démenti = 부인. 비슷한 nier."
+        },
+        {
+          "lang": "fr",
+          "word": "une piste",
+          "pos": "nom féminin",
+          "ko": "방법, 단서",
+          "example": "On a exploré toutes les pistes.",
+          "example_ko": "모든 방법을 찾아봤어요.",
+          "note_ko": "원래 '길·활주로'. explorer une piste = 가능성을 따져 보다."
+        },
+        {
+          "lang": "fr",
+          "word": "dévastateur",
+          "pos": "adjectif",
+          "ko": "파괴적인, 참담한",
+          "example": "Un coup dévastateur.",
+          "example_ko": "참담한 타격이에요.",
+          "note_ko": "여성형 dévastatrice. 동사 dévaster."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "If a firm 'denies' a claim, it…",
+          "choices": [
+            "says it is not true",
+            "agrees with it",
+            "ignores it"
+          ],
+          "answer": 0,
+          "explain_ko": "deny = 부인하다."
+        },
+        {
+          "lang": "fr",
+          "q": "« Démentir » une accusation, c'est…",
+          "choices": [
+            "dire qu'elle est fausse",
+            "l'accepter",
+            "l'ignorer"
+          ],
+          "answer": 0,
+          "explain_ko": "démentir = 부인하다."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o",
+          "accessed": "2026-11-27"
+        },
+        {
+          "name": "UK media headlines via Google News (Evening Standard, Personnel Today, Chronicle Live, Business Live)",
+          "url": "https://news.google.com/search?q=Poundland+administration+11000+jobs&hl=en-GB&gl=GB&ceid=GB:en",
+          "accessed": "2026-11-27"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-27",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-26/b59dd567f0261924.mp3",
+            "2026-11-26/ad19becb21736c11.mp3",
+            "2026-11-26/8c4b67be71d3fbe5.mp3"
+          ],
+          "normal": [
+            "2026-11-26/dc9b8d3f2b01ae1c.mp3",
+            "2026-11-26/836d08680ff5fcd9.mp3",
+            "2026-11-26/c8137ef239c5f6bb.mp3",
+            "2026-11-26/d25b7ad083c1af82.mp3",
+            "2026-11-26/626fa4ec62053297.mp3",
+            "2026-11-26/21b0332a021b4817.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-26/5611aaacd95068ba.mp3",
+            "2026-11-26/70f2802d13a58e36.mp3",
+            "2026-11-26/fbe535e067739ebe.mp3"
+          ],
+          "normal": [
+            "2026-11-26/0c3d6f104a244599.mp3",
+            "2026-11-26/8a4f4c6228cb164c.mp3",
+            "2026-11-26/4894b4057bdd478e.mp3",
+            "2026-11-26/e3672f7b3ee1ba53.mp3",
+            "2026-11-26/dad8eff925a7b45a.mp3",
+            "2026-11-26/82aa52fa30720844.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-26/3f3f89d4df0be14a.mp3",
+          "2026-11-26/46c846db506aa885.mp3",
+          "2026-11-26/6ad48669ca8daf12.mp3",
+          "2026-11-26/1763df98c8f9ff77.mp3",
+          "2026-11-26/cccb0b8755436fe3.mp3",
+          "2026-11-26/187985bf6613914c.mp3",
+          "2026-11-26/239071157a861225.mp3",
+          "2026-11-26/be4b681142724089.mp3",
+          "2026-11-26/8b9f05f94ac2773a.mp3",
+          "2026-11-26/56f53b24ebf79840.mp3",
+          "2026-11-26/60ac2fecc442ebd8.mp3",
+          "2026-11-26/6369b08c19264229.mp3",
+          "2026-11-26/7df459ff896feeb3.mp3",
+          "2026-11-26/2df0cc3938039d2c.mp3",
+          "2026-11-26/1168b00797237672.mp3",
+          "2026-11-26/d52c265f48e7ebdd.mp3",
+          "2026-11-26/90ac0711b7ab8231.mp3",
+          "2026-11-26/055286d47b2e369c.mp3",
+          "2026-11-26/baafc01eb5d90ce3.mp3",
+          "2026-11-26/8b69d011eefab2ad.mp3",
+          "2026-11-26/db06f30c4abececc.mp3",
+          "2026-11-26/66737406cc3b32f4.mp3",
+          "2026-11-26/299719d4fb8cef15.mp3",
+          "2026-11-26/49db058ef6c059df.mp3",
+          "2026-11-26/9036adf654a4702c.mp3",
+          "2026-11-26/c1fcf7630067032f.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.123,
+              0.215,
+              0.306,
+              0.397,
+              0.489,
+              0.671,
+              0.763,
+              0.854
+            ],
+            [
+              0.235,
+              0.319,
+              0.488,
+              0.572,
+              0.656,
+              0.741,
+              0.825
+            ],
+            [
+              0.251,
+              0.384,
+              0.649,
+              0.716,
+              0.782,
+              0.848
+            ]
+          ],
+          "normal": [
+            [
+              0.052,
+              0.082,
+              0.111,
+              0.17,
+              0.259,
+              0.318,
+              0.347,
+              0.406,
+              0.465,
+              0.68,
+              0.728,
+              0.777,
+              0.874,
+              0.898,
+              0.922
+            ],
+            [
+              0.064,
+              0.098,
+              0.233,
+              0.301,
+              0.335,
+              0.368,
+              0.402,
+              0.436,
+              0.47,
+              0.538,
+              0.572,
+              0.606,
+              0.707,
+              0.775,
+              0.809,
+              0.876,
+              0.91
+            ],
+            [
+              0.059,
+              0.081,
+              0.103,
+              0.124,
+              0.211,
+              0.232,
+              0.254,
+              0.275,
+              0.319,
+              0.34,
+              0.362,
+              0.383,
+              0.405,
+              0.47,
+              0.491,
+              0.556,
+              0.578,
+              0.599,
+              0.642,
+              0.735,
+              0.767,
+              0.799,
+              0.831,
+              0.863,
+              0.895
+            ],
+            [
+              0.071,
+              0.12,
+              0.145,
+              0.169,
+              0.194,
+              0.218,
+              0.243,
+              0.267,
+              0.425,
+              0.471,
+              0.494,
+              0.54,
+              0.563,
+              0.586,
+              0.609,
+              0.678,
+              0.701,
+              0.724,
+              0.77,
+              0.793,
+              0.816,
+              0.862,
+              0.885,
+              0.931
+            ],
+            [
+              0.041,
+              0.06,
+              0.099,
+              0.139,
+              0.158,
+              0.178,
+              0.217,
+              0.237,
+              0.256,
+              0.276,
+              0.295,
+              0.354,
+              0.393,
+              0.491,
+              0.511,
+              0.531,
+              0.57,
+              0.65,
+              0.669,
+              0.689,
+              0.728,
+              0.787,
+              0.846,
+              0.865,
+              0.885,
+              0.904,
+              0.924
+            ],
+            [
+              0.077,
+              0.112,
+              0.181,
+              0.215,
+              0.284,
+              0.319,
+              0.353,
+              0.388,
+              0.526,
+              0.633,
+              0.762,
+              0.794,
+              0.858
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.122,
+              0.167,
+              0.212,
+              0.258,
+              0.394,
+              0.575,
+              0.666,
+              0.711,
+              0.756
+            ],
+            [
+              0.145,
+              0.205,
+              0.388,
+              0.449,
+              0.51,
+              0.632
+            ],
+            [
+              0.289,
+              0.453,
+              0.562,
+              0.672,
+              0.781,
+              0.836
+            ]
+          ],
+          "normal": [
+            [
+              0.101,
+              0.123,
+              0.21,
+              0.232,
+              0.254,
+              0.276,
+              0.363,
+              0.407,
+              0.428,
+              0.472,
+              0.516,
+              0.537,
+              0.603,
+              0.709,
+              0.725,
+              0.742,
+              0.775,
+              0.825,
+              0.858,
+              0.891
+            ],
+            [
+              0.103,
+              0.126,
+              0.195,
+              0.288,
+              0.311,
+              0.334,
+              0.38,
+              0.403,
+              0.472,
+              0.519,
+              0.542,
+              0.611,
+              0.657,
+              0.704,
+              0.824,
+              0.851
+            ],
+            [
+              0.073,
+              0.091,
+              0.142,
+              0.159,
+              0.177,
+              0.194,
+              0.211,
+              0.28,
+              0.331,
+              0.349,
+              0.4,
+              0.417,
+              0.497,
+              0.514,
+              0.564,
+              0.597,
+              0.647,
+              0.758,
+              0.789,
+              0.836,
+              0.868,
+              0.899,
+              0.915,
+              0.931
+            ],
+            [
+              0.026,
+              0.043,
+              0.076,
+              0.093,
+              0.127,
+              0.144,
+              0.16,
+              0.177,
+              0.194,
+              0.228,
+              0.312,
+              0.346,
+              0.363,
+              0.396,
+              0.464,
+              0.522,
+              0.573,
+              0.59,
+              0.608,
+              0.659,
+              0.694,
+              0.728,
+              0.745,
+              0.78,
+              0.797,
+              0.832,
+              0.849,
+              0.866,
+              0.883,
+              0.9,
+              0.935
+            ],
+            [
+              0.052,
+              0.071,
+              0.128,
+              0.166,
+              0.204,
+              0.223,
+              0.241,
+              0.298,
+              0.336,
+              0.374,
+              0.431,
+              0.45,
+              0.469,
+              0.545,
+              0.566,
+              0.587,
+              0.628,
+              0.669,
+              0.69,
+              0.731,
+              0.773,
+              0.835,
+              0.855,
+              0.876,
+              0.897,
+              0.917,
+              0.938
+            ],
+            [
+              0.082,
+              0.112,
+              0.142,
+              0.292,
+              0.322,
+              0.411,
+              0.441,
+              0.471,
+              0.501,
+              0.657,
+              0.722,
+              0.754,
+              0.819,
+              0.851
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "audio_base": "https://koreapapa-kim.github.io/worldnews-audio"
+}

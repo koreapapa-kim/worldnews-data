@@ -2,6 +2,44 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-11-26",
+      "count": 4,
+      "headlines": [
+        {
+          "id": "2026-11-26-01",
+          "ko": "스페인 에르난데스 데 코스, 라가르드 뒤를 이어 유럽중앙은행 총재로",
+          "en": "Spain's Pablo Hernández de Cos Chosen to Succeed Christine Lagarde at the European Central Bank",
+          "fr": "L'Espagnol Pablo Hernández de Cos succédera à Christine Lagarde à la tête de la BCE",
+          "category": "economy",
+          "country": "DE"
+        },
+        {
+          "id": "2026-11-26-02",
+          "ko": "영국 순이민, 코로나 시기를 빼면 1997년 이후 최저로 하락",
+          "en": "UK Net Migration Falls to Lowest Level Since 1997 Outside the Pandemic",
+          "fr": "Royaume-Uni : l'immigration nette tombe à son plus bas niveau depuis 1997, hors Covid",
+          "category": "politics",
+          "country": "GB"
+        },
+        {
+          "id": "2026-11-26-03",
+          "ko": "미국 양 해안에 폭풍…메이시스 100회 추수감사절 퍼레이드 사상 첫 날씨 연기",
+          "en": "Macy's Postpones 100th Thanksgiving Parade as Storms Hit Both US Coasts",
+          "fr": "Macy's reporte son 100e défilé de Thanksgiving alors que des tempêtes frappent les deux côtes américaines",
+          "category": "disaster",
+          "country": "US"
+        },
+        {
+          "id": "2026-11-26-04",
+          "ko": "영국 할인 체인 파운드랜드, 관리 절차 돌입…일자리 1만 1천 개 위험",
+          "en": "Poundland Collapses Into Administration, Putting 11,000 Jobs at Risk",
+          "fr": "Poundland placé en redressement judiciaire : 11 000 emplois menacés",
+          "category": "economy",
+          "country": "GB"
+        }
+      ]
+    },
+    {
       "date": "2026-11-25",
       "count": 4,
       "headlines": [
@@ -1130,6 +1168,6 @@
       ]
     }
   ],
-  "latest": "2026-11-25",
-  "updated_at": "2026-11-25T16:26:35.114Z"
+  "latest": "2026-11-26",
+  "updated_at": "2026-11-26T16:15:37.336Z"
 }
