@@ -1,0 +1,3211 @@
+{
+  "schema": 1,
+  "date": "2026-11-27",
+  "stories": [
+    {
+      "id": "2026-11-27-01",
+      "category": "politics",
+      "region": {
+        "country": "CA",
+        "city": "Ottawa",
+        "lat": 45.42,
+        "lng": -75.7
+      },
+      "headline": {
+        "en": "Canada's Supreme Court Largely Upholds Quebec's Ban on Religious Symbols for Public Servants",
+        "ko": "캐나다 대법원, 퀘벡의 공무원 종교 상징 착용 금지법을 대체로 인정",
+        "fr": "La Cour suprême du Canada valide en grande partie l'interdiction des signes religieux au Québec"
+      },
+      "hook": {
+        "en": "What did Canada's top court decide about Bill 21?",
+        "ko": "캐나다 대법원은 Bill 21에 대해 어떤 결정을 내렸을까요?",
+        "fr": "Qu'a décidé la Cour suprême du Canada sur la loi 21 ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Canada's top court made a big decision.",
+            "It mostly supports Quebec's law on religious symbols.",
+            "Critics say the law hurts some women."
+          ],
+          "easy_ko": [
+            "캐나다 대법원이 중요한 결정을 내렸어요.",
+            "퀘벡의 종교 상징 법을 대체로 인정했어요.",
+            "비판하는 사람들은 이 법이 일부 여성에게 해롭다고 해요."
+          ],
+          "normal": [
+            "Canada's Supreme Court has largely upheld Quebec's Bill 21, a law that bans many public servants from wearing religious symbols at work.",
+            "Quebec passed the law in 2019 using the notwithstanding clause, a part of Canada's constitution that lets governments override certain rights, including freedom of religion.",
+            "Groups including Muslim, Sikh and Catholic teachers challenged the law, saying it violated their fundamental rights.",
+            "The court found that one part goes too far: banning elected officials from wearing a face covering for religious reasons infringes democratic rights.",
+            "Most of the seven justices backed the law, but three dissented from parts of the decision, warning that the clause cannot authorise laws that clash with Canada's character as a free and democratic country.",
+            "Quebec says the law protects its secularism, while critics say it affects Muslim women who wear the hijab the most."
+          ],
+          "normal_ko": [
+            "캐나다 대법원은 많은 공무원이 일할 때 종교 상징을 착용하지 못하게 한 퀘벡주의 Bill 21을 대체로 합헌으로 판단했습니다.",
+            "퀘벡은 2019년 이 법을 만들면서 정부가 종교의 자유를 포함한 일부 권리를 무시할 수 있게 하는 헌법 조항인 '예외 조항(notwithstanding clause)'을 썼습니다.",
+            "이슬람교, 시크교, 가톨릭 교사들을 포함한 단체들이 기본권 침해라며 소송을 냈습니다.",
+            "법원은 한 부분은 지나치다고 봤습니다. 선출직 공직자가 종교적 이유로 얼굴을 가리는 것을 금지한 부분은 민주적 권리를 침해한다는 것입니다.",
+            "일곱 명의 대법관 대부분이 법을 지지했지만 세 명은 일부 판단에 반대하며, 이 조항으로 자유롭고 민주적인 캐나다의 성격에 어긋나는 법을 허용할 수는 없다고 경고했습니다.",
+            "퀘벡은 이 법이 세속주의를 지킨다고 말하고, 비판하는 쪽은 히잡을 쓰는 무슬림 여성이 가장 큰 영향을 받는다고 말합니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "La plus haute cour du Canada a pris une grande décision.",
+            "Elle soutient en grande partie la loi du Québec sur les signes religieux.",
+            "Les critiques disent que la loi pénalise certaines femmes."
+          ],
+          "normal": [
+            "La Cour suprême du Canada a largement validé la loi 21 du Québec, qui interdit à de nombreux fonctionnaires de porter des signes religieux au travail.",
+            "Le Québec a adopté cette loi en 2019 en recourant à la disposition de dérogation, un mécanisme de la constitution canadienne qui permet aux gouvernements de déroger à certains droits, dont la liberté de religion.",
+            "Des groupes, dont des enseignantes musulmanes, sikhes et catholiques, ont contesté la loi en disant qu'elle violait leurs droits fondamentaux.",
+            "La Cour a jugé qu'un volet va trop loin : interdire aux élus de porter un couvre-visage pour des raisons religieuses porte atteinte aux droits démocratiques.",
+            "La majorité des sept juges a soutenu la loi, mais trois juges dissidents ont contesté certains volets, en avertissant que la disposition ne peut pas autoriser des lois contraires à l'esprit d'un Canada libre et démocratique.",
+            "Le Québec affirme que la loi protège sa laïcité, tandis que ses détracteurs estiment qu'elle touche surtout les femmes musulmanes qui portent le hijab."
+          ],
+          "normal_ko": [
+            "캐나다 대법원은 많은 공무원이 일할 때 종교 상징을 착용하지 못하게 한 퀘벡주의 Bill 21을 대체로 합헌으로 판단했습니다.",
+            "퀘벡은 2019년 이 법을 만들면서 정부가 종교의 자유를 포함한 일부 권리를 무시할 수 있게 하는 헌법 조항인 '예외 조항(notwithstanding clause)'을 썼습니다.",
+            "이슬람교, 시크교, 가톨릭 교사들을 포함한 단체들이 기본권 침해라며 소송을 냈습니다.",
+            "법원은 한 부분은 지나치다고 봤습니다. 선출직 공직자가 종교적 이유로 얼굴을 가리는 것을 금지한 부분은 민주적 권리를 침해한다는 것입니다.",
+            "일곱 명의 대법관 대부분이 법을 지지했지만 세 명은 일부 판단에 반대하며, 이 조항으로 자유롭고 민주적인 캐나다의 성격에 어긋나는 법을 허용할 수는 없다고 경고했습니다.",
+            "퀘벡은 이 법이 세속주의를 지킨다고 말하고, 비판하는 쪽은 히잡을 쓰는 무슬림 여성이 가장 큰 영향을 받는다고 말합니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "퀘벡주는 프랑스어를 쓰는 캐나다의 주로, 국가와 종교를 분리하는 '라이시테(laïcité, 세속주의)'를 정체성의 핵심으로 여깁니다. 이 법은 2019년에 만들어져 약 7년 법적 다툼을 거쳤고, BBC는 이번 판결을 캐나다 역사상 가장 주목받은 판결 중 하나라고 전했어요. '예외 조항'은 캐나다 헌법에서 정부가 일부 권리 조항을 비켜 갈 수 있게 하는 장치입니다. 종교와 세속주의를 두고 사회적 의견이 크게 갈리는 사안이니 법원 판단과 각 쪽의 주장을 나눠서 읽어 주세요. 본문은 BBC를 읽었고 다른 매체는 제목으로 맞춰 봤습니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "largely",
+          "pos": "adverb",
+          "ko": "대체로, 대부분",
+          "example": "The court largely agreed.",
+          "example_ko": "법원은 대체로 동의했어요.",
+          "note_ko": "mostly와 비슷. 반대 느낌은 partly(부분적으로)."
+        },
+        {
+          "lang": "en",
+          "word": "uphold",
+          "pos": "verb",
+          "ko": "인정하다, 지지하다(판결·법)",
+          "example": "The court upheld the law.",
+          "example_ko": "법원이 그 법을 인정했어요.",
+          "note_ko": "uphold a ruling/law/decision. 반대는 overturn(뒤집다)."
+        },
+        {
+          "lang": "en",
+          "word": "ban",
+          "pos": "verb",
+          "ko": "금지하다",
+          "example": "The law bans religious symbols.",
+          "example_ko": "그 법은 종교 상징을 금지해요.",
+          "note_ko": "명사로도 a ban. ban A from -ing = A가 ~하지 못하게 금지."
+        },
+        {
+          "lang": "en",
+          "word": "public servant",
+          "pos": "noun",
+          "ko": "공무원",
+          "example": "Public servants must follow the rule.",
+          "example_ko": "공무원은 그 규칙을 따라야 해요.",
+          "note_ko": "civil servant와 같은 뜻. 캐나다·영국에서 흔해요."
+        },
+        {
+          "lang": "en",
+          "word": "override",
+          "pos": "verb",
+          "ko": "무시하다, 우선하여 뒤엎다",
+          "example": "The government can override some rights.",
+          "example_ko": "정부는 일부 권리를 무시할 수 있어요.",
+          "note_ko": "over(위로)+ride. 명사 override는 '재정의' 뜻도."
+        },
+        {
+          "lang": "en",
+          "word": "challenge",
+          "pos": "verb",
+          "ko": "이의를 제기하다",
+          "example": "Teachers challenged the law.",
+          "example_ko": "교사들이 그 법에 이의를 제기했어요.",
+          "note_ko": "명사 challenge는 '도전·과제'. legal challenge = 법적 이의 제기."
+        },
+        {
+          "lang": "en",
+          "word": "fundamental",
+          "pos": "adjective",
+          "ko": "기본적인, 근본적인",
+          "example": "It is a fundamental right.",
+          "example_ko": "그것은 기본권이에요.",
+          "note_ko": "fundamental rights = 기본권. 명사 fundamentals(기본)."
+        },
+        {
+          "lang": "en",
+          "word": "infringe",
+          "pos": "verb",
+          "ko": "침해하다",
+          "example": "The rule infringes democratic rights.",
+          "example_ko": "그 규칙은 민주적 권리를 침해해요.",
+          "note_ko": "infringe on/upon + 권리. 명사 infringement."
+        },
+        {
+          "lang": "en",
+          "word": "elected",
+          "pos": "adjective",
+          "ko": "선출된",
+          "example": "Elected officials were included.",
+          "example_ko": "선출직 공직자도 포함됐어요.",
+          "note_ko": "elect(선출하다)의 과거분사. elected official = 선출직 공직자."
+        },
+        {
+          "lang": "en",
+          "word": "dissent",
+          "pos": "verb",
+          "ko": "반대 의견을 내다",
+          "example": "Three judges dissented.",
+          "example_ko": "세 명의 판사가 반대 의견을 냈어요.",
+          "note_ko": "dissenting opinion = 반대 의견(판결문). 명사도 dissent."
+        },
+        {
+          "lang": "en",
+          "word": "authorise",
+          "pos": "verb",
+          "ko": "허용하다, 승인하다",
+          "example": "The clause cannot authorise such laws.",
+          "example_ko": "그 조항은 그런 법을 허용할 수 없어요.",
+          "note_ko": "미국식 철자 authorize. 명사 authority(권한)."
+        },
+        {
+          "lang": "en",
+          "word": "secularism",
+          "pos": "noun",
+          "ko": "세속주의(국가와 종교의 분리)",
+          "example": "Quebec defends its secularism.",
+          "example_ko": "퀘벡은 세속주의를 옹호해요.",
+          "note_ko": "형용사 secular(세속의). 프랑스어 laïcité와 비슷."
+        },
+        {
+          "lang": "en",
+          "word": "critic",
+          "pos": "noun",
+          "ko": "비판하는 사람",
+          "example": "Critics say the law is unfair.",
+          "example_ko": "비판하는 사람들은 그 법이 불공정하다고 해요.",
+          "note_ko": "동사 criticise. 영화 평론가도 critic."
+        },
+        {
+          "lang": "fr",
+          "word": "largement",
+          "pos": "adverbe",
+          "ko": "대체로, 폭넓게",
+          "example": "La Cour a largement validé la loi.",
+          "example_ko": "법원은 그 법을 대체로 인정했어요.",
+          "note_ko": "en grande partie와 비슷. 형용사 large(넓은)."
+        },
+        {
+          "lang": "fr",
+          "word": "valider",
+          "pos": "verbe",
+          "ko": "인정하다, 유효하다고 판단하다",
+          "example": "La Cour valide la loi.",
+          "example_ko": "법원이 그 법을 인정해요.",
+          "note_ko": "반대는 invalider·annuler. 명사 la validité."
+        },
+        {
+          "lang": "fr",
+          "word": "interdire",
+          "pos": "verbe",
+          "ko": "금지하다",
+          "example": "La loi interdit les signes religieux.",
+          "example_ko": "그 법은 종교 상징을 금지해요.",
+          "note_ko": "interdire à qqn de + 동사원형. 명사 une interdiction."
+        },
+        {
+          "lang": "fr",
+          "word": "un fonctionnaire",
+          "pos": "nom masculin",
+          "ko": "공무원",
+          "example": "Les fonctionnaires doivent suivre la règle.",
+          "example_ko": "공무원은 그 규칙을 따라야 해요.",
+          "note_ko": "여성형 une fonctionnaire. la fonction publique = 공직."
+        },
+        {
+          "lang": "fr",
+          "word": "un signe religieux",
+          "pos": "nom masculin",
+          "ko": "종교 상징",
+          "example": "Un signe religieux visible.",
+          "example_ko": "눈에 보이는 종교 상징이에요.",
+          "note_ko": "le voile, la croix 등이 예. signe = 표지·기호."
+        },
+        {
+          "lang": "fr",
+          "word": "déroger",
+          "pos": "verbe",
+          "ko": "(규정 등을) 어기다, 예외를 두다",
+          "example": "On peut déroger à certains droits.",
+          "example_ko": "일부 권리에는 예외를 둘 수 있어요.",
+          "note_ko": "déroger à + 규정. la disposition de dérogation = 예외 조항."
+        },
+        {
+          "lang": "fr",
+          "word": "contester",
+          "pos": "verbe",
+          "ko": "이의를 제기하다",
+          "example": "Elles ont contesté la loi.",
+          "example_ko": "그녀들은 그 법에 이의를 제기했어요.",
+          "note_ko": "une contestation = 이의 제기. 비슷한 말 remettre en cause."
+        },
+        {
+          "lang": "fr",
+          "word": "fondamental",
+          "pos": "adjectif",
+          "ko": "기본적인",
+          "example": "Des droits fondamentaux.",
+          "example_ko": "기본권이에요.",
+          "note_ko": "여성형 fondamentale. les droits fondamentaux."
+        },
+        {
+          "lang": "fr",
+          "word": "porter atteinte à",
+          "pos": "locution",
+          "ko": "~을 침해하다",
+          "example": "Cela porte atteinte aux droits.",
+          "example_ko": "그것이 권리를 침해해요.",
+          "note_ko": "une atteinte = 침해. porter는 '들다·입다' 외에 이런 쓰임도."
+        },
+        {
+          "lang": "fr",
+          "word": "un élu",
+          "pos": "nom masculin",
+          "ko": "선출직 공직자",
+          "example": "Les élus ne peuvent pas porter ce voile.",
+          "example_ko": "선출직 공직자는 그 베일을 쓸 수 없어요.",
+          "note_ko": "여성형 une élue. élire = 선출하다."
+        },
+        {
+          "lang": "fr",
+          "word": "dissident",
+          "pos": "adjectif",
+          "ko": "반대 의견의, 이탈한",
+          "example": "Trois juges dissidents.",
+          "example_ko": "반대 의견을 낸 세 판사예요.",
+          "note_ko": "여성형 dissidente. 정치적 반체제 인사도 un dissident."
+        },
+        {
+          "lang": "fr",
+          "word": "autoriser",
+          "pos": "verbe",
+          "ko": "허용하다",
+          "example": "Elle ne peut pas autoriser cette loi.",
+          "example_ko": "그것은 이 법을 허용할 수 없어요.",
+          "note_ko": "une autorisation = 허가. 반대는 interdire."
+        },
+        {
+          "lang": "fr",
+          "word": "la laïcité",
+          "pos": "nom féminin",
+          "ko": "라이시테(국가와 종교의 분리)",
+          "example": "La laïcité fait partie de l'identité.",
+          "example_ko": "라이시테는 정체성의 일부예요.",
+          "note_ko": "프랑스와 퀘벡에서 중요한 개념. laïque = 세속의."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "If a court 'upholds' a law, it…",
+          "choices": [
+            "says the law is valid",
+            "cancels the law",
+            "writes a new law"
+          ],
+          "answer": 0,
+          "explain_ko": "uphold = 인정하다, 유효하다고 판단하다."
+        },
+        {
+          "lang": "fr",
+          "q": "« Valider » une loi, c'est…",
+          "choices": [
+            "la déclarer valable",
+            "l'annuler",
+            "en écrire une nouvelle"
+          ],
+          "answer": 0,
+          "explain_ko": "valider = 유효하다고 인정하다."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o",
+          "accessed": "2026-11-28"
+        },
+        {
+          "name": "Al Jazeera, Montreal Gazette (headlines via Google News)",
+          "url": "https://news.google.com/search?q=Supreme+Court+Bill+21+Quebec+ruling&hl=en-US&gl=US&ceid=US:en",
+          "accessed": "2026-11-28"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-28",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-27/d7b3bb7628867d28.mp3",
+            "2026-11-27/6b68ddf464b2d501.mp3",
+            "2026-11-27/9942e28910a36d24.mp3"
+          ],
+          "normal": [
+            "2026-11-27/132d02a26cf4c992.mp3",
+            "2026-11-27/0672f869a79e30e1.mp3",
+            "2026-11-27/33d4390b98f1cd1c.mp3",
+            "2026-11-27/1ffe9147aad1735e.mp3",
+            "2026-11-27/f7c04c0d69efc3e2.mp3",
+            "2026-11-27/54066ce93f45e625.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-27/dfedd3c2abbb55ed.mp3",
+            "2026-11-27/b2c4c35bd6c935b1.mp3",
+            "2026-11-27/8c56fc5f9d725bef.mp3"
+          ],
+          "normal": [
+            "2026-11-27/bb122f6028001137.mp3",
+            "2026-11-27/4a7521341314ead7.mp3",
+            "2026-11-27/fc45dfae975e3997.mp3",
+            "2026-11-27/5c5c3948f643bbdf.mp3",
+            "2026-11-27/ad218d7e9d08eb77.mp3",
+            "2026-11-27/930cd9334fed197a.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-27/3dad9ef9cd974000.mp3",
+          "2026-11-27/26a9253dd140637e.mp3",
+          "2026-11-27/b3a6886b197e2069.mp3",
+          "2026-11-27/408a27d1e4ad649a.mp3",
+          "2026-11-27/ff19a87fe2c1d74b.mp3",
+          "2026-11-27/f53ef1d4537376e5.mp3",
+          "2026-11-27/c41be6819bf62ac2.mp3",
+          "2026-11-27/6fb7245010309f6d.mp3",
+          "2026-11-27/52aee838d1b08d55.mp3",
+          "2026-11-27/6a96b3e661188140.mp3",
+          "2026-11-27/0e0d23e8e4e2be50.mp3",
+          "2026-11-27/46192a4dd71b23e5.mp3",
+          "2026-11-27/c54a45e60fc633a6.mp3",
+          "2026-11-27/1c7ffc4da8c15622.mp3",
+          "2026-11-27/3f11b9915a8f6bdd.mp3",
+          "2026-11-27/9d8fa18e3ad664ad.mp3",
+          "2026-11-27/0c7cc1b44c92dfba.mp3",
+          "2026-11-27/5122822597741d6b.mp3",
+          "2026-11-27/fd0cb021b4cbaaca.mp3",
+          "2026-11-27/2bfd9dcc304bb76f.mp3",
+          "2026-11-27/68493549c3bfb469.mp3",
+          "2026-11-27/116dbba8a2cf9ad2.mp3",
+          "2026-11-27/222dfee9ce556aba.mp3",
+          "2026-11-27/e4f4dfa72a7a4517.mp3",
+          "2026-11-27/df0f92b385d887fc.mp3",
+          "2026-11-27/dc3f429688d17109.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0,
+              0.273,
+              0.364,
+              0.455,
+              0.545,
+              0.636,
+              0.727
+            ],
+            [
+              0,
+              0.071,
+              0.214,
+              0.357,
+              0.5,
+              0.571,
+              0.643,
+              0.857
+            ],
+            [
+              0,
+              0.222,
+              0.333,
+              0.444,
+              0.556,
+              0.667,
+              0.778
+            ]
+          ],
+          "normal": [
+            [
+              0.032,
+              0.11,
+              0.163,
+              0.189,
+              0.215,
+              0.294,
+              0.346,
+              0.398,
+              0.425,
+              0.529,
+              0.552,
+              0.576,
+              0.599,
+              0.623,
+              0.67,
+              0.717,
+              0.764,
+              0.788,
+              0.835,
+              0.906,
+              0.953,
+              0.976
+            ],
+            [
+              0.038,
+              0.082,
+              0.104,
+              0.126,
+              0.148,
+              0.17,
+              0.236,
+              0.28,
+              0.302,
+              0.39,
+              0.439,
+              0.451,
+              0.462,
+              0.473,
+              0.508,
+              0.554,
+              0.565,
+              0.577,
+              0.611,
+              0.645,
+              0.668,
+              0.689,
+              0.793,
+              0.862,
+              0.896
+            ],
+            [
+              0,
+              0.033,
+              0.132,
+              0.198,
+              0.231,
+              0.264,
+              0.363,
+              0.428,
+              0.494,
+              0.527,
+              0.634,
+              0.671,
+              0.707,
+              0.78,
+              0.817,
+              0.963
+            ],
+            [
+              0,
+              0.032,
+              0.063,
+              0.095,
+              0.127,
+              0.158,
+              0.19,
+              0.222,
+              0.254,
+              0.327,
+              0.373,
+              0.42,
+              0.49,
+              0.513,
+              0.559,
+              0.583,
+              0.606,
+              0.676,
+              0.699,
+              0.769,
+              0.815,
+              0.862,
+              0.955
+            ],
+            [
+              0,
+              0.012,
+              0.025,
+              0.037,
+              0.062,
+              0.087,
+              0.099,
+              0.112,
+              0.135,
+              0.161,
+              0.187,
+              0.239,
+              0.266,
+              0.292,
+              0.318,
+              0.344,
+              0.458,
+              0.494,
+              0.513,
+              0.531,
+              0.549,
+              0.585,
+              0.639,
+              0.657,
+              0.675,
+              0.693,
+              0.711,
+              0.765,
+              0.819,
+              0.838,
+              0.856,
+              0.874,
+              0.892,
+              0.964
+            ],
+            [
+              0.066,
+              0.1,
+              0.118,
+              0.135,
+              0.153,
+              0.187,
+              0.205,
+              0.301,
+              0.337,
+              0.409,
+              0.445,
+              0.481,
+              0.553,
+              0.626,
+              0.698,
+              0.734,
+              0.77,
+              0.806,
+              0.878,
+              0.914
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.13,
+              0.188,
+              0.246,
+              0.304,
+              0.362,
+              0.42,
+              0.594,
+              0.652,
+              0.71,
+              0.768,
+              0.826
+            ],
+            [
+              0.091,
+              0.137,
+              0.229,
+              0.276,
+              0.322,
+              0.414,
+              0.46,
+              0.507,
+              0.553,
+              0.645,
+              0.691,
+              0.737,
+              0.784
+            ],
+            [
+              0.098,
+              0.158,
+              0.338,
+              0.398,
+              0.458,
+              0.518,
+              0.577,
+              0.757,
+              0.877
+            ]
+          ],
+          "normal": [
+            [
+              0.045,
+              0.067,
+              0.088,
+              0.13,
+              0.152,
+              0.216,
+              0.237,
+              0.279,
+              0.343,
+              0.364,
+              0.386,
+              0.428,
+              0.45,
+              0.519,
+              0.538,
+              0.596,
+              0.615,
+              0.634,
+              0.673,
+              0.731,
+              0.75,
+              0.788,
+              0.808,
+              0.827,
+              0.885,
+              0.904
+            ],
+            [
+              0.034,
+              0.048,
+              0.077,
+              0.091,
+              0.134,
+              0.148,
+              0.163,
+              0.177,
+              0.22,
+              0.234,
+              0.277,
+              0.291,
+              0.306,
+              0.363,
+              0.377,
+              0.476,
+              0.489,
+              0.529,
+              0.542,
+              0.556,
+              0.609,
+              0.648,
+              0.662,
+              0.688,
+              0.702,
+              0.755,
+              0.768,
+              0.808,
+              0.821,
+              0.847,
+              0.861,
+              0.874,
+              0.887,
+              0.927,
+              0.94
+            ],
+            [
+              0.042,
+              0.079,
+              0.147,
+              0.171,
+              0.196,
+              0.27,
+              0.367,
+              0.391,
+              0.416,
+              0.564,
+              0.586,
+              0.652,
+              0.674,
+              0.696,
+              0.718,
+              0.762,
+              0.784,
+              0.828,
+              0.85,
+              0.872
+            ],
+            [
+              0.05,
+              0.067,
+              0.084,
+              0.101,
+              0.134,
+              0.151,
+              0.185,
+              0.202,
+              0.219,
+              0.236,
+              0.333,
+              0.392,
+              0.412,
+              0.452,
+              0.471,
+              0.511,
+              0.531,
+              0.61,
+              0.629,
+              0.649,
+              0.688,
+              0.748,
+              0.767,
+              0.807,
+              0.827,
+              0.846
+            ],
+            [
+              0.036,
+              0.05,
+              0.104,
+              0.117,
+              0.13,
+              0.144,
+              0.157,
+              0.198,
+              0.211,
+              0.249,
+              0.264,
+              0.28,
+              0.295,
+              0.341,
+              0.357,
+              0.403,
+              0.434,
+              0.5,
+              0.513,
+              0.565,
+              0.579,
+              0.592,
+              0.645,
+              0.658,
+              0.671,
+              0.684,
+              0.737,
+              0.75,
+              0.763,
+              0.79,
+              0.803,
+              0.829,
+              0.842,
+              0.882,
+              0.895,
+              0.908
+            ],
+            [
+              0.051,
+              0.071,
+              0.112,
+              0.152,
+              0.173,
+              0.193,
+              0.213,
+              0.254,
+              0.274,
+              0.406,
+              0.45,
+              0.473,
+              0.495,
+              0.562,
+              0.607,
+              0.629,
+              0.651,
+              0.696,
+              0.718,
+              0.741,
+              0.808,
+              0.83,
+              0.852,
+              0.875
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-27-02",
+      "category": "technology",
+      "region": {
+        "country": "GB",
+        "city": "London",
+        "lat": 51.51,
+        "lng": -0.13
+      },
+      "headline": {
+        "en": "UK Pensions Department Hit by 'Cyber Incident' as Almost All Online Systems Go Offline",
+        "ko": "영국 노동연금부 '사이버 사고'…연금·수당 온라인 시스템 대부분 중단",
+        "fr": "Royaume-Uni : un « cyberincident » met hors ligne presque tous les services du ministère du Travail"
+      },
+      "hook": {
+        "en": "What happens when a pensions website goes offline?",
+        "ko": "연금 웹사이트가 멈추면 어떤 일이 생길까요?",
+        "fr": "Que se passe-t-il quand un site de retraites tombe en panne ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "A cyber incident hit a UK government department.",
+            "Pension and benefit websites went offline.",
+            "The government says payments will continue."
+          ],
+          "easy_ko": [
+            "영국 정부 부처가 사이버 사고를 겪었어요.",
+            "연금과 수당 웹사이트가 접속이 안 돼요.",
+            "정부는 지급은 계속된다고 해요."
+          ],
+          "normal": [
+            "Almost all online systems at the UK's Department for Work and Pensions have gone offline after what the government calls a cyber incident.",
+            "The outage affects services for the state pension, universal credit and disability benefit applications, as well as the system used to report a death.",
+            "The department says regular benefit and pension payments will go ahead as normal, although some people said money they expected had not arrived on Friday morning.",
+            "Officials took services offline as a precaution after spotting unusual activity, and say there is currently no evidence that personal data has been lost or stolen.",
+            "Downing Street has not ruled out a cyber attack, and the department is working with the National Cyber Security Centre to find the cause and restore services.",
+            "The incident comes days after the government warned of a higher risk of Russian sabotage in Britain, and one senior MP called it a wake-up call for public bodies."
+          ],
+          "normal_ko": [
+            "영국 정부가 '사이버 사고'라고 부르는 일로 노동연금부의 온라인 시스템 거의 전부가 멈췄습니다.",
+            "이번 장애는 국가연금, 유니버설 크레딧, 장애 수당 신청 서비스와 사망 신고 시스템에 영향을 줬습니다.",
+            "부처는 정기 수당과 연금은 평소처럼 지급된다고 밝혔지만, 금요일 아침 기다리던 돈이 들어오지 않았다는 사람들도 있었습니다.",
+            "당국은 이상 활동을 발견한 뒤 예방 차원에서 서비스를 끊었고, 현재로서는 개인정보가 분실되거나 도난당했다는 증거가 없다고 말합니다.",
+            "다우닝가는 사이버 공격 가능성을 배제하지 않았고, 부처는 국가사이버보안센터와 함께 원인을 찾고 서비스를 복구하려 하고 있습니다.",
+            "이번 일은 정부가 러시아의 방해 공작 위험이 높아졌다고 경고한 지 며칠 만에 벌어졌고, 한 고위 의원은 공공기관에 경종이 됐다고 말했습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "Un cyberincident a touché un ministère britannique.",
+            "Les sites des retraites et des aides sont hors ligne.",
+            "Le gouvernement dit que les paiements continuent."
+          ],
+          "normal": [
+            "Presque tous les services en ligne du ministère britannique du Travail et des Retraites sont hors ligne après ce que le gouvernement appelle un cyberincident.",
+            "La panne touche les services des retraites de l'État, du crédit universel et des demandes d'aides pour les personnes handicapées, ainsi que le système servant à déclarer un décès.",
+            "Le ministère affirme que les paiements réguliers des prestations et des retraites seront versés normalement, même si certains disent que l'argent attendu n'est pas arrivé vendredi matin.",
+            "Les services ont été coupés par précaution après la détection d'une activité inhabituelle, et il n'y a pour l'instant aucune preuve que des données personnelles aient été perdues ou volées.",
+            "Downing Street n'exclut pas une cyberattaque, et le ministère travaille avec le Centre national de cybersécurité pour trouver la cause et rétablir les services.",
+            "L'incident survient quelques jours après l'alerte du gouvernement sur un risque accru de sabotage russe en Grande-Bretagne, et une députée influente y voit un signal d'alarme pour les organismes publics."
+          ],
+          "normal_ko": [
+            "영국 정부가 '사이버 사고'라고 부르는 일로 노동연금부의 온라인 시스템 거의 전부가 멈췄습니다.",
+            "이번 장애는 국가연금, 유니버설 크레딧, 장애 수당 신청 서비스와 사망 신고 시스템에 영향을 줬습니다.",
+            "부처는 정기 수당과 연금은 평소처럼 지급된다고 밝혔지만, 금요일 아침 기다리던 돈이 들어오지 않았다는 사람들도 있었습니다.",
+            "당국은 이상 활동을 발견한 뒤 예방 차원에서 서비스를 끊었고, 현재로서는 개인정보가 분실되거나 도난당했다는 증거가 없다고 말합니다.",
+            "다우닝가는 사이버 공격 가능성을 배제하지 않았고, 부처는 국가사이버보안센터와 함께 원인을 찾고 서비스를 복구하려 하고 있습니다.",
+            "이번 일은 정부가 러시아의 방해 공작 위험이 높아졌다고 경고한 지 며칠 만에 벌어졌고, 한 고위 의원은 공공기관에 경종이 됐다고 말했습니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "노동연금부(DWP)는 영국의 연금과 복지 수당을 맡는 부처예요. 유니버설 크레딧은 저소득층이 받는 영국의 대표 복지 수당입니다. 지급은 계속된다고 하지만 일부 시민은 아직 돈이 들어오지 않았다고 말했어요. 원인은 아직 공식적으로 밝혀지지 않았고 사이버 공격인지도 확인되지 않아서 '사고'라고만 적었습니다. 러시아 위험 경고와의 연결은 기사가 시간상 가깝다고만 전했을 뿐 원인으로 확인한 것은 아닙니다. BBC와 Guardian 본문을 읽었고 Le Monde는 제목만 확인했어요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "cyber incident",
+          "pos": "noun",
+          "ko": "사이버 사고",
+          "example": "A cyber incident shut down the website.",
+          "example_ko": "사이버 사고로 웹사이트가 멈췄어요.",
+          "note_ko": "cyber attack(공격)보다 범위가 넓은 말. 원인이 정해지지 않았을 때 써요."
+        },
+        {
+          "lang": "en",
+          "word": "offline",
+          "pos": "adjective",
+          "ko": "접속이 끊긴, 오프라인의",
+          "example": "The system went offline.",
+          "example_ko": "시스템이 접속 불가가 됐어요.",
+          "note_ko": "반대는 online. take A offline = A를 중단시키다."
+        },
+        {
+          "lang": "en",
+          "word": "outage",
+          "pos": "noun",
+          "ko": "(서비스) 장애, 정전",
+          "example": "The outage lasted all day.",
+          "example_ko": "장애가 하루 종일 이어졌어요.",
+          "note_ko": "power outage = 정전. network outage = 통신 장애."
+        },
+        {
+          "lang": "en",
+          "word": "pension",
+          "pos": "noun",
+          "ko": "연금",
+          "example": "She receives a state pension.",
+          "example_ko": "그녀는 국가연금을 받아요.",
+          "note_ko": "state pension = 국가연금. 발음 PEN-shun."
+        },
+        {
+          "lang": "en",
+          "word": "benefit",
+          "pos": "noun",
+          "ko": "(국가의) 수당, 혜택",
+          "example": "He applied for a disability benefit.",
+          "example_ko": "그는 장애 수당을 신청했어요.",
+          "note_ko": "영국에서 benefits = 복지 수당. 일반적인 '이점'도 뜻해요."
+        },
+        {
+          "lang": "en",
+          "word": "precaution",
+          "pos": "noun",
+          "ko": "예방 조치",
+          "example": "They did it as a precaution.",
+          "example_ko": "그들은 예방 차원에서 그렇게 했어요.",
+          "note_ko": "as a precaution = 만약을 위해. take precautions = 대비하다."
+        },
+        {
+          "lang": "en",
+          "word": "unusual",
+          "pos": "adjective",
+          "ko": "이상한, 평소와 다른",
+          "example": "Staff noticed unusual activity.",
+          "example_ko": "직원들이 이상한 활동을 알아챘어요.",
+          "note_ko": "반대는 usual. unusual activity는 보안 뉴스에 자주 나와요."
+        },
+        {
+          "lang": "en",
+          "word": "evidence",
+          "pos": "noun",
+          "ko": "증거",
+          "example": "There is no evidence of data loss.",
+          "example_ko": "자료 유출 증거는 없어요.",
+          "note_ko": "셀 수 없는 명사라 an evidence는 틀려요. a piece of evidence."
+        },
+        {
+          "lang": "en",
+          "word": "steal",
+          "pos": "verb",
+          "ko": "훔치다",
+          "example": "Data may have been stolen.",
+          "example_ko": "자료가 도난당했을지도 몰라요.",
+          "note_ko": "steal-stole-stolen. lost or stolen = 분실 또는 도난."
+        },
+        {
+          "lang": "en",
+          "word": "rule out",
+          "pos": "phrasal verb",
+          "ko": "배제하다",
+          "example": "They have not ruled out an attack.",
+          "example_ko": "그들은 공격 가능성을 배제하지 않았어요.",
+          "note_ko": "rule out A = A의 가능성을 없다고 하다. 반대는 not rule out."
+        },
+        {
+          "lang": "en",
+          "word": "restore",
+          "pos": "verb",
+          "ko": "복구하다, 되돌리다",
+          "example": "Engineers are restoring the service.",
+          "example_ko": "기술자들이 서비스를 복구하고 있어요.",
+          "note_ko": "restore power/trust/order. 명사 restoration."
+        },
+        {
+          "lang": "en",
+          "word": "sabotage",
+          "pos": "noun",
+          "ko": "방해 공작, 파괴 행위",
+          "example": "The report warned of sabotage.",
+          "example_ko": "보고서는 방해 공작을 경고했어요.",
+          "note_ko": "동사로도 쓰임. 발음 SAB-uh-tahzh."
+        },
+        {
+          "lang": "en",
+          "word": "wake-up call",
+          "pos": "noun",
+          "ko": "경종, 정신 차리게 하는 사건",
+          "example": "The crash was a wake-up call.",
+          "example_ko": "그 사고는 경종이 됐어요.",
+          "note_ko": "원래 호텔의 모닝콜. 비유로 '경각심을 주는 일'."
+        },
+        {
+          "lang": "fr",
+          "word": "un cyberincident",
+          "pos": "nom masculin",
+          "ko": "사이버 사고",
+          "example": "Un cyberincident touche le ministère.",
+          "example_ko": "사이버 사고가 부처를 덮쳐요.",
+          "note_ko": "une cyberattaque = 사이버 공격. 원인이 불확실하면 cyberincident."
+        },
+        {
+          "lang": "fr",
+          "word": "hors ligne",
+          "pos": "locution",
+          "ko": "접속이 끊긴",
+          "example": "Le site est hors ligne.",
+          "example_ko": "사이트가 접속 불가예요.",
+          "note_ko": "반대는 en ligne. mettre hors ligne = 중단시키다."
+        },
+        {
+          "lang": "fr",
+          "word": "une panne",
+          "pos": "nom féminin",
+          "ko": "고장, 장애",
+          "example": "Une panne informatique.",
+          "example_ko": "컴퓨터 시스템 장애예요.",
+          "note_ko": "une panne de courant = 정전. tomber en panne = 고장 나다."
+        },
+        {
+          "lang": "fr",
+          "word": "une retraite",
+          "pos": "nom féminin",
+          "ko": "연금, 은퇴",
+          "example": "Il touche sa retraite.",
+          "example_ko": "그는 연금을 받아요.",
+          "note_ko": "prendre sa retraite = 은퇴하다. 연금 의미로도 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "une prestation",
+          "pos": "nom féminin",
+          "ko": "(복지) 급여, 수당",
+          "example": "Des prestations sociales.",
+          "example_ko": "복지 급여예요.",
+          "note_ko": "prestation de service = 서비스 제공. 문맥에 따라 뜻이 달라요."
+        },
+        {
+          "lang": "fr",
+          "word": "par précaution",
+          "pos": "locution",
+          "ko": "예방 차원에서",
+          "example": "Ils coupent le service par précaution.",
+          "example_ko": "그들은 예방 차원에서 서비스를 끊어요.",
+          "note_ko": "une précaution = 예방 조치. prendre des précautions."
+        },
+        {
+          "lang": "fr",
+          "word": "inhabituel",
+          "pos": "adjectif",
+          "ko": "평소와 다른",
+          "example": "Une activité inhabituelle.",
+          "example_ko": "평소와 다른 활동이에요.",
+          "note_ko": "여성형 inhabituelle. 반대는 habituel."
+        },
+        {
+          "lang": "fr",
+          "word": "une preuve",
+          "pos": "nom féminin",
+          "ko": "증거",
+          "example": "Aucune preuve n'a été trouvée.",
+          "example_ko": "증거는 발견되지 않았어요.",
+          "note_ko": "prouver = 증명하다. 영어와 달리 셀 수 있어요."
+        },
+        {
+          "lang": "fr",
+          "word": "voler",
+          "pos": "verbe",
+          "ko": "훔치다, 날다",
+          "example": "Des données ont été volées.",
+          "example_ko": "자료가 도난당했어요.",
+          "note_ko": "un voleur = 도둑. 같은 단어로 '날다'도 뜻해요."
+        },
+        {
+          "lang": "fr",
+          "word": "exclure",
+          "pos": "verbe",
+          "ko": "배제하다",
+          "example": "Ils n'excluent pas une attaque.",
+          "example_ko": "그들은 공격 가능성을 배제하지 않아요.",
+          "note_ko": "ne pas exclure = 배제하지 않다. 명사 une exclusion."
+        },
+        {
+          "lang": "fr",
+          "word": "rétablir",
+          "pos": "verbe",
+          "ko": "복구하다",
+          "example": "Rétablir les services.",
+          "example_ko": "서비스를 복구해요.",
+          "note_ko": "le rétablissement = 복구. 비슷한 말 restaurer."
+        },
+        {
+          "lang": "fr",
+          "word": "un sabotage",
+          "pos": "nom masculin",
+          "ko": "방해 공작",
+          "example": "Un risque de sabotage.",
+          "example_ko": "방해 공작의 위험이에요.",
+          "note_ko": "saboter = 방해하다. 영어와 철자가 거의 같아요."
+        },
+        {
+          "lang": "fr",
+          "word": "un signal d'alarme",
+          "pos": "nom masculin",
+          "ko": "경종, 경고 신호",
+          "example": "C'est un signal d'alarme.",
+          "example_ko": "이건 경종이에요.",
+          "note_ko": "tirer la sonnette d'alarme = 위험을 알리다."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "If a website goes 'offline', it…",
+          "choices": [
+            "cannot be reached",
+            "becomes faster",
+            "is free to use"
+          ],
+          "answer": 0,
+          "explain_ko": "offline = 접속할 수 없는 상태."
+        },
+        {
+          "lang": "fr",
+          "q": "Un site « hors ligne » est…",
+          "choices": [
+            "inaccessible",
+            "plus rapide",
+            "gratuit"
+          ],
+          "answer": 0,
+          "explain_ko": "hors ligne = 접속 불가."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ck1l0e946dqmo",
+          "accessed": "2026-11-28"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
+          "accessed": "2026-11-28"
+        },
+        {
+          "name": "Le Monde (headline only)",
+          "url": "https://www.lemonde.fr/international/",
+          "accessed": "2026-11-28"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-28",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-27/2bfcaa4888fec81d.mp3",
+            "2026-11-27/ae4f2148be23b9eb.mp3",
+            "2026-11-27/0e9eefec6baad20b.mp3"
+          ],
+          "normal": [
+            "2026-11-27/fd570f3391469465.mp3",
+            "2026-11-27/1f981a7640fb0fe0.mp3",
+            "2026-11-27/652760d48b7c117e.mp3",
+            "2026-11-27/77f77ef5e75bd6c4.mp3",
+            "2026-11-27/ede8918ddb1f85c6.mp3",
+            "2026-11-27/89531cd44b9de477.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-27/69601f2b424b1c51.mp3",
+            "2026-11-27/041d695eb3c54dc5.mp3",
+            "2026-11-27/7096809d9fb60d90.mp3"
+          ],
+          "normal": [
+            "2026-11-27/99c94590bf73eb86.mp3",
+            "2026-11-27/91d64ede6a31fec9.mp3",
+            "2026-11-27/2dddd0ece16218bd.mp3",
+            "2026-11-27/c9ff5844e6fa5cf6.mp3",
+            "2026-11-27/5cd832b3889f22c1.mp3",
+            "2026-11-27/908eaaedb807c812.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-27/af2abf282a2b299c.mp3",
+          "2026-11-27/760e3cf577917275.mp3",
+          "2026-11-27/0b0dc4f3460af280.mp3",
+          "2026-11-27/278da78fcfe71c98.mp3",
+          "2026-11-27/c44760db61d003bd.mp3",
+          "2026-11-27/0078fe0921084dd1.mp3",
+          "2026-11-27/cc567ed7d79fa140.mp3",
+          "2026-11-27/ed60c8f8707c858a.mp3",
+          "2026-11-27/37d3485dac5c224d.mp3",
+          "2026-11-27/f0ed84c0120d2ddf.mp3",
+          "2026-11-27/f03ec036e37b0f45.mp3",
+          "2026-11-27/6d0c41210479a3d3.mp3",
+          "2026-11-27/0ad8ff1fe23cfb39.mp3",
+          "2026-11-27/97b52ec6a2cee979.mp3",
+          "2026-11-27/04fc0948a5c75fb9.mp3",
+          "2026-11-27/e06b3818cde0ba20.mp3",
+          "2026-11-27/a96adf90b6ed2ba1.mp3",
+          "2026-11-27/c595f6a5e0186e5e.mp3",
+          "2026-11-27/5942f0cb8ccfe852.mp3",
+          "2026-11-27/97f935e45335913f.mp3",
+          "2026-11-27/554ba95a9133c558.mp3",
+          "2026-11-27/9965252f009e43ff.mp3",
+          "2026-11-27/2989eb1d2325df3a.mp3",
+          "2026-11-27/db09d4cf4840b8dc.mp3",
+          "2026-11-27/ad6db369f229a644.mp3",
+          "2026-11-27/f3be2bccc69b5c4b.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.107,
+              0.162,
+              0.272,
+              0.437,
+              0.492,
+              0.546,
+              0.601,
+              0.766
+            ],
+            [
+              0,
+              0.182,
+              0.273,
+              0.545,
+              0.727,
+              0.818
+            ],
+            [
+              0.054,
+              0.14,
+              0.398,
+              0.484,
+              0.656,
+              0.742
+            ]
+          ],
+          "normal": [
+            [
+              0.055,
+              0.106,
+              0.132,
+              0.183,
+              0.233,
+              0.259,
+              0.284,
+              0.31,
+              0.386,
+              0.411,
+              0.437,
+              0.462,
+              0.513,
+              0.538,
+              0.564,
+              0.615,
+              0.666,
+              0.691,
+              0.716,
+              0.793,
+              0.818,
+              0.844,
+              0.894
+            ],
+            [
+              0.043,
+              0.066,
+              0.112,
+              0.158,
+              0.205,
+              0.228,
+              0.251,
+              0.274,
+              0.358,
+              0.428,
+              0.463,
+              0.481,
+              0.568,
+              0.621,
+              0.733,
+              0.753,
+              0.772,
+              0.791,
+              0.81,
+              0.848,
+              0.868,
+              0.887,
+              0.925,
+              0.944
+            ],
+            [
+              0.029,
+              0.051,
+              0.119,
+              0.141,
+              0.209,
+              0.276,
+              0.299,
+              0.344,
+              0.389,
+              0.411,
+              0.434,
+              0.479,
+              0.501,
+              0.546,
+              0.591,
+              0.613,
+              0.636,
+              0.658,
+              0.703,
+              0.726,
+              0.771,
+              0.793,
+              0.816,
+              0.861,
+              0.883,
+              0.928
+            ],
+            [
+              0.054,
+              0.107,
+              0.125,
+              0.161,
+              0.196,
+              0.214,
+              0.232,
+              0.285,
+              0.321,
+              0.357,
+              0.41,
+              0.537,
+              0.554,
+              0.572,
+              0.589,
+              0.606,
+              0.659,
+              0.676,
+              0.728,
+              0.746,
+              0.798,
+              0.833,
+              0.851,
+              0.868,
+              0.885,
+              0.903
+            ],
+            [
+              0,
+              0.054,
+              0.081,
+              0.108,
+              0.135,
+              0.162,
+              0.189,
+              0.216,
+              0.27,
+              0.36,
+              0.382,
+              0.404,
+              0.47,
+              0.492,
+              0.536,
+              0.558,
+              0.58,
+              0.647,
+              0.691,
+              0.779,
+              0.801,
+              0.823,
+              0.845,
+              0.867,
+              0.89,
+              0.912,
+              0.956
+            ],
+            [
+              0,
+              0.02,
+              0.079,
+              0.099,
+              0.119,
+              0.158,
+              0.178,
+              0.237,
+              0.257,
+              0.277,
+              0.297,
+              0.336,
+              0.356,
+              0.376,
+              0.416,
+              0.475,
+              0.495,
+              0.583,
+              0.609,
+              0.634,
+              0.685,
+              0.71,
+              0.735,
+              0.76,
+              0.786,
+              0.836,
+              0.862,
+              0.887,
+              0.937
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.22,
+              0.264,
+              0.441,
+              0.485,
+              0.573,
+              0.617,
+              0.749
+            ],
+            [
+              0.207,
+              0.266,
+              0.326,
+              0.385,
+              0.503,
+              0.562,
+              0.622,
+              0.681,
+              0.74,
+              0.799
+            ],
+            [
+              0.142,
+              0.188,
+              0.325,
+              0.37,
+              0.416,
+              0.461,
+              0.552
+            ]
+          ],
+          "normal": [
+            [
+              0.033,
+              0.079,
+              0.102,
+              0.125,
+              0.171,
+              0.194,
+              0.217,
+              0.24,
+              0.309,
+              0.401,
+              0.424,
+              0.47,
+              0.493,
+              0.516,
+              0.562,
+              0.585,
+              0.608,
+              0.631,
+              0.677,
+              0.7,
+              0.723,
+              0.746,
+              0.815,
+              0.861,
+              0.884
+            ],
+            [
+              0.034,
+              0.055,
+              0.076,
+              0.097,
+              0.118,
+              0.16,
+              0.181,
+              0.223,
+              0.244,
+              0.327,
+              0.346,
+              0.383,
+              0.459,
+              0.478,
+              0.496,
+              0.534,
+              0.553,
+              0.572,
+              0.591,
+              0.628,
+              0.741,
+              0.773,
+              0.789,
+              0.805,
+              0.837,
+              0.869,
+              0.885,
+              0.933,
+              0.949
+            ],
+            [
+              0.064,
+              0.082,
+              0.138,
+              0.175,
+              0.193,
+              0.212,
+              0.249,
+              0.304,
+              0.323,
+              0.378,
+              0.397,
+              0.415,
+              0.452,
+              0.489,
+              0.526,
+              0.613,
+              0.631,
+              0.65,
+              0.687,
+              0.705,
+              0.724,
+              0.742,
+              0.798,
+              0.816,
+              0.835,
+              0.89,
+              0.945
+            ],
+            [
+              0.042,
+              0.059,
+              0.093,
+              0.11,
+              0.145,
+              0.179,
+              0.196,
+              0.247,
+              0.282,
+              0.299,
+              0.35,
+              0.367,
+              0.436,
+              0.546,
+              0.564,
+              0.581,
+              0.598,
+              0.615,
+              0.633,
+              0.667,
+              0.702,
+              0.719,
+              0.737,
+              0.754,
+              0.788,
+              0.84,
+              0.858,
+              0.892,
+              0.927,
+              0.944
+            ],
+            [
+              0.046,
+              0.09,
+              0.112,
+              0.157,
+              0.179,
+              0.201,
+              0.363,
+              0.382,
+              0.4,
+              0.457,
+              0.495,
+              0.532,
+              0.551,
+              0.57,
+              0.626,
+              0.645,
+              0.758,
+              0.777,
+              0.815,
+              0.834,
+              0.852,
+              0.871,
+              0.928,
+              0.947
+            ],
+            [
+              0.034,
+              0.069,
+              0.103,
+              0.137,
+              0.155,
+              0.189,
+              0.224,
+              0.241,
+              0.292,
+              0.31,
+              0.327,
+              0.361,
+              0.396,
+              0.413,
+              0.465,
+              0.482,
+              0.499,
+              0.611,
+              0.627,
+              0.644,
+              0.694,
+              0.728,
+              0.745,
+              0.761,
+              0.778,
+              0.811,
+              0.845,
+              0.862,
+              0.878,
+              0.929
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-27-03",
+      "category": "economy",
+      "region": {
+        "country": "FR",
+        "city": "Paris",
+        "lat": 48.86,
+        "lng": 2.35
+      },
+      "headline": {
+        "en": "France Enters Recession as GDP Shrinks for a Second Quarter in a Row",
+        "ko": "프랑스, 두 분기 연속 GDP 감소로 경기침체 진입",
+        "fr": "La France entre en récession, le PIB continue de reculer"
+      },
+      "hook": {
+        "en": "Is France in a recession?",
+        "ko": "프랑스는 경기침체에 들어갔을까요?",
+        "fr": "La France est-elle en récession ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "France's economy is shrinking.",
+            "It fell for two quarters in a row.",
+            "That means France is in a recession."
+          ],
+          "easy_ko": [
+            "프랑스 경제가 줄어들고 있어요.",
+            "두 분기 연속으로 줄었어요.",
+            "그래서 프랑스는 경기침체에 들어갔어요."
+          ],
+          "normal": [
+            "France has entered a recession, according to the national statistics institute Insee.",
+            "On Friday, Insee announced that gross domestic product shrank by 0.2% in the third quarter of 2026.",
+            "It was the second quarter in a row with a negative result, which is the usual definition of a technical recession.",
+            "French headlines describe the growth figure as worse than expected and say Insee revised its earlier estimate downward.",
+            "Gross domestic product measures the value of all the goods and services a country produces in a given period.",
+            "The next quarterly figures will show whether the economy returns to growth."
+          ],
+          "normal_ko": [
+            "프랑스 통계청 Insee에 따르면 프랑스가 경기침체에 들어갔습니다.",
+            "Insee는 금요일, 2026년 3분기 국내총생산(GDP)이 0.2% 줄었다고 발표했습니다.",
+            "두 분기 연속 마이너스 결과로, 이는 기술적 경기침체의 일반적인 정의에 해당합니다.",
+            "프랑스 언론 제목들은 성장률이 예상보다 나빴고 Insee가 앞선 추정치를 낮춰 수정했다고 전합니다.",
+            "국내총생산은 한 나라가 일정 기간 만들어 낸 모든 상품과 서비스의 가치를 재는 지표입니다.",
+            "다음 분기 수치가 경제가 다시 성장으로 돌아설지 보여 줄 것입니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "L'économie française recule.",
+            "Elle a baissé deux trimestres de suite.",
+            "La France est donc en récession."
+          ],
+          "normal": [
+            "La France est entrée en récession, selon l'institut national de la statistique, l'Insee.",
+            "Vendredi, l'Insee a annoncé que le produit intérieur brut a reculé de 0,2 % au troisième trimestre 2026.",
+            "C'est le deuxième trimestre consécutif avec un résultat négatif, ce qui correspond à la définition habituelle d'une récession technique.",
+            "Les titres de la presse française décrivent une croissance plus mauvaise que prévu et disent que l'Insee a révisé son estimation précédente à la baisse.",
+            "Le produit intérieur brut mesure la valeur de tous les biens et services produits par un pays sur une période donnée.",
+            "Les prochains chiffres trimestriels montreront si l'économie revient à la croissance."
+          ],
+          "normal_ko": [
+            "프랑스 통계청 Insee에 따르면 프랑스가 경기침체에 들어갔습니다.",
+            "Insee는 금요일, 2026년 3분기 국내총생산(GDP)이 0.2% 줄었다고 발표했습니다.",
+            "두 분기 연속 마이너스 결과로, 이는 기술적 경기침체의 일반적인 정의에 해당합니다.",
+            "프랑스 언론 제목들은 성장률이 예상보다 나빴고 Insee가 앞선 추정치를 낮춰 수정했다고 전합니다.",
+            "국내총생산은 한 나라가 일정 기간 만들어 낸 모든 상품과 서비스의 가치를 재는 지표입니다.",
+            "다음 분기 수치가 경제가 다시 성장으로 돌아설지 보여 줄 것입니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "경제가 두 분기 연속으로 줄어들면 '기술적 경기침체(technical recession)'라고 부르는 것이 일반적인 기준이에요. Insee는 프랑스의 국가 통계 기관입니다. 이 뉴스는 France 24 FR의 요약과 여러 프랑스 매체의 제목으로만 확인해서 침체의 원인, 정부 대응, 각 분기의 정확한 수치 흐름은 적지 않았어요. 앱 본문에 나온 0.2%와 '두 분기 연속'은 요약에 나온 내용입니다.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "recession",
+          "pos": "noun",
+          "ko": "경기침체",
+          "example": "The country entered a recession.",
+          "example_ko": "그 나라는 경기침체에 들어갔어요.",
+          "note_ko": "enter/avoid a recession. 반대 흐름은 recovery(회복)."
+        },
+        {
+          "lang": "en",
+          "word": "gross domestic product",
+          "pos": "noun",
+          "ko": "국내총생산(GDP)",
+          "example": "Gross domestic product fell.",
+          "example_ko": "국내총생산이 줄었어요.",
+          "note_ko": "보통 GDP로 줄여 써요. gross = 총, domestic = 국내의."
+        },
+        {
+          "lang": "en",
+          "word": "shrink",
+          "pos": "verb",
+          "ko": "줄어들다",
+          "example": "The economy shrank.",
+          "example_ko": "경제가 줄어들었어요.",
+          "note_ko": "shrink-shrank-shrunk. 반대는 grow."
+        },
+        {
+          "lang": "en",
+          "word": "quarter",
+          "pos": "noun",
+          "ko": "분기(3개월)",
+          "example": "The third quarter ended in September.",
+          "example_ko": "3분기는 9월에 끝났어요.",
+          "note_ko": "Q1~Q4. 25센트나 4분의 1도 quarter."
+        },
+        {
+          "lang": "en",
+          "word": "in a row",
+          "pos": "phrase",
+          "ko": "연속으로",
+          "example": "It fell two times in a row.",
+          "example_ko": "두 번 연속으로 떨어졌어요.",
+          "note_ko": "in a row = 연달아. consecutive와 같은 뜻의 쉬운 말."
+        },
+        {
+          "lang": "en",
+          "word": "negative",
+          "pos": "adjective",
+          "ko": "마이너스의, 부정적인",
+          "example": "The result was negative.",
+          "example_ko": "결과는 마이너스였어요.",
+          "note_ko": "반대는 positive. negative growth = 마이너스 성장."
+        },
+        {
+          "lang": "en",
+          "word": "definition",
+          "pos": "noun",
+          "ko": "정의",
+          "example": "That is the usual definition.",
+          "example_ko": "그것이 일반적인 정의예요.",
+          "note_ko": "동사 define. by definition = 정의상."
+        },
+        {
+          "lang": "en",
+          "word": "technical",
+          "pos": "adjective",
+          "ko": "기술적인, 형식상의",
+          "example": "A technical recession.",
+          "example_ko": "기술적 경기침체예요.",
+          "note_ko": "technical recession = 두 분기 연속 마이너스라는 기준을 채운 것. 실제 체감과 다를 수 있어요."
+        },
+        {
+          "lang": "en",
+          "word": "expected",
+          "pos": "adjective",
+          "ko": "예상된",
+          "example": "Growth was worse than expected.",
+          "example_ko": "성장은 예상보다 나빴어요.",
+          "note_ko": "worse/better than expected = 예상보다 나쁜/좋은. 동사 expect."
+        },
+        {
+          "lang": "en",
+          "word": "revise",
+          "pos": "verb",
+          "ko": "수정하다",
+          "example": "Officials revised the estimate.",
+          "example_ko": "당국이 추정치를 수정했어요.",
+          "note_ko": "revise downward/upward = 하향/상향 수정. 시험 공부 복습(영국식)도 revise."
+        },
+        {
+          "lang": "en",
+          "word": "goods and services",
+          "pos": "noun",
+          "ko": "상품과 서비스",
+          "example": "It produces goods and services.",
+          "example_ko": "그곳은 상품과 서비스를 생산해요.",
+          "note_ko": "goods(상품)는 복수형 명사. 경제 기본 표현."
+        },
+        {
+          "lang": "en",
+          "word": "growth",
+          "pos": "noun",
+          "ko": "성장",
+          "example": "Growth returned last year.",
+          "example_ko": "작년에 성장이 돌아왔어요.",
+          "note_ko": "economic growth = 경제 성장. 동사 grow."
+        },
+        {
+          "lang": "en",
+          "word": "figure",
+          "pos": "noun",
+          "ko": "수치, 숫자",
+          "example": "The figures were released Friday.",
+          "example_ko": "수치는 금요일에 발표됐어요.",
+          "note_ko": "official figures = 공식 수치. 인물·모양도 figure."
+        },
+        {
+          "lang": "fr",
+          "word": "la récession",
+          "pos": "nom féminin",
+          "ko": "경기침체",
+          "example": "Le pays entre en récession.",
+          "example_ko": "그 나라가 경기침체에 들어가요.",
+          "note_ko": "반대는 la reprise(회복). 동사 entrer en récession."
+        },
+        {
+          "lang": "fr",
+          "word": "le produit intérieur brut",
+          "pos": "nom masculin",
+          "ko": "국내총생산(GDP)",
+          "example": "Le produit intérieur brut recule.",
+          "example_ko": "국내총생산이 줄어요.",
+          "note_ko": "줄여서 le PIB. brut = 총, 반대는 net."
+        },
+        {
+          "lang": "fr",
+          "word": "reculer",
+          "pos": "verbe",
+          "ko": "줄어들다, 뒷걸음치다",
+          "example": "Le PIB a reculé.",
+          "example_ko": "GDP가 줄었어요.",
+          "note_ko": "en recul = 감소 중. 반대는 progresser."
+        },
+        {
+          "lang": "fr",
+          "word": "un trimestre",
+          "pos": "nom masculin",
+          "ko": "분기",
+          "example": "Le troisième trimestre.",
+          "example_ko": "3분기예요.",
+          "note_ko": "trimestriel = 분기별의. tri-(셋)+mois(달)."
+        },
+        {
+          "lang": "fr",
+          "word": "consécutif",
+          "pos": "adjectif",
+          "ko": "연속된",
+          "example": "Deux trimestres consécutifs.",
+          "example_ko": "연속된 두 분기예요.",
+          "note_ko": "여성형 consécutive. de suite = 연달아(쉬운 표현)."
+        },
+        {
+          "lang": "fr",
+          "word": "négatif",
+          "pos": "adjectif",
+          "ko": "마이너스의",
+          "example": "Un résultat négatif.",
+          "example_ko": "마이너스 결과예요.",
+          "note_ko": "여성형 négative. 반대는 positif."
+        },
+        {
+          "lang": "fr",
+          "word": "une définition",
+          "pos": "nom féminin",
+          "ko": "정의",
+          "example": "La définition habituelle.",
+          "example_ko": "일반적인 정의예요.",
+          "note_ko": "définir = 정의하다."
+        },
+        {
+          "lang": "fr",
+          "word": "technique",
+          "pos": "adjectif",
+          "ko": "기술적인, 형식상의",
+          "example": "Une récession technique.",
+          "example_ko": "기술적 경기침체예요.",
+          "note_ko": "la technique = 기술. 명사로도 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "prévu",
+          "pos": "adjectif",
+          "ko": "예상된",
+          "example": "Plus mauvais que prévu.",
+          "example_ko": "예상보다 나빠요.",
+          "note_ko": "prévoir = 예상하다. plus que prévu = 예상보다 더."
+        },
+        {
+          "lang": "fr",
+          "word": "réviser à la baisse",
+          "pos": "locution",
+          "ko": "하향 수정하다",
+          "example": "L'Insee révise à la baisse son estimation.",
+          "example_ko": "Insee가 추정치를 하향 수정해요.",
+          "note_ko": "반대는 réviser à la hausse. réviser는 복습하다 뜻도."
+        },
+        {
+          "lang": "fr",
+          "word": "les biens et services",
+          "pos": "nom masculin pluriel",
+          "ko": "상품과 서비스",
+          "example": "Les biens et services produits.",
+          "example_ko": "생산된 상품과 서비스예요.",
+          "note_ko": "un bien = 재화. 경제 기본 표현."
+        },
+        {
+          "lang": "fr",
+          "word": "la croissance",
+          "pos": "nom féminin",
+          "ko": "성장",
+          "example": "Le retour de la croissance.",
+          "example_ko": "성장의 복귀예요.",
+          "note_ko": "croître = 성장하다. la croissance économique."
+        },
+        {
+          "lang": "fr",
+          "word": "un chiffre",
+          "pos": "nom masculin",
+          "ko": "수치, 숫자",
+          "example": "Les chiffres de l'Insee.",
+          "example_ko": "Insee의 수치예요.",
+          "note_ko": "un chiffre d'affaires = 매출. 숫자 하나(0~9)도 chiffre."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "A 'technical recession' means the economy…",
+          "choices": [
+            "shrank two quarters in a row",
+            "grew very fast",
+            "stayed exactly the same"
+          ],
+          "answer": 0,
+          "explain_ko": "technical recession = 두 분기 연속 마이너스 성장."
+        },
+        {
+          "lang": "fr",
+          "q": "Une récession « technique » signifie que l'économie…",
+          "choices": [
+            "a reculé deux trimestres de suite",
+            "a grandi très vite",
+            "n'a pas bougé"
+          ],
+          "answer": 0,
+          "explain_ko": "récession technique = 두 분기 연속 마이너스."
+        }
+      ],
+      "sources": [
+        {
+          "name": "France 24 FR (summary only)",
+          "url": "https://www.france24.com/fr/france/20261127-la-france-entre-en-r%C3%A9cession-le-pib-continue-de-reculer",
+          "accessed": "2026-11-28"
+        },
+        {
+          "name": "Le Monde, Les Echos, Boursorama, Capital (headlines via Google News)",
+          "url": "https://news.google.com/search?q=France+r%C3%A9cession+Insee+PIB+troisi%C3%A8me+trimestre&hl=fr&gl=FR&ceid=FR:fr",
+          "accessed": "2026-11-28"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-28",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-27/15b3a96c3bbc7037.mp3",
+            "2026-11-27/a8b2cfedfe21e7ad.mp3",
+            "2026-11-27/a360b39bbc910a66.mp3"
+          ],
+          "normal": [
+            "2026-11-27/74c10e090d57a2f4.mp3",
+            "2026-11-27/4ff4ec3b16c5e386.mp3",
+            "2026-11-27/1b063b1991ade8cd.mp3",
+            "2026-11-27/28bf08c55190eb17.mp3",
+            "2026-11-27/76979fa59f16b26d.mp3",
+            "2026-11-27/49949515374908ea.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-27/5669d6b590000eee.mp3",
+            "2026-11-27/98cbe90e2435e3d3.mp3",
+            "2026-11-27/4183720d559df670.mp3"
+          ],
+          "normal": [
+            "2026-11-27/c52e42f732c8c576.mp3",
+            "2026-11-27/a4a5703af5aee82b.mp3",
+            "2026-11-27/4eda3c382ae82d73.mp3",
+            "2026-11-27/caaf5711fe88e367.mp3",
+            "2026-11-27/3d98f9c3e59d28f6.mp3",
+            "2026-11-27/b0399ef140ceca37.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-27/447ca84cf0fa211a.mp3",
+          "2026-11-27/07ed2916cff8da68.mp3",
+          "2026-11-27/1954ef091bd6cb11.mp3",
+          "2026-11-27/22feb625e3938b98.mp3",
+          "2026-11-27/b40649f1f7a8f7b1.mp3",
+          "2026-11-27/1aae03a77341916b.mp3",
+          "2026-11-27/8c5d0e91a839d6b5.mp3",
+          "2026-11-27/1281b58ea4eea902.mp3",
+          "2026-11-27/cdb18ccbf9bb82cf.mp3",
+          "2026-11-27/4fd46971c3cfcf91.mp3",
+          "2026-11-27/be4882728f7fcc7a.mp3",
+          "2026-11-27/12f819aeaaea0b6b.mp3",
+          "2026-11-27/0d56b192c6bca4ef.mp3",
+          "2026-11-27/14b209b73dc1e6cd.mp3",
+          "2026-11-27/61a58cd35d16f565.mp3",
+          "2026-11-27/4423e678200e372a.mp3",
+          "2026-11-27/b5f5d5839b87498b.mp3",
+          "2026-11-27/c2228c5d0fb1af86.mp3",
+          "2026-11-27/86d3ca595d249e5a.mp3",
+          "2026-11-27/acb51aca0aa91d82.mp3",
+          "2026-11-27/bedc4daea847239c.mp3",
+          "2026-11-27/a689a35aabbb3c9c.mp3",
+          "2026-11-27/2c79d0e40fc658ef.mp3",
+          "2026-11-27/9f0bcfefd688fa2b.mp3",
+          "2026-11-27/70370f88491683f7.mp3",
+          "2026-11-27/233961a11c295027.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0,
+              0.125,
+              0.625,
+              0.75
+            ],
+            [
+              0.249,
+              0.333,
+              0.416,
+              0.499,
+              0.583,
+              0.75,
+              0.833,
+              0.917
+            ],
+            [
+              0.186,
+              0.263,
+              0.34,
+              0.416,
+              0.493,
+              0.57,
+              0.647
+            ]
+          ],
+          "normal": [
+            [
+              0.145,
+              0.178,
+              0.212,
+              0.279,
+              0.313,
+              0.414,
+              0.515,
+              0.548,
+              0.582,
+              0.683,
+              0.784,
+              0.885
+            ],
+            [
+              0.064,
+              0.091,
+              0.192,
+              0.256,
+              0.321,
+              0.353,
+              0.385,
+              0.482,
+              0.546,
+              0.578,
+              0.611,
+              0.675,
+              0.707,
+              0.739,
+              0.772,
+              0.836,
+              0.868
+            ],
+            [
+              0.045,
+              0.071,
+              0.097,
+              0.124,
+              0.176,
+              0.228,
+              0.254,
+              0.28,
+              0.306,
+              0.332,
+              0.359,
+              0.437,
+              0.555,
+              0.578,
+              0.602,
+              0.626,
+              0.673,
+              0.768,
+              0.792,
+              0.815,
+              0.887
+            ],
+            [
+              0,
+              0.036,
+              0.107,
+              0.179,
+              0.214,
+              0.25,
+              0.321,
+              0.357,
+              0.393,
+              0.429,
+              0.5,
+              0.536,
+              0.571,
+              0.643,
+              0.714,
+              0.75,
+              0.821,
+              0.929
+            ],
+            [
+              0,
+              0.034,
+              0.138,
+              0.207,
+              0.276,
+              0.31,
+              0.379,
+              0.414,
+              0.448,
+              0.483,
+              0.517,
+              0.552,
+              0.621,
+              0.655,
+              0.724,
+              0.793,
+              0.828,
+              0.862,
+              0.931
+            ],
+            [
+              0.1,
+              0.138,
+              0.175,
+              0.289,
+              0.365,
+              0.403,
+              0.441,
+              0.517,
+              0.555,
+              0.707,
+              0.783,
+              0.821
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.163,
+              0.464,
+              0.614
+            ],
+            [
+              0.152,
+              0.234,
+              0.315,
+              0.477,
+              0.558,
+              0.721,
+              0.802
+            ],
+            [
+              0.326,
+              0.403,
+              0.48,
+              0.557,
+              0.633,
+              0.71
+            ]
+          ],
+          "normal": [
+            [
+              0.092,
+              0.126,
+              0.161,
+              0.196,
+              0.265,
+              0.3,
+              0.441,
+              0.496,
+              0.578,
+              0.66,
+              0.688,
+              0.715,
+              0.869
+            ],
+            [
+              0.046,
+              0.184,
+              0.234,
+              0.26,
+              0.336,
+              0.361,
+              0.386,
+              0.437,
+              0.513,
+              0.538,
+              0.564,
+              0.64,
+              0.665,
+              0.716,
+              0.741,
+              0.766,
+              0.817,
+              0.868
+            ],
+            [
+              0.092,
+              0.113,
+              0.135,
+              0.178,
+              0.222,
+              0.309,
+              0.352,
+              0.374,
+              0.439,
+              0.534,
+              0.555,
+              0.575,
+              0.636,
+              0.656,
+              0.676,
+              0.757,
+              0.818,
+              0.838,
+              0.899
+            ],
+            [
+              0.108,
+              0.129,
+              0.15,
+              0.171,
+              0.193,
+              0.214,
+              0.256,
+              0.299,
+              0.32,
+              0.363,
+              0.384,
+              0.426,
+              0.448,
+              0.49,
+              0.511,
+              0.533,
+              0.554,
+              0.596,
+              0.618,
+              0.681,
+              0.703,
+              0.788,
+              0.851,
+              0.873,
+              0.894
+            ],
+            [
+              0.059,
+              0.089,
+              0.149,
+              0.239,
+              0.269,
+              0.329,
+              0.359,
+              0.419,
+              0.449,
+              0.479,
+              0.509,
+              0.539,
+              0.569,
+              0.629,
+              0.689,
+              0.719,
+              0.749,
+              0.779,
+              0.809,
+              0.839,
+              0.899
+            ],
+            [
+              0.119,
+              0.156,
+              0.232,
+              0.269,
+              0.383,
+              0.496,
+              0.533,
+              0.684,
+              0.759,
+              0.797,
+              0.835
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "2026-11-27-04",
+      "category": "politics",
+      "region": {
+        "country": "ES",
+        "city": "Madrid",
+        "lat": 40.42,
+        "lng": -3.7
+      },
+      "headline": {
+        "en": "Spain Votes Sunday as the Housing Crisis Dominates the Election Campaign",
+        "ko": "스페인 일요일 총선…주거난이 선거 최대 쟁점",
+        "fr": "Espagne : élections dimanche, la crise du logement domine la campagne"
+      },
+      "hook": {
+        "en": "Can young people in Spain afford a home?",
+        "ko": "스페인 젊은이들은 집을 마련할 수 있을까요?",
+        "fr": "Les jeunes Espagnols peuvent-ils se loger ?"
+      },
+      "summary": {
+        "en": {
+          "easy": [
+            "Spain votes on Sunday.",
+            "Housing costs are the big issue.",
+            "Many young people cannot afford a home."
+          ],
+          "easy_ko": [
+            "스페인이 일요일에 투표해요.",
+            "주거비가 가장 큰 쟁점이에요.",
+            "많은 젊은이가 집을 마련하기 어려워요."
+          ],
+          "normal": [
+            "Spain holds a general election on Sunday, and housing has been the biggest issue of the campaign.",
+            "Property prices and rents soared by more than 80% between 2015 and 2025 while wages did not keep up, and the Bank of Spain estimates the country needs 700,000 more homes.",
+            "Prime Minister Pedro Sánchez called the snap election eight months early after parliament rejected planned changes to the housing laws, following nationwide protests.",
+            "In the final TV debate, the conservative leader Alberto Núñez Feijóo promised to build a million new homes, while Sánchez pointed to emergency measures to protect tenants and cap rents.",
+            "Polls suggest Feijóo's People's Party is narrowly ahead, but it would probably need the far-right Vox party to govern.",
+            "If Vox shares power, it would be the first time the far right has done so in Spain since the dictatorship of Francisco Franco."
+          ],
+          "normal_ko": [
+            "스페인은 일요일 총선을 치르며, 선거 운동에서 가장 큰 쟁점은 주거 문제입니다.",
+            "집값과 월세는 2015년부터 2025년 사이 80% 넘게 치솟았지만 임금은 따라가지 못했고, 스페인은행은 주택이 70만 채 더 필요하다고 추정합니다.",
+            "페드로 산체스 총리는 전국적인 시위가 이어진 뒤 의회가 주택법 개정안을 부결시키자 예정보다 여덟 달 일찍 조기 총선을 소집했습니다.",
+            "마지막 TV 토론에서 보수 야당 대표 알베르토 누녜스 페이호는 새 주택 100만 채 건설을 약속했고, 산체스는 세입자 보호와 월세 상한을 위한 긴급 조치를 내세웠습니다.",
+            "여론조사에서는 페이호의 국민당이 근소하게 앞서지만, 정부를 꾸리려면 극우 정당 복스(Vox)가 필요할 가능성이 큽니다.",
+            "복스가 권력을 나눠 가진다면, 프랑코 독재 이후 스페인에서 극우가 그렇게 하는 첫 사례가 됩니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        },
+        "fr": {
+          "easy": [
+            "L'Espagne vote dimanche.",
+            "Le coût du logement est le grand sujet.",
+            "Beaucoup de jeunes ne peuvent pas se loger."
+          ],
+          "normal": [
+            "L'Espagne organise des élections législatives dimanche, et le logement est le principal sujet de la campagne.",
+            "Les prix de l'immobilier et des loyers ont flambé de plus de 80 % entre 2015 et 2025, alors que les salaires n'ont pas suivi, et la Banque d'Espagne estime qu'il faut 700 000 logements de plus.",
+            "Le Premier ministre Pedro Sánchez a convoqué ces élections anticipées huit mois plus tôt, après le rejet par le Parlement de changements prévus des lois sur le logement, à la suite de manifestations dans tout le pays.",
+            "Lors du dernier débat télévisé, le chef de la droite Alberto Núñez Feijóo a promis de construire un million de logements neufs, tandis que Sánchez a cité des mesures d'urgence pour protéger les locataires et plafonner les loyers.",
+            "Les sondages donnent le Parti populaire de Feijóo de justesse en tête, mais il aurait probablement besoin du parti d'extrême droite Vox pour gouverner.",
+            "Si Vox partage le pouvoir, ce serait la première fois que l'extrême droite le fait en Espagne depuis la dictature de Francisco Franco."
+          ],
+          "normal_ko": [
+            "스페인은 일요일 총선을 치르며, 선거 운동에서 가장 큰 쟁점은 주거 문제입니다.",
+            "집값과 월세는 2015년부터 2025년 사이 80% 넘게 치솟았지만 임금은 따라가지 못했고, 스페인은행은 주택이 70만 채 더 필요하다고 추정합니다.",
+            "페드로 산체스 총리는 전국적인 시위가 이어진 뒤 의회가 주택법 개정안을 부결시키자 예정보다 여덟 달 일찍 조기 총선을 소집했습니다.",
+            "마지막 TV 토론에서 보수 야당 대표 알베르토 누녜스 페이호는 새 주택 100만 채 건설을 약속했고, 산체스는 세입자 보호와 월세 상한을 위한 긴급 조치를 내세웠습니다.",
+            "여론조사에서는 페이호의 국민당이 근소하게 앞서지만, 정부를 꾸리려면 극우 정당 복스(Vox)가 필요할 가능성이 큽니다.",
+            "복스가 권력을 나눠 가진다면, 프랑코 독재 이후 스페인에서 극우가 그렇게 하는 첫 사례가 됩니다."
+          ],
+          "normal_paras": [
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "ko_note": "스페인은 집값과 월세가 급등해 젊은 층이 독립하기 어렵다는 불만이 커졌고, 거리 시위와 11월 11일 총파업(노조 추산 400만 명 참여)까지 이어졌어요. 이번 총선은 이런 시위 뒤 주택법 개정안이 의회에서 부결되자 산체스 총리가 앞당겨 소집한 것입니다. 여론조사 결과는 선거 결과가 아니니 실제 결과는 개표 뒤에 확인해야 해요. 정당별 약속은 각 후보가 토론에서 한 말입니다. 본문은 BBC를 읽었고 France 24는 제목으로 맞춰 봤어요.",
+      "vocab": [
+        {
+          "lang": "en",
+          "word": "general election",
+          "pos": "noun",
+          "ko": "총선",
+          "example": "Spain holds a general election on Sunday.",
+          "example_ko": "스페인은 일요일에 총선을 치러요.",
+          "note_ko": "미국은 보통 presidential election(대선). 영국·스페인은 general election."
+        },
+        {
+          "lang": "en",
+          "word": "housing",
+          "pos": "noun",
+          "ko": "주거, 주택",
+          "example": "Housing is the main issue.",
+          "example_ko": "주거가 가장 큰 쟁점이에요.",
+          "note_ko": "housing crisis = 주거난. affordable housing = 감당 가능한 가격의 주택."
+        },
+        {
+          "lang": "en",
+          "word": "soar",
+          "pos": "verb",
+          "ko": "치솟다",
+          "example": "Rents have soared.",
+          "example_ko": "월세가 치솟았어요.",
+          "note_ko": "soar-soared-soared. 반대는 plunge(급락하다)."
+        },
+        {
+          "lang": "en",
+          "word": "wage",
+          "pos": "noun",
+          "ko": "임금, 급여",
+          "example": "Wages did not rise.",
+          "example_ko": "임금은 오르지 않았어요.",
+          "note_ko": "wage는 시간·주 단위, salary는 월·연 단위 느낌."
+        },
+        {
+          "lang": "en",
+          "word": "keep up",
+          "pos": "phrasal verb",
+          "ko": "따라가다, 뒤처지지 않다",
+          "example": "Wages did not keep up with prices.",
+          "example_ko": "임금이 물가를 따라가지 못했어요.",
+          "note_ko": "keep up with + 대상. 비슷한 말 keep pace with."
+        },
+        {
+          "lang": "en",
+          "word": "snap election",
+          "pos": "noun",
+          "ko": "조기 총선(갑자기 소집한)",
+          "example": "The prime minister called a snap election.",
+          "example_ko": "총리가 조기 총선을 소집했어요.",
+          "note_ko": "snap = 갑작스러운. call a snap election."
+        },
+        {
+          "lang": "en",
+          "word": "reject",
+          "pos": "verb",
+          "ko": "부결시키다, 거부하다",
+          "example": "Parliament rejected the plan.",
+          "example_ko": "의회가 그 계획을 부결시켰어요.",
+          "note_ko": "반대는 approve/accept. 명사 rejection."
+        },
+        {
+          "lang": "en",
+          "word": "tenant",
+          "pos": "noun",
+          "ko": "세입자",
+          "example": "Tenants need protection.",
+          "example_ko": "세입자는 보호가 필요해요.",
+          "note_ko": "집주인은 landlord. 임차하다 = rent."
+        },
+        {
+          "lang": "en",
+          "word": "cap",
+          "pos": "verb",
+          "ko": "상한을 두다",
+          "example": "They want to cap rents.",
+          "example_ko": "그들은 월세에 상한을 두고 싶어 해요.",
+          "note_ko": "명사 cap = 상한(모자도). price cap = 가격 상한."
+        },
+        {
+          "lang": "en",
+          "word": "poll",
+          "pos": "noun",
+          "ko": "여론조사",
+          "example": "Polls show a close race.",
+          "example_ko": "여론조사는 접전을 보여 줘요.",
+          "note_ko": "opinion poll. go to the polls = 투표하러 가다."
+        },
+        {
+          "lang": "en",
+          "word": "narrowly",
+          "pos": "adverb",
+          "ko": "근소하게, 간신히",
+          "example": "The party is narrowly ahead.",
+          "example_ko": "그 정당이 근소하게 앞서요.",
+          "note_ko": "narrow(좁은). narrowly win/miss = 간신히 이기다/놓치다."
+        },
+        {
+          "lang": "en",
+          "word": "far right",
+          "pos": "noun",
+          "ko": "극우",
+          "example": "The far right is gaining ground.",
+          "example_ko": "극우가 세를 넓히고 있어요.",
+          "note_ko": "반대는 far left. far-right party처럼 하이픈으로 형용사로도."
+        },
+        {
+          "lang": "en",
+          "word": "dictatorship",
+          "pos": "noun",
+          "ko": "독재(정권)",
+          "example": "Spain was a dictatorship for decades.",
+          "example_ko": "스페인은 수십 년간 독재 국가였어요.",
+          "note_ko": "dictator(독재자). 반대 개념 democracy."
+        },
+        {
+          "lang": "fr",
+          "word": "les élections législatives",
+          "pos": "nom féminin pluriel",
+          "ko": "총선(의회 선거)",
+          "example": "Les élections législatives ont lieu dimanche.",
+          "example_ko": "총선이 일요일에 열려요.",
+          "note_ko": "프랑스어로 총선은 législatives, 대선은 la présidentielle."
+        },
+        {
+          "lang": "fr",
+          "word": "le logement",
+          "pos": "nom masculin",
+          "ko": "주거, 주택",
+          "example": "Le logement est le sujet principal.",
+          "example_ko": "주거가 가장 큰 쟁점이에요.",
+          "note_ko": "la crise du logement = 주거난. se loger = 거처를 구하다."
+        },
+        {
+          "lang": "fr",
+          "word": "flamber",
+          "pos": "verbe",
+          "ko": "치솟다",
+          "example": "Les loyers ont flambé.",
+          "example_ko": "월세가 치솟았어요.",
+          "note_ko": "원래 '활활 타다'. 가격에 flamber를 자주 써요."
+        },
+        {
+          "lang": "fr",
+          "word": "un salaire",
+          "pos": "nom masculin",
+          "ko": "임금, 급여",
+          "example": "Les salaires n'ont pas suivi.",
+          "example_ko": "임금이 따라가지 못했어요.",
+          "note_ko": "le salaire minimum = 최저임금. 비슷한 말 la paie."
+        },
+        {
+          "lang": "fr",
+          "word": "suivre",
+          "pos": "verbe",
+          "ko": "따라가다",
+          "example": "Les salaires n'ont pas suivi les prix.",
+          "example_ko": "임금이 물가를 따라가지 못했어요.",
+          "note_ko": "suivre le rythme = 보조를 맞추다. 'suivre un cours'는 강의를 듣다."
+        },
+        {
+          "lang": "fr",
+          "word": "anticipé",
+          "pos": "adjectif",
+          "ko": "조기의, 앞당겨진",
+          "example": "Des élections anticipées.",
+          "example_ko": "조기 선거예요.",
+          "note_ko": "여성형 anticipée. anticiper = 앞당기다."
+        },
+        {
+          "lang": "fr",
+          "word": "rejeter",
+          "pos": "verbe",
+          "ko": "부결시키다, 거부하다",
+          "example": "Le Parlement a rejeté le texte.",
+          "example_ko": "의회가 그 법안을 부결시켰어요.",
+          "note_ko": "반대는 adopter. 명사 le rejet."
+        },
+        {
+          "lang": "fr",
+          "word": "un locataire",
+          "pos": "nom masculin",
+          "ko": "세입자",
+          "example": "Protéger les locataires.",
+          "example_ko": "세입자를 보호해요.",
+          "note_ko": "집주인은 un propriétaire. 여성형 une locataire."
+        },
+        {
+          "lang": "fr",
+          "word": "plafonner",
+          "pos": "verbe",
+          "ko": "상한을 두다",
+          "example": "Plafonner les loyers.",
+          "example_ko": "월세에 상한을 둬요.",
+          "note_ko": "un plafond = 천장·상한. le plafonnement des loyers."
+        },
+        {
+          "lang": "fr",
+          "word": "un sondage",
+          "pos": "nom masculin",
+          "ko": "여론조사",
+          "example": "Selon les sondages, la droite est en tête.",
+          "example_ko": "여론조사로는 우파가 앞서요.",
+          "note_ko": "sonder = 조사하다. un sondage d'opinion."
+        },
+        {
+          "lang": "fr",
+          "word": "de justesse",
+          "pos": "locution",
+          "ko": "간신히, 근소하게",
+          "example": "Elle gagne de justesse.",
+          "example_ko": "그녀가 간신히 이겨요.",
+          "note_ko": "la justesse = 정확함. 이 표현으로는 '아슬아슬하게'."
+        },
+        {
+          "lang": "fr",
+          "word": "l'extrême droite",
+          "pos": "nom féminin",
+          "ko": "극우",
+          "example": "L'extrême droite progresse.",
+          "example_ko": "극우가 세를 넓혀요.",
+          "note_ko": "반대는 l'extrême gauche. 형용사 d'extrême droite."
+        },
+        {
+          "lang": "fr",
+          "word": "une dictature",
+          "pos": "nom féminin",
+          "ko": "독재(정권)",
+          "example": "La dictature de Franco.",
+          "example_ko": "프랑코의 독재예요.",
+          "note_ko": "un dictateur = 독재자. 반대는 une démocratie."
+        }
+      ],
+      "quiz": [
+        {
+          "lang": "en",
+          "q": "If rents 'soar', they…",
+          "choices": [
+            "rise very quickly",
+            "fall slowly",
+            "stay the same"
+          ],
+          "answer": 0,
+          "explain_ko": "soar = 급격히 치솟다."
+        },
+        {
+          "lang": "fr",
+          "q": "Si les loyers « flambent », ils…",
+          "choices": [
+            "augmentent très vite",
+            "baissent lentement",
+            "restent stables"
+          ],
+          "answer": 0,
+          "explain_ko": "flamber = 가격이 치솟다."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC News (debate)",
+          "url": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o",
+          "accessed": "2026-11-28"
+        },
+        {
+          "name": "BBC News (what you need to know)",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo",
+          "accessed": "2026-11-28"
+        },
+        {
+          "name": "France 24 (headline only)",
+          "url": "https://www.france24.com/en/europe/20261127-sanchez-makes-last-bid-to-beat-the-right-ahead-of-spanish-vote",
+          "accessed": "2026-11-28"
+        }
+      ],
+      "ai_assisted": true,
+      "reviewed_at": "2026-11-28",
+      "audio": {
+        "en": {
+          "easy": [
+            "2026-11-27/dd593907af6b1863.mp3",
+            "2026-11-27/47291f077e5b6d20.mp3",
+            "2026-11-27/2aea696dd5eead70.mp3"
+          ],
+          "normal": [
+            "2026-11-27/f4a6e999f7386dc8.mp3",
+            "2026-11-27/acb8d81eada57214.mp3",
+            "2026-11-27/8c88786b924258e4.mp3",
+            "2026-11-27/25e22d966036eaee.mp3",
+            "2026-11-27/8577bc41c4acddd1.mp3",
+            "2026-11-27/07aeb611a132199c.mp3"
+          ]
+        },
+        "fr": {
+          "easy": [
+            "2026-11-27/d1bbb29a978773d2.mp3",
+            "2026-11-27/11c0e7208e93e918.mp3",
+            "2026-11-27/be6775d8e056de88.mp3"
+          ],
+          "normal": [
+            "2026-11-27/bf9aeb5da76c5bff.mp3",
+            "2026-11-27/c0b7b9d524320df6.mp3",
+            "2026-11-27/adc7486717abd12a.mp3",
+            "2026-11-27/a7b8a3b22219f7da.mp3",
+            "2026-11-27/3ea843d37ddec77a.mp3",
+            "2026-11-27/12a99dff8d32f7b4.mp3"
+          ]
+        },
+        "vocab": [
+          "2026-11-27/04db4c69fae6b5d2.mp3",
+          "2026-11-27/737f309bcb9562fc.mp3",
+          "2026-11-27/6690ed3e7b7f7541.mp3",
+          "2026-11-27/298193de2ce23575.mp3",
+          "2026-11-27/8a4d6295f5e172ef.mp3",
+          "2026-11-27/11b204ea417e5ae4.mp3",
+          "2026-11-27/431c428665c7b2a7.mp3",
+          "2026-11-27/4034ef20f0e60c3b.mp3",
+          "2026-11-27/77685c6a04b27263.mp3",
+          "2026-11-27/6caacf9e0257a74d.mp3",
+          "2026-11-27/38e376b2a7f1c569.mp3",
+          "2026-11-27/f3c2f6c52d53edf2.mp3",
+          "2026-11-27/dd2c47198a014cb5.mp3",
+          "2026-11-27/c37c6aaee1a920df.mp3",
+          "2026-11-27/18f010dc61aafc84.mp3",
+          "2026-11-27/4d0d3e26695dcf8c.mp3",
+          "2026-11-27/770cf488aa83e399.mp3",
+          "2026-11-27/971656e82fa37bf8.mp3",
+          "2026-11-27/67f7181a24a20469.mp3",
+          "2026-11-27/0732a4592ae8ad25.mp3",
+          "2026-11-27/85433261f170ba7a.mp3",
+          "2026-11-27/555649c195678cb8.mp3",
+          "2026-11-27/3a83a764cdedcf30.mp3",
+          "2026-11-27/3f78c2a0e6c0007b.mp3",
+          "2026-11-27/a11f9fdd0df0d251.mp3",
+          "2026-11-27/b095f757a34d4ea7.mp3"
+        ]
+      },
+      "timing": {
+        "en": {
+          "easy": [
+            [
+              0.33,
+              0.442,
+              0.553,
+              0.665
+            ],
+            [
+              0.096,
+              0.322,
+              0.435,
+              0.548,
+              0.661,
+              0.774
+            ],
+            [
+              0.159,
+              0.307,
+              0.38,
+              0.454,
+              0.602,
+              0.75,
+              0.824
+            ]
+          ],
+          "normal": [
+            [
+              0.098,
+              0.129,
+              0.16,
+              0.191,
+              0.285,
+              0.378,
+              0.409,
+              0.534,
+              0.562,
+              0.618,
+              0.646,
+              0.674,
+              0.703,
+              0.759,
+              0.815,
+              0.843,
+              0.871
+            ],
+            [
+              0.029,
+              0.078,
+              0.094,
+              0.111,
+              0.127,
+              0.143,
+              0.16,
+              0.176,
+              0.192,
+              0.225,
+              0.258,
+              0.307,
+              0.323,
+              0.372,
+              0.388,
+              0.405,
+              0.421,
+              0.437,
+              0.454,
+              0.502,
+              0.529,
+              0.555,
+              0.581,
+              0.607,
+              0.634,
+              0.713,
+              0.739,
+              0.791,
+              0.818,
+              0.923,
+              0.949
+            ],
+            [
+              0.029,
+              0.053,
+              0.124,
+              0.171,
+              0.195,
+              0.219,
+              0.242,
+              0.266,
+              0.337,
+              0.361,
+              0.385,
+              0.432,
+              0.48,
+              0.551,
+              0.598,
+              0.622,
+              0.646,
+              0.669,
+              0.693,
+              0.74,
+              0.821,
+              0.878,
+              0.936
+            ],
+            [
+              0.04,
+              0.055,
+              0.07,
+              0.1,
+              0.115,
+              0.184,
+              0.202,
+              0.276,
+              0.313,
+              0.368,
+              0.386,
+              0.423,
+              0.46,
+              0.479,
+              0.497,
+              0.515,
+              0.552,
+              0.571,
+              0.625,
+              0.644,
+              0.663,
+              0.682,
+              0.701,
+              0.776,
+              0.814,
+              0.833,
+              0.871,
+              0.909,
+              0.928,
+              0.947
+            ],
+            [
+              0.062,
+              0.092,
+              0.153,
+              0.214,
+              0.245,
+              0.306,
+              0.336,
+              0.427,
+              0.57,
+              0.594,
+              0.618,
+              0.642,
+              0.713,
+              0.737,
+              0.761,
+              0.809,
+              0.833,
+              0.881,
+              0.905
+            ],
+            [
+              0.047,
+              0.082,
+              0.116,
+              0.151,
+              0.285,
+              0.311,
+              0.338,
+              0.364,
+              0.39,
+              0.416,
+              0.443,
+              0.469,
+              0.495,
+              0.521,
+              0.548,
+              0.574,
+              0.6,
+              0.626,
+              0.653,
+              0.679,
+              0.705,
+              0.81,
+              0.836,
+              0.915
+            ]
+          ]
+        },
+        "fr": {
+          "easy": [
+            [
+              0.27,
+              0.51,
+              0.63
+            ],
+            [
+              0.159,
+              0.236,
+              0.313,
+              0.391,
+              0.545,
+              0.623,
+              0.7,
+              0.777
+            ],
+            [
+              0.155,
+              0.324,
+              0.408,
+              0.493,
+              0.577,
+              0.662,
+              0.746,
+              0.831
+            ]
+          ],
+          "normal": [
+            [
+              0.076,
+              0.134,
+              0.22,
+              0.249,
+              0.335,
+              0.451,
+              0.562,
+              0.586,
+              0.61,
+              0.659,
+              0.683,
+              0.707,
+              0.78,
+              0.828,
+              0.853,
+              0.877
+            ],
+            [
+              0.033,
+              0.051,
+              0.069,
+              0.086,
+              0.158,
+              0.176,
+              0.194,
+              0.211,
+              0.229,
+              0.265,
+              0.283,
+              0.301,
+              0.319,
+              0.354,
+              0.372,
+              0.39,
+              0.444,
+              0.462,
+              0.544,
+              0.57,
+              0.583,
+              0.596,
+              0.622,
+              0.635,
+              0.648,
+              0.713,
+              0.727,
+              0.741,
+              0.769,
+              0.797,
+              0.825,
+              0.839,
+              0.853,
+              0.881,
+              0.909,
+              0.951,
+              0.965
+            ],
+            [
+              0.047,
+              0.063,
+              0.095,
+              0.127,
+              0.159,
+              0.175,
+              0.191,
+              0.239,
+              0.255,
+              0.303,
+              0.367,
+              0.383,
+              0.399,
+              0.415,
+              0.466,
+              0.495,
+              0.509,
+              0.538,
+              0.553,
+              0.567,
+              0.596,
+              0.611,
+              0.654,
+              0.683,
+              0.697,
+              0.712,
+              0.726,
+              0.741,
+              0.805,
+              0.818,
+              0.832,
+              0.846,
+              0.86,
+              0.929,
+              0.943,
+              0.956,
+              0.97
+            ],
+            [
+              0.039,
+              0.051,
+              0.064,
+              0.09,
+              0.115,
+              0.197,
+              0.21,
+              0.224,
+              0.237,
+              0.251,
+              0.264,
+              0.304,
+              0.318,
+              0.345,
+              0.358,
+              0.385,
+              0.398,
+              0.425,
+              0.438,
+              0.465,
+              0.479,
+              0.519,
+              0.569,
+              0.601,
+              0.617,
+              0.633,
+              0.649,
+              0.68,
+              0.696,
+              0.728,
+              0.76,
+              0.776,
+              0.824,
+              0.839,
+              0.887,
+              0.903,
+              0.951,
+              0.967
+            ],
+            [
+              0.064,
+              0.086,
+              0.13,
+              0.153,
+              0.175,
+              0.219,
+              0.286,
+              0.308,
+              0.352,
+              0.374,
+              0.419,
+              0.441,
+              0.522,
+              0.544,
+              0.567,
+              0.612,
+              0.68,
+              0.725,
+              0.747,
+              0.792,
+              0.837,
+              0.86,
+              0.882,
+              0.905
+            ],
+            [
+              0.085,
+              0.113,
+              0.141,
+              0.197,
+              0.225,
+              0.319,
+              0.34,
+              0.382,
+              0.403,
+              0.446,
+              0.467,
+              0.488,
+              0.53,
+              0.552,
+              0.573,
+              0.594,
+              0.615,
+              0.657,
+              0.7,
+              0.721,
+              0.785,
+              0.806,
+              0.869
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "audio_base": "https://koreapapa-kim.github.io/worldnews-audio"
+}

@@ -2,6 +2,44 @@
   "schema": 1,
   "days": [
     {
+      "date": "2026-11-27",
+      "count": 4,
+      "headlines": [
+        {
+          "id": "2026-11-27-01",
+          "ko": "캐나다 대법원, 퀘벡의 공무원 종교 상징 착용 금지법을 대체로 인정",
+          "en": "Canada's Supreme Court Largely Upholds Quebec's Ban on Religious Symbols for Public Servants",
+          "fr": "La Cour suprême du Canada valide en grande partie l'interdiction des signes religieux au Québec",
+          "category": "politics",
+          "country": "CA"
+        },
+        {
+          "id": "2026-11-27-02",
+          "ko": "영국 노동연금부 '사이버 사고'…연금·수당 온라인 시스템 대부분 중단",
+          "en": "UK Pensions Department Hit by 'Cyber Incident' as Almost All Online Systems Go Offline",
+          "fr": "Royaume-Uni : un « cyberincident » met hors ligne presque tous les services du ministère du Travail",
+          "category": "technology",
+          "country": "GB"
+        },
+        {
+          "id": "2026-11-27-03",
+          "ko": "프랑스, 두 분기 연속 GDP 감소로 경기침체 진입",
+          "en": "France Enters Recession as GDP Shrinks for a Second Quarter in a Row",
+          "fr": "La France entre en récession, le PIB continue de reculer",
+          "category": "economy",
+          "country": "FR"
+        },
+        {
+          "id": "2026-11-27-04",
+          "ko": "스페인 일요일 총선…주거난이 선거 최대 쟁점",
+          "en": "Spain Votes Sunday as the Housing Crisis Dominates the Election Campaign",
+          "fr": "Espagne : élections dimanche, la crise du logement domine la campagne",
+          "category": "politics",
+          "country": "ES"
+        }
+      ]
+    },
+    {
       "date": "2026-11-26",
       "count": 4,
       "headlines": [
@@ -1168,6 +1206,6 @@
       ]
     }
   ],
-  "latest": "2026-11-26",
-  "updated_at": "2026-11-26T16:15:37.336Z"
+  "latest": "2026-11-27",
+  "updated_at": "2026-11-27T15:57:41.525Z"
 }
